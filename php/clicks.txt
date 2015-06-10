@@ -137,7 +137,7 @@
 1	http://www.ctan.org/tex-archive/macros/latex/required/babel/
 1	http://svnbook.red-bean.com/nightly/en/svn.reposadmin.html
 1	http://www.lifeaftercoffee.com/2006/02/27/getting-hardware-information-in-solaris/
-3	http://lessordinary.wikidot.com
+3	http://maierandi.wikidot.com
 1	http://academ.hvcc.edu/~kantopet/index.php
 1	usefulthings/tic2vone.pdf
 1	http://www.rz.uni-bayreuth.de/lehre/fortran90/

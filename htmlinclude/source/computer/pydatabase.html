@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Andis Homepage/Python: Connecting to databases</title>
+
+</head>
+<body>
+
+<h5>Python: Connecting to databases</h5>
+<p>Here I collect some information on how to connect to different kind of databases using
+python.</p>
+
+<h6>Exist database</h6>
+<p>
+<a href="http://en.wikipedia.org/wiki/EXist">eXist</a> is an open source database management system entirely built on XML technology (a so called <a href="http://en.wikipedia.org/wiki/XML_database#Native_XML_databases">native XML database</a>) . 
+<p/>. 
+<p>I found it the easiest way to connect to the eXist database via Python using the 
+<a href="http://en.wikipedia.org/wiki/XML-RPC">XML-RPC</a> interface. Unfortunately the 
+<a href="http://exist.sourceforge.net/devguide_xmlrpc.html">documentation</a> only describes how to connect via XML-RPC
+using Java or Perl. So in the following I describe the Python way:</p>
+<p>First there is a useful 
+<a href="http://exist.sourceforge.net/api/org/exist/xmlrpc/RpcAPI.html">list of all available methods</a> 
+of the XML-RPC interface of eXist. The methods description is written for Java. However the method names and
+arguments can be used the same way for Python, if you substitute <em>HashMap</em> with <em>Dictonary</em>.
+So if a method expects a HashMap as argument you have to insert a Python dictionary instead
+(often an empty one <tt>{}</tt> will do). So lets see how this works.
+
+
+
+
+<pre>
+# global parameters for the database db
+db = xmlrpclib.ServerProxy("http://dbuser:dbpass@hostname:8080/exist/xmlrpc")
+collection="/db/test"	
+xpath=u"distinct-values(for $x in //Project/Budget/Amount return concat($x/../../System/GroupName,\",\",$x/../../Name,\",\",$x))"
+
+result=db.executeQuery(xpath,{})
+hits=db.getHits(result)
+print hits
+results=[]
+for i in xrange(hits):
+	res=db.retrieve(result,i,{})
+	results.append(str(res).split(","))
+	
+#print results
+
+groupnames = [result[0] for result in results] 
+
+#print groupnames
+
+#results = db.retrieveAll(result,{"indent":"yes"})
+
+
+</pre>
+	
+
+
+
+
+
+<p>When I tried to sort words with german umlauts with Python I recognized, 
+that the <tt>sorted()</tt>-function sorts german words with umlauts in 
+the wrong way (Note: The correct order is already given by the list words!):</p>
+<pre>
+>>> words=[u"aber",u"All",u"Ärger",u"ärgerlich",u"tränen",u"Tränen",u"Zauber",u"zum"]
+>>> print sorted(words)
+[u'All', u'Tr\xe4nen', u'Zauber', u'aber', u'tr\xe4nen', u'zum', u'\xc4rger', u'\xe4rgerlich']
+</pre>
+<p>So the umlauts are sorted to the end of the list, which is wrong according to 
+<a href="http://de.wikipedia.org/wiki/Alphabetische_Sortierung">DIN 5007</a>,
+and lowercase words are sorted after uppercase words, which is also wrong 
+(have a look into your DUDEN, if you don't believe it ;-) ). 
+First i tried to solve this using functions of the module <tt>locale</tt>
+like</p>
+<pre>
+>>> import locale
+>>> locale.setlocale(locale.LC_ALL, "")
+'de_DE.UTF-8'
+>>> print sorted(words, key=locale.strxfrm)
+Traceback (most recent call last):
+  File "&lt;stdin&gt;", line 1, in &lt;module&gt;
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc4' in position 0: ordinal not in range(128)
+</pre>
+<p>So <tt>locale.strxfrm</tt> doesn't seem to support Unicode, but i could fix it using</p>
+<pre>
+>>> import sys
+>>> sys.setdefaultencoding("utf_8")
+Traceback (most recent call last):
+  File "&lt;stdin&gt;", line 1, in &lt;module&gt;
+AttributeError: 'module' object has no attribute 'setdefaultencoding'
+</pre>
+<p>Another annoying problem in Python, but one can circumvent it by</p> 
+<pre>
+>>> reload(sys)
+&lt;module 'sys' (built-in)&gt;
+>>> sys.setdefaultencoding("utf_8")
+>>> print sorted(words, key=locale.strxfrm)
+[u'All', u'Tr\xe4nen', u'Zauber', u'aber', u'tr\xe4nen', u'zum', u'\xc4rger', u'\xe4rgerlich']
+</pre>
+<p>So nothing has changed! But this was only the case, when i used Python on 
+MAC OS X 10.5. Using Python installed in a german Windows enviroment yielded the
+right result. So dependent on your OS and your Python enviroment
+one gets different results, when sorting german words when using <tt>locale</tt>.
+This is stupid!</p>
+<p> So i started to write my own function for sorting words in the correct way 
+independed of any OS and localization setting and finally came up with this:</p>
+<pre>
+# -*- coding: utf-8 -*-
+
+def din5007(input):
+	""" This function implements sort keys for the german language according to 
+	DIN 5007."""
+	
+	# key1: compare words lowercase and replace umlauts according to DIN 5007
+	key1=input.lower()
+	key1=key1.replace(u"ä", u"a")
+	key1=key1.replace(u"ö", u"o")
+	key1=key1.replace(u"ü", u"u")
+	key1=key1.replace(u"ß", u"ss")
+	
+	# key2: sort the lowercase word before the uppercase word and sort
+	# the word with umlaut after the word without umlaut
+	key2=input.swapcase()
+	
+	# in case two words are the same according to key1, sort the words
+	# according to key2. 
+	return (key1, key2)
+	
+words=[u"All", u"Tränen", u"Zauber", u"aber", u"tränen", u"zum", u"\Ärger", u"ärgerlich"]
+
+print sorted(words, key=din5007)
+</pre>
+<p>The result of this routine is</p>
+<pre>
+[u'aber', u'All', u'\xc4rger', u'\xe4rgerlich', u'tr\xe4nen', u'Tr\xe4nen', u'Zauber', u'zum']
+</pre>
+<p>Note that the function returns a tuple of two keys, where the second one is only 
+used if according to the first key the two words are the same. This is a feature
+of Python that is not wildely known (it is not mentioned in
+the <a href="http://docs.python.org/lib/typesseq-mutable.html">Documentation</a> 
+or the <a href="http://wiki.python.org/moin/HowTo/Sorting">HowToSorting</a>),
+although it is very useful.</p>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+﻿div.tooltip {
+	color: black;
+	position: absolute;
+	background-color: #FFFFFF;
+	border-width: 1px ;
+	border-style: solid;
+	padding: 3px;
+	line-height:100%;
+	display: none;
+	z-index: 999;
+}

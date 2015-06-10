@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">    
+
+<head>
+
+</head>
+
+<body>
+
+Nützliche Tipps, Tricks und Hinweise zu dem kostenlosen Betriebsystem
+die ich über die Jahre (meist unter Suse 9.x mit KDE 3.x) so gesammelt habe.
+
+<h5>Die Kommandozeile (bzw. die Shell oder das Terminal)</h5>
+<p>Einen gute und schnellen Überblick über die Kommandozeile gibt es in der
+<a href="http://www.heise.de/ct/99/12/170/">c't 12/99</a>.
+Dieser Artikel sei jedem als Ergänzung zu den folgenden Tipps
+empfohlen:</p>
+ 
+<ul>
+<li><em>Einen Prozess im Hintergrund starten, so dass er auch beim Schließen 
+der Kommandozeile weiterläuft:</em>
+<pre>> ./command &</pre>
+Achtung: Beim Schliessen der Kommandozeile per Fenster-Icon wird 
+<tt>command</tt> trotzdem beendet! Nur wenn das Terminal per
+<pre>> exit</pre> beendet wird läuft <tt>command</tt> weiter.</li>
+
+<li><em>Umleiten der Ausgabe von Kommandos von der STDERR(2) in STDOUT(1):</em>
+<pre>> ./command 2>&1 >command.log  </pre>
+Will man die Ausgabe gleichzeitig noch in der Shell sehen, so kann
+muß man die Weiterleitung der Ausgabe mit dem Pipezeichen | 
+mit dem T-Stück "tee" verzweigen:
+<pre>> ./command 2>&1 | tee command.log</pre></li>
+
+<li><em>Einen Prozess so starten, dass er auch nach einem Logout weiterläuft:</em>
+<pre>> nohup command &</pre>
+Dies funktioniert auch mit parallelisierten Programmen, z.B. für ein
+mit MPI parallelisiertes Programm, welches in vier parallelen Prozessen
+laufen soll :
+<pre>> nohup mpirun -np 4 mpicommand 2>&1 > output.log & </pre>
+Aber Achtung: Wenn der Prozess z.B. mit <tt>|</tt> Ausgaben umleitet,
+oder mit <tt>tee</tt> Ausgaben in die
+Kommandozeile schreibt, funktioniert das anscheinend nicht; z.B.
+würde folgender Prozess beim Schließen des Terminals abgebrochen:
+<pre>> nohup command 2>&1 | tee output.log & </pre>
+Siehe auch <a href="http://www.lugbz.org/content/sections/workshops/bash-intro-2003-04-26/slide_nohup.html">
+Pircher 2003</a>.</li>
+
+<li><em>Ausgehend vom aktuellen Verzeichnis alle Dateien mit der Endung "suffix"
+finden:</em>
+<pre>> find . -name "*.suffix"</pre>
+Wichtig sind dabei die Anführungszeichen. Ohne sie kommt es zu seltsamen
+Fehlern, wenn das gesuchte Suchmuster das Jokerzeichen <tt>*</tt> enthält.</li>
+
+<li><em>Suchen eines Begriffes in allen Dateien des aktuellen Verzeichnisses und der
+Unterverzeichnisse:</em>
+<pre>> find -exec grep "Suchbegriff" {} \; -print</pre>
+Gefunden in <a href="http://www.amazon.de/exec/obidos/ASIN/3827321581/ref=ase_michaelkofler/302-7208934-0117615">
+Kofler 2004</a>.
+</li>
+
+<li><em>Nach Größen sortierte Ausgabe aller Dateien und Verzeichnisse im aktuellen
+Verzeichnis:</em>
+<pre>> du --max-depth=1 -all -k | sort -n</pre>
+Dabei steht <tt>--max-depth=1</tt> dafür, dass nur die Unterverzeichnisse
+im aktuellen Verzeichnis aufgelistet werden und nicht auch noch die 
+Unterverzeichnisse in den Unterverzeichnissen. Die Option <tt>-all</tt> steht dafür, 
+dass auch die Größen der Dateien im aktuellen Verzeichnis angezeigt werden und 
+die Option <tt>-n</tt> des <tt>sort</tt>-Befehls sortiert die übergebene Liste
+numerisch.
+Die Option <tt>-k</tt> gibt an,
+dass die Größenangabe in Kibibyte (=1024 Byte) sein soll und ist eine Abkürzung für
+<tt>-B 1K</tt> Die Option <tt>-B 1KB</tt> steht für Kilobyte (=1000Byte) und
+entsprechend steht <tt>-B 1M</tt> für Mebibyte (=1024*1024=1048576 Byte) und
+<tt>-B 1MB</tt> für Megabyte (=1000000 Byte) usw. für G, T, P, E, Z, Y. 
+Zudem wird immer auf die nächstgrößere Zahl gerundet, d.h 4096 Byte entsprechen 4 Kibibyte
+aber aufgerundet sind das 5 Kilobyte. Wen das alles verwirrt, der kann auch <tt>-B 1</tt> setzen 
+und bekommt die Größen in Byte angezeigt oder mehr zum Thema Kibibyte und Mebibyte 
+lesen und zwar beim <a href="http://physics.nist.gov/cuu/Units/binary.html">NIST
+(National Institut of Standards and Technology)</a> oder in der
+<a href="http://en.wikipedia.org/wiki/Binary_prefix">Wikipedia</a>.</li>
+
+<li><em>Befehlsabkürzungen (Aliase):</em><br />
+Für häufig benötigte lange Befehlszeilen schreibt man am besten Abkürzungen,
+sog. Aliase. Diese werden in der Datei <tt>.alias</tt> im Homeverzeichnis angelegt.
+Meine .alias-Datei enthält z.B. folgende Zeile:
+<pre>alias platz="du --max-depth=1 -all -k | sort -n"</pre>
+Durch Eingabe von <tt>platz</tt> kann ich mir damit also immer die Größe aller Dateien
+und Verzeichnisse (s. oben) anzeigen lassen. Durch Eingabe von
+<tt>alias</tt> 
+kann man sich alle (auch global) gesetzten Befehlsabkürzungen anzeigen lassen. 
+Alias-Anweisungen mit Übergabe eines Arguments sind in der Bash-Shell jedoch nicht
+möglich, dafür gibt es Funktionen, welche man in der Datei <tt>.bashrc</tt>
+definieren kann. Um z.B. eine Funktion der Art <tt>such begriff</tt> 
+zu definieren, die alle Dateien (auch die, die ev. in Unterverzeichnissen vom
+aktuellen Verzeichnis aus gesehen liegen) anzeigt, welche "begriff" enthalten, 
+muss man folgende Zeile in die <tt>.bashrc</tt> einfügen:
+<pre>such() { find -exec grep $1 {} \; -print; }</pre>
+Wichtig dabei ist, dass man nach der ersten geschweiften Klammer, bzw. vor der
+letzten geschweifen Klammer immer ein Leerzeichen lassen muß, ansonsten funktioniert
+es nicht. <tt>$1</tt> steht übrigens für das erste übergebene Argument nach dem
+Kommando selbst (s. auch Shellskript-Programmierung weiter unten). Ausführen kann man
+das Suchkommando jetzt mit
+<pre>such test</pre>
+Das Ergebnis sind ist eine Liste aller Dateien auch in den Unterverzeichnissen, 
+welche "test" enthalten. Zusätzlich wird auch die Zeile in der der Begriff vorkommt
+angezeigt.</li>
+
+<li><em>Kommandos zu einem bestimmten Zeitpunkt ausführen lassen:</em><br />
+Mithilfe der <tt>at</tt>-Kommandos kann man Befehle zu einem vorbestimmten
+Zeitpunkt ausführen lassen. Dazu ist es nötig, dass der <tt>atd</tt>-Dienst
+läuft (s. Linux/Administration). Läuft dieser Dienst, kann man, wenn man z.B.
+einen Befehl einen Befehl an einem bestimmten Datum zu einer bestimmten Zeit
+ausführen möchte, folgendes eingeben:
+<pre>> at 05:00 30.08.05</pre>
+Dies würde alle folgenden Befehle um fünf Uhr morgens am 30. August 2005
+starten (Mehr zur Datums- bzw. Zeitsyntax siehe <tt>man at</tt>). Um einen
+Befehl in fünf Minuten auszuführen kann man aber auch folgendes eingeben:
+<pre>> at now +5 minutes</pre>
+Nach Eingabe des <at>-Kommandos erscheint dann immer folgende Eingabezeile:
+<pre>at></pre>
+Hier kann man nun interaktiv einen, bzw. mehrere Befehle hintereinander eingeben,
+welche dann in dieser Reihenfolge zum gegebenen Zeitpunkt gestartet werden. Abschliessend
+muß man die Tastenkombination <tt>Ctrl-d</tt> (Nicht <tt>Ctrl-c</tt>, das beendet
+<tt>at</tt> ohne das es sich die eingegebenen Befehle merkt) drücken. Die Ausgabe
+des Befehls wird dann nach Ausführung als Email an username@computername.domainname
+geschickt (Dies kann man auch ändern, wenn gewünscht). Mit Hilfe von <tt>atq</tt>
+kann man alle anstehenden Jobs (als Superuser sogar alle anstehenden Jobs aller
+Benutzer) ansehen:
+<pre>
+> atq
+	5	2005-08-30	05:00	a	asmaier</pre>
+Dabei steht die erste Zahl für die Jobnummer, darauf folgt das Datum und die
+Uhrzeit zu der der Job ausgeführt werden soll, dann folgt die Angabe der
+Warteschlange (Queue) in der der Befehl steht (Man kann nämlich mehrere Queues
+erzeugen, <tt>a</tt> ist allerdings die Default-Queue) und abschließend der Name 
+des Benutzers der den Job in Auftrag gegeben hat. Will man einen Job wieder löschen
+kann man dies folgendermaßen tun:
+<pre>atrm 5</pre>
+Dabei steht die angegebene Nummer für die unter <tt>atq</tt> angezeigte Jobnummer,
+welche man löschen will. Mehr zur Benutzung von <tt>at</tt> findet man unter anderem in der
+<a href="http://www.linuxfibel.de/weiteres.htm">Linuxfibel</a>.
+</li>
+
+<li><em>Alle laufenden Prozesse anzeigen (BSD Syntax, siehe auch <tt>man ps</tt>):</em>
+<pre>> ps aux</pre>
+Die Option <tt>a</tt> zeigt alle Prozesse auch der anderen Benutzer (und nicht
+nur die Eigenen) an, die Option <tt>x</tt> zeigt zusätzlich alle Prozesse
+an denen kein Terminal zugeordnet ist (z.B. Dienste bzw. Daemons oder 
+X-Server-Prozesse) und die Option <tt>u</tt> zeigt zusätzliche Informationsspalten
+wie die Benutzerkennung unter der der Prozeß läuft, 
+aktueller Speicher- und Rechenzeitverbrauch, Startzeit des
+Prozesses und weitere an. Zusätzlich kann man noch die Option <tt>w</tt> setzen;
+dann wird die Anzeige breiter. Setzt man <tt>w</tt> zweimal, so wird wirklich
+alles angezeigt und auch lange Kommandozeilen für Prozessaufrufe
+nicht abgeschnitten. </li>
+
+<li><em>Anzeige aller Umgebungsvariablen unter Linux:</em>
+<pre>> env</pre></li>
+
+<li><em>Cursorsteuerung:</em><br />
+Um bei langen Befehlszeilen den Cursor an den Anfang springen zu lassen
+drücke man <tt>Ctrl-a</tt>, um wieder ans Ende zu gelangen <tt>Ctrl-e</tt>.</li>
+</ul>
+
+<h5>Shell-Skripte</h5>
+<p>Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte
+nötig:</p>
+<ol>
+<li>Eine Textdatei erzeugen mit Namen
+<pre> dateiname.sh</pre></li>
+
+<li>Die erste Zeile der Textdatei muß lauten:
+<pre>#!/bin/sh</pre>
+Im Anschluss an diese Zeile schreibt man das
+Shell-Skript. 
+Aber Achtung: Bei der Angabe von Dateinamen in Skripten sollte
+man immer den vollen Dateipfad angeben, sonst funktioniert das Skript nicht von
+jedem Verzeichnis aus. Dies ist z.B. nötig, wenn ein Skript als Icon im
+KDE-Panel gestartet werden soll.</li>
+
+<li>Ausführen des Skripts
+	<ul>
+	<li>Ohne Executable-Bit wird das Skript mithilfe des <tt>sh</tt>-Kommandos
+	gestartet:
+	<pre>> sh dateiname.sh</pre></li>
+
+	<li>Man kann ein Skript auch direkt ausführen, wenn man mit
+	<pre>> chmod u+x dateiname.sh</pre>
+	das Skript vorher ausführbar gemacht hat
+	(Mehr zum <tt>chmod</tt>-Befehl gibt es 
+	<a href="http://eva-marbach.net/handbuch/u-chmod.htm">hier</a>.).
+	Danach kann man es direkt starten mittels
+	<pre>> ./dateiname.sh</pre></li>
+	</ul>
+</ol>
+
+<p>Mehr zur Syntax der Shell-Skript-Programmierung gibt es z.B. auf den Seiten der 
+<a href="http://www.chemie.fu-berlin.de/chemnet/general/topics/scripts_sh.html">
+FU Berlin</a>.</p>
+
+<h5>SSH</h5>
+<ul>
+<li><em>SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):</em>
+<pre>> ssh -X -l username computername</pre>
+Die Option <tt>-X</tt> aktiviert dabei das X-Tunneling. Ein kleines <tt>-x</tt>
+würde hingegen X-Tunneling explizit abschalten.</li>
+
+<li><em>Kopieren mit SCP:</em>
+<pre>> scp -r username@computername:pfad .</pre>
+Das erste Argument von <tt>scp</tt> ist immer die Quelldatei (bzw. Verzeichnis), 
+das zweite das Zielverzeichnis (hier <tt>.</tt>, das aktuelle Verzeichnis). Die
+Option <tt>-r</tt> erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese
+Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung.</li>  
+</ul>
+
+<h5>Packen, Entpacken, Archivieren</h5>
+Eine gute Einführung übers Archivieren und Komprimieren gibts in bei
+<a href="http://www.oreilly.de/german/freebooks/rlinux3ger/ch072.html">
+Welsh et al. 2000</a>.
+Ich beschränke mich daher im weiteren auf ein paar eigene Bemerkungen.
+
+<ul>
+<li><em><tt>*.gz</tt>-Dateien entpacken:</em>
+<pre>> gunzip dateiname.gz</pre>
+Achtung: <tt>gunzip</tt> ersetzt die gepackte Datei (dateiname.gz)
+mit der ungepackten Version (dateiname). 
+Achtung2: <tt>gunzip</tt> ist ungeeignet um <tt>*.zip</tt>-Dateien
+zu entpacken. <tt>gunzip</tt> unterstützt nur <tt>*.zip</tt>-Archive,
+die aus genau einer Datei bestehen (siehe auch <tt>man gunzip</tt>).
+Zum Entpacken von <tt>*.zip</tt>-Archiven die aus mehrerer Dateien bestehen
+(was praktisch immer der Fall ist) muß man <tt>unzip</tt> verwenden.</li>
+
+<li><em><tt>*.zip</tt>-Dateien entpacken:</em>
+<pre>> unzip dateiname.zip</pre>
+Dabei werden alle Dateien und Verzeichnisse ins aktuelle Verzeichnis entpackt.
+Um Chaos zu vermeiden empfiehlt es sich daher vor dem Entpacken ein neues
+Verzeichnis <tt>dateiname</tt> anzulegen, die Datei <tt>dateiname.zip</tt>
+in dieses zu verschieben und dort erst zu entpacken. Das gleiche Vorgehen
+empfiehlt sich natürlich auch für <tt>*.tar</tt>-Archive.</li>
+
+<li><em><tt>*.tar.gz</tt>-Dateien entpacken:</em>
+<pre>> tar zxvf dateiname.tar.gz</pre>
+Die obige Schreibweise entspricht der sogennanten BSD-Unix-Schreibweise.
+<tt>tar</tt> unterstützt auch die Standart-Schreibweise. Mit dieser
+würde die obige Befehlszeile folgendermaßen aussehen:
+<pre>> tar -z -x -v -f dateiname.tar.gz</pre> 
+Zu beachten ist, dass die Option <tt>-f</tt> stets die letzte ist, da diese
+den zu entpackenden Dateinamen angibt und daher dieser direkt im Anschluß
+an die Option <tt>-f</tt> stehen muß. Die weiteren Optionen sind:
+<ul>
+<li><tt>-v</tt> (verbose): Damit gibt <tt>tar</tt> Informationen über den
+Entpackprozess an. Kann auch mehrfach angegeben werden, dann gibt <tt>tar</tt>
+immer mehr Informationen an.</li>
+
+<li><tt>-x</tt> (extract): Sagt nur, dass die Datei hinter <tt>-f</tt> entpackt 
+bzw. dearchiviert werden soll.</li>
+
+<li><tt>-z</tt>: Gibt an, dass die Datei hinter <tt>-f</tt> zunächst mit
+<tt>gunzip</tt> entpackt und dann erst weiter mit <tt>tar</tt> dearchiviert werden 
+soll. Dies erspart den Extraaufruf von <tt>gunzip</tt> zum Entpacken der 
+<tt>*.tar.gz</tt>-Datei. Statt <tt>-x</tt> kann man hier übrigens auch andere Optionen
+und damit andere Packprogramme verwenden. Verwendet man <tt>-X</tt> wird 
+<tt>uncompress</tt> (für <tt>*.tar.z</tt>-Dateien) aufgerufen, verwendet man <tt>-j</tt>
+wird <tt>bunzip2</tt> (für <tt>*.tar.bz2</tt>-Dateien) benutzt.</li>
+</ul>
+Hinweis: Auf FAT32-Filesystemen ist zusätzlich die 
+Option <tt>-m</tt> anzugeben, welche das Entpacken der Dateimodifikationszeit
+verhindert, da es ansonsten beim Entpacken zu Fehlermeldungen kommt.
+</li>
+
+<li><em><tt>*.tar.gz</tt>-Dateien packen:</em>
+<pre>> tar zcvf verzeichnis.tar.gz verzeichnis</pre>
+Zu Beachten ist hier, dass 
+(im Gegensatz zu anderen Kommandos wie z.B. <tt>cp</tt> oder <tt>scp</tt>)
+die zu erzeugende Datei (das Ziel) zuerst angegeben
+werden muß und dann erst das zu archivierende Verzeichnis (die Quelle).
+Die Optionen dazu sind die gleichen wie oben beschrieben, nur steht nun
+<tt>-c</tt> dafür, dass <tt>tar</tt> jetzt archivieren soll und <tt>-z</tt>
+steht dafür, dass nach der Archivierung durch <tt>tar</tt> das Archiv noch
+mittels <tt>gzip</tt> komprimiert werden soll. 
+</li>
+
+<li><em>Entpackprozess beobachten:</em><br />
+Hat man beim Aufruf des Entpackprogramms die Verbose-Option vergessen und man möchte
+trotzdem wissen, ob der Entpackprozess vorangeht, kann man dies mit Hilfe von
+<tt>watch</tt> erreichen. Hat man z.B. das Entpacken mehrerer 
+<tt>*.iso.gz</tt>-Dateien mittels <tt>gunzip</tt> gestartet, kann man mittels
+<pre>>watch ls -l *.iso</pre>
+sehen, wie sich die Größe der entpackten Datei (im Abstand von zwei Sekunden,
+da <tt>watch</tt> einfach alle 2 Sekunden den Befehl <tt>ls -l</tt> ausführt)
+mit der Zeit entwickelt.
+Hinweis: <tt>watch ll *.iso</tt> funktioniert nicht, da <tt>watch</tt> 
+anscheinend nicht mit Aliasen umgehen kann.</li>
+</ul>
+
+
+
+<h5>Editoren</h5>
+
+<p> Statt sich unter Linux mit <tt>emacs</tt> oder <tt>vi</tt> rumzuquaelen sollte man lieber mal folgende
+ausprobieren:</p>
+
+<ul>
+<li><a href="http://kate.kde.org/">Kate</a> : Kann alles, braucht aber KDE. Trotzdem mein Favorit!</li>
+<li><a href="http://www.indiana.edu/~ucspubs/b103/">Pico</a> : Superschnell, winzig und läuft im Terminalfenster.
+Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen.</li>
+<li><a href="http://www.nedit.org/">Nedit</a> : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.</li>
+<li><a href="http://fte.sourceforge.net/">FTE</a> : Beherrscht falten (folding), 
+was Nedit leider noch nicht kann. Hat allerdings eine altertümliche Oberfläche.</li>
+</ul>
+
+<p>Um Latex zu editieren empfehle ich <a href="http://kile.sourceforge.net/">Kile</a>.</p>
+<p>P.S.:Die Ergebnisse einer Umfrage zur Beliebtheit von Editoren unter Linux gibts
+<a href="http://www.linuxquestions.org/questions/showthread.php?s=&threadid=272122">hier.</a></p>
+<p>P.P.S.: Unter Windows ist <a href=http://www.textpad.com/>Textpad</a> mein Favorit!</p>
+
+
+</body>
+</html>

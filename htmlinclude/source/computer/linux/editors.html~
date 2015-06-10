@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+</head>
+
+<body>
+
+<h5>Editoren</h5>
+
+<h6>Welchen Editor verwenden ?</h6>
+<p> Statt sich unter Linux mit <tt>emacs</tt> oder <tt>vi</tt> rumzuquaelen sollte man lieber mal folgende
+ausprobieren:</p>
+
+<ul>
+<li><a href="http://kate.kde.org/">Kate</a> : Kann alles, braucht aber KDE. Trotzdem mein Favorit!</li>
+<li><a href="http://www.indiana.edu/~ucspubs/b103/">Pico</a> : Superschnell, winzig und läuft im Terminalfenster.
+Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen.</li>
+<li><a href="http://www.nedit.org/">Nedit</a> : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.</li>
+<li><a href="http://fte.sourceforge.net/">FTE</a> : Beherrscht falten (folding),
+was Nedit leider noch nicht kann. Hat allerdings eine altertümliche Oberfläche.</li>
+</ul>
+
+<p>Um Latex zu editieren empfehle ich <a href="http://kile.sourceforge.net/">Kile</a>.</p>
+<p>P.S.:Die Ergebnisse einer Umfrage zur Beliebtheit von Editoren unter Linux gibts
+<a href="http://www.linuxquestions.org/questions/showthread.php?s=&amp;threadid=272122">hier.</a></p>
+<p>P.P.S.: Unter Windows ist <a href="http://www.textpad.com/">Textpad</a> mein Favorit!</p>
+
+<h6>Tipps zum Nedit</h6>
+<p>Man kann Nedit beibringen eigene Shell-Kommandos per Menü zu starten.
+Dazu muß man den Dialog unter
+<pre>Preferences/Default Settings/Customize Menus/Shell Menu</pre>
+aufrufen. Um z.B. Latex direkt über Nedit zu steuern könnte man
+Befehle für den Aufruf von <tt>latex, bibtex, dvips, kdvi, kghostview </tt>
+folgendermaßen generieren:</p>
+<ol>
+<li><em>latex :</em>
+	<ul>
+	<li>Shell command : <tt>latex %</tt></li>
+	<li>Command output : dialog</li>
+	<li>Save file before executing command</li>
+	</ul></li>
+<li><em>bibtex :</em>
+	<ul>
+	<li>Shell command : <tt>set n=%; bibtex $n:r.aux &amp;</tt></li>
+	<li>Command output : dialog</li>
+	<li>Save file before executing command</li>
+	</ul></li>
+<li><em>dvips :</em>
+	<ul>
+	<li>Shell command : <tt>set n=%; dvips -o $n:r.ps $n:r.dvi &amp;</tt></li>
+	<li>Command output : dialog</li>
+	</ul></li>
+<li><em>kdvi :</em>
+	<ul>
+	<li>Shell command : <tt>set n=%; kdvi $n:r.dvi &amp;</tt></li>
+	<li>Command output : new window</li>
+	</ul></li>
+<li><em>kghostview :</em>
+	<ul>
+	<li>Shell command : <tt>set n=%; kghostview $n:r.ps &amp;</tt></li>
+	<li>Command output : new window</li>
+	</ul></li>
+<li><em>latex complete :</em>
+	<ul>
+	<li>Shell command : <tt>latex %; set n=%; bibtex $n:r.aux; latex %; latex %;</tt></li>
+	</ul>
+	Hierbei ist zu beachten, dass diesmal beim Aufruf des <tt>bibtex</tt>-Befehls kein
+	<tt>&amp;</tt>-Zeichen verwendet werden kann.</li>
+</ol>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index"/>
+
+<link rel="stylesheet" type="text/css" href="design/aquanew3/aquanew3.css" title="newer aqua"/>
+
+<link rel="alternate stylesheet" type="text/css" href="design/aquanew2/aquanew2.css" title="new aqua"/>
+<link rel="alternate stylesheet" type="text/css" href="design/aquaold/aquaold.css" title="old aqua"/>
+
+<script type="text/javascript" src="trackclick.js"></script>
+<script type="text/javascript" src="tooltips.js.php"></script>
+<link rel="stylesheet" type="text/css" href="tooltip.css" />
+
+
+<title>Andis Homepage/Computer</title>
+
+</head>
+
+<body>
+
+<div id="top">
+	<!--table is only necessary for correct centering-->
+	<table class="tabs"><tr><td>
+		<span class="ll">[</span><a class="m" href="index2.html">Start</a><span class="r">]</span>
+		<span class="lactive">[</span><a class="mactive" href="html.html">Computer</a><span class="ractive">]</span>
+		<span class="l">[</span><a class="m" href="physik.html">Physik</a><span class="r">]</span>
+		<span class="l">[</span><a class="m" href="bilder.html">Bilder</a><span class="r">]</span>
+		<span class="l">[</span><a class="m" href="http://asmaier.blogspot.com">Blog</a><span class="r">]</span>
+		<span class="l">[</span><a class="m" href="http://www.onlinebookmarkmanager.de/login/mybookmarks.php?uc=N3hhc21haWVyNTUwMjM3YjhmYmNkZjM3NDFiYjExMjdkMGZjN2Y2YmY=">Bookmarks</a><span class="r">]</span>
+		<span class="l">[</span><a class="m" href="index.html">Kontakt</a><span class="rr">]</span>
+	</td></tr></table>
+</div>
+
+<div id="box">
+<div id="bo">
+<div id="bl">
+<div id="br">
+<div id="bu">
+<div id="blo">
+<div id="bro">
+<div id="blu">
+<div id="bru">
+<div id="content">
+
+<div id="submenu">
+	<!--table is only necessary for correct centering-->
+	<table class="tabs"><tr><td>
+		<span class="l">[</span><a class="m" href="html.html">(X)HTML und CSS</a><span class="r">]</span>
+		<span class="l">[</span><a class="m" href="latex.html">Latex</a><span class="r">]</span>
+		<span class="lactive">[</span><a class="mactive" href="shell.html">Linux</a><span class="ractive">]</span>
+		<span class="l">[</span><a class="m" href="prog.html">Programmieren</a><span class="r">]</span>
+		<span class="l">[</span><a class="m" href="tools.html">Tools</a><span class="r">]</span>
+	</td></tr></table>
+</div>
+
+<div id="subsubmenu">
+	<!--table is only necessary for correct centering-->
+	<table class="tabs"><tr><td>
+
+		<!--IFFILENAME "admin.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"admin.html\">Administration</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"admin.html\">Administration</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "archiv.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"archiv.html\">Archivieren</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"archiv.html\">Archivieren</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "print.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"print.html\">Drucken</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"print.html\">Drucken</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "editors.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"editors.html\">Editoren</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"editors.html\">Editoren</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "kde.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"kde.html\">KDE</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"kde.html\">KDE</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "convert.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"convert.html\">Konvertieren</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"convert.html\">Konvertieren</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "shell.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"shell.html\">Shell</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"shell.html\">Shell</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "scripts.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"scripts.html\">Skripte</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"scripts.html\">Skripte</a><span class=\"r\">]</span>" -->
+
+		<!--IFFILENAME "ssh.html" INSERT "<span class=\"lactive\">[</span><a class=\"mactive\" href=\"ssh.html\">SSH</a><span class=\"ractive\">]</span>" ELSE "<span class=\"l\">[</span><a class=\"m\" href=\"ssh.html\">SSH</a><span class=\"r\">]</span>" -->
+
+	</td></tr></table>
+</div>
+
+
+##CONTENT##
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

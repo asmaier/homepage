@@ -1,0 +1,119 @@
+body {
+     color:#000000;
+     background:#f4f8fb;
+     margin:0px;
+     padding:0px;}
+
+a {
+  color:blue;
+  background:transparent;
+  font-family: arial, verdana, helvetica, sans-serif;}
+
+h1 {
+   color:white;
+   background-color:#0052a4;;
+   font:bold 1.4em arial, verdana, helvetica, sans-serif;
+   font-weight:bold;
+   padding:3px;
+   display:block;
+   text-align:center;
+   border:1px solid black;
+   margin:0;}
+h2 {
+   color:black;
+   background:transparent;
+   font:bold 1em arial, verdana, helvetica, sans-serif;
+   padding:0;
+   margin:0px;
+   margin-bottom:15px;
+   text-align:right;}
+h3 {
+   color:black;
+   background:transparent;
+   font:bold 1.2em arial, verdana, helvetica, sans-serif;
+   padding:8px;
+   margin:0;}
+h4 {
+   color:black;
+   background:transparent;
+   font:bold 1em arial, verdana, helvetica, sans-serif;
+   padding:3px;
+   margin:0;}
+h5 {
+   color:black;
+   background:transparent;
+   font:bold 0.9em arial, verdana, helvetica, sans-serif;
+   margin:0;
+   padding:3px;}
+
+
+table, td, th {
+	      font-family:arial, verdana, helvetica, sans-serif;}
+
+strong {
+       font-weight:bold;}
+
+.bridge {
+	display:none;}
+
+#cabeza {
+	display:none;}
+
+#navegador {
+	   padding:0px;
+	   padding-top:2em;
+	   float:left;}
+#navegador ul {
+	      list-style:none}
+#navegador a .blink {
+		    display:none;}
+#navegador a {
+	     background:transparent;
+	     color:#306bcf;
+	     font-weight:bold;
+	     font-family:arial, verdana, helvetica, sans-serif;
+	     text-decoration:none;}
+#navegador a .on {
+		 color:red;}
+#navegador p {
+	     font-family:verdana, arial,  helvetica, sans-serif;
+	     font-weight:bold;}
+
+#contenido {
+	   margin:0;
+	   font-family:arial, verdana, helvetica, sans-serif;
+	   padding:3em;}
+
+#pie {
+     clear:left;
+     margin:5px;
+     margin-top:10px;
+     text-align:right;}
+
+ul {
+   list-style:circle;}
+
+.table_members {
+	       border:1px solid #888888;
+	       background:#bbd1e8;
+	       margin:10px;
+	       border-spacing:1px;}
+.table_members td {
+		  padding:5px;}
+.table_members p {
+		 padding:0;margin:0;}
+.table_members strong{}
+
+.tabhead{ 
+	color:#ffffff; 
+	font-weight:bold; 
+	background:#0078B3;
+	padding:3px;
+	text-align:center;}
+
+.latin {
+       font-style:italic;}
+address {
+	font-style:normal;
+	margin:1.4em;
+	display:block;}

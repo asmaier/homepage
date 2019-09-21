@@ -27,12 +27,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:andimai_add_web_dot_de'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/asmaier  
+- icon: stack-exchange
+  icon_pack: fab
+  link: https://stackexchange.com/users/59864/asmaier   
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=XpQSfCkAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/asmaier
+
+
+
 superuser: true
 user_groups:
 - Researchers

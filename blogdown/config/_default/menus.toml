@@ -7,31 +7,37 @@
   name = "Home"
   url = "#about"
   weight = 10
+  
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 20  
+  
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 30  
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Blog"
+  url = "http://asmaier.blogspot.de/"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Wiki"
+  url = "http://maierandi.wikidot.com/"
   weight = 60
+
+[[main]]
+  name = "Old Website"
+  url = "https://www.maierandi.com/index2.html"
+  weight = 70  
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

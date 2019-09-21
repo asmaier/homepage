@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Andreas Maier</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Andreas Maier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Correl-O-Mat</title>
+      <link>/project/correlomat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/correlomat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roomfinder</title>
+      <link>/project/roomfinder/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/roomfinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semaeval</title>
+      <link>/project/semaeval/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/semaeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superzon</title>
+      <link>/project/superzon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/superzon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiki2Dict</title>
+      <link>/project/wiki2dict/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wiki2dict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

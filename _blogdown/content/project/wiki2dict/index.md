@@ -10,4 +10,5 @@ tags:
 - Wikipedia
 - translation
 title: Wiki2Dict
+weight: 25
 ---

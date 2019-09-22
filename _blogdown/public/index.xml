@@ -84,6 +84,61 @@
     </item>
     
     <item>
+      <title>Superzon</title>
+      <link>/project/superzon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/superzon/</guid>
+      <description>&lt;p&gt;Superzon can be used to find the really best products on Amazon. It does that by reranking the Amazon search results using a bayesian average of the reviews taking the number of reviewers into account. It is implemented as a small webservice written with Flask in Python and deployed on Heroku.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correl-O-Mat</title>
+      <link>/project/correlomat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/correlomat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semaeval</title>
+      <link>/project/semaeval/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/semaeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roomfinder</title>
+      <link>/project/roomfinder/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/roomfinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiki2Dict</title>
+      <link>/project/wiki2dict/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wiki2dict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More on github</title>
+      <link>/project/more_on_github/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/more_on_github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -366,70 +421,6 @@ $$&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Correl-O-Mat</title>
-      <link>/project/correlomat/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/correlomat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>More on github</title>
-      <link>/project/more_on_github/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/more_on_github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roomfinder</title>
-      <link>/project/roomfinder/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/roomfinder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semaeval</title>
-      <link>/project/semaeval/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/semaeval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Superzon</title>
-      <link>/project/superzon/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/superzon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wiki2Dict</title>
-      <link>/project/wiki2dict/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/wiki2dict/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -756,6 +747,24 @@ Figure 1: A fancy pie chart.
 
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/topics/</guid>
+      <description></description>
     </item>
     
   </channel>

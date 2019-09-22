@@ -10,4 +10,5 @@ tags:
 - correlation
 - politics
 title: Correl-O-Mat
+weight: 10
 ---

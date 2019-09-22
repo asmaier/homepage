@@ -17,7 +17,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/superzon/</guid>
-      <description></description>
+      <description>&lt;p&gt;Superzon can be used to find the really best products on Amazon. It does that by reranking the Amazon search results using a bayesian average of the reviews taking the number of reviewers into account. It is implemented as a small webservice written with Flask in Python and deployed on Heroku.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

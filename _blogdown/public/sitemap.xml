@@ -18,6 +18,36 @@
   </url>
   
   <url>
+    <loc>/project/superzon/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/correlomat/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/semaeval/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/roomfinder/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/wiki2dict/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/more_on_github/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -100,16 +130,6 @@
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/correlomat/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/flask/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -125,11 +145,6 @@
     <loc>/tags/microsoft-exchange-server/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/more_on_github/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -154,26 +169,6 @@
     <loc>/tags/python/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/roomfinder/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/semaeval/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/superzon/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/wiki2dict/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -296,6 +291,14 @@
   <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
   </url>
   
   <url>

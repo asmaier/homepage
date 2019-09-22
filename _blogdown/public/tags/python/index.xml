@@ -12,20 +12,21 @@
     
     
     <item>
+      <title>Superzon</title>
+      <link>/project/superzon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/superzon/</guid>
+      <description>&lt;p&gt;Superzon can be used to find the really best products on Amazon. It does that by reranking the Amazon search results using a bayesian average of the reviews taking the number of reviewers into account. It is implemented as a small webservice written with Flask in Python and deployed on Heroku.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Correl-O-Mat</title>
       <link>/project/correlomat/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/correlomat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roomfinder</title>
-      <link>/project/roomfinder/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/roomfinder/</guid>
       <description></description>
     </item>
     
@@ -39,11 +40,11 @@
     </item>
     
     <item>
-      <title>Superzon</title>
-      <link>/project/superzon/</link>
+      <title>Roomfinder</title>
+      <link>/project/roomfinder/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/superzon/</guid>
+      <guid>/project/roomfinder/</guid>
       <description></description>
     </item>
     

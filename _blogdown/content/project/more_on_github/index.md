@@ -8,4 +8,5 @@ summary: Even more projects are on github.
 tags:
 - github
 title: More on github
+weight: 120
 ---

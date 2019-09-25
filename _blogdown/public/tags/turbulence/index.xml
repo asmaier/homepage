@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turbulence on Andreas Maier</title>
+    <link>/tags/turbulence/</link>
+    <description>Recent content in Turbulence on Andreas Maier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/turbulence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turbulence modeling and the physics of the intra-cluster medium</title>
+      <link>/publication/fearless/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fearless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptively refined large eddy simulations of a galaxy cluster: turbulence modeling and the physics of the intracluster medium</title>
+      <link>/publication/cluster/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

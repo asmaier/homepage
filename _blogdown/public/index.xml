@@ -751,10 +751,28 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title></title>
+      <link>/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
       <description></description>
     </item>
     

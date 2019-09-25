@@ -15,12 +15,12 @@
   
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/publications"
   weight = 30  
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "/posts"
   weight = 40
   
 [[main]]

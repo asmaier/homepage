@@ -237,6 +237,24 @@
     </item>
     
     <item>
+      <title>german</title>
+      <link>/tags/german/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>old_website</title>
+      <link>/tags/old_website/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/old_website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detonation</title>
       <link>/tags/detonation/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
@@ -251,6 +269,33 @@
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
       
       <guid>/tags/supernovae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>/tags/physics/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer</title>
+      <link>/tags/computer/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     

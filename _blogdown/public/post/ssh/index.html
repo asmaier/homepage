@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):  ssh -X -l username computername Die Option -X aktiviert dabei das X-Tunneling. Ein kleines -x würde hingegen X-Tunneling explizit abschalten. Kopieren mit SCP:  scp -r username@computername:pfad . Das erste Argument von scp ist immer die Quelldatei (bzw. Verzeichnis), das zweite das Zielverzeichnis (hier ., das aktuelle Verzeichnis). Die Option -r erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/topics/">
+  <link rel="alternate" hreflang="en-us" href="/post/ssh/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/topics/">
+  <link rel="canonical" href="/post/ssh/">
 
   
   
@@ -110,29 +110,30 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Andreas Maier">
-  <meta property="og:url" content="/topics/">
-  <meta property="og:title" content=" | Andreas Maier">
-  <meta property="og:description" content=""><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/post/ssh/">
+  <meta property="og:title" content="SSH | Andreas Maier">
+  <meta property="og:description" content="SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):  ssh -X -l username computername Die Option -X aktiviert dabei das X-Tunneling. Ein kleines -x würde hingegen X-Tunneling explizit abschalten. Kopieren mit SCP:  scp -r username@computername:pfad . Das erste Argument von scp ist immer die Quelldatei (bzw. Verzeichnis), das zweite das Zielverzeichnis (hier ., das aktuelle Verzeichnis). Die Option -r erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
+  <meta property="article:published_time" content="2005-01-01T00:00:00&#43;00:00">
   
+  <meta property="article:modified_time" content="2019-09-27T21:12:52&#43;02:00">
   
-  
-
-  
-
 
   
 
 
+  
 
 
 
-  <title> | Andreas Maier</title>
+
+
+  <title>SSH | Andreas Maier</title>
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -298,7 +299,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/topics" data-target="[]"><span>Topics</span></a>
+          <a class="nav-link " href="/topics"><span>Topics</span></a>
         </li>
 
         
@@ -404,11 +405,7 @@
 </nav>
 
 
-  
-<span class="js-widget-page d-none"></span>
-
-
-
+  <article class="article" itemscope itemtype="http://schema.org/Article">
 
   
 
@@ -418,231 +415,340 @@
 
 
 
-  
-  
-  
 
-  
 
-  
 
-  
 
-  
 
   
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">SSH</h1>
 
-  
-  
-  
-
-  
-  
-  
-  
   
 
   
-  
-
-  <section id="tags" class="home-section wg-tag-cloud   "  >
-    <div class="container">
-      
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Popular Topics</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
     
 
+
+
+<meta content="2005-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-09-27 21:12:52 &#43;0200 CEST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    <time>Sep 27, 2019</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
       
-
+      
+        
       
       
       
-      
-      
-
-      <div class="tag-cloud">
-        
-          
-          
-          
-          <a href="/tags/academic/" style="font-size:0.8rem">Academic</a>
-        
-          
-          
-          
-          <a href="/tags/adaptive-mesh-refinement/" style="font-size:1.225rem">Adaptive mesh refinement</a>
-        
-          
-          
-          
-          <a href="/tags/bayesian/" style="font-size:0.8rem">bayesian</a>
-        
-          
-          
-          
-          <a href="/tags/cloud-computing/" style="font-size:0.8rem">Cloud Computing</a>
-        
-          
-          
-          
-          <a href="/tags/computer/" style="font-size:2.418125841874482rem">computer</a>
-        
-          
-          
-          
-          <a href="/tags/correlation/" style="font-size:0.8rem">correlation</a>
-        
-          
-          
-          
-          <a href="/tags/detonation/" style="font-size:0.8rem">Detonation</a>
-        
-          
-          
-          
-          <a href="/tags/flask/" style="font-size:0.8rem">Flask</a>
-        
-          
-          
-          
-          <a href="/tags/fluid-mechanics/" style="font-size:1.4736090628064913rem">Fluid mechanics</a>
-        
-          
-          
-          
-          <a href="/tags/galaxy-clusters/" style="font-size:1.225rem">Galaxy clusters</a>
-        
-          
-          
-          
-          <a href="/tags/german/" style="font-size:2.4604285031336204rem">german</a>
-        
-          
-          
-          
-          <a href="/tags/github/" style="font-size:0.8rem">github</a>
-        
-          
-          
-          
-          <a href="/tags/heroku/" style="font-size:0.8rem">Heroku</a>
-        
-          
-          
-          
-          <a href="/tags/linux/" style="font-size:2.1472181256129828rem">linux</a>
-        
-          
-          
-          
-          <a href="/tags/microsoft-exchange-server/" style="font-size:0.8rem">Microsoft Exchange Server</a>
-        
-          
-          
-          
-          <a href="/tags/nlp/" style="font-size:0.8rem">NLP</a>
-        
-          
-          
-          
-          <a href="/tags/nltk/" style="font-size:0.8rem">NLTK</a>
-        
-          
-          
-          
-          <a href="/tags/old_website/" style="font-size:2.4604285031336204rem">old_website</a>
-        
-          
-          
-          
-          <a href="/tags/physics/" style="font-size:0.8rem">physics</a>
-        
-          
-          
-          
-          <a href="/tags/plot/" style="font-size:0.8rem">plot</a>
-        
-          
-          
-          
-          <a href="/tags/politics/" style="font-size:0.8rem">politics</a>
-        
-          
-          
-          
-          <a href="/tags/python/" style="font-size:1.786819440327129rem">Python</a>
-        
-          
-          
-          
-          <a href="/tags/r-markdown/" style="font-size:0.8rem">R Markdown</a>
-        
-          
-          
-          
-          <a href="/tags/ranking/" style="font-size:0.8rem">ranking</a>
-        
-          
-          
-          
-          <a href="/tags/regression/" style="font-size:0.8rem">regression</a>
-        
-          
-          
-          
-          <a href="/tags/simulation/" style="font-size:1.4736090628064913rem">Simulation</a>
-        
-          
-          
-          
-          <a href="/tags/subgrid-scale-model/" style="font-size:1.225rem">Subgrid scale model</a>
-        
-          
-          
-          
-          <a href="/tags/supernovae/" style="font-size:0.8rem">Supernovae</a>
-        
-          
-          
-          
-          <a href="/tags/translation/" style="font-size:0.8rem">translation</a>
-        
-          
-          
-          
-          <a href="/tags/turbulence/" style="font-size:1.225rem">Turbulence</a>
-        
-          
-          
-          
-          <a href="/tags/wikipedia/" style="font-size:0.8rem">Wikipedia</a>
-        
-          
-          
-          
-          <a href="/tags/xml/" style="font-size:0.8rem">XML</a>
-        
-      </div>
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/ssh/&amp;text=SSH" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
-
-  </div>
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/ssh/&amp;t=SSH" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=SSH&amp;body=/post/ssh/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/ssh/&amp;title=SSH" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=SSH%20/post/ssh/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/ssh/&amp;title=SSH" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <ul>
+<li><em>SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):</em>
+<pre>> ssh -X -l username computername</pre>
+Die Option <tt>-X</tt> aktiviert dabei das X-Tunneling. Ein kleines <tt>-x</tt>
+würde hingegen X-Tunneling explizit abschalten.</li>
+
+<li><em>Kopieren mit SCP:</em>
+<pre>> scp -r username@computername:pfad .</pre>
+Das erste Argument von <tt>scp</tt> ist immer die Quelldatei (bzw. Verzeichnis), 
+das zweite das Zielverzeichnis (hier <tt>.</tt>, das aktuelle Verzeichnis). Die
+Option <tt>-r</tt> erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese
+Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung.</li>  
+</ul>
+
     </div>
-  </section>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/computer/">computer</a>
+  
+  <a class="badge badge-light" href="/tags/linux/">linux</a>
+  
+  <a class="badge badge-light" href="/tags/old_website/">old_website</a>
+  
+  <a class="badge badge-light" href="/tags/german/">german</a>
+  
+</div>
 
 
+
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_huff4050c84021aa42d86de6ab7f382f2d_16072_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/">Andreas Maier</a></h5>
+      <h6 class="card-subtitle">Data Alchemist</h6>
+      <p class="card-text" itemprop="description">My interests include machine learning, software development, physics and mathematics</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:andimai_add_web_dot_de" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/asmaier" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://stackexchange.com/users/59864/asmaier" target="_blank" rel="noopener">
+              <i class="fab fa-stack-exchange"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.de/citations?user=XpQSfCkAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>Related</h3>
+        <ul>
+          
+          <li><a href="/post/administration/">Administration</a></li>
+          
+          <li><a href="/post/archivieren/">Archivieren</a></li>
+          
+          <li><a href="/post/drucken/">Drucken</a></li>
+          
+          <li><a href="/post/editoren/">Editoren</a></li>
+          
+          <li><a href="/post/kde/kde/">KDE</a></li>
+          
+        </ul>
+      </div>
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
 
       
 

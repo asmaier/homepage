@@ -4,44 +4,36 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Data"
   url = "#about"
   weight = 10
   
 [[main]]
+  name = "Stream"
+  url = "/stream"
+  weight = 20
+  
+[[main]]
+  name = "Lake"
+  url = "/lake"
+  weight = 30    
+  
+[[main]]
   name = "Projects"
   url = "/projects"
-  weight = 20  
+  weight = 40  
   
 [[main]]
   name = "Publications"
   url = "/publications"
-  weight = 30  
+  weight = 50  
+
 
 [[main]]
-  name = "Posts"
-  url = "/posts"
-  weight = 40
-  
-[[main]]
-  name = "Topics"
-  url = "/topics"
-  weight = 40  
-
-[[main]]
-  name = "Blog"
-  url = "http://asmaier.blogspot.de/"
-  weight = 50
-
-[[main]]
-  name = "Wiki"
-  url = "http://maierandi.wikidot.com/"
+  name = "Archive"
+  url = "/old"
   weight = 60
 
-[[main]]
-  name = "Old Website"
-  url = "https://www.maierandi.com/index2.html"
-  weight = 70  
   
 
 # Link to a PDF of your resume/CV from the menu.

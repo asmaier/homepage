@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Andreas Maier">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist unter Linux manchmal immer noch ein unnötig komplizierter Vorgang. Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet, ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat, dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen erlaubt.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/drucken/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono|Lora:400,700|Roboto:400,700&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.e1e7d56acd0fc6cf045a853d4b1d5fcd.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/post/drucken/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Andreas Maier">
+  <meta property="og:url" content="/post/drucken/">
+  <meta property="og:title" content="Drucken | Andreas Maier">
+  <meta property="og:description" content="Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist unter Linux manchmal immer noch ein unnötig komplizierter Vorgang. Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet, ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat, dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen erlaubt."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2005-01-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2019-09-27T21:22:42&#43;02:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Drucken | Andreas Maier</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Andreas Maier</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Data</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/stream"><span>Stream</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/lake"><span>Lake</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/old"><span>Archive</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Drucken</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2005-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-09-27 21:22:42 &#43;0200 CEST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    <time>Sep 27, 2019</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    9 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/drucken/&amp;text=Drucken" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/drucken/&amp;t=Drucken" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Drucken&amp;body=/post/drucken/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/drucken/&amp;title=Drucken" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Drucken%20/post/drucken/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/drucken/&amp;title=Drucken" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems
+ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows
+oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist
+unter Linux manchmal immer noch ein unnötig komplizierter Vorgang.
+Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet,
+ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows
+ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch
+kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat,
+dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen
+erlaubt.</p>
+
+<p><h6>Drucken unter CUPS</h6>
+<p>Benutzt man das Common Unix Printing System (CUPS), so kann man viele
+Einstellungen und Informationen zum Druckvorgang über den Webbrowser
+bekommen. Folgende Adressen ([cupsserver] steht für die IP-Adresse
+des CUPS-Servers, z.B. <tt>192.168.0.2</tt> oder
+bei lokaler Installation <tt>localhost</tt>) sind u.a. nützlich:</p>
+<ul>
+<li><em>Bedienung über HTML allgemein:</em>
+<pre>
+http://[cupsserver]:631/
+</pre></li>
+<li><em>Anleitung zu CUPS-Bedienung</em>
+<pre>
+http://[cupsserver]:631/sum.html
+</pre></li>
+<li><em>Laufende Jobs:</em>
+<pre>
+http://[cupsserver]:631/jobs
+</pre></li>
+<li><em>vorhandene bzw. eingerichtete Drucker:</em>
+<pre>
+http://[cupsserver]:631/printers
+</pre></li>
+</ul>
+<p>Das CUPS erweitert auch die Steuerungsmöglichkeiten des Druckvorgangs
+über die Kommandozeile. Einige nützliche Optionen sind u.a.:</p>
+<ul>
+<li><em>nur bestimmte Seiten drucken:</em>
+<pre>
+&gt; lpr -o page-ranges=1-4,7,9-12 dateiname
+</pre>
+Mit diesem Kommando werden nur die Seiten 1-4,7 und 9-12 der Datei
+<tt>dateiname</tt> gedruckt. Zu beachten ist, dass die Seitenangabe
+hier meist nicht mit der Seitennummerierung innerhalb der Datei übereinstimmt,
+z.B. wenn das Titelblatt die Seitennummer 0 hat.
+</li>
+<li><em>mehrere Seiten auf ein Blatt drucken:</em>
+<pre>
+&gt; lpr -o number-up=4 -o number-up-layout=tblr dateiname
+</pre>
+Hiermit werden vier Seiten auf ein Blatt gedruckt. Die Option
+<tt>number-up-layout</tt> gibt dabei an, in welcher Reihenfolge
+die einzelnen Seiten auf das Blatt gedruck werden sollen.
+Die Defaulteinstellung ist <tt>lrtb</tt> (left to right, top to bottom),
+eine andere Möglichkeit ist das im Beispiel verwendete
+<tt>tblr</tt> (top to bottom, left to right).
+</li>
+<li><em>doppelseitig drucken:</em>
+<pre>
+&gt; lpr -o sides=two-sided-long-edge dateiname
+</pre>
+Die Option <tt>sides=two-sided-long-edge</tt> gibt dabei an, dass
+das doppelseitige Dokument später über die lange Blattkante
+geblättert werden soll. Sie macht natürlich nur dann Sinn,
+wenn der Drucker auch doppelseitig drucken kann und entsprechend
+eingerichtet wurde.
+</li>
+<li><em>Anzeige der Druckerwarteschlange:</em>
+<pre>
+&gt; lpq
+</pre></li>
+<li><em>Druckaufträge aus der Warteschlange löschen:</em>
+<pre>
+&gt; lprm
+</pre>
+Dies löscht alle eigenen Druckaufträge, aber nicht die anderer
+Benutzer. Will man nur einen bestimmten Druckauftrag löschen,
+so muß man dies extra angeben:
+<pre>
+&gt; lprm -Plp1 42
+</pre>
+Dies löscht den Druckauftrag Nummer 42 aus der Druckerwarteschlange für
+den Drucker <tt>lp1</tt>.
+</li>
+</ul></p>
+
+<p><h6>Poster drucken</h6>
+<p>Um Poster oder andere große Bilder einfach auf mehrere Blätter verteilt zu drucken gibt
+es für Linux eine einfache Antwort:</p>
+<ul>
+<li><a href="http://posterazor.sourceforge.net/">Posterazor</a></li>
+</ul>
+<p>Mit diesem kleinen Programm kann ein beliebiges Bild in ein entsprechendes mehrseitiges
+PDF umgewandelt werden, welches man dann mit einem beliebigem PDF-Viewer ausdrucken kann.
+Dabei bietet es intuitive Benutzeroberfläche, so dass man sofort sieht,
+wie das Bild auf die verschiedenen Seiten aufgeteilt wird. Das ist wesentlich einfacher
+als mit einem Programm, welches nur irgendwelche kryptischen Parameter auf der Kommandozeile
+entgegennimmt, wie z.B. bei <a href="http://printing.kde.org/downloads/"><tt>poster</tt></a> der Fall.
+Wer es unbedingt doch über die Kommandozeile machen möchte findet bei
+<a href="http://issaris.blogspot.com/2006/02/printing-huge-posters.html">Printing huge posters</a>
+eine Anleitung, wie man das mit obengenanntem <tt>poster</tt> bewerkstelligt.</p></p>
+
+<p><h6>Drucken von DIN A5-Heftchen</h6>
+<p>Manchmal ist es praktisch ein Dokument (z.B. die
+<a href="http://www.wvv.de/vvm/fahrplan/fahrplaene/index.html">Würzburger Busfahrpläne</a>)
+als DIN A5-Heftchen (d.h. es werden jeweils zwei Seiten auf
+ein DIN A4 Blatt gedruckt und dann so gefaltet, dass ein DIN A5-Heft entsteht)
+zu drucken. Dies kann man ganz einfach über den KDE-Druckdialog erreichen
+(Leider steht dieser im Acrobat Reader nicht zur Verfügung. PDF-Dokumente sollte
+man daher mit KGhostview öffnen.):</p>
+<ol>
+<li>KDE-Druckdialog öffnen und auf &ldquo;Eigenschaften&rdquo; (&ldquo;Properties&rdquo;) klicken.</li>
+<li>Den Karteireiter &ldquo;Filter&rdquo; (&ldquo;filter&rdquo;) auswählen.</li>
+<li>Auf das trichterförmige Icon &ldquo;Filter hinzufügen&rdquo; (&ldquo;add filter&rdquo;) klicken.</li>
+<li>Hier den Filter &ldquo;Pamphlet Printing (use with small side duplex printing)&rdquo; auswählen
+und auf &ldquo;OK&rdquo; klicken.</li>
+<li>Zurück auf den Karteireiter &ldquo;Allgemein&rdquo; (&ldquo;General&rdquo;) klicken und dort unter
+&ldquo;Beidseitiger Druck&rdquo; (Duplex Printing&rdquo;) &ldquo;Schmalseitig&rdquo; (&ldquo;short side&rdquo;) auswählen.</li>
+<li>Den Dialog mit &ldquo;OK&rdquo; abschließen und das Dokument drucken.</li>
+</ol>
+<p>Alternativ dazu kann man das ganze auch über die Kommandozeile erreichen.
+Dazu ist es notwendig, dass das Paket &ldquo;psutils&rdquo; installiert ist (einfach mit YAST2
+überprüfen und gegebenenfalls nachinstallieren). Dann kann man PS-Dokumente
+(PDF-Dokumente muß man vorher in PS-Dokumente umwandeln wie
+<a href="convert.html">hier</a> beschrieben.)
+mit folgendem Befehl umwandeln:</p>
+<pre>
+&gt; psbook datei.ps | psnup -2 &gt; datei_A5.ps
+</pre>
+<p>Der Befehl <tt>psbook</tt> ändert dabei die Reihenfolge der Seiten des PS-Dokuments in
+geeigneter Weise und der anschließende Befehl <tt>psnup</tt> generiert ein
+PS-Dokument so, dass 2 Seiten des ursprünglichen Dokuments jetzt auf ein Blatt verkleinert
+werden. Jetzt kann man das so generierte Dokument ausdrucken:</p>
+<pre>
+&gt; lpr -o sides=two-sided-short-edge datei_A5.ps
+</pre></p>
+
+<p><h6>Präsentationen drucken</h6>
+<p>Viele Präsentationen sind als PDFs im Querformat erstellt. Um diese platzsparend auszudrucken
+kann man folgende Befehlszeile versuchen:</p>
+<pre>
+&gt; lpr -o number-up=4 -o number-up-layout=lrtb praesentation.pdf
+</pre>
+<p>Leider funktioniert das nicht immer richtig, da viele PDF-Präsentationen seltsame Seitenformate
+verwenden und daher zunächst noch skaliert werden müssen. Eine Lösung ist diese
+Präsentationen mit dem Acrobat Reader auszudrucken. Dort muß man dann unter
+&ldquo;Page Scaling: Fit to Printer Margins&rdquo; auswählen und als &ldquo;Printer Command&rdquo;</p>
+<pre>
+/usr/bin/lpr -P lp1 -o number-up=4 -o number-up-layout=lrtb
+</pre>
+<p>eintragen.</p></p>
+
+<p><h6>Tipps zu a2ps</h6>
+<p>Das Programm <tt>a2ps</tt> erlaubt es ASCII-Text &ldquo;schön&rdquo; formatiert
+auszudrucken. Dies ist besonders zum Ausdrucken von Quellcode nützlich,
+da <tt>a2ps</tt> z.B. Kommentare und Schlüsselwörter im Code automatisch erkennt
+und diese durch Farbe, Schriftgrad oder Schriftart hervorhebt und damit den
+Code erheblich lesbarer gestaltet. Der Vorteil von <tt>a2ps</tt> gegenüber
+dem direkten Ausdruck aus einem Editor mit eigener Synaxerkennung heraus
+(z.B. Kile für Latex oder Kate für C++) ist, dass es insbesondere für
+den Graustufendruck angepasste und optimierte Designs anbietet und
+natürlich das <tt>a2ps</tt> aus der Kommandozeile
+heraus zu starten immer schneller ist als mühsam einen Editor zu laden,
+sich durch die notwendigen Druckeinstellungen zu quälen um schließlich drucken
+zu können. Ein großer Nachteil von <tt>a2ps</tt> ist jedoch, dass es
+(noch?) keine UTF8-Kodierung unterstützt (mehr dazu siehe weiter unten).
+<br />
+Das <tt>a2ps</tt>-Kommando erlaubt eine Unmenge von Optionen. Einige
+wichtige zeigt das folgende Beispiel, welches ich als
+Alias in meiner <tt>.alias</tt>-Datei definiert habe:</p>
+<pre>
+alias druck=&ldquo;a2ps &ndash;line-numbers=1 -l 100 -T 3 -s 2 -M A4 &ndash;delegate=0 -P display&rdquo;
+</pre>
+<p>Die Layoutoptionen dabei sind:</p>
+<ul>
+<li> <em>Zeilennummern einschalten:</em> <tt>&ndash;line-numbers=1</tt></li>
+<li> <em>Zeilenlänge von 100 Buchstaben:</em> <tt>-l 100</tt> oder <tt>&ndash;chars-per-line=100</tt></li>
+<li> <em>Tabulatorabstand von 3 Zeichen:</em> <tt>-T 3</tt> oder <tt>&ndash;tabsize=3</tt></li>
+<li> <em>Zweiseitiger Ausdruck (wenn der Drucker es erlaubt):</em> <tt>-s 2</tt> oder <tt>&ndash;sides=duplex</tt></li>
+<li> <em>Papierformat DIN A4:</em> <tt>-M A4</tt> oder <tt>&ndash;medium=A4</tt></li>
+</ul>
+<p>Die Option <tt>&ndash;delegate=0</tt> verhindert, dass <tt>a2ps</tt> automatisch
+mithilfe externer Programme die übergebenen Dateien in PS-Dateien umzuwandeln
+versucht (z.B. möchte es in der Standardeinstellung HTML-Dateien mithilfe von
+Netscape in PS-Dateien umzuwandeln). Dies ist meistens nicht gewollt; wenn man
+<tt>a2ps</tt> schon verwendet, dann will man eigentlich immer den Quelltext drucken
+und nicht das gerenderte Ergebnis. <br />
+Die Option <tt>-P display</tt> schließlich sorgt dafür, dass <tt>a2ps</tt> das Ergebnis
+nicht gleich an den Standarddrucker schickt, sondern zunächst als Vorschau in
+<tt>gv</tt> öffnet. Gefällt das Ergebnis kann man es von da aus bequem ausdrucken.
+<br />
+<em>Druckvorschau mit <tt>kghostview</tt> statt <tt>gv</tt>:</em><br />
+In Suse 9.3 wird <tt>gv</tt> nicht mehr standardmäßig installiert und die
+Druckvorschau funktioniert mit <tt>a2ps</tt> dementsprechend zunächst nicht.
+Will oder kann man das alte <tt>gv</tt> deswegen nicht installieren, so kann man
+zur Druckvorschau auch <tt>kghostview</tt> verwenden, wenn man <tt>a2ps</tt>
+entsprechend konfiguriert. Dazu sind folgende Schritte nötig:</p>
+<ol>
+<li> Falls nicht vorhanden im Homeverzeichnis ein Verzeichnis <tt>.a2ps</tt>
+anlegen und in diesem eine Datei namens <tt>a2psrc</tt> erzeugen:
+<pre>
+&gt; mkdir .a2ps
+&gt; cd a2ps
+&gt; pico a2psrc
+</pre></li>
+<li>In diese Datei folgende Zeile eintragen:
+<pre>
+Variable: ghostview kghostview
+</pre></li>
+</ol>
+<p>Das wars. Beim nächsten Start von <tt>a2ps</tt> wird als Vorschau immer
+<tt>kghostview</tt> statt <tt>gv</tt> verwendet. Will man noch andere
+Einstellungen ändern, so empfiehlt es sich als Vorlage die systemweite
+Konfigurationsdatei von <tt>a2ps</tt> anzuschauen, welche unter Suse Linux 9.3
+unter <tt>/etc/a2ps.cfg</tt> zu finden ist.
+<br />
+<em>Weitere Optionen:</em></p>
+<ul>
+<li><em>Ein bestimmtes Syntaxhighlighting erzwingen:</em>
+Manchmal erkennt <tt>a2ps</tt> die verwendete Sytax nicht richtig.
+Dies kann man überprüfen durch:
+<pre>
+&gt; a2ps &ndash;guess dateiname
+</pre>
+Wird dabei eine offensichtlich falsche Syntax erkannt, kann
+man dies mit der <tt>-E</tt>-Option erzwingen. Verwendet man mein obiges Alias,
+dann kann man z.B. die Verwendung von Fortran-Syntaxhighlighting für die Datei
+&ldquo;dateiname&rdquo; erzwingen durch:
+<pre>
+&gt; druck -Efortran dateiname
+</pre>
+Weitere Möglichkeiten sind z.B. <tt>-Ec</tt> &copy;, <tt>-Ecpp</tt> (C++), <tt>-Etex</tt> (Latex).
+Sämtliche möglichen Programmiersprachen bzw. Syntax-Stylesheets findet man z.B.
+<a href="http://www.infres.enst.fr/~demaille/a2ps/doc-4.12/a2ps_7.html#SEC69">hier</a>.</li>
+<li><em>Farbe erzwingen:</em><br />
+Will man ein farbiges statt graues Syntaxhighlighting so kann man dies erreichen durch
+<pre>
+&gt; druck &ndash;prologue=color dateiname
+</pre>
+Damit wird eine farbige PS-Datei generiert und als Vorschau angezeigt.
+</li>
+<li><em>Aktuelles Verzeichnis im Kopf der Ausdrucks:</em><br />
+In den Standardeinstellungen erscheint der Pfad der ausgedruckten Datei leider
+nicht. Aber durch folgende Option kann man das gerade aktive Verzeichnis und damit
+auch meist den richtigen Pfad zur Datei im Header des Ausdrucks angeben:
+<pre>
+&gt; druck &ndash;header=$PWD
+</pre>
+Jedoch erlebt man eine Enttäuschung, wenn man diese Option zusätzlich zu den anderen in einem
+Alias definiert. Die <tt>.alias</tt>-datei wird immer beim Start eines neuen
+Terminals ausgeführt und somit wird man immer das beim Start des Terminals aktive
+Verzeichnis (also meist das eigene Homeverzeichnis) im Kopf der ausgedruckten Datei
+finden. Um das gewünschte Ergebnis zu erzielen, muß man stattdessen eine Funktion
+(s. auch <a href="shell.html">Tipps zur Shell</a>) in der <tt>.bashrc</tt>-Datei
+wie folgt definieren:
+<pre>
+druckiso() { druck &ndash;header=$PWD $1; }
+</pre>
+Mithilfe von
+<pre>
+&gt; druckiso dateiname
+</pre>
+ist es dann einfach alle Dateien (zumindest die mit ISO-Encoding)
+schön formatiert auszudrucken.
+</li>
+<li><em>UTF8-kodierte Dateien ausdrucken:</em><br />
+UTF8 wird von <tt>a2ps</tt> leider noch immer nicht unterstützt. Das Einzige was möglich
+ist, ist eine UTF8-Datei automatisch in ein Encoding umzuwandeln welches <tt>a2ps</tt>
+kennt. Dazu bietet sich z.B. das Tool <tt>iconv</tt> an (andere Möglichkeiten wären
+mit dem <tt>recode</tt>-Befehl oder dem <tt>u2ps</tt>-Skript). Ich habe mir dazu folgende
+Funktion in der <tt>.bashrc</tt> definiert:
+<pre>
+druckutf() { iconv -f utf8 -t latin1 $1 | druck &ndash;header=$PWD &ndash;center-title=$1; }
+</pre>
+Damit werden alle UTF8-Dateien von <tt>iconv</tt> zunächst in das Latin1-Encoding
+konvertiert und die Ausgabe an <tt>a2ps</tt> (bzw. meinen Alias <tt>druck</tt>)
+weitergegeben. Die Option <tt>&ndash;center-title=$1</tt> ist nötig, da <tt>a2ps</tt>
+ansonsten in den Kopf des Ausdrucks nicht den Dateinamen übernimmt.Stattdessen
+steht dort <tt>stdin</tt>, da die Ausgabe von <tt>iconv</tt>
+direkt per Pipe <tt>|</tt> an und damit über <tt>stdin</tt> an <tt>a2ps</tt> geht.
+</li>
+</ul></p>
+
+<p><h6>Passwortgeschütztes PDF über die Kommandozeile drucken</h6>
+<p>Der offensichtliche Weg über <tt>acroread -toPostScript | lpr</tt> funktioniert nicht,
+da es beim Aufruf des Acrobat Readers über die Kommandozeile keine Möglichkeit gibt ein Passwort
+zu übergeben. Daher muss man unter Suse Linux erst mit Yast das Paket <tt>xpdf</tt> installieren.
+Dieses enthält das Tool <tt>pdftops</tt> mit dem man dann das PDF ausdrucken kann</p>
+<pre>
+&gt; pdftops -upw [Passwort] Dateiname.pdf - | lpr
+</pre>
+<p>Dabei steht <tt>-upw</tt> für &ldquo;user password&rdquo; und <tt>[Passwort]</tt> sollte durch das entsprechende Passwort ersetzt werden.
+Die Angabe von <tt>-</tt> als Ausgabedateinamen bewirkt die Ausgabe in die Standardausgabe <tt>stdout</tt>, welche
+dann mit dem Pipe-Kommando <tt>|</tt> in die Standardeingabe des nächsten Befehls (hier <tt>lpr</tt>) weitergeleitet
+wird (siehe dazu auch Kapitel 9.3 von
+<a href="http://www.csse.monash.edu.au/software/mil/userguide.html#tth_sEc9.3">Monash Image Library for Linux</a>).
+Statt <tt>pdftops</tt> kann man auch <tt>pdf2ps</tt> versuchen, aber letzteres erzeugt viel größere und qualitativ
+schlechtere PS-Dateien.</p></p>
+
+<p><h6>Man-Pages ausdrucken</h6>
+Angenommen wir wollen die man-page von <tt>rsync</tt> ausdrucken, Dann gibt es drei Möglichkeiten:
+<ol>
+<li>Umwandlung der man-page in ein PDF:
+<pre>
+&gt; man -t rsync | ps2pdf - &gt; rsync.pdf
+</pre>
+Danach kann die Datei über jeden PDF-Anzeiger ausgedruckt werden.
+</li>
+<li>Umwandlung der man-page in HTML: Dazu unter KDE den Konqueror starten und in die Adresszeile
+<tt>man:rsync</tt> eingeben. Dann kann man wie üblich die HTML-Seite mit dem Konqueror ausdrucken.
+</li>
+<li> Umwandlung der man-page in eine reine Textdatei:
+<pre>
+&gt; man rsync | col -b &gt; rsync.txt
+</pre>
+Danach kann die Datei über jeden Texteditor ausgedruckt werden.
+</li>
+</ol></p>
+
+    </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/computer/">computer</a>
+  
+  <a class="badge badge-light" href="/tags/linux/">linux</a>
+  
+  <a class="badge badge-light" href="/tags/german/">german</a>
+  
+  <a class="badge badge-light" href="/tags/old_website/">old_website</a>
+  
+</div>
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_huff4050c84021aa42d86de6ab7f382f2d_16072_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/">Andreas Maier</a></h5>
+      <h6 class="card-subtitle">Data Alchemist</h6>
+      <p class="card-text" itemprop="description">My interests include machine learning, software development, physics and mathematics</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:andimai_add_web_dot_de" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/asmaier" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://stackexchange.com/users/59864/asmaier" target="_blank" rel="noopener">
+              <i class="fab fa-stack-exchange"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.de/citations?user=XpQSfCkAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>Related</h3>
+        <ul>
+          
+          <li><a href="/post/administration/">Administration</a></li>
+          
+          <li><a href="/post/archivieren/">Archivieren</a></li>
+          
+          <li><a href="/post/editoren/">Editoren</a></li>
+          
+          <li><a href="/post/kde/kde/">KDE</a></li>
+          
+          <li><a href="/post/konvertieren/">Konvertieren</a></li>
+          
+        </ul>
+      </div>
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.98ea4faec9c45f666e4a8a91902fa456.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

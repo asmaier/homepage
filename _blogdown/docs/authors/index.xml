@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Andreas Maier</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Andreas Maier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Mostly harmless.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Philipp Berndt</title>
+      <link>/authors/philipp-berndt/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/philipp-berndt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. C. Niemeyer</title>
+      <link>/authors/j.-c.-niemeyer/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/j.-c.-niemeyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Iapichino</title>
+      <link>/authors/l.-iapichino/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/l.-iapichino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Schmidt</title>
+      <link>/authors/w.-schmidt/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/w.-schmidt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

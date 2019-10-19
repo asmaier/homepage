@@ -117,7 +117,7 @@
   <meta property="og:description" content="Data Alchemist"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2005-01-01T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2008-01-01T00:00:00&#43;00:00">
   
 
   
@@ -389,6 +389,36 @@
   
   
   <div>
+    <h2><a href="/post/programming-hint/">Programming hint</a></h2>
+    <div class="article-style">
+      
+       Reset all local variables at the beginning of the loop (Except counters and similar of course). So you won&rsquo;t mixup values from the old loop with the actual loop !!  
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/python-fuzzy-string-comparison/">Python fuzzy string comparison</a></h2>
+    <div class="article-style">
+      
+       Fuzzy string comparison &gt;&gt;&gt; import difflib &gt;&gt;&gt; s=difflib.SequenceMatcher(None, &quot;abcd&quot;,&quot;bcde&quot;) # Return a measure of the sequences’ similarity as a float in the range [0, 1]. # This is 1.0 if the sequences are identical, and 0.0 if they have nothing in common. &gt;&gt;&gt; print s.ratio() 0.75  Bibliography  http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison
+ http://docs.python.org/library/difflib.html
+  
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/top-level-domains/">Top-level domains</a></h2>
+    <div class="article-style">
+      
+      Some interesting top-level domains:
+   Domain unofficial official     .am Andreas Maier Armenia   .ag &ldquo;Aktiengesellschaft&rdquo; Antigua and Barbuda   .cc Credit Card Cocos (Keeling) Islands   .dj Disc Jockey Djibouti   .fm Frequency modulation (radio) Federated States of Micronesia   .im Instant Messaging Isle of Man   .la Los Angeles Laos   .me Me! Montenegro   .
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/post/administration/">Administration</a></h2>
     <div class="article-style">
       
@@ -458,36 +488,6 @@ Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMag
     </div>
   </div>
   
-  <div>
-    <h2><a href="/post/latex/">Latex</a></h2>
-    <div class="article-style">
-      
-      Wer schon immer mal wissen wollte, was man mit Latex eigentlich alles machen kann, findet im Texshowcase einige außergewöhnliche Beispiele.
-Anleitungen und FAQs zu Latex:  lshort : Kurze Einfuehrung in Latex l2tabu : Über veraltete Befehle, Pakete und andere Fehler mathmode : Alles zu mathematischem Formelsatz epslatex : Ausführliches zum Thema Grafiken und Bilder l2picfaq : Bilder-HowTo fuer LaTeX (nur auf deutsch) symbols : Liste aller(!) Zeichen und Symbole de-tex-faq : Deutsches FAQ zu sehr vielen Fragen rund um Tex/Latex A026 : Latex-Kurs der Fernuni Hagen, Teil 1, teilweise veraltet A027 : Latex-Kurs der Fernuni Hagen, Teil 2, teilweise veraltet bgteubner : Vorlage und Anleitung zum Erstellen von Büchern für den Teubner-Verlag, enthält Hinweise und Tipps für professionelles Buchdesign.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/post/programmieren/">Programmieren</a></h2>
-    <div class="article-style">
-      
-      Wer gerne wissen möchte, welche Bücher "Profis" (Wissenschaftler und Co. ;-) ) zum programmieren benutzen, der kann in Google Scholar z.B. nach Java, C++, Fortran oder Python suchen und erhält auf diese weise leicht die meistzitierten Programmierbücher für diese Programmiersprachen. Wer wissen möchte, welche Bücher ich bevorzuge, der sollte hier einfach weiterlesen: Java Um Java zu lernen reicht eigentlich ein Buch:
- &ldquo;Handbuch der Java-Programmierung&rdquo; von Guido Krüger  Es ist der Nachfolger von &ldquo;Go to Java2&rdquo; vom selben Autor.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/post/python/">Python</a></h2>
-    <div class="article-style">
-      
-      Python: Sorting words with umlauts When I tried to sort words with german umlauts with Python I recognized, that the sorted()-function sorts german words with umlauts in the wrong way (Note: The correct order is already given by the list words!):
- &gt;&gt;&gt; words=[u&rdquo;aber&rdquo;,u&rdquo;All&rdquo;,u&rdquo;Ärger&rdquo;,u&rdquo;ärgerlich&rdquo;,u&rdquo;tränen&rdquo;,u&rdquo;Tränen&rdquo;,u&rdquo;Zauber&rdquo;,u&rdquo;zum&rdquo;] &gt;&gt;&gt; print sorted(words) [u&rsquo;All&rsquo;, u&rsquo;Tr\xe4nen&rsquo;, u&rsquo;Zauber&rsquo;, u&rsquo;aber&rsquo;, u&rsquo;tr\xe4nen&rsquo;, u&rsquo;zum&rsquo;, u&rsquo;\xc4rger&rsquo;, u&rsquo;\xe4rgerlich&rsquo;]  So the umlauts are sorted to the end of the list, which is wrong according to DIN 5007, and lowercase words are sorted after uppercase words, which is also wrong (have a look into your DUDEN, if you don&rsquo;t believe it ;-) ).
-      
-    </div>
-  </div>
-  
 
   
 <nav>
@@ -505,6 +505,9 @@ Anleitungen und FAQs zu Latex:  lshort : Kurze Einfuehrung in Latex l2tabu : Üb
       
 
     
+    
+    
+    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -524,6 +527,8 @@ Anleitungen und FAQs zu Latex:  lshort : Kurze Einfuehrung in Latex l2tabu : Üb
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 

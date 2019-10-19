@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine_learning on Andreas Maier</title>
+    <link>/tags/machine_learning/</link>
+    <description>Recent content in machine_learning on Andreas Maier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can a computer ask questions</title>
+      <link>/post/can-a-computer-ask-questions/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/can-a-computer-ask-questions/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;Computers are useless. They can only give you answers. (Pablo Picasso)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;is-picasso-correct&#34;&gt;Is Picasso correct?&lt;/h2&gt;
+
+&lt;p&gt;In the scientific literature the question if a computer can be made to ask questions is hardly discussed. However literature containing the following terms implicitly discusses this topic:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unsupervised_learning&#34; target=&#34;_blank&#34;&gt;Unsupervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-supervised_learning&#34; target=&#34;_blank&#34;&gt;Semi-supervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Supervised_learning#Active_Learning&#34; target=&#34;_blank&#34;&gt;Active learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;[&lt;a href=&#34;http://evanjones.ca/picasso.html&#34; target=&#34;_blank&#34;&gt;http://evanjones.ca/picasso.html&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eprints.sics.se/3600/&#34; target=&#34;_blank&#34;&gt;Olsson (2009) : A literature survey of active machine learning in the context of natural language processing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ece.wisc.edu/~nowak/hal.pdf&#34; target=&#34;_blank&#34;&gt;Castro et al. (2008) : Active Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.cs.wisc.edu/~jerryzhu/pub/humanSSL.pdf&#34; target=&#34;_blank&#34;&gt;Zhu et al. (2007) : Humans Perform Semi-Supervised Classiﬁcation Too&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf&#34; target=&#34;_blank&#34;&gt;Zhu (2007) : Semi-supervised learning literature survey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=271071&#34; target=&#34;_blank&#34;&gt; Abou-Nasr (1992) : LBAQ: a pattern recognition neural network that learns by askingquestions&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Mining Algorithms</title>
+      <link>/post/data-mining-algorithms/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-mining-algorithms/</guid>
+      <description>
+
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.cs.uh.edu/~ceick/ML/DM_Top10.pdf&#34; target=&#34;_blank&#34;&gt;Wu (2008):Top 10 algorithms in data mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=wl_it_dp_o?ie=UTF8&amp;amp;coliid=I16YL2T3XDP0DR&amp;amp;colid=3IFPI6FN6Y8YX&#34; target=&#34;_blank&#34;&gt;Segaran (2007): Programming Collective Intelligence: Building Smart Web 2.0 Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Paths</title>
+      <link>/post/knowledge-paths/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge-paths/</guid>
+      <description>&lt;p&gt;The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://papercube.peterbergstrom.com&#34; target=&#34;_blank&#34;&gt;PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pathway.screenager.be/&#34; target=&#34;_blank&#34;&gt;PathWay&lt;/a&gt;, see also &lt;a href=&#34;http://download.cnet.com/8301-2007_4-9823587-12.html&#34; target=&#34;_blank&#34;&gt;CNET: New Mac Review: Keep Wikipedia research focused with Pathway&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also helpful would be a Google Scholar API, but it does not exist yet:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/google-ajax-apis/issues/detail?id=109&#34; target=&#34;_blank&#34;&gt;google-ajax-apis: Issue 109: Please add Google Scholar to the API, including # of citations and BibTex reference.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linklens.blogspot.com/2009/04/google-scholar-api-and-papercube.html&#34; target=&#34;_blank&#34;&gt;Google Scholar API and PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But here is a python receipe, which allows to retrieve results from Google Scholar as dictionary&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.activestate.com/recipes/523047/&#34; target=&#34;_blank&#34;&gt;ActiveState Code: Recipe 523047: Search Google scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge generation machines</title>
+      <link>/post/knowledge-generation-machines/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge-generation-machines/</guid>
+      <description>
+
+&lt;p&gt;At the moment we can use internet search machines to find knowledge, that was explicitly written on some webpage. But in my opinion the future of internet search will not be in finding better algorithms to search for this explicit knowledge. Instead I expect a paradigm shift in that future search machines will generate new knowledge, by discovering the implicit associations between webpages. In that sense future search machines will also be knowledge generation machines!&lt;/p&gt;
+
+&lt;p&gt;Some search machines that are already heading towards this paradigm shift:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wolframalpha.com/&#34; target=&#34;_blank&#34;&gt;WolframAlpha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eyeplorer.com&#34; target=&#34;_blank&#34;&gt;Eyeplorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dbpedia.org&#34; target=&#34;_blank&#34;&gt;DBpedia.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://relfinder.dbpedia.org/app.swf&#34; target=&#34;_blank&#34;&gt;DBpedia Relation Finder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pedia.directededge.com/&#34; target=&#34;_blank&#34;&gt;Directed Edge Encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wdm.cs.waikato.ac.nz:8080/&#34; target=&#34;_blank&#34;&gt;Wikipedia Miner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Related to this is &lt;a href=&#34;/post/knowledge-paths/&#34; target=&#34;_blank&#34;&gt;knowledgepaths&lt;/a&gt; , the art of finding connections or paths between webpages and/or scientific publications.&lt;/p&gt;
+
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stanford.edu/~dramage/papers/wikiwalk-textgraphs09.pdf&#34; target=&#34;_blank&#34;&gt;Yeh (2009): WikiWalk: Random walks on Wikipedia for Semantic Relatedness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/smalheiser_statusreport_2005.pdf&#34; target=&#34;_blank&#34;&gt;Smalheiser (2005): Arrowsmith Project: 2005 Status Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/swanson_smalheiser_cmpb_1998.pdf&#34; target=&#34;_blank&#34;&gt;Smalheiser (1998): Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientiﬁc hypotheses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=16352693654480481586&amp;amp;hl=de&#34; target=&#34;_blank&#34;&gt;Google Scholar: Citations of Smalheiser (1998): Using ARROWSMITH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-2.cs.cmu.edu/afs/cs/user/valdes/Mosaic/Elsewhere/swanson.ps&#34; target=&#34;_blank&#34;&gt;Swanson (1997) An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=8385295288451703491&amp;amp;hl=de&#34; target=&#34;_blank&#34;&gt;Google Scholar: Citations of Swanson (1997): An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netflix prize</title>
+      <link>/post/netflix-prize/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/netflix-prize/</guid>
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Netflix_Prize&#34; target=&#34;_blank&#34;&gt;Netflix Prize&lt;/a&gt; will be over soon. As possibly best algorithms emerged:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Support_Vector_Machine&#34; target=&#34;_blank&#34;&gt;Support Vector Machine (SVN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boltzmann_machine#Restricted_Boltzmann_Machine&#34; target=&#34;_blank&#34;&gt;Restricted Boltzmann Machine (RBM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm&#34; target=&#34;_blank&#34;&gt;k-nearest neighbors algorithm (KNN)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/30/30622/1.html&#34; target=&#34;_blank&#34;&gt;Was macht den perfekten Film aus?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.spectrum.ieee.org/computing/software/the-million-dollar-programming-prize/0&#34; target=&#34;_blank&#34;&gt;The million dollar programming prize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://www.netflixprize.com//community/index.php&#34; target=&#34;_blank&#34;&gt;http://www.netflixprize.com//community/index.php&lt;/a&gt; Netflix Prize Forum]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://www.netflixprize.com//community/viewtopic.php?id=1056&#34; target=&#34;_blank&#34;&gt;http://www.netflixprize.com//community/viewtopic.php?id=1056&lt;/a&gt; Netflix Prize Forum: Best Single Algorithm]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://www.timelydevelopment.com/demos/NetflixPrize.aspx&#34; target=&#34;_blank&#34;&gt;http://www.timelydevelopment.com/demos/NetflixPrize.aspx&lt;/a&gt; Timely Development: Netflix Prize]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://www.netflixprize.com//leaderboard&#34; target=&#34;_blank&#34;&gt;http://www.netflixprize.com//leaderboard&lt;/a&gt; Netflix price leaderboard]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://hunch.net/?p=827&#34; target=&#34;_blank&#34;&gt;http://hunch.net/?p=827&lt;/a&gt; Netflix nearly done]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/tech-policy/news/2009/09/netflix-prize-2-privacy-apocalypse-now.ars&#34; target=&#34;_blank&#34;&gt;Netflix 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -74,6 +74,24 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/german/</loc>
+    <lastmod>2019-09-27T21:30:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/old_blog/</loc>
+    <lastmod>2019-03-17T21:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -152,12 +170,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -408,12 +420,6 @@
   <url>
     <loc>/tags/data_privacy/</loc>
     <lastmod>2011-04-11T20:25:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/german/</loc>
-    <lastmod>2019-09-27T21:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   

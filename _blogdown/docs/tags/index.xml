@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>climate</title>
+      <link>/tags/climate/</link>
+      <pubDate>Sun, 17 Mar 2019 21:56:00 +0000</pubDate>
+      
+      <guid>/tags/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>german</title>
       <link>/tags/german/</link>
       <pubDate>Sun, 17 Mar 2019 21:56:00 +0000</pubDate>
@@ -26,6 +35,96 @@
       <pubDate>Sun, 17 Mar 2019 21:56:00 +0000</pubDate>
       
       <guid>/tags/old_blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>/tags/politics/</link>
+      <pubDate>Sun, 17 Mar 2019 21:56:00 +0000</pubDate>
+      
+      <guid>/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Mon, 17 Sep 2018 20:16:00 +0000</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>myopia</title>
+      <link>/tags/myopia/</link>
+      <pubDate>Mon, 17 Sep 2018 20:16:00 +0000</pubDate>
+      
+      <guid>/tags/myopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>/tags/science/</link>
+      <pubDate>Mon, 17 Sep 2018 20:16:00 +0000</pubDate>
+      
+      <guid>/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>russia</title>
+      <link>/tags/russia/</link>
+      <pubDate>Thu, 14 Jun 2018 11:14:00 +0000</pubDate>
+      
+      <guid>/tags/russia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soccer</title>
+      <link>/tags/soccer/</link>
+      <pubDate>Thu, 14 Jun 2018 11:14:00 +0000</pubDate>
+      
+      <guid>/tags/soccer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online_retailer</title>
+      <link>/tags/online_retailer/</link>
+      <pubDate>Sun, 03 Dec 2017 21:13:00 +0000</pubDate>
+      
+      <guid>/tags/online_retailer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Sat, 10 Dec 2016 00:29:00 +0000</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin</title>
+      <link>/tags/berlin/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tax</title>
+      <link>/tags/tax/</link>
+      <pubDate>Thu, 21 Jul 2016 15:00:00 +0000</pubDate>
+      
+      <guid>/tags/tax/</guid>
       <description></description>
     </item>
     
@@ -120,15 +219,6 @@
     </item>
     
     <item>
-      <title>politics</title>
-      <link>/tags/politics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>python</title>
       <link>/tags/python/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -152,6 +242,60 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>/tags/travel/</link>
+      <pubDate>Sun, 10 Jan 2016 18:31:00 +0000</pubDate>
+      
+      <guid>/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bike</title>
+      <link>/tags/bike/</link>
+      <pubDate>Thu, 26 Nov 2015 22:36:00 +0000</pubDate>
+      
+      <guid>/tags/bike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>critique</title>
+      <link>/tags/critique/</link>
+      <pubDate>Sun, 07 Jun 2015 23:03:00 +0000</pubDate>
+      
+      <guid>/tags/critique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine_learning</title>
+      <link>/tags/machine_learning/</link>
+      <pubDate>Sun, 07 Jun 2015 23:03:00 +0000</pubDate>
+      
+      <guid>/tags/machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>/tags/philosophy/</link>
+      <pubDate>Sun, 07 Jun 2015 23:03:00 +0000</pubDate>
+      
+      <guid>/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>religion</title>
+      <link>/tags/religion/</link>
+      <pubDate>Sat, 31 Jan 2015 22:31:00 +0000</pubDate>
+      
+      <guid>/tags/religion/</guid>
       <description></description>
     </item>
     
@@ -260,24 +404,6 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/tags/computer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>internet</title>
-      <link>/tags/internet/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine_learning</title>
-      <link>/tags/machine_learning/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine_learning/</guid>
       <description></description>
     </item>
     

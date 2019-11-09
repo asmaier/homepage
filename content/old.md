@@ -9,4 +9,4 @@ title: Data Archive
 ---
 - [Old Blog](http://asmaier.blogspot.de/)
 - [Old Wiki](http://maierandi.wikidot.com/)
-- [Old Website](https://www.maierandi.com/old/index2.html)
+- [Old Website](https://www.maierandi.com/index2.html)

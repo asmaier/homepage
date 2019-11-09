@@ -13,8 +13,18 @@
   </url>
   
   <url>
+    <loc>/project/filterbubble/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/immospider/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,6 +74,36 @@
   </url>
   
   <url>
+    <loc>/tags/chrome/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/javascript/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2019-10-19T23:09:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/2019-03-17-die-meinung-der-profis/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
   </url>
@@ -71,12 +111,6 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -166,6 +200,30 @@
   </url>
   
   <url>
+    <loc>/tags/aws/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/docker/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-10-19T22:53:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scrapy/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/2017-02-12-das-internet-neuland-fur-krankenkassen/</loc>
     <lastmod>2017-02-12T15:55:00+00:00</lastmod>
   </url>
@@ -173,12 +231,6 @@
   <url>
     <loc>/post/2016-12-10-mehr-zufall-wagen/</loc>
     <lastmod>2016-12-10T00:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/internet/</loc>
-    <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -234,12 +286,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/wikipedia/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -266,12 +312,6 @@
   <url>
     <loc>/tags/github/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/python/</loc>
-    <lastmod>2019-10-19T22:53:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   

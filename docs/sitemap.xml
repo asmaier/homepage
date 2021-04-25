@@ -73,91 +73,6 @@
   </url>
   
   <url>
-    <loc>/tags/facebook/</loc>
-    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2021-01-09-falls-sich-noch/</loc>
-    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/german/</loc>
-    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2021-01-08-ich-hab-das/</loc>
-    <lastmod>2021-01-08T22:33:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2021-01-07-es-gibt-keine/</loc>
-    <lastmod>2021-01-07T18:17:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2021-01-06-das-sieht-auf/</loc>
-    <lastmod>2021-01-06T23:13:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-30-und-am-ende/</loc>
-    <lastmod>2020-12-30T22:05:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-29-ein-fahrradparkhaus-zu/</loc>
-    <lastmod>2020-12-29T22:03:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-28-viele-schulen-sind/</loc>
-    <lastmod>2020-12-28T20:09:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-24-ihr-habt-euch/</loc>
-    <lastmod>2020-12-24T13:04:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-23-seit-der-pandemie/</loc>
-    <lastmod>2020-12-23T10:11:53+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-12-21-ich-trommele-ja/</loc>
-    <lastmod>2020-12-21T23:26:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/computer/</loc>
-    <lastmod>2020-11-30T20:53:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mac_os/</loc>
-    <lastmod>2020-11-30T20:53:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-11-30-macbook-pro-als-wlan-router/</loc>
-    <lastmod>2020-11-30T20:53:17+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/chrome/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
@@ -178,6 +93,11 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -193,6 +113,11 @@
   </url>
   
   <url>
+    <loc>/tags/german/</loc>
+    <lastmod>2019-09-27T21:30:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/old_blog/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
   </url>
@@ -200,6 +125,11 @@
   <url>
     <loc>/tags/politics/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
   </url>
   
   <url>
@@ -905,6 +835,11 @@
   <url>
     <loc>/post/classical-limit-of-quantum-mechanics/</loc>
     <lastmod>2019-10-19T11:41:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer/</loc>
+    <lastmod>2019-10-19T23:09:23+02:00</lastmod>
   </url>
   
   <url>

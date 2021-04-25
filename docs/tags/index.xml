@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Andreas Maier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>facebook</title>
+      <link>/tags/facebook/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>german</title>
+      <link>/tags/german/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer</title>
+      <link>/tags/computer/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac_os</title>
+      <link>/tags/mac_os/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mac_os/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chrome</title>
@@ -17,15 +53,6 @@
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/chrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>/tags/javascript/</link>
-      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     
@@ -39,20 +66,20 @@
     </item>
     
     <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>climate</title>
       <link>/tags/climate/</link>
       <pubDate>Sun, 17 Mar 2019 21:56:00 +0000</pubDate>
       
       <guid>/tags/climate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>german</title>
-      <link>/tags/german/</link>
-      <pubDate>Sun, 17 Mar 2019 21:56:00 +0000</pubDate>
-      
-      <guid>/tags/german/</guid>
       <description></description>
     </item>
     
@@ -183,11 +210,38 @@
     </item>
     
     <item>
+      <title>bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>correlation</title>
+      <link>/tags/correlation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flask</title>
       <link>/tags/flask/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>/tags/github/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
@@ -228,51 +282,6 @@
     </item>
     
     <item>
-      <title>Wikipedia</title>
-      <link>/tags/wikipedia/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/wikipedia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>XML</title>
-      <link>/tags/xml/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/xml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bayesian</title>
-      <link>/tags/bayesian/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>correlation</title>
-      <link>/tags/correlation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/correlation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>/tags/github/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ranking</title>
       <link>/tags/ranking/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -287,6 +296,24 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wikipedia</title>
+      <link>/tags/wikipedia/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wikipedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XML</title>
+      <link>/tags/xml/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/xml/</guid>
       <description></description>
     </item>
     
@@ -440,15 +467,6 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer</title>
-      <link>/tags/computer/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/computer/</guid>
       <description></description>
     </item>
     

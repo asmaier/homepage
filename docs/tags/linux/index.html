@@ -84,7 +84,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.e1e7d56acd0fc6cf045a853d4b1d5fcd.css">
+  <link rel="stylesheet" href="/css/academic.min.efdb45d20aa802e42e18c9d3795b0be0.css">
 
   
 
@@ -392,9 +392,7 @@
     <h2><a href="/post/administration/">Administration</a></h2>
     <div class="article-style">
       
-      Hier stehen Dinge, die man nur als Administrator (Root) bzw. Superuser ausführen kann.
- Administratorrechte bekommen:
-Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte verschaffen. Dazu muß man nur im Bootmanager als Option  init=/bin/bash  eingeben. Das System bootet dann ohne(!!) nach dem Passwort zu fragen in eine bash-shell mit Root-Rechten. Jetzt gibt man einfach  passwd ein und gibt ein neues Passwort ein. Damit hat man das Root-Passwort neu gesetzt und damit sofort Root-Rechte auf diesem Rechner.
+      Funktioniert der rpcinfo-Befehl jedoch ohne Probleme und der Clientrechner findet die Freigaben immer noch nicht, so hilft es häufig die Suse Firewall auf dem Server ab- und dann wieder anzuschalten. Dann funktioniert seltsamerweise oft alles wieder wie es soll. Mehr zum Thema NFS findet man abgesehen vom oben erwähnten Linux-NFS-HOWTO auch auf deutsch unter linuxwiki.
       
     </div>
   </div>
@@ -404,7 +402,6 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <div class="article-style">
       
       Eine gute Einführung übers Archivieren und Komprimieren gibts in bei Welsh et al. 2000. Ich beschränke mich daher im weiteren auf ein paar eigene Bemerkungen.
- *.gz-Dateien entpacken:  gunzip dateiname.gz Achtung: gunzip ersetzt die gepackte Datei (dateiname.gz) mit der ungepackten Version (dateiname). Achtung2: gunzip ist ungeeignet um *.zip-Dateien zu entpacken. gunzip unterstützt nur *.zip-Archive, die aus genau einer Datei bestehen (siehe auch man gunzip). Zum Entpacken von *.zip-Archiven die aus mehrerer Dateien bestehen (was praktisch immer der Fall ist) muß man unzip verwenden.
       
     </div>
   </div>
@@ -413,8 +410,6 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <h2><a href="/post/drucken/">Drucken</a></h2>
     <div class="article-style">
       
-      Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist unter Linux manchmal immer noch ein unnötig komplizierter Vorgang. Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet, ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat, dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen erlaubt.
-      
     </div>
   </div>
   
@@ -422,17 +417,12 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <h2><a href="/post/editoren/">Editoren</a></h2>
     <div class="article-style">
       
-      Welchen Editor verwenden ?  Statt sich unter Linux mit emacs oder vi rumzuquaelen sollte man lieber mal folgende ausprobieren:
- Kate : Kann alles, braucht aber KDE. Trotzdem mein Favorit! Pico : Superschnell, winzig und läuft im Terminalfenster. Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen. (Alternativen sind nano bzw. jpico ein Alias fuer den Joe-Editor) Nedit : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.
-      
     </div>
   </div>
   
   <div>
-    <h2><a href="/post/kde/kde/">KDE</a></h2>
+    <h2><a href="/post/kde/">KDE</a></h2>
     <div class="article-style">
-      
-      Killerfeature: FISH Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen über das FISH-Protokoll. Einfach unter Netzwerkbrowser &ldquo;Netzwerkordner hinzufügen&rdquo; auswählen und im folgenden Dialog ssh auswählen und im folgenden Dialogfenster die Daten des SSH-Servers eingeben. Aufpassen muß man nur, dass FISH anscheinend keine relativen Verzeichnisse wie ~ mag. Also für das Homeverzeichnis auf dem SSH-Server immer /home/[benutzername] oder entsprechendes eingeben. Dann kann man das angegebene Verzeichnis wie ein lokales Verzeichnis benutzen, z.
       
     </div>
   </div>
@@ -441,19 +431,6 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <h2><a href="/post/konvertieren/">Konvertieren</a></h2>
     <div class="article-style">
       
-      Umwandeln von PDF-Dateien in PS-Dateien:
-Manche PDF-Dateien lassen sich nicht mit lpr ausdrucken lassen. Am einfachsten ist es dann, diese Dateien mit  acroread -toPostScript dateiname.pdf  in Postscriptdateien umzuwandeln. Mehr zu den Kommandozeilenparametern des Acrobat Reader unter Linux findet man mit  acroread -help oder  acroread -helpall Umwandeln von (einseitigen) PS-Dateien in GIF-Dateien:
-Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMagick-Tools. Sind diese installiert, so kann man eine einzelne PS-Datei z.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/post/ssh/">SSH</a></h2>
-    <div class="article-style">
-      
-      SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):  ssh -X -l username computername Die Option -X aktiviert dabei das X-Tunneling. Ein kleines -x würde hingegen X-Tunneling explizit abschalten. Kopieren mit SCP:  scp -r username@computername:pfad . Das erste Argument von scp ist immer die Quelldatei (bzw. Verzeichnis), das zweite das Zielverzeichnis (hier ., das aktuelle Verzeichnis). Die Option -r erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung.
-      
     </div>
   </div>
   
@@ -461,8 +438,12 @@ Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMag
     <h2><a href="/post/shell/">Shell</a></h2>
     <div class="article-style">
       
-      Die Kommandozeile (bzw. die Shell oder das Terminal) Wenn hier die Rede von Shell ist ist immer die bash-Shell (Standard-Kommandozeileninterpreter unter Linux und Mac OS X) gemeint. Interessante Alternativen zur bash sind die Z-Shell (zsh) (bietet unter anderm TAB-Completion nicht nur für Befehle sondern auch für Befehlsoptionen, siehe auch Guckes,Plenz: Zsh. Die magische Shell) und die Windows Power Shell die einen objektorientierten Ansatz verfolgt.
- Wer auf der Suche nach den beliebtesten Bash-Tricks ist, dem sei www.
+      ; &lt;&lt;&gt;&gt; DiG 9.3.4 &lt;&lt;&gt;&gt; www.google.de ;; global options: printcmd ;; Got answer: ;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 42579 ;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 7, ADDITIONAL: 7
+;; QUESTION SECTION: ;www.google.de. IN A
+;; ANSWER SECTION: www.google.de. 72639 IN CNAME www.google.com. &hellip;
+;; AUTHORITY SECTION: l.google.com. 72822 IN NS f.l.google.com. &hellip;
+;; ADDITIONAL SECTION: a.l.google.com. 160307 IN A 209.85.139.9 &hellip;
+;; Query time: 0 msec ;; SERVER: 10.
       
     </div>
   </div>
@@ -471,8 +452,14 @@ Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMag
     <h2><a href="/post/shell-skripte/">Shell-Skripte</a></h2>
     <div class="article-style">
       
-      Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte nötig:
- Eine Textdatei erzeugen mit Namen  dateiname.sh Die erste Zeile der Textdatei muß lauten: #!/bin/sh Im Anschluss an diese Zeile schreibt man das Shell-Skript. Aber Achtung: Bei der Angabe von Dateinamen in Skripten sollte man immer den vollen Dateipfad angeben, sonst funktioniert das Skript nicht von jedem Verzeichnis aus. Dies ist z.B. nötig, wenn ein Skript als Icon im KDE-Panel gestartet werden soll.
+      &lt;li&gt;Man kann ein Skript auch direkt ausführen, wenn man mit &lt;pre&gt;&gt; chmod u+x dateiname.sh&lt;/pre&gt; das Skript vorher ausführbar gemacht hat (Mehr zum &lt;tt&gt;chmod&lt;/tt&gt;-Befehl gibt es &lt;a href=&quot;http://eva-marbach.net/handbuch/u-chmod.htm&quot;&gt;hier&lt;/a&gt;.). Danach kann man es direkt starten mittels &lt;pre&gt;&gt; ./dateiname.sh&lt;/pre&gt;&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;  
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/ssh/">SSH</a></h2>
+    <div class="article-style">
       
     </div>
   </div>
@@ -585,7 +572,7 @@ Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMag
     
     
     
-    <script src="/js/academic.min.98ea4faec9c45f666e4a8a91902fa456.js"></script>
+    <script src="/js/academic.min.e96667673477f82d438d0745ca6243dd.js"></script>
 
     
 

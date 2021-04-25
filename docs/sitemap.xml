@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -60,7 +60,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -74,33 +73,118 @@
   </url>
   
   <url>
-    <loc>/tags/chrome/</loc>
-    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/facebook/</loc>
+    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/javascript/</loc>
-    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/post/2021-01-09-falls-sich-noch/</loc>
+    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/german/</loc>
+    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-09T21:10:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-01-08-ich-hab-das/</loc>
+    <lastmod>2021-01-08T22:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-01-07-es-gibt-keine/</loc>
+    <lastmod>2021-01-07T18:17:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-01-06-das-sieht-auf/</loc>
+    <lastmod>2021-01-06T23:13:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-30-und-am-ende/</loc>
+    <lastmod>2020-12-30T22:05:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-29-ein-fahrradparkhaus-zu/</loc>
+    <lastmod>2020-12-29T22:03:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-28-viele-schulen-sind/</loc>
+    <lastmod>2020-12-28T20:09:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-24-ihr-habt-euch/</loc>
+    <lastmod>2020-12-24T13:04:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-23-seit-der-pandemie/</loc>
+    <lastmod>2020-12-23T10:11:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-21-ich-trommele-ja/</loc>
+    <lastmod>2020-12-21T23:26:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer/</loc>
+    <lastmod>2020-11-30T20:53:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mac_os/</loc>
+    <lastmod>2020-11-30T20:53:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-30-macbook-pro-als-wlan-router/</loc>
+    <lastmod>2020-11-30T20:53:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chrome/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/internet/</loc>
     <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/javascript/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/climate/</loc>
+    <lastmod>2019-03-17T21:56:00+00:00</lastmod>
   </url>
   
   <url>
@@ -109,38 +193,18 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/climate/</loc>
-    <lastmod>2019-03-17T21:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/german/</loc>
-    <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/old_blog/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/politics/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -149,26 +213,23 @@
   </url>
   
   <url>
+    <loc>/tags/health/</loc>
+    <lastmod>2018-09-17T20:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/health/</loc>
-    <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/myopia/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/science/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -179,13 +240,11 @@
   <url>
     <loc>/tags/russia/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/soccer/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -196,31 +255,26 @@
   <url>
     <loc>/tags/online_retailer/</loc>
     <lastmod>2017-12-03T21:13:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/aws/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/docker/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/python/</loc>
     <lastmod>2019-10-19T22:53:53+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/scrapy/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -236,7 +290,6 @@
   <url>
     <loc>/tags/berlin/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -252,79 +305,66 @@
   <url>
     <loc>/tags/tax/</loc>
     <lastmod>2016-07-21T15:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/flask/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/heroku/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/microsoft-exchange-server/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/nlp/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/nltk/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/wikipedia/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/xml/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/bayesian/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/correlation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/flask/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/github/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/heroku/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/microsoft-exchange-server/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nltk/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/ranking/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/translation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wikipedia/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/xml/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -335,7 +375,6 @@
   <url>
     <loc>/tags/travel/</loc>
     <lastmod>2016-01-10T18:31:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -344,14 +383,13 @@
   </url>
   
   <url>
-    <loc>/post/2015-11-26-neue-ideen-fur-die-fahrradsicherheit/</loc>
+    <loc>/tags/bike/</loc>
     <lastmod>2015-11-26T22:36:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bike/</loc>
+    <loc>/post/2015-11-26-neue-ideen-fur-die-fahrradsicherheit/</loc>
     <lastmod>2015-11-26T22:36:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -360,26 +398,23 @@
   </url>
   
   <url>
-    <loc>/post/2015-06-07-superintelligence-critique-of-nick/</loc>
-    <lastmod>2015-06-07T23:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/critique/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/machine_learning/</loc>
     <lastmod>2019-10-19T22:43:21+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/philosophy/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2015-06-07-superintelligence-critique-of-nick/</loc>
+    <lastmod>2015-06-07T23:03:00+00:00</lastmod>
   </url>
   
   <url>
@@ -388,14 +423,13 @@
   </url>
   
   <url>
-    <loc>/post/2015-01-31-selig-sind-die-humorvollen-und-weisen/</loc>
+    <loc>/tags/religion/</loc>
     <lastmod>2015-01-31T22:31:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/religion/</loc>
+    <loc>/post/2015-01-31-selig-sind-die-humorvollen-und-weisen/</loc>
     <lastmod>2015-01-31T22:31:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -451,31 +485,26 @@
   <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/cloud-computing/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/philipp-berndt/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -549,14 +578,13 @@
   </url>
   
   <url>
-    <loc>/post/2011-04-11-zensus-2011-stasi-2011/</loc>
+    <loc>/tags/data_privacy/</loc>
     <lastmod>2011-04-11T20:25:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/data_privacy/</loc>
+    <loc>/post/2011-04-11-zensus-2011-stasi-2011/</loc>
     <lastmod>2011-04-11T20:25:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -657,55 +685,46 @@
   <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/adaptive-mesh-refinement/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/fluid-mechanics/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/galaxy-clusters/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/j.-c.-niemeyer/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/l.-iapichino/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/simulation/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/subgrid-scale-model/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/turbulence/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -716,7 +735,6 @@
   <url>
     <loc>/authors/w.-schmidt/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -827,7 +845,6 @@
   <url>
     <loc>/tags/old_website/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -871,6 +888,16 @@
   </url>
   
   <url>
+    <loc>/tags/big_data/</loc>
+    <lastmod>2019-10-19T21:10:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/books/</loc>
+    <lastmod>2019-10-19T11:29:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/can-a-computer-ask-questions/</loc>
     <lastmod>2019-10-19T11:33:46+02:00</lastmod>
   </url>
@@ -911,13 +938,13 @@
   </url>
   
   <url>
-    <loc>/post/knowledge-paths/</loc>
-    <lastmod>2019-10-19T21:10:05+02:00</lastmod>
+    <loc>/post/knowledge-generation-machines/</loc>
+    <lastmod>2019-10-19T21:06:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/knowledge-generation-machines/</loc>
-    <lastmod>2019-10-19T21:06:54+02:00</lastmod>
+    <loc>/post/knowledge-paths/</loc>
+    <lastmod>2019-10-19T21:10:05+02:00</lastmod>
   </url>
   
   <url>
@@ -941,6 +968,21 @@
   </url>
   
   <url>
+    <loc>/tags/old_wiki/</loc>
+    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/physics/</loc>
+    <lastmod>2019-10-19T23:05:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/programming/</loc>
+    <lastmod>2019-10-19T22:53:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/programming-hint/</loc>
     <lastmod>2019-10-19T22:49:43+02:00</lastmod>
   </url>
@@ -961,50 +1003,13 @@
   </url>
   
   <url>
-    <loc>/post/top-level-domains/</loc>
-    <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/big_data/</loc>
-    <lastmod>2019-10-19T21:10:05+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/books/</loc>
-    <lastmod>2019-10-19T11:29:06+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/computer/</loc>
-    <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/old_wiki/</loc>
-    <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/physics/</loc>
-    <lastmod>2019-10-19T23:05:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/programming/</loc>
-    <lastmod>2019-10-19T22:53:53+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/technology/</loc>
     <lastmod>2019-10-19T11:20:00+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/top-level-domains/</loc>
+    <lastmod>2019-10-19T23:09:23+02:00</lastmod>
   </url>
   
   <url>
@@ -1160,13 +1165,11 @@
   <url>
     <loc>/tags/detonation/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/supernovae/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1240,7 +1243,7 @@
   </url>
   
   <url>
-    <loc>/post/kde/kde/</loc>
+    <loc>/post/kde/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
   </url>
   
@@ -1255,6 +1258,11 @@
   </url>
   
   <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2019-09-27T21:30:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/programmieren/</loc>
     <lastmod>2019-09-27T21:04:47+02:00</lastmod>
   </url>
@@ -1262,11 +1270,6 @@
   <url>
     <loc>/post/python/</loc>
     <lastmod>2019-09-27T21:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/ssh/</loc>
-    <lastmod>2019-09-27T21:12:52+02:00</lastmod>
   </url>
   
   <url>
@@ -1280,14 +1283,13 @@
   </url>
   
   <url>
-    <loc>/post/tools/</loc>
-    <lastmod>2019-09-27T20:59:29+02:00</lastmod>
+    <loc>/post/ssh/</loc>
+    <lastmod>2019-09-27T21:12:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/linux/</loc>
-    <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/post/tools/</loc>
+    <lastmod>2019-09-27T20:59:29+02:00</lastmod>
   </url>
   
   <url>
@@ -1313,11 +1315,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
 </urlset>

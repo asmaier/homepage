@@ -18,15 +18,14 @@
       
       <guid>/post/ai-books/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+neural+network&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Neural Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+artificial+intelligence&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+collective+intelligence&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Collective Intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+swarm+intelligence&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Swarm Intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+data+mining&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Data Mining&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+pattern+recognition&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Pattern Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+neural+network&amp;amp;btnG=Search&#34;&gt;Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+artificial+intelligence&amp;amp;btnG=Search&#34;&gt;Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+collective+intelligence&amp;amp;btnG=Search&#34;&gt;Collective Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+swarm+intelligence&amp;amp;btnG=Search&#34;&gt;Swarm Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+data+mining&amp;amp;btnG=Search&#34;&gt;Data Mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book+pattern+recognition&amp;amp;btnG=Search&#34;&gt;Pattern Recognition&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;All the links above are generated using the trick to ask &lt;a href=&#34;http://scholar.google.com/&#34; target=&#34;_blank&#34;&gt;google scholar&lt;/a&gt; something like &amp;ldquo;&lt;code&gt;book [topic]&lt;/code&gt;&amp;rdquo; where &lt;code&gt;[topic]&lt;/code&gt; is the topic you are interested in.&lt;/p&gt;
+&lt;p&gt;All the links above are generated using the trick to ask &lt;a href=&#34;http://scholar.google.com/&#34;&gt;google scholar&lt;/a&gt; something like &amp;ldquo;&lt;code&gt;book [topic]&lt;/code&gt;&amp;rdquo; where &lt;code&gt;[topic]&lt;/code&gt; is the topic you are interested in.&lt;/p&gt;
 </description>
     </item>
     
@@ -40,26 +39,21 @@
 &lt;li&gt;General Relativity (GR) is a classical field theory (whatever that means, could be something like Electrodynamics or something like Fluiddynamics)&lt;/li&gt;
 &lt;li&gt;There is no gravitational force.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;ol&gt;
+&lt;ol start=&#34;0&#34;&gt;
 &lt;li&gt;Principle of Mach: The distribution of matter and energy defines the geometry of space-time&lt;/li&gt;
 &lt;li&gt;Principle of Equivalence: Acceleration = homogenous (in time and space) gravitational field;&lt;/li&gt;
 &lt;li&gt;Principle of Covariance: All coordinate systems are equal. The equations of physics should have the same form in all coordinate systems. Use of Tensor equations allows to accomplish that.&lt;/li&gt;
 &lt;li&gt;In the limit of vanishing gravity GR becomes special relativity&lt;/li&gt;
-&lt;li&gt;In the limit of small velocities v&amp;lt;&amp;lt;c and weak gravity GR becomes Newtonian gravity&lt;/li&gt;
+&lt;li&gt;In the limit of small velocities v&amp;laquo;c and weak gravity GR becomes Newtonian gravity&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;Consequences:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;intertial mass = gravitational mass (= rest mass + kinetic energy + internal energy + EM energy+.. all kinds of energy);&lt;/li&gt;
 &lt;li&gt;locally (in time and space) you cannot distinguish between a gravitational field and acceleration. Locally (in time and space) you can always transform gravity away by using an accelerated coordinate system.&lt;/li&gt;
 &lt;li&gt;Globally you cannot transform away a gravitational field!&lt;/li&gt;
 &lt;li&gt;A charged particle which is accelerated in a EM field will radiate; a charged particle which is accelerated in a gravitational field will not! Reason: The EM field will only accelerate the charge, not the field of the charge. So the field of the charge is left behind as radiation. The gravitational field will accelerate the particle and it&amp;rsquo;s EM field in the same way. Nothing is left behind as radiation. Does that mean, a charge only radiates if it is accelerated away from a geodesic?&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Ideas:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Gravity is a nonlocal effect, since locally it can be transformed away =&amp;gt; Only non-local effects in quantum theory are affected by gravity&lt;/li&gt;
 &lt;li&gt;Einsteins field equations allow solutions with closed timelike loops which violate causality (Gödel universum, Tipler cylinder). Global causality is not included as assumption in GR!&lt;/li&gt;
@@ -77,17 +71,13 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/battery/</guid>
-      <description>
-
-&lt;p&gt;Lithium metal-air batteries can store a tremendous amount of energy&amp;ndash;in theory, more than 5,000 watt-hours per kilogram. That&amp;rsquo;s more than ten-times as much as today&amp;rsquo;s high-performance lithium-ion batteries, and &lt;strong&gt;more than&lt;/strong&gt; another class of energy-storage devices: &lt;strong&gt;fuel cells&lt;/strong&gt;. Instead of containing a second reactant inside the cell, these batteries react with oxygen in the air that&amp;rsquo;s pulled in as needed, making them lightweight and compact.&lt;/p&gt;
-
+      <description>&lt;p&gt;Lithium metal-air batteries can store a tremendous amount of energy&amp;ndash;in theory, more than 5,000 watt-hours per kilogram. That&amp;rsquo;s more than ten-times as much as today&amp;rsquo;s high-performance lithium-ion batteries, and &lt;strong&gt;more than&lt;/strong&gt; another class of energy-storage devices: &lt;strong&gt;fuel cells&lt;/strong&gt;. Instead of containing a second reactant inside the cell, these batteries react with oxygen in the air that&amp;rsquo;s pulled in as needed, making them lightweight and compact.&lt;/p&gt;
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.technologyreview.com/energy/22780/&#34; target=&#34;_blank&#34;&gt;IBM Invests in Battery Research&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/IBM-will-Lithium-Luft-Batterien-fuer-Elektroautos-entwickeln--/meldung/141134&#34; target=&#34;_blank&#34;&gt;Lithium-Luft-Batterien für Elektroautos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.epsrc.ac.uk/PressReleases/oxlithbattery.htm&#34; target=&#34;_blank&#34;&gt;Air-fuelled Battery Could Last Up to 10 Times Longer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ch-www.st-and.ac.uk/staff/pgb/group/lio.html&#34; target=&#34;_blank&#34;&gt;Lithium Oxygen Battery&lt;/a&gt;&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.technologyreview.com/energy/22780/&#34;&gt;IBM Invests in Battery Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/IBM-will-Lithium-Luft-Batterien-fuer-Elektroautos-entwickeln--/meldung/141134&#34;&gt;Lithium-Luft-Batterien für Elektroautos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.epsrc.ac.uk/PressReleases/oxlithbattery.htm&#34;&gt;Air-fuelled Battery Could Last Up to 10 Times Longer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ch-www.st-and.ac.uk/staff/pgb/group/lio.html&#34;&gt;Lithium Oxygen Battery&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -98,31 +88,24 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/can-a-computer-ask-questions/</guid>
-      <description>
-
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;Computers are useless. They can only give you answers. (Pablo Picasso)&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;h2 id=&#34;is-picasso-correct&#34;&gt;Is Picasso correct?&lt;/h2&gt;
-
 &lt;p&gt;In the scientific literature the question if a computer can be made to ask questions is hardly discussed. However literature containing the following terms implicitly discusses this topic:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unsupervised_learning&#34; target=&#34;_blank&#34;&gt;Unsupervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-supervised_learning&#34; target=&#34;_blank&#34;&gt;Semi-supervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Supervised_learning#Active_Learning&#34; target=&#34;_blank&#34;&gt;Active learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unsupervised_learning&#34;&gt;Unsupervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-supervised_learning&#34;&gt;Semi-supervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Supervised_learning#Active_Learning&#34;&gt;Active learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;[&lt;a href=&#34;http://evanjones.ca/picasso.html&#34; target=&#34;_blank&#34;&gt;http://evanjones.ca/picasso.html&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eprints.sics.se/3600/&#34; target=&#34;_blank&#34;&gt;Olsson (2009) : A literature survey of active machine learning in the context of natural language processing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ece.wisc.edu/~nowak/hal.pdf&#34; target=&#34;_blank&#34;&gt;Castro et al. (2008) : Active Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pages.cs.wisc.edu/~jerryzhu/pub/humanSSL.pdf&#34; target=&#34;_blank&#34;&gt;Zhu et al. (2007) : Humans Perform Semi-Supervised Classiﬁcation Too&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf&#34; target=&#34;_blank&#34;&gt;Zhu (2007) : Semi-supervised learning literature survey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=271071&#34; target=&#34;_blank&#34;&gt; Abou-Nasr (1992) : LBAQ: a pattern recognition neural network that learns by askingquestions&lt;/a&gt;&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;[http://evanjones.ca/picasso.html]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eprints.sics.se/3600/&#34;&gt;Olsson (2009) : A literature survey of active machine learning in the context of natural language processing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ece.wisc.edu/~nowak/hal.pdf&#34;&gt;Castro et al. (2008) : Active Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.cs.wisc.edu/~jerryzhu/pub/humanSSL.pdf&#34;&gt;Zhu et al. (2007) : Humans Perform Semi-Supervised Classiﬁcation Too&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf&#34;&gt;Zhu (2007) : Semi-supervised learning literature survey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=271071&#34;&gt; Abou-Nasr (1992) : LBAQ: a pattern recognition neural network that learns by askingquestions&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -134,18 +117,18 @@
       
       <guid>/post/classical-limit-of-quantum-mechanics/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The semi-classical limit corresponds to $ h\rightarrow 0$, which can be seen to be equivalent to $ m\rightarrow\infty $ , the mass increasing so that it behaves classically. (from &lt;a href=&#34;http://en.wikipedia.org/wiki/Dynamical_billiards&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Dynamical_billiards&lt;/a&gt;  )&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;An increasing mass can be seen as an increase in the number $ N $ of involved particles with mass $ m_0 $. So is the limit of a $N$-particle quantum system for  $ N\rightarrow\infty $ a classical system??&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The semi-classical limit corresponds to $ h\rightarrow 0$, which can be seen to be equivalent to $ m\rightarrow\infty $ , the mass increasing so that it behaves classically. (from &lt;a href=&#34;http://en.wikipedia.org/wiki/Dynamical_billiards&#34;&gt;http://en.wikipedia.org/wiki/Dynamical_billiards&lt;/a&gt;  )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An increasing mass can be seen as an increase in the number $ N $ of involved particles with mass $ m_0 $. So is the limit of a $N$-particle quantum system for  $ N\rightarrow\infty $ a classical system??&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;See also:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.example.com&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.sciencemag.org/cgi/content/abstract/325/5941/722&#34; target=&#34;_blank&#34;&gt;http://www.sciencemag.org/cgi/content/abstract/325/5941/722&lt;/a&gt;  &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.example.com&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/30/30882/1.html&#34; target=&#34;_blank&#34;&gt;http://www.heise.de/tp/r4/artikel/30/30882/1.html&lt;/a&gt;  &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.example.com&#34;&gt;&lt;a href=&#34;http://www.sciencemag.org/cgi/content/abstract/325/5941/722&#34;&gt;http://www.sciencemag.org/cgi/content/abstract/325/5941/722&lt;/a&gt;  &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.example.com&#34;&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/30/30882/1.html&#34;&gt;http://www.heise.de/tp/r4/artikel/30/30882/1.html&lt;/a&gt;  &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Je mehr Strompakete der Schwingkreis enthält, beobachten die Autoren, desto schneller scheint er sie auch wieder zu verlieren. Der quantenmechanische Zauber zeigt sich, so die allgemeine Beobachtung, nur für sehr gut kontrollierte Systeme mit wenig Teilchen. Es wäre interessant zu verstehen, wie groß das größte System sein kann, an dem man die Quantenmechanik noch beobachten kann. Das nämlich würde uns besser erklären, warum diese mysteriösen Phänomene in unserer Alltagswelt keine Rolle spielen. Und obwohl vier keine große Zahl zu sein scheint, ist dieses Ergebnis doch ein großer Schritt auf dem Weg dorthin.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -158,13 +141,10 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/data-mining-algorithms/</guid>
-      <description>
-
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://www2.cs.uh.edu/~ceick/ML/DM_Top10.pdf&#34; target=&#34;_blank&#34;&gt;Wu (2008):Top 10 algorithms in data mining&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=wl_it_dp_o?ie=UTF8&amp;amp;coliid=I16YL2T3XDP0DR&amp;amp;colid=3IFPI6FN6Y8YX&#34; target=&#34;_blank&#34;&gt;Segaran (2007): Programming Collective Intelligence: Building Smart Web 2.0 Applications&lt;/a&gt;&lt;/li&gt;
+      <description>&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.cs.uh.edu/~ceick/ML/DM_Top10.pdf&#34;&gt;Wu (2008):Top 10 algorithms in data mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=wl_it_dp_o?ie=UTF8&amp;amp;coliid=I16YL2T3XDP0DR&amp;amp;colid=3IFPI6FN6Y8YX&#34;&gt;Segaran (2007): Programming Collective Intelligence: Building Smart Web 2.0 Applications&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -175,14 +155,11 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/fluid-dynamics-of-spacetime/</guid>
-      <description>
-
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/0806.3165&#34; target=&#34;_blank&#34;&gt;Christopher Eling (2008) : Hydrodynamics of spacetime and vacuum viscosity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/gr-qc/0602001&#34; target=&#34;_blank&#34;&gt;Christopher Eling et al. (2006) : Non-equilibrium Thermodynamics of Spacetime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/gr-qc/9504004&#34; target=&#34;_blank&#34;&gt;Ted Jacobson (1995) : Thermodynamics of Spacetime: The Einstein Equation of State&lt;/a&gt;&lt;/li&gt;
+      <description>&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/0806.3165&#34;&gt;Christopher Eling (2008) : Hydrodynamics of spacetime and vacuum viscosity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/gr-qc/0602001&#34;&gt;Christopher Eling et al. (2006) : Non-equilibrium Thermodynamics of Spacetime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/gr-qc/9504004&#34;&gt;Ted Jacobson (1995) : Thermodynamics of Spacetime: The Einstein Equation of State&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -193,21 +170,16 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/graphs-in-sql-databases/</guid>
-      <description>
-
-&lt;h2 id=&#34;sql&#34;&gt;SQL&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;sql&#34;&gt;SQL&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://techportal.ibuildings.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/&#34; target=&#34;_blank&#34;&gt;Graphs in the database: SQL meets social networks – techPortal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.artfulsoftware.com/mysqlbook/sampler/mysqled1ch20.html&#34; target=&#34;_blank&#34;&gt;Working with Graphs in MySQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techportal.ibuildings.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/&#34;&gt;Graphs in the database: SQL meets social networks – techPortal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.artfulsoftware.com/mysqlbook/sampler/mysqled1ch20.html&#34;&gt;Working with Graphs in MySQL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;graph-database&#34;&gt;Graph database&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.neo4j.org/2009/09/social-networks-in-database-using-graph.html&#34; target=&#34;_blank&#34;&gt;Social networks in the database: using a graph database&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://highscalability.com/neo4j-graph-database-kicks-buttox&#34; target=&#34;_blank&#34;&gt;Neo4j - a Graph Database that Kicks Buttox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2009/6/15/large-scale-graph-computing-at-google.html&#34; target=&#34;_blank&#34;&gt;Large-scale Graph Computing at Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.neo4j.org/2009/09/social-networks-in-database-using-graph.html&#34;&gt;Social networks in the database: using a graph database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/neo4j-graph-database-kicks-buttox&#34;&gt;Neo4j - a Graph Database that Kicks Buttox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://highscalability.com/blog/2009/6/15/large-scale-graph-computing-at-google.html&#34;&gt;Large-scale Graph Computing at Google&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -218,14 +190,10 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/gravitational-cherenkov-radiation/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cherenkov_radiation&#34; target=&#34;_blank&#34;&gt;Cherenkov Radiation&lt;/a&gt; is a very interesting phenomenom. Recently I asked myself, if such a phenomenom allso exists for gravity in the sense, that if a particle moves faster than the speed of gravity in a medium, it should radiate gravitational cherenkov radiation. I found an article [((bibcite 1))], that precisely predicts that. However in there article the theorists use it to constrain vacuum speed of gravity. They do not consider the case that gravity in a medium might(?) have a speed lower than the vacuum speed of gravity.&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cherenkov_radiation&#34;&gt;Cherenkov Radiation&lt;/a&gt; is a very interesting phenomenom. Recently I asked myself, if such a phenomenom allso exists for gravity in the sense, that if a particle moves faster than the speed of gravity in a medium, it should radiate gravitational cherenkov radiation. I found an article [((bibcite 1))], that precisely predicts that. However in there article the theorists use it to constrain vacuum speed of gravity. They do not consider the case that gravity in a medium might(?) have a speed lower than the vacuum speed of gravity.&lt;/p&gt;
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/hep-ph/0106220&#34; target=&#34;_blank&#34;&gt;Moore, Nelson (2001) : Lower Bound on the Propagation Speed of Gravity from Gravitational Cherenkov Radiation&lt;/a&gt;&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/hep-ph/0106220&#34;&gt;Moore, Nelson (2001) : Lower Bound on the Propagation Speed of Gravity from Gravitational Cherenkov Radiation&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -243,22 +211,14 @@ $$G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} g_{\mu\nu}R$$
 and
 $$T_{\mu \nu} = g_{\mu \alpha} g_{\nu \beta} T^{\alpha \beta}$$
 and
-$$T^{\alpha \beta} \, = \left(\rho + \frac{p}{c^2}\right)u^{\alpha}u^{\beta} + p g^{\alpha \beta}$$&lt;/p&gt;
-
+$$T^{\alpha \beta} , = \left(\rho + \frac{p}{c^2}\right)u^{\alpha}u^{\beta} + p g^{\alpha \beta}$$&lt;/p&gt;
 &lt;p&gt;Eq.([[eref field]]) is the famous Einstein field equation connecting the Einstein tensor ([[eref ein]]) with the energy-momentum tensor ([[eref energy]]). The energy-momentum tensor in the form here is the stress-energy tensor of fluid (and I think this is the form Einstein used originally) and basically represent the relativistic euler equations.&lt;/p&gt;
-
 &lt;p&gt;So the right  hand side of Einsteins field equation is originally based on fluid dynamics.   What about the left hand side?&lt;/p&gt;
-
 &lt;p&gt;But first what do we (or I ;-) ) mean based on fluid mechanics? The non-relativistic fluid mechanic equations can be derived from the Boltzmann equation via so called Chapman-Enskog expansion (what about Lattice-Boltzmann methods?). I&amp;rsquo;m not sure at the moment if something similar can or has been done in the relativistic case, so starting from some relativistic Boltzmann equation deriving the relativistic energy.momentum tensor.&lt;/p&gt;
-
-&lt;p&gt;(But see for example here: [&lt;a href=&#34;http://arxiv.org/abs/0708.3252]&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/abs/0708.3252]&lt;/a&gt;)&lt;/p&gt;
-
+&lt;p&gt;(But see for example here: [http://arxiv.org/abs/0708.3252])&lt;/p&gt;
 &lt;p&gt;However, if we can derive the right hand side of Einsteins field equations from a relativistic Boltzmann equation, wouldn&amp;rsquo;t it be logical to assume the same about the left hand side? So can we find an underlying Boltzmann equation to space time??&lt;/p&gt;
-
 &lt;p&gt;I believe this is an intriguing question! It would also render attempt to somehow quantize gravity useless, in the same sense as it is useless to try to quantize the fluid dynamic equations.&lt;/p&gt;
-
 &lt;p&gt;Remarks:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The equilibrium distribution of the non-relativistic Boltzmann equation it the Maxwell-Boltzmann distribution.&lt;/li&gt;
 &lt;li&gt;The equilibrium distribution of the relativistic Boltzmann equation is the Jüttner distribution!&lt;/li&gt;
@@ -273,44 +233,13 @@ $$T^{\alpha \beta} \, = \left(\rho + \frac{p}{c^2}\right)u^{\alpha}u^{\beta} + p
       
       <guid>/post/hawking-radiation/</guid>
       <description>&lt;p&gt;From calculations of quantum tunneling through the horizon of a metric (black hole, Rindler..) Hawking/Unruh temperature can be calculated!&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/arXiv:0710.0612&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/abs/arXiv:0710.0612&lt;/a&gt; Ryan Kerner: Fermions Tunnelling from Black Holes] _&lt;/li&gt;
+&lt;li&gt;[http://arxiv.org/abs/arXiv:0710.0612 Ryan Kerner: Fermions Tunnelling from Black Holes] _&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Using this method it is recently claimed that the so called &lt;a href=&#34;http://en.wikipedia.org/wiki/Black_hole_information_paradox&#34; target=&#34;_blank&#34;&gt;Black hole information paradox&lt;/a&gt; can be solved:&lt;/p&gt;
-
+&lt;p&gt;Using this method it is recently claimed that the so called &lt;a href=&#34;http://en.wikipedia.org/wiki/Black_hole_information_paradox&#34;&gt;Black hole information paradox&lt;/a&gt; can be solved:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/0903.0893&#34; target=&#34;_blank&#34;&gt;Zhang et al. (2009): Hidden Messenger Revealed in Hawking Radiation: a Resolution to the Paradox of Black Hole Information Loss&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/0903.0893&#34;&gt;Zhang et al. (2009): Hidden Messenger Revealed in Hawking Radiation: a Resolution to the Paradox of Black Hole Information Loss&lt;/a&gt;
 The answer is, that the information that seems to be lost when matter falls into a black hole is in fact completely carried away by Hawking radiation. So in the whole process no information is lost.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Knowledge Paths</title>
-      <link>/post/knowledge-paths/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>/post/knowledge-paths/</guid>
-      <description>&lt;p&gt;The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://papercube.peterbergstrom.com&#34; target=&#34;_blank&#34;&gt;PaperCube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pathway.screenager.be/&#34; target=&#34;_blank&#34;&gt;PathWay&lt;/a&gt;, see also &lt;a href=&#34;http://download.cnet.com/8301-2007_4-9823587-12.html&#34; target=&#34;_blank&#34;&gt;CNET: New Mac Review: Keep Wikipedia research focused with Pathway&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Also helpful would be a Google Scholar API, but it does not exist yet:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/google-ajax-apis/issues/detail?id=109&#34; target=&#34;_blank&#34;&gt;google-ajax-apis: Issue 109: Please add Google Scholar to the API, including # of citations and BibTex reference.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://linklens.blogspot.com/2009/04/google-scholar-api-and-papercube.html&#34; target=&#34;_blank&#34;&gt;Google Scholar API and PaperCube&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But here is a python receipe, which allows to retrieve results from Google Scholar as dictionary&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://code.activestate.com/recipes/523047/&#34; target=&#34;_blank&#34;&gt;ActiveState Code: Recipe 523047: Search Google scholar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -321,33 +250,49 @@ The answer is, that the information that seems to be lost when matter falls into
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/knowledge-generation-machines/</guid>
-      <description>
-
-&lt;p&gt;At the moment we can use internet search machines to find knowledge, that was explicitly written on some webpage. But in my opinion the future of internet search will not be in finding better algorithms to search for this explicit knowledge. Instead I expect a paradigm shift in that future search machines will generate new knowledge, by discovering the implicit associations between webpages. In that sense future search machines will also be knowledge generation machines!&lt;/p&gt;
-
+      <description>&lt;p&gt;At the moment we can use internet search machines to find knowledge, that was explicitly written on some webpage. But in my opinion the future of internet search will not be in finding better algorithms to search for this explicit knowledge. Instead I expect a paradigm shift in that future search machines will generate new knowledge, by discovering the implicit associations between webpages. In that sense future search machines will also be knowledge generation machines!&lt;/p&gt;
 &lt;p&gt;Some search machines that are already heading towards this paradigm shift:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wolframalpha.com/&#34; target=&#34;_blank&#34;&gt;WolframAlpha&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://eyeplorer.com&#34; target=&#34;_blank&#34;&gt;Eyeplorer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dbpedia.org&#34; target=&#34;_blank&#34;&gt;DBpedia.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://relfinder.dbpedia.org/app.swf&#34; target=&#34;_blank&#34;&gt;DBpedia Relation Finder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pedia.directededge.com/&#34; target=&#34;_blank&#34;&gt;Directed Edge Encyclopedia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wdm.cs.waikato.ac.nz:8080/&#34; target=&#34;_blank&#34;&gt;Wikipedia Miner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wolframalpha.com/&#34;&gt;WolframAlpha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eyeplorer.com&#34;&gt;Eyeplorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dbpedia.org&#34;&gt;DBpedia.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://relfinder.dbpedia.org/app.swf&#34;&gt;DBpedia Relation Finder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pedia.directededge.com/&#34;&gt;Directed Edge Encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wdm.cs.waikato.ac.nz:8080/&#34;&gt;Wikipedia Miner&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Related to this is &lt;a href=&#34;/post/knowledge-paths/&#34; target=&#34;_blank&#34;&gt;knowledgepaths&lt;/a&gt; , the art of finding connections or paths between webpages and/or scientific publications.&lt;/p&gt;
-
+&lt;p&gt;Related to this is &lt;a href=&#34;/post/knowledge-paths/&#34;&gt;knowledgepaths&lt;/a&gt; , the art of finding connections or paths between webpages and/or scientific publications.&lt;/p&gt;
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stanford.edu/~dramage/papers/wikiwalk-textgraphs09.pdf&#34; target=&#34;_blank&#34;&gt;Yeh (2009): WikiWalk: Random walks on Wikipedia for Semantic Relatedness&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/smalheiser_statusreport_2005.pdf&#34; target=&#34;_blank&#34;&gt;Smalheiser (2005): Arrowsmith Project: 2005 Status Report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/swanson_smalheiser_cmpb_1998.pdf&#34; target=&#34;_blank&#34;&gt;Smalheiser (1998): Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientiﬁc hypotheses&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=16352693654480481586&amp;amp;hl=de&#34; target=&#34;_blank&#34;&gt;Google Scholar: Citations of Smalheiser (1998): Using ARROWSMITH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www-2.cs.cmu.edu/afs/cs/user/valdes/Mosaic/Elsewhere/swanson.ps&#34; target=&#34;_blank&#34;&gt;Swanson (1997) An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=8385295288451703491&amp;amp;hl=de&#34; target=&#34;_blank&#34;&gt;Google Scholar: Citations of Swanson (1997): An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stanford.edu/~dramage/papers/wikiwalk-textgraphs09.pdf&#34;&gt;Yeh (2009): WikiWalk: Random walks on Wikipedia for Semantic Relatedness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/smalheiser_statusreport_2005.pdf&#34;&gt;Smalheiser (2005): Arrowsmith Project: 2005 Status Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/swanson_smalheiser_cmpb_1998.pdf&#34;&gt;Smalheiser (1998): Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientiﬁc hypotheses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=16352693654480481586&amp;amp;hl=de&#34;&gt;Google Scholar: Citations of Smalheiser (1998): Using ARROWSMITH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-2.cs.cmu.edu/afs/cs/user/valdes/Mosaic/Elsewhere/swanson.ps&#34;&gt;Swanson (1997) An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=8385295288451703491&amp;amp;hl=de&#34;&gt;Google Scholar: Citations of Swanson (1997): An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Paths</title>
+      <link>/post/knowledge-paths/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge-paths/</guid>
+      <description>&lt;p&gt;The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://papercube.peterbergstrom.com&#34;&gt;PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pathway.screenager.be/&#34;&gt;PathWay&lt;/a&gt;, see also &lt;a href=&#34;http://download.cnet.com/8301-2007_4-9823587-12.html&#34;&gt;CNET: New Mac Review: Keep Wikipedia research focused with Pathway&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also helpful would be a Google Scholar API, but it does not exist yet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/google-ajax-apis/issues/detail?id=109&#34;&gt;google-ajax-apis: Issue 109: Please add Google Scholar to the API, including # of citations and BibTex reference.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linklens.blogspot.com/2009/04/google-scholar-api-and-papercube.html&#34;&gt;Google Scholar API and PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But here is a python receipe, which allows to retrieve results from Google Scholar as dictionary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.activestate.com/recipes/523047/&#34;&gt;ActiveState Code: Recipe 523047: Search Google scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -357,28 +302,22 @@ The answer is, that the information that seems to be lost when matter falls into
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/korteweg-de-vries-equation/</guid>
-      <description>&lt;p&gt;From [&lt;a href=&#34;http://mathworld.wolfram.com/Korteweg-deVriesEquation.html]:&#34; target=&#34;_blank&#34;&gt;http://mathworld.wolfram.com/Korteweg-deVriesEquation.html]:&lt;/a&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;From [http://mathworld.wolfram.com/Korteweg-deVriesEquation.html]:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In fact, a transformation due to Gardner provides an algorithm for computing an infinite number of conserved densities of the KdV equation, which are connected to those of the so-called modified KdV equation through the Miura transformation
-v_x+v^2=u&lt;br /&gt;
+v_x+v^2=u 
 (Tabor 1989, p. 291). The Korteweg-de Vries equation also exhibits Galilean invariance.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;See also [&lt;a href=&#34;http://www.math.uwaterloo.ca/~karigiannis/papers/ist.pdf]:&#34; target=&#34;_blank&#34;&gt;http://www.math.uwaterloo.ca/~karigiannis/papers/ist.pdf]:&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;See also [http://www.math.uwaterloo.ca/~karigiannis/papers/ist.pdf]:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the course of attempting to solve the KdV equation exactly, it was discovered that the equation has an infinite sequence of nontrivial conservation laws, which we shall presently define.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;from [&lt;a href=&#34;http://en.wikipedia.org/wiki/Inverse_scattering_transform&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Inverse_scattering_transform&lt;/a&gt;].&lt;/p&gt;
-
+&lt;p&gt;from [http://en.wikipedia.org/wiki/Inverse_scattering_transform].&lt;/p&gt;
 &lt;p&gt;The so called turbulence closure problem has to do with the fact, that in fluid dynamics in principle an infinite number of conservation laws exist. Is there a connection? Can we write down a Korteweg-de Vries-like Equation, which generated the infinite conservation laws encountered in fluid dynamics?&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www3.interscience.wiley.com/journal/113400234/abstract&#34; target=&#34;_blank&#34;&gt;Lax(1990): The zero dispersion limit, a deterministic analogue of turbulence&lt;/a&gt;. read it at [&lt;a href=&#34;http://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=9ozj3Bs45kEC&amp;amp;oi=fnd&amp;amp;pg=PA53&amp;amp;ots=yTpf57ObXB&amp;amp;sig=DEACFXy2v5gQkNppN-rEmGaFoiA#v=onepage&amp;amp;q=&amp;amp;f=false&#34; target=&#34;_blank&#34;&gt;http://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=9ozj3Bs45kEC&amp;amp;oi=fnd&amp;amp;pg=PA53&amp;amp;ots=yTpf57ObXB&amp;amp;sig=DEACFXy2v5gQkNppN-rEmGaFoiA#v=onepage&amp;amp;q=&amp;amp;f=false&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/solv-int/9608002&#34; target=&#34;_blank&#34;&gt;D.B. Fairlie (1996) : Equations with an infinite number of explicit Conservation Laws&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://math.arizona.edu/~mcl/Miller/MillerLecture08.pdf&#34; target=&#34;_blank&#34;&gt;http://math.arizona.edu/~mcl/Miller/MillerLecture08.pdf&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www3.interscience.wiley.com/journal/113400234/abstract&#34;&gt;Lax(1990): The zero dispersion limit, a deterministic analogue of turbulence&lt;/a&gt;. read it at [http://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=9ozj3Bs45kEC&amp;amp;oi=fnd&amp;amp;pg=PA53&amp;amp;ots=yTpf57ObXB&amp;amp;sig=DEACFXy2v5gQkNppN-rEmGaFoiA#v=onepage&amp;amp;q=&amp;amp;f=false]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/solv-int/9608002&#34;&gt;D.B. Fairlie (1996) : Equations with an infinite number of explicit Conservation Laws&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[http://math.arizona.edu/~mcl/Miller/MillerLecture08.pdf]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -390,53 +329,76 @@ v_x+v^2=u&lt;br /&gt;
       
       <guid>/post/limits-to-growth/</guid>
       <description>&lt;p&gt;I thought for a long time, that the result of the study &amp;ldquo;The Limits to Growth&amp;rdquo; by the &amp;ldquo;Club of Rome&amp;rdquo; are clearly disproved. But then I investigated a little bit and found that it doesn&amp;rsquo;t seem to be the case. This worries me a lot, as the model (World3) they use predicts a collapse of society around 2030-2050.&lt;/p&gt;
-
 &lt;p&gt;Serious critisism to the study seems to be:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The model is very sensitive to initial starting values. No sensitivity analysis of the model has been done.&lt;/li&gt;
 &lt;li&gt;The model only includes a single limited natural resource. This does not incorporate the possibility that a limited resource like oil can be substituted by another less limited resource.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;However I found studies investigating the sensitivity of the model (see links below), so point one is clearly not true. What I&amp;rsquo;m missing is a similar thing like in weather forecast there they show the temperature mean and the variance. So instead o showing only the mean value in all the plots, the investigators of the world3 model sould also show the variance of the outcome .&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;The input data for the model is choosen, so that it fits to the predictions of the model in the past.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The model only shows the global means, like a global mean temperature.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Limits_to_Growth&#34; target=&#34;_blank&#34;&gt;Limits to Growth&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sueddeutsche.de/wirtschaft/231/476739/text/3/&#34; target=&#34;_blank&#34;&gt;Dennis Meadows: Erhalt überkommener Industrien&lt;/a&gt;: german newspaper article&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Limits-Growth-Donella-H-Meadows/dp/193149858X/ref=ntt_at_ep_dpt_2&#34; target=&#34;_blank&#34;&gt;Limits to Growth: The 30-Year Update&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/World3&#34; target=&#34;_blank&#34;&gt;World3 model used in Limits to Growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.csiro.au/files/files/plje.pdf&#34; target=&#34;_blank&#34;&gt;Graham Turner: A Comparison of the Limits to Growth with 30 Years of Reality&lt;/a&gt; : Very frightening, it seems like the World3 model is basically correct!!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;lr=&amp;amp;q=meadows&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Google Scholar: Meadows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sensitivity_analysis&#34; target=&#34;_blank&#34;&gt;Sensitivity analysis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.casos.cs.cmu.edu/education/phd/classpapers/Miller_Active_1998.pdf&#34; target=&#34;_blank&#34;&gt;Active nonlinear tests (ANTs) of complex simulation models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wsu.edu/~forda/Screening.pdf&#34; target=&#34;_blank&#34;&gt;Statistical screening of system dynamics model&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;lr=&amp;amp;q=sensitivity+limits+of+growth&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Google Scholar: sensitivity limits of growth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?q=sensitivity+analysis+world3&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Google Scholar: sensitivity analysis world3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Peak_oil&#34; target=&#34;_blank&#34;&gt;Peak oil&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Modelica&#34; target=&#34;_blank&#34;&gt;Modelica&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.modelica.org/&#34; target=&#34;_blank&#34;&gt;Modelica home page&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.inf.ethz.ch/personal/fcellier/Pubs/World/modelica_08_world3.pdf&#34; target=&#34;_blank&#34;&gt;World3 in Modelica: Creating System Dynamics Models in the Modelica Framework&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://oksimo.inm.de/&#34; target=&#34;_blank&#34;&gt;OKSIMO&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.heise.de/tr/Wikipedia-der-Prozesse--/artikel/141050&#34; target=&#34;_blank&#34;&gt;http://www.heise.de/tr/Wikipedia-der-Prozesse--/artikel/141050&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.uffmm.org/science-technology/single/themes/computer-science/personal-sites/doeben-henisch/SIMU/simu/simu.html&#34; target=&#34;_blank&#34;&gt;Modeling and Simulation with OKSIMO&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.iseesystems.com/softwares/Education/StellaSoftware.aspx&#34; target=&#34;_blank&#34;&gt;STELLA&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The input data for the model is choosen, so that it fits to the predictions of the model in the past.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The model only shows the global means, like a global mean temperature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Limits_to_Growth&#34;&gt;Limits to Growth&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sueddeutsche.de/wirtschaft/231/476739/text/3/&#34;&gt;Dennis Meadows: Erhalt überkommener Industrien&lt;/a&gt;: german newspaper article&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/Limits-Growth-Donella-H-Meadows/dp/193149858X/ref=ntt_at_ep_dpt_2&#34;&gt;Limits to Growth: The 30-Year Update&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/World3&#34;&gt;World3 model used in Limits to Growth&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.csiro.au/files/files/plje.pdf&#34;&gt;Graham Turner: A Comparison of the Limits to Growth with 30 Years of Reality&lt;/a&gt; : Very frightening, it seems like the World3 model is basically correct!!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;lr=&amp;amp;q=meadows&amp;amp;btnG=Search&#34;&gt;Google Scholar: Meadows&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Sensitivity_analysis&#34;&gt;Sensitivity analysis&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.casos.cs.cmu.edu/education/phd/classpapers/Miller_Active_1998.pdf&#34;&gt;Active nonlinear tests (ANTs) of complex simulation models&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wsu.edu/~forda/Screening.pdf&#34;&gt;Statistical screening of system dynamics model&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;lr=&amp;amp;q=sensitivity+limits+of+growth&amp;amp;btnG=Search&#34;&gt;Google Scholar: sensitivity limits of growth&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://scholar.google.com/scholar?q=sensitivity+analysis+world3&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34;&gt;Google Scholar: sensitivity analysis world3&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Peak_oil&#34;&gt;Peak oil&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Modelica&#34;&gt;Modelica&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.modelica.org/&#34;&gt;Modelica home page&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.inf.ethz.ch/personal/fcellier/Pubs/World/modelica_08_world3.pdf&#34;&gt;World3 in Modelica: Creating System Dynamics Models in the Modelica Framework&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://oksimo.inm.de/&#34;&gt;OKSIMO&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[http://www.heise.de/tr/Wikipedia-der-Prozesse&amp;ndash;/artikel/141050]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.uffmm.org/science-technology/single/themes/computer-science/personal-sites/doeben-henisch/SIMU/simu/simu.html&#34;&gt;Modeling and Simulation with OKSIMO&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iseesystems.com/softwares/Education/StellaSoftware.aspx&#34;&gt;STELLA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -447,27 +409,22 @@ v_x+v^2=u&lt;br /&gt;
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/netflix-prize/</guid>
-      <description>
-
-&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Netflix_Prize&#34; target=&#34;_blank&#34;&gt;Netflix Prize&lt;/a&gt; will be over soon. As possibly best algorithms emerged:&lt;/p&gt;
-
+      <description>&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Netflix_Prize&#34;&gt;Netflix Prize&lt;/a&gt; will be over soon. As possibly best algorithms emerged:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Support_Vector_Machine&#34; target=&#34;_blank&#34;&gt;Support Vector Machine (SVN)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boltzmann_machine#Restricted_Boltzmann_Machine&#34; target=&#34;_blank&#34;&gt;Restricted Boltzmann Machine (RBM)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm&#34; target=&#34;_blank&#34;&gt;k-nearest neighbors algorithm (KNN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Support_Vector_Machine&#34;&gt;Support Vector Machine (SVN)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Boltzmann_machine#Restricted_Boltzmann_Machine&#34;&gt;Restricted Boltzmann Machine (RBM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/K-nearest_neighbor_algorithm&#34;&gt;k-nearest neighbors algorithm (KNN)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/30/30622/1.html&#34; target=&#34;_blank&#34;&gt;Was macht den perfekten Film aus?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.spectrum.ieee.org/computing/software/the-million-dollar-programming-prize/0&#34; target=&#34;_blank&#34;&gt;The million dollar programming prize&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.netflixprize.com//community/index.php&#34; target=&#34;_blank&#34;&gt;http://www.netflixprize.com//community/index.php&lt;/a&gt; Netflix Prize Forum]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.netflixprize.com//community/viewtopic.php?id=1056&#34; target=&#34;_blank&#34;&gt;http://www.netflixprize.com//community/viewtopic.php?id=1056&lt;/a&gt; Netflix Prize Forum: Best Single Algorithm]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.timelydevelopment.com/demos/NetflixPrize.aspx&#34; target=&#34;_blank&#34;&gt;http://www.timelydevelopment.com/demos/NetflixPrize.aspx&lt;/a&gt; Timely Development: Netflix Prize]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.netflixprize.com//leaderboard&#34; target=&#34;_blank&#34;&gt;http://www.netflixprize.com//leaderboard&lt;/a&gt; Netflix price leaderboard]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://hunch.net/?p=827&#34; target=&#34;_blank&#34;&gt;http://hunch.net/?p=827&lt;/a&gt; Netflix nearly done]&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/tech-policy/news/2009/09/netflix-prize-2-privacy-apocalypse-now.ars&#34; target=&#34;_blank&#34;&gt;Netflix 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/30/30622/1.html&#34;&gt;Was macht den perfekten Film aus?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.spectrum.ieee.org/computing/software/the-million-dollar-programming-prize/0&#34;&gt;The million dollar programming prize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[http://www.netflixprize.com//community/index.php Netflix Prize Forum]&lt;/li&gt;
+&lt;li&gt;[http://www.netflixprize.com//community/viewtopic.php?id=1056 Netflix Prize Forum: Best Single Algorithm]&lt;/li&gt;
+&lt;li&gt;[http://www.timelydevelopment.com/demos/NetflixPrize.aspx Timely Development: Netflix Prize]&lt;/li&gt;
+&lt;li&gt;[http://www.netflixprize.com//leaderboard Netflix price leaderboard]&lt;/li&gt;
+&lt;li&gt;[http://hunch.net/?p=827 Netflix nearly done]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/tech-policy/news/2009/09/netflix-prize-2-privacy-apocalypse-now.ars&#34;&gt;Netflix 2.0&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -478,82 +435,55 @@ v_x+v^2=u&lt;br /&gt;
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/old-wiki-table-of-content/</guid>
-      <description>
-
-&lt;p&gt;Here I collect notes about a lot of things and topics I think are interesting.&lt;/p&gt;
-
+      <description>&lt;p&gt;Here I collect notes about a lot of things and topics I think are interesting.&lt;/p&gt;
 &lt;h2 id=&#34;physics&#34;&gt;Physics&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Moving black holes:
-Since a black hole is a state of highest entropy, is a black hole moving at the speed of light the highest entropy transfer rate that can exist in nature? As a starting point here are some papers showing the metric of an accelerating body in GR:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://prola.aps.org/abstract/PRD/v2/i8/p1359_1&#34; target=&#34;_blank&#34;&gt;W. Kinnersley (1961): Uniformly Accelerating Charged Mass in General Relativity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://prola.aps.org/abstract/PR/v186/i5/p1335_1&#34; target=&#34;_blank&#34;&gt;W. Kinnersley (1963): Field of an Arbitrarily Accelerating Point Mass&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;General relativistic boltzmann equation:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www-math.unice.fr/~brenier/fichiers.ps.pageperso/ProcStoch_Nice20070115_WillemVanLeeuwen.pdf&#34; target=&#34;_blank&#34;&gt;Debbasch,van Leeuwen: the General Relativistic Boltzmann Equation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adsabs.harvard.edu/abs/2009PhyA..388.1818D&#34; target=&#34;_blank&#34;&gt;Debbasch, van Leeuwen: General relativistic Boltzmann equation, II: Manifestly covariant treatment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://adsabs.harvard.edu/abs/2009PhyA..388.1079D&#34; target=&#34;_blank&#34;&gt;Debbasch, van Leeuwen: General relativistic Boltzmann equation, I: Covariant treatment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://link.aip.org/link/?JMAPAQ/45/2744/1&#34; target=&#34;_blank&#34;&gt;Debbasch: A diffusion process in curved space–time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+Since a black hole is a state of highest entropy, is a black hole moving at the speed of light the highest entropy transfer rate that can exist in nature? As a starting point here are some papers showing the metric of an accelerating body in GR:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prola.aps.org/abstract/PRD/v2/i8/p1359_1&#34;&gt;W. Kinnersley (1961): Uniformly Accelerating Charged Mass in General Relativity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://prola.aps.org/abstract/PR/v186/i5/p1335_1&#34;&gt;W. Kinnersley (1963): Field of an Arbitrarily Accelerating Point Mass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;General relativistic boltzmann equation:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-math.unice.fr/~brenier/fichiers.ps.pageperso/ProcStoch_Nice20070115_WillemVanLeeuwen.pdf&#34;&gt;Debbasch,van Leeuwen: the General Relativistic Boltzmann Equation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adsabs.harvard.edu/abs/2009PhyA..388.1818D&#34;&gt;Debbasch, van Leeuwen: General relativistic Boltzmann equation, II: Manifestly covariant treatment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://adsabs.harvard.edu/abs/2009PhyA..388.1079D&#34;&gt;Debbasch, van Leeuwen: General relativistic Boltzmann equation, I: Covariant treatment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://link.aip.org/link/?JMAPAQ/45/2744/1&#34;&gt;Debbasch: A diffusion process in curved space–time&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Is matter condensed space-time??&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/hep-th/0405231&#34; target=&#34;_blank&#34;&gt;P.Kovtun, D.T.Son, A.O.Starinets: Viscosity in Strongly Interacting Quantum Field Theories from Black Hole Physics&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Is teleporting a photon the same as teleporting the universe, but keeping one photon at it&amp;rsquo;s place? (Mach&amp;rsquo;s Principle?!, [&lt;a href=&#34;http://en.wikipedia.org/wiki/Quantum_teleportation]&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/Quantum_teleportation]&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h2 id=&#34;computer-science&#34;&gt;Computer Science&lt;/h2&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/post/python-fuzzy-string-comparison/&#34; target=&#34;_blank&#34;&gt;Python&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/post/can-a-computer-ask-questions/&#34; target=&#34;_blank&#34;&gt;Can a computer ask questions?&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/post/netflix-prize/&#34; target=&#34;_blank&#34;&gt;Netflix Prize&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/post/ai-books/&#34; target=&#34;_blank&#34;&gt;Books about neural networks/artificial intelligence/data mining&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.seobythesea.com/?p=1025&#34; target=&#34;_blank&#34;&gt;How &amp;ldquo;Google Sets&amp;rdquo; Works&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://fastss.csg.uzh.ch/&#34; target=&#34;_blank&#34;&gt;Fast similarity search in large dictionaries&lt;/a&gt; (ETH Zuerich)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A coordinate system for the internet based on the real world (each webpage gets a geographical coordinate (based on the topic or the location of the author), and if that&amp;rsquo;s not available expand the geographical coordinates to geographical ones in a virtual world, e.g. planet maier ;-) ). Can one buy a certain coordinate location in the real world (where nothing can be found e.g. somewhere between mars and the asteroid belt) and use it as virtual location for a web site (and in that sense hack augmented reality)? For example one points with the iPhone at a certain location at the sky, which would then reveal that in this direction some billion kilometers away the web page of some guy is located.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/hep-th/0405231&#34;&gt;P.Kovtun, D.T.Son, A.O.Starinets: Viscosity in Strongly Interacting Quantum Field Theories from Black Hole Physics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Is teleporting a photon the same as teleporting the universe, but keeping one photon at it&amp;rsquo;s place? (Mach&amp;rsquo;s Principle?!, [http://en.wikipedia.org/wiki/Quantum_teleportation])&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;h2 id=&#34;computer-science&#34;&gt;Computer Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/post/python-fuzzy-string-comparison/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/can-a-computer-ask-questions/&#34;&gt;Can a computer ask questions?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/netflix-prize/&#34;&gt;Netflix Prize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/ai-books/&#34;&gt;Books about neural networks/artificial intelligence/data mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seobythesea.com/?p=1025&#34;&gt;How &amp;ldquo;Google Sets&amp;rdquo; Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fastss.csg.uzh.ch/&#34;&gt;Fast similarity search in large dictionaries&lt;/a&gt; (ETH Zuerich)&lt;/li&gt;
+&lt;li&gt;A coordinate system for the internet based on the real world (each webpage gets a geographical coordinate (based on the topic or the location of the author), and if that&amp;rsquo;s not available expand the geographical coordinates to geographical ones in a virtual world, e.g. planet maier ;-) ). Can one buy a certain coordinate location in the real world (where nothing can be found e.g. somewhere between mars and the asteroid belt) and use it as virtual location for a web site (and in that sense hack augmented reality)? For example one points with the iPhone at a certain location at the sky, which would then reveal that in this direction some billion kilometers away the web page of some guy is located.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;society&#34;&gt;Society&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/limits-to-growth/&#34; target=&#34;_blank&#34;&gt;Limits to Growth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/limits-to-growth/&#34;&gt;Limits to Growth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;programming-and-markup-languages&#34;&gt;Programming and Markup Languages&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://community.wikidot.com/forum/t-1047/include-newline-in-wiki-syntax#post-515380&#34; target=&#34;_blank&#34;&gt;How to insert a linebreak in a bulleted list using wikidot.com syntax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://community.wikidot.com/forum/t-1047/include-newline-in-wiki-syntax#post-515380&#34;&gt;How to insert a linebreak in a bulleted list using wikidot.com syntax&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;internet&#34;&gt;Internet&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/post/top-level-domains/&#34; target=&#34;_blank&#34;&gt;Top-level domains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/post/top-level-domains/&#34;&gt;Top-level domains&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;search&#34;&gt;Search&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.eyeplorer.com&#34; target=&#34;_blank&#34;&gt;http://www.eyeplorer.com&lt;/a&gt;] : Finding relations between wikipedia articles&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.powerset.com/&#34; target=&#34;_blank&#34;&gt;http://www.powerset.com/&lt;/a&gt;] : a search and discovery experience for Wikipedia, launched in May 2008, acquired by Microsoft.&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.bing.com/&#34; target=&#34;_blank&#34;&gt;http://www.bing.com/&lt;/a&gt;] : Microsofts idea of web search&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://ep.espacenet.com/?locale=en_EP&#34; target=&#34;_blank&#34;&gt;http://ep.espacenet.com/?locale=en_EP&lt;/a&gt;] : Search engine of European Patent Office (EPO) for patents worldwide&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://www.google.com/patents&#34; target=&#34;_blank&#34;&gt;http://www.google.com/patents&lt;/a&gt;] : Googles search engine for patents in the USA&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://patft.uspto.gov/&#34; target=&#34;_blank&#34;&gt;http://patft.uspto.gov/&lt;/a&gt;] : USA patents search engine of the USPTO (U.S Patent and Trademark Office)&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://publikationen.dpma.de&#34; target=&#34;_blank&#34;&gt;http://publikationen.dpma.de&lt;/a&gt;] : German patents search engine of the DPMA (&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;[http://www.eyeplorer.com] : Finding relations between wikipedia articles&lt;/li&gt;
+&lt;li&gt;[http://www.powerset.com/] : a search and discovery experience for Wikipedia, launched in May 2008, acquired by Microsoft.&lt;/li&gt;
+&lt;li&gt;[http://www.bing.com/] : Microsofts idea of web search&lt;/li&gt;
+&lt;li&gt;[http://ep.espacenet.com/?locale=en_EP] : Search engine of European Patent Office (EPO) for patents worldwide&lt;/li&gt;
+&lt;li&gt;[http://www.google.com/patents] : Googles search engine for patents in the USA&lt;/li&gt;
+&lt;li&gt;[http://patft.uspto.gov/] : USA patents search engine of the USPTO (U.S Patent and Trademark Office)&lt;/li&gt;
+&lt;li&gt;[http://publikationen.dpma.de] : German patents search engine of the DPMA (&amp;ldquo;Deutsches Patent- und Markenamt&amp;rdquo;)&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;more&#34;&gt;More&amp;hellip;&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;P&lt;/strong&gt;.&lt;strong&gt;h&lt;/strong&gt;.&lt;strong&gt;D&lt;/strong&gt;. = &lt;strong&gt;P&lt;/strong&gt;ermanent &lt;strong&gt;h&lt;/strong&gt;ead &lt;strong&gt;D&lt;/strong&gt;amage&lt;/li&gt;
 &lt;/ul&gt;
@@ -578,10 +508,7 @@ Since a black hole is a state of highest entropy, is a black hole moving at the 
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/python-fuzzy-string-comparison/</guid>
-      <description>
-
-&lt;h2 id=&#34;fuzzy-string-comparison&#34;&gt;Fuzzy string comparison&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;fuzzy-string-comparison&#34;&gt;Fuzzy string comparison&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; import difflib
 &amp;gt;&amp;gt;&amp;gt; s=difflib.SequenceMatcher(None, &amp;quot;abcd&amp;quot;,&amp;quot;bcde&amp;quot;)
 # Return a measure of the sequences’ similarity as a float in the range [0, 1].
@@ -589,12 +516,10 @@ Since a black hole is a state of highest entropy, is a black hole moving at the 
 &amp;gt;&amp;gt;&amp;gt; print s.ratio()
 0.75
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison&#34; target=&#34;_blank&#34;&gt;http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://docs.python.org/library/difflib.html&#34; target=&#34;_blank&#34;&gt;http://docs.python.org/library/difflib.html&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison&#34;&gt;http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/library/difflib.html&#34;&gt;http://docs.python.org/library/difflib.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -615,9 +540,8 @@ of &amp;ldquo;spread out all over space&amp;rdquo; before the measurement sudden
 instantaneously (basically &amp;ldquo;with infinite speed&amp;rdquo;, if one can dare to define a
 notion of &amp;ldquo;speed&amp;rdquo; in this case) &amp;ldquo;gathers itself together&amp;rdquo; in one particular
 spot. That what quantum mechanics is all about.&lt;/p&gt;
-
 &lt;p&gt;Yurii Pidopryhora (14. 08. 2008),
-[[&lt;a href=&#34;http://www.nature.com/news/2008/080813/full/news.2008.1038.html]&#34; target=&#34;_blank&#34;&gt;http://www.nature.com/news/2008/080813/full/news.2008.1038.html]&lt;/a&gt;]&lt;/p&gt;
+[[http://www.nature.com/news/2008/080813/full/news.2008.1038.html]]&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -629,11 +553,11 @@ spot. That what quantum mechanics is all about.&lt;/p&gt;
       
       <guid>/post/relativistic-boltzmann-equation/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;[&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=relativistic+Boltzmann+equation&amp;amp;btnG=Search&#34; target=&#34;_blank&#34;&gt;Google Scholar: relativistic Boltzmann equation&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://scholar.google.com/scholar?cites=17898777462636280261&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Literature citing Cercignani: The relativistic Boltzmann equation: theory and applications&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/hep-th/0601060&#34; target=&#34;_blank&#34;&gt;G. Kaniadakis (2006): Towards a relativistic statistical theory&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/0708.3252&#34; target=&#34;_blank&#34;&gt;Garcia-Perciante (2006): Generalized Relativistic Chapman-Enskog Solution of the Boltzmann Equation&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/0906.0079&#34; target=&#34;_blank&#34;&gt;Tsumura (2009): Second-order Relativistic Hydrodynamic Equations for Viscous Systems; how does the dissipation affect the internal energy?&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=relativistic+Boltzmann+equation&amp;amp;btnG=Search&#34;&gt;Google Scholar: relativistic Boltzmann equation&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://scholar.google.com/scholar?cites=17898777462636280261&amp;amp;hl=en&#34;&gt;Literature citing Cercignani: The relativistic Boltzmann equation: theory and applications&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/hep-th/0601060&#34;&gt;G. Kaniadakis (2006): Towards a relativistic statistical theory&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/0708.3252&#34;&gt;Garcia-Perciante (2006): Generalized Relativistic Chapman-Enskog Solution of the Boltzmann Equation&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;http://arxiv.org/abs/0906.0079&#34;&gt;Tsumura (2009): Second-order Relativistic Hydrodynamic Equations for Viscous Systems; how does the dissipation affect the internal energy?&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -644,10 +568,7 @@ spot. That what quantum mechanics is all about.&lt;/p&gt;
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/post/top-level-domains/</guid>
-      <description>
-
-&lt;p&gt;Some interesting top-level domains:&lt;/p&gt;
-
+      <description>&lt;p&gt;Some interesting top-level domains:&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -656,74 +577,62 @@ spot. That what quantum mechanics is all about.&lt;/p&gt;
 &lt;th&gt;official&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.am&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Andreas Maier&lt;/td&gt;
 &lt;td&gt;Armenia&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.ag&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;&amp;ldquo;Aktiengesellschaft&amp;rdquo;&lt;/td&gt;
 &lt;td&gt;Antigua and Barbuda&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.cc&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Credit Card&lt;/td&gt;
 &lt;td&gt;Cocos (Keeling) Islands&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.dj&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Disc Jockey&lt;/td&gt;
 &lt;td&gt;Djibouti&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.fm&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Frequency modulation (radio)&lt;/td&gt;
 &lt;td&gt;Federated States of Micronesia&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.im&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Instant Messaging&lt;/td&gt;
 &lt;td&gt;Isle of Man&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.la&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Los Angeles&lt;/td&gt;
 &lt;td&gt;Laos&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.me&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Me!&lt;/td&gt;
 &lt;td&gt;Montenegro&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.sl&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Second Life&lt;/td&gt;
 &lt;td&gt;Sierra Leone&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.tk&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;&amp;ldquo;Telekommunikation&amp;rdquo; or Telekom&lt;/td&gt;
 &lt;td&gt;Tokelau&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.to&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;to&lt;/td&gt;
 &lt;td&gt;Togo&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;.tv&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Television&lt;/td&gt;
@@ -731,12 +640,10 @@ spot. That what quantum mechanics is all about.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;[&lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_Internet_top-level_domains&#34; target=&#34;_blank&#34;&gt;http://en.wikipedia.org/wiki/List_of_Internet_top-level_domains&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;[&lt;a href=&#34;http://de.wikipedia.org/wiki/Top-Level-Domain&#34; target=&#34;_blank&#34;&gt;http://de.wikipedia.org/wiki/Top-Level-Domain&lt;/a&gt;]&lt;/li&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;[http://en.wikipedia.org/wiki/List_of_Internet_top-level_domains]&lt;/li&gt;
+&lt;li&gt;[http://de.wikipedia.org/wiki/Top-Level-Domain]&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

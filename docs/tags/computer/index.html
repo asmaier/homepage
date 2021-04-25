@@ -84,7 +84,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.e1e7d56acd0fc6cf045a853d4b1d5fcd.css">
+  <link rel="stylesheet" href="/css/academic.min.efdb45d20aa802e42e18c9d3795b0be0.css">
 
   
 
@@ -117,7 +117,7 @@
   <meta property="og:description" content="Data Alchemist"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2008-01-01T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2020-11-30T00:00:00&#43;00:00">
   
 
   
@@ -389,6 +389,15 @@
   
   
   <div>
+    <h2><a href="/post/2020-11-30-macbook-pro-als-wlan-router/">MacBook Pro als WLAN-Router</a></h2>
+    <div class="article-style">
+      
+      Vor einiger Zeit ist mir mein 2015er MacBook Pro vom Stuhl gefallen, genau auf die Ecke des Displays. Das hat das schöne 13 Zoll Retina Display leider nicht ausgehalten und ging zu Bruch. Da war guter Rat teuer, genauer gesagt sehr, sehr teuer. Apple empfahl mir auf der Webseite mich an den nächsten authorisierten Händler zu wenden, und der (Cyberport) eröffnete mir, dass ich mit 600-700 Euro Reparaturkosten rechen könnte. Uff!
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/post/programming-hint/">Programming hint</a></h2>
     <div class="article-style">
       
@@ -401,9 +410,7 @@
     <h2><a href="/post/python-fuzzy-string-comparison/">Python fuzzy string comparison</a></h2>
     <div class="article-style">
       
-       Fuzzy string comparison &gt;&gt;&gt; import difflib &gt;&gt;&gt; s=difflib.SequenceMatcher(None, &quot;abcd&quot;,&quot;bcde&quot;) # Return a measure of the sequences’ similarity as a float in the range [0, 1]. # This is 1.0 if the sequences are identical, and 0.0 if they have nothing in common. &gt;&gt;&gt; print s.ratio() 0.75  Bibliography  http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison
- http://docs.python.org/library/difflib.html
-  
+      Fuzzy string comparison &gt;&gt;&gt; import difflib &gt;&gt;&gt; s=difflib.SequenceMatcher(None, &quot;abcd&quot;,&quot;bcde&quot;) # Return a measure of the sequences’ similarity as a float in the range [0, 1]. # This is 1.0 if the sequences are identical, and 0.0 if they have nothing in common. &gt;&gt;&gt; print s.ratio() 0.75  Bibliography http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison http://docs.python.org/library/difflib.html  
       
     </div>
   </div>
@@ -422,9 +429,7 @@
     <h2><a href="/post/administration/">Administration</a></h2>
     <div class="article-style">
       
-      Hier stehen Dinge, die man nur als Administrator (Root) bzw. Superuser ausführen kann.
- Administratorrechte bekommen:
-Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte verschaffen. Dazu muß man nur im Bootmanager als Option  init=/bin/bash  eingeben. Das System bootet dann ohne(!!) nach dem Passwort zu fragen in eine bash-shell mit Root-Rechten. Jetzt gibt man einfach  passwd ein und gibt ein neues Passwort ein. Damit hat man das Root-Passwort neu gesetzt und damit sofort Root-Rechte auf diesem Rechner.
+      Funktioniert der rpcinfo-Befehl jedoch ohne Probleme und der Clientrechner findet die Freigaben immer noch nicht, so hilft es häufig die Suse Firewall auf dem Server ab- und dann wieder anzuschalten. Dann funktioniert seltsamerweise oft alles wieder wie es soll. Mehr zum Thema NFS findet man abgesehen vom oben erwähnten Linux-NFS-HOWTO auch auf deutsch unter linuxwiki.
       
     </div>
   </div>
@@ -434,7 +439,6 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <div class="article-style">
       
       Eine gute Einführung übers Archivieren und Komprimieren gibts in bei Welsh et al. 2000. Ich beschränke mich daher im weiteren auf ein paar eigene Bemerkungen.
- *.gz-Dateien entpacken:  gunzip dateiname.gz Achtung: gunzip ersetzt die gepackte Datei (dateiname.gz) mit der ungepackten Version (dateiname). Achtung2: gunzip ist ungeeignet um *.zip-Dateien zu entpacken. gunzip unterstützt nur *.zip-Archive, die aus genau einer Datei bestehen (siehe auch man gunzip). Zum Entpacken von *.zip-Archiven die aus mehrerer Dateien bestehen (was praktisch immer der Fall ist) muß man unzip verwenden.
       
     </div>
   </div>
@@ -443,17 +447,12 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <h2><a href="/post/drucken/">Drucken</a></h2>
     <div class="article-style">
       
-      Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist unter Linux manchmal immer noch ein unnötig komplizierter Vorgang. Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet, ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat, dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen erlaubt.
-      
     </div>
   </div>
   
   <div>
     <h2><a href="/post/editoren/">Editoren</a></h2>
     <div class="article-style">
-      
-      Welchen Editor verwenden ?  Statt sich unter Linux mit emacs oder vi rumzuquaelen sollte man lieber mal folgende ausprobieren:
- Kate : Kann alles, braucht aber KDE. Trotzdem mein Favorit! Pico : Superschnell, winzig und läuft im Terminalfenster. Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen. (Alternativen sind nano bzw. jpico ein Alias fuer den Joe-Editor) Nedit : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.
       
     </div>
   </div>
@@ -462,28 +461,12 @@ Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte vers
     <h2><a href="/post/html/">HTML</a></h2>
     <div class="article-style">
       
-      Es gibt soviele Seiten im Internet, auf denen man veraltete Informationen zur HTML-Programmierung bekommt. Hier ein paar von den besseren Quellen, falls man lieber modernes (X)HTML programmiert:
- Selfhtml.de : Die beste Anleitung im Netz zu allen HTML-Befehlen. Wer anfangen will HTML zu programmieren muss sie lesen. Aber auch zu fortschrittlichen Dingen steht hier alles. Ausserdem frei downloadbar, so dass man es sich sparen kann andere HTML-Bücher zu kaufen. XHTML 1.
-      
     </div>
   </div>
   
   <div>
-    <h2><a href="/post/kde/kde/">KDE</a></h2>
+    <h2><a href="/post/kde/">KDE</a></h2>
     <div class="article-style">
-      
-      Killerfeature: FISH Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen über das FISH-Protokoll. Einfach unter Netzwerkbrowser &ldquo;Netzwerkordner hinzufügen&rdquo; auswählen und im folgenden Dialog ssh auswählen und im folgenden Dialogfenster die Daten des SSH-Servers eingeben. Aufpassen muß man nur, dass FISH anscheinend keine relativen Verzeichnisse wie ~ mag. Also für das Homeverzeichnis auf dem SSH-Server immer /home/[benutzername] oder entsprechendes eingeben. Dann kann man das angegebene Verzeichnis wie ein lokales Verzeichnis benutzen, z.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/post/konvertieren/">Konvertieren</a></h2>
-    <div class="article-style">
-      
-      Umwandeln von PDF-Dateien in PS-Dateien:
-Manche PDF-Dateien lassen sich nicht mit lpr ausdrucken lassen. Am einfachsten ist es dann, diese Dateien mit  acroread -toPostScript dateiname.pdf  in Postscriptdateien umzuwandeln. Mehr zu den Kommandozeilenparametern des Acrobat Reader unter Linux findet man mit  acroread -help oder  acroread -helpall Umwandeln von (einseitigen) PS-Dateien in GIF-Dateien:
-Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMagick-Tools. Sind diese installiert, so kann man eine einzelne PS-Datei z.
       
     </div>
   </div>
@@ -605,7 +588,7 @@ Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten die ImageMag
     
     
     
-    <script src="/js/academic.min.98ea4faec9c45f666e4a8a91902fa456.js"></script>
+    <script src="/js/academic.min.e96667673477f82d438d0745ca6243dd.js"></script>
 
     
 

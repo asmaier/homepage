@@ -28,8 +28,7 @@
   
     
   
-  <meta name="description" content="Welchen Editor verwenden ?  Statt sich unter Linux mit emacs oder vi rumzuquaelen sollte man lieber mal folgende ausprobieren:
- Kate : Kann alles, braucht aber KDE. Trotzdem mein Favorit! Pico : Superschnell, winzig und läuft im Terminalfenster. Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen. (Alternativen sind nano bzw. jpico ein Alias fuer den Joe-Editor) Nedit : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.">
+  <meta name="description" content="">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/editoren/">
@@ -85,7 +84,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.e1e7d56acd0fc6cf045a853d4b1d5fcd.css">
+  <link rel="stylesheet" href="/css/academic.min.efdb45d20aa802e42e18c9d3795b0be0.css">
 
   
 
@@ -113,8 +112,7 @@
   <meta property="og:site_name" content="Andreas Maier">
   <meta property="og:url" content="/post/editoren/">
   <meta property="og:title" content="Editoren | Andreas Maier">
-  <meta property="og:description" content="Welchen Editor verwenden ?  Statt sich unter Linux mit emacs oder vi rumzuquaelen sollte man lieber mal folgende ausprobieren:
- Kate : Kann alles, braucht aber KDE. Trotzdem mein Favorit! Pico : Superschnell, winzig und läuft im Terminalfenster. Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen. (Alternativen sind nano bzw. jpico ein Alias fuer den Joe-Editor) Nedit : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content=""><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2005-01-01T00:00:00&#43;00:00">
@@ -410,7 +408,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    5 min read
+    0 min read
   </span>
   
 
@@ -534,155 +532,13 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p><h6>Welchen Editor verwenden ?</h6>
-<p> Statt sich unter Linux mit <tt>emacs</tt> oder <tt>vi</tt> rumzuquaelen sollte man lieber mal folgende
-ausprobieren:</p></p>
-
-<ul>
-<li><a href="http://kate.kde.org/">Kate</a> : Kann alles, braucht aber KDE. Trotzdem mein Favorit!</li>
-<li><a href="http://www.indiana.edu/~ucspubs/b103/">Pico</a> : Superschnell, winzig und läuft im Terminalfenster.
-Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen.
-(Alternativen sind <a href="http://de.wikipedia.org/wiki/Nano_(Texteditor)">nano</a> bzw. 
-<a href="http://linux.die.net/man/1/jpico">jpico</a> ein Alias fuer den 
-<a href="http://en.wikipedia.org/wiki/Joe%27s_Own_Editor">Joe-Editor</a>)</li>
-<li><a href="http://www.nedit.org/">Nedit</a> : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.</li>
-<li><a href="http://fte.sourceforge.net/">FTE</a> : Beherrscht falten (folding),
-was Nedit leider noch nicht kann. Hat allerdings eine altertümliche Oberfläche.</li>
-</ul>
-
-<p>Um Latex zu editieren empfehle ich <a href="http://kile.sourceforge.net/">Kile</a>.</p>
-<p>P.S.:Die Ergebnisse einer Umfrage zur Beliebtheit von Editoren unter Linux gibts
-<a href="http://www.linuxquestions.org/questions/showthread.php?s=&amp;threadid=272122">hier.</a></p>
-<p>P.P.S.: Unter Windows ist <a href="http://www.textpad.com/">Textpad</a> mein Favorit!</p>
-
-<p><h6>Tipps zum Nedit</h6>
-<p>Man kann Nedit beibringen eigene Shell-Kommandos per Menü zu starten.
-Dazu muß man den Dialog unter</p>
-<pre>Preferences/Default Settings/Customize Menus/Shell Menu</pre>
-<p>aufrufen. Um z.B. Latex direkt über Nedit zu steuern könnte man
-Befehle für den Aufruf von <tt>latex, bibtex, dvips, kdvi, kghostview </tt>
-folgendermaßen generieren:</p>
-<ol>
-<li><em>latex :</em>
-    <ul>
-    <li>Shell command : <tt>latex %</tt></li>
-    <li>Command output : dialog</li>
-    <li>Save file before executing command</li>
-    </ul></li>
-<li><em>bibtex :</em>
-    <ul>
-    <li>Shell command : <tt>set n=%; bibtex $n:r.aux &amp;</tt></li>
-    <li>Command output : dialog</li>
-    <li>Save file before executing command</li>
-    </ul></li>
-<li><em>dvips :</em>
-    <ul>
-    <li>Shell command : <tt>set n=%; dvips -o $n:r.ps $n:r.dvi &amp;</tt></li>
-    <li>Command output : dialog</li>
-    </ul></li>
-<li><em>kdvi :</em>
-    <ul>
-    <li>Shell command : <tt>set n=%; kdvi $n:r.dvi &amp;</tt></li>
-    <li>Command output : new window</li>
-    </ul></li>
-<li><em>kghostview :</em>
-    <ul>
-    <li>Shell command : <tt>set n=%; kghostview $n:r.ps &amp;</tt></li>
-    <li>Command output : new window</li>
-    </ul></li>
-<li><em>latex complete :</em>
-    <ul>
-    <li>Shell command : <tt>latex %; set n=%; bibtex $n:r.aux; latex %; latex %;</tt></li>
-    </ul>
-    Hierbei ist zu beachten, dass diesmal beim Aufruf des <tt>bibtex</tt>-Befehls kein
-    <tt>&amp;</tt>-Zeichen verwendet werden kann.</li>
-</ol></p>
-
-<p><h6>Tipps zu Emacs</h6>
-<p><a href="http://de.wikipedia.org/wiki/Emacs">Emacs</a> ist eine eierlegende Wollmilchsau. Leider ist die Bedienung bescheiden.
-Für fast alle Aktionen
-(selbst für das Beenden!!) ist es nötig zwei Tastaturkürzel hintereinander einzugeben. Trotzdem muß man
-ihn manchmal benutzen, weil man gerade nix anderes hat:</p>
-<ul>
-<li>Emacs ohne X-Window starten: <tt>&gt; emacs -nw</tt></li>
-<li>Emacs beenden: <tt>Ctrl-x Ctrl-c</tt></li>
-<li>Datei öffnen: <tt>Ctrl-x Ctrl-f</tt></li>
-<li>Datei/Buffer schließen : <tt>Ctrl-x k</tt> </li>
-<li>Datei speichern unter: <tt>Ctrl-x Ctrl-w</tt></li>
-<li>Datei speichern: <tt>Ctrl-x Ctrl-s</tt></li>
-<li>Suchen: <tt>Ctrl-s</tt></li>
-<li>Befehl abbrechen: <tt>Ctrl-g</tt> (z.B. kann man, wenn man <tt>Ctrl-x Ctrl-f</tt> zum Datei öffnen eingegeben hat
-den Dialog mit <tt>Ctrl-g</tt> abbrechen)</li>
-<li>Hilfe: <tt>ESC-x help</tt> (ja, man muß tatsächlich <tt>help</tt> eingeben, kann es aber mit <tt>he TAB</tt>
-abkürzen. Einen kürzeren Weg zur Hilfe kann man sich nun wirklich nicht vorstellen!)</li>
-<li>Split-Screen der Hilfe schließen: <tt>q</tt> (Tatsächlich nur ein Tastendruck. Wahnsinn!)</li>
-</ul>
-<p>
-Mehr Tastenkürzel gibt es bei <a href="http://www.engr.uvic.ca/~dastone/emacs-keys.html">Emacs keyboard shortcuts</a>.
-Und wer immer noch nicht glaubt, dass Emacs wirklich umständlich und veraltet ist, der lese im folgenden
-die Kritik eines Emacs-Expertens:</p>
-<ul>
-<li><a href="http://xahlee.org/emacs/emacs_kb_shortcuts_pain.html">Why Emacs&rsquo;s Keyboard Shortcuts Are Painful</a></li>
-<li><a href="http://xahlee.org/emacs/modernization.html">The Modernization of Emacs</a></li>
-</ul></p>
-
-<p><h6>Eclipse</h6>
-<p><a href="http://de.wikipedia.org/wiki/Eclipse_(IDE)">Eclipse</a> als Editor zu bezeichen ist etwas untertrieben. Passender wäre vielleicht
-die Bezeichnung &ldquo;Emacs des 21. Jahrhunderts&rdquo;, denn Eclipse ist wie Emacs eine eierlegende Wollmilchsau, mit der man von ADA bis
-XML alles programmieren kann. Im Grundzustand ist Eclipse zwar nach wie vor erstmal eine Java-Entwicklungsumgebung
-(und in diesem Bereich sicherlich der(!) Standard), aber inzwischen gibt es mehr als 1200 Plugins für Eclipse auf
-<a href="http://www.eclipseplugincentral.com/">www.eclipseplugincentral.com</a>, ein paar nützlichere davon sind hier aufgelistet:</p>
-<ul>
-<li><a href="http://www.eclipse.org/cdt/">CDT (C/C++ Development Tools) Project</a> : eine C/C++ Entwicklungsumgebung für Eclipse
-(Editor mit Syntax-Highlighting, Code-Completion, Debugger, Makefile Generator u.a. )</li>
-<li><a href="http://www.eclipse.org/photran/">Photran</a> : eine FORTRAN Entwicklungsumgebung für Eclipse
-(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Interface to GDB&hellip; )</li>
-<li><a href="http://pydev.sourceforge.net/">Pydev</a> : eine Python Entwicklungsumgebung für Eclipse
-(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Debugger, Interaktiver Pythonkonsole&hellip; )</li>
-<li><a href="http://subclipse.tigris.org/">Subclipse</a> : Ein grafischer Subversion Client; erlaubt die Verwaltung von Eclipse Projekten
-mit Subversion und bietet direkten Zugriff auf SVN Repositories aus Eclipse heraus. </li>
-<li><a href="http://directory.apache.org/studio/">Apache Directory Studio</a> : Ein grafischer LDAP Browser; erlaubt die Verwaltung
-(Suchen, Editieren usw.) von Einträgen auf einem LDAP Server aus Eclipse heraus.</li>
-<li><a href="http://www.eclipse.org/dsdp/tm/">Remote System Explorer (Target Management)</a> : Erlaubt das Editieren von Dateien über
-SSH/SFTP-Verbindungen. Laut <a href="http://www.freshblurbs.com/best-sftp-plugin-eclipse">freshblurbs</a> kann man damit auch lokal Dateien
-editieren ohne(!) das man damit ein Projekt anlegen muss.</li>
-<li><a href="http://www.aptana.org/">Aptana</a> : Eine professionelle Webentwicklungsumgebung für HTML, CSS, Javascript. Arbeitet auch
-mit Firebug zusammen (siehe <a href="http://www.syger.it/Topics/FirebugAndAptanaStudio.html">FirebugAndAptanaStudio</a>.</li>
-</ul></p>
-
-<p>Die Bedienung von Eclipse ist, wie es sich für ein Profi-Tool gehört, unübersichtlich und nicht 
-immer intuitiv (aber immer noch um Welten besser und moderner als die von Emacs oder vi). Daher wäre meine Beschreibung 
-von Eclipse nicht komplett ohne ein paar hilfreiche Tastaturkürzel und Einstellungen (sie beziehen sich auf die 
-Java-Entwicklungsumgebung) zu nennen:</p>
-<ul>
-<li><tt>Ctrl-1</tt> : Quick Fix, gibt Vorschläge wie der Quellcode geschrieben oder korrigiert werden kann um fehlerfrei zu sein. Sehr cool!!</li>
-<li><tt>Ctrl-Space</tt> : Code Completion, z.B. Eingabe von <tt>syso ctrl-Space</tt> gibt <tt>System.out.println()</tt>.
-Man probiere auch <tt>for ctrl-space</tt>, <tt>while ctrl-space</tt> oder <tt>if ctrl-space</tt>.</li>
-<li><tt>F3</tt> : Springt zur Deklaration einer Klasse/Funktion/Variable.</li>
-<li><tt>Ctrl-Shift-f</tt> : Pretty Formating von selektiertem Quellcode</li>
-<li><tt>Ctrl-j</tt> : Inkrementelle Suche wie in Firefox. Drückt man die Tastenkombination passiert zuerst nichts, aber sobald man die erste
-Taste drückt, springt der Cursor zum ersten Treffer. Vorwärts durch die Treffer springt man durch weiteres Drücken von <tt>Ctrl-j</tt>,
-rückwärts durch <tt>Ctrl-Shift-j</tt>.</li>
-<li><tt>Ctrl-f</tt> : Suche, die Treffer werden dabei auch in der rechten Spalte neben deb Quellcodefenster farblich markiert. 
-Zum nächsten Treffer springt man bei geöffnetem Suchfenster mit <tt>Alt-n</tt>.</li>
-<li><tt>Ctrl-Shift-o</tt> : Ergänzt nötige bzw. löscht überflüssige Import-Statements.</li>
-<li><tt>Ctrl-Shift-l</tt> : Zeigt alle Tastaturkürzel an (Über das Menü zu finden unter <tt>Windows->Preferences->General->Keys</tt>).</li>
-<li>Kontextmenü <tt>Source->Generate Getters/Setters</tt> oder <tt>Source->Generate Hashcode and equals()...</tt> sind sehr nützlich
-um die entsprechenden Funktionen zu einer Klasse automatisch zu erzeugen.</li>
-<li>Kontextmenü <tt>Refactor->Rename</tt> erlaubt es eine Variable/Klasse umzubenennen und dabei jeden Aufruf derselben im gesamten
-Projekt (also über Dateigrenzen hinweg) gleichzeitig anzupassen. Sehr cool!!</li>
-<li>Menüpunkt <tt>Windows->Show View->Javadoc</tt> öffnet ein Fenster in dem Javadoc Beschreibungen zu jedem Element erscheinen,
-welches im Quellcode markiert und doppelt angeklickt wird (Alternative: Ein Element markieren und dann <tt>Shift-Alt-q j</tt>
-drücken).</li>
-<li>Um zu verhindern, dass die sog. "Hovers" (Erscheinen z.B. beim Überfahren eingeklappter Quellcodeteile mit der Maus)
-zu lange gezeigt werden (ein sehr nerviges Feature von Eclipse, leider nicht abschaltbar), sollte man im Menü 
-<tt>Windows->Preferences</tt> unter <tt>General->Editors->TextEditors: When mouse moved into hover: Close hover</tt> auswählen.
-Dann werden die "Hovers" praktisch immers sofort wieder geschlossen und stören nicht. </li>
-</ul>
-<p>Mehr nützliche Tastaturkürzel gibt es u.a. bei 
-<a href="http://eclipse.dzone.com/news/effective-eclipse-shortcut-key">Effective Eclipse: Shortcut keys</a>. Interessant ist auch das
-<a href="http://www.mousefeed.com/">Mousefeed Plugin</a>, dass innerhalb von Eclipse zu jeder Aktion mit der Maus ein 
-äquivalentes Tastaturkürzel anzeigt, so dass man die Tastaturkürzel schneller lernen kann.</p>
+      <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
     </div>
 
@@ -819,7 +675,7 @@ Dann werden die "Hovers" praktisch immers sofort wieder geschlossen und stören 
           
           <li><a href="/post/drucken/">Drucken</a></li>
           
-          <li><a href="/post/kde/kde/">KDE</a></li>
+          <li><a href="/post/kde/">KDE</a></li>
           
           <li><a href="/post/konvertieren/">Konvertieren</a></li>
           
@@ -939,7 +795,7 @@ Dann werden die "Hovers" praktisch immers sofort wieder geschlossen und stören 
     
     
     
-    <script src="/js/academic.min.98ea4faec9c45f666e4a8a91902fa456.js"></script>
+    <script src="/js/academic.min.e96667673477f82d438d0745ca6243dd.js"></script>
 
     
 

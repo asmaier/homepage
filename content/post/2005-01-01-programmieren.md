@@ -1,23 +1,23 @@
 ---
-title: Programmieren
 author: admin
-date: '2005-01-01'
-slug: programmieren
-categories: []
-tags:
-  - old_website
-  - german
-  - computer
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-09-27T21:04:47+02:00'
-featured: no
+categories: []
+date: "2005-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-09-27T21:04:47+02:00"
 projects: []
+slug: programmieren
+subtitle: ""
+summary: ""
+tags:
+- old_website
+- german
+- computer
+title: Programmieren
 ---
 <p> Wer gerne wissen möchte, welche Bücher "Profis" (Wissenschaftler und Co. ;-) ) zum 
 programmieren benutzen, der kann in <a href="http://scholar.google.com/" >Google Scholar</a> z.B. nach 

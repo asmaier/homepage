@@ -1,23 +1,23 @@
 ---
-title: Knowledge Paths
 author: admin
-date: '2008-01-01'
-slug: knowledge-paths
-categories: []
-tags:
-  - old_wiki
-  - machine_learning
-  - big_data
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T21:10:05+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T21:10:05+02:00"
 projects: []
+slug: knowledge-paths
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- machine_learning
+- big_data
+title: Knowledge Paths
 ---
 The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:
 

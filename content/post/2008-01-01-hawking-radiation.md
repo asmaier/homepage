@@ -1,22 +1,22 @@
 ---
-title: Hawking radiation
 author: admin
-date: '2008-01-01'
-slug: hawking-radiation
-categories: []
-tags:
-  - old_wiki
-  - physics
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T21:04:23+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T21:04:23+02:00"
 projects: []
+slug: hawking-radiation
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- physics
+title: Hawking radiation
 ---
 From calculations of quantum tunneling through the horizon of a metric (black hole, Rindler..) Hawking/Unruh temperature can be calculated!
 

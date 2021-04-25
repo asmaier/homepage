@@ -1,26 +1,24 @@
-{
-   "author": "admin",
-   "authors": [],
-   "categories": [],
-   "date": "2020-12-28",
-   "featured": false,
-   "image": {
-      "caption": "",
-      "focal_point": "",
-      "preview_only": false
-   },
-   "lastmod": "2020-12-28T20:09:16+01:00",
-   "output": "pdf_document",
-   "projects": [],
-   "slug": [],
-   "subtitle": "",
-   "summary": "",
-   "tags": [
-      "facebook",
-      "german"
-   ],
-   "title": "Viele Schulen sind ..."
-}
+---
+author: admin
+authors: []
+categories: []
+date: "2020-12-28"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2020-12-28T20:09:16+01:00"
+output: pdf_document
+projects: []
+slug: []
+subtitle: ""
+summary: ""
+tags:
+- facebook
+- german
+title: Viele Schulen sind ...
+---
 Viele Schulen sind ja nach wie vor völlig ahnungslos im Neuland unterwegs. Da wird ohne Not Microsoft Teams und Office 365 oder gar Zoom eingesetzt, obwohl das nach deutschem Datenschutzrecht illegal ist. 
 Typisch deutsch(?) daran ist, dass die Behörden zwar völlig überfordert sind, Schulen rechtzeitig die notwendige Infrastruktur bereitzustellen, aber gleichzeitig sind sie sehr schnell dabei, die Schulen wegen Datenschutzverstößen abzumahnen:
 

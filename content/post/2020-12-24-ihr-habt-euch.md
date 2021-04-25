@@ -1,26 +1,24 @@
-{
-   "author": "admin",
-   "authors": [],
-   "categories": [],
-   "date": "2020-12-24",
-   "featured": false,
-   "image": {
-      "caption": "",
-      "focal_point": "",
-      "preview_only": false
-   },
-   "lastmod": "2020-12-24T13:04:10+01:00",
-   "output": "pdf_document",
-   "projects": [],
-   "slug": [],
-   "subtitle": "",
-   "summary": "",
-   "tags": [
-      "facebook",
-      "german"
-   ],
-   "title": "Ihr habt euch ..."
-}
+---
+author: admin
+authors: []
+categories: []
+date: "2020-12-24"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2020-12-24T13:04:10+01:00"
+output: pdf_document
+projects: []
+slug: []
+subtitle: ""
+summary: ""
+tags:
+- facebook
+- german
+title: Ihr habt euch ...
+---
 Ihr habt euch zu Weihnachten einen riesigen 4K Fernseher gegönnt und stellt fest, dass das Fernsehprogramm davon auch nicht besser wird? 
 
 Dann habe ich hier ein kleines Geschenk für euch, damit eure teure Investition nicht völlig umsonst war:

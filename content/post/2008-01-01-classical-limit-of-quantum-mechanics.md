@@ -1,22 +1,22 @@
 ---
-title: Classical limit of quantum mechanics
 author: admin
-date: '2008-01-01'
-slug: classical-limit-of-quantum-mechanics
-categories: []
-tags:
-  - old_wiki
-  - physics
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T11:41:18+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T11:41:18+02:00"
 projects: []
+slug: classical-limit-of-quantum-mechanics
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- physics
+title: Classical limit of quantum mechanics
 ---
 * The semi-classical limit corresponds to $ h\rightarrow 0$, which can be seen to be equivalent to $ m\rightarrow\infty $ , the mass increasing so that it behaves classically. (from <http://en.wikipedia.org/wiki/Dynamical_billiards>  )
 

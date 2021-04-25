@@ -1,23 +1,23 @@
 ---
-title: Top-level domains
 author: admin
-date: '2008-01-01'
-slug: top-level-domains
-categories: []
-tags:
-  - old_wiki
-  - computer
-  - internet
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T23:09:23+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T23:09:23+02:00"
 projects: []
+slug: top-level-domains
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- computer
+- internet
+title: Top-level domains
 ---
 Some interesting top-level domains:
 

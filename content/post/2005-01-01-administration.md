@@ -1,24 +1,24 @@
 ---
-title: Administration
 author: admin
-date: '2005-01-01'
-slug: administration
-categories: []
-tags:
-  - computer
-  - linux
-  - german
-  - old_website
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-09-27T21:28:39+02:00'
-featured: no
+categories: []
+date: "2005-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-09-27T21:28:39+02:00"
 projects: []
+slug: administration
+subtitle: ""
+summary: ""
+tags:
+- computer
+- linux
+- german
+- old_website
+title: Administration
 ---
 <p>Hier stehen Dinge, die man nur als Administrator (Root) bzw.
 Superuser ausführen kann.</p>

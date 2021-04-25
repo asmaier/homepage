@@ -1,26 +1,24 @@
-{
-   "author": "admin",
-   "authors": [],
-   "categories": [],
-   "date": "2020-12-30",
-   "featured": false,
-   "image": {
-      "caption": "",
-      "focal_point": "",
-      "preview_only": false
-   },
-   "lastmod": "2020-12-30T22:05:33+01:00",
-   "output": "pdf_document",
-   "projects": [],
-   "slug": [],
-   "subtitle": "",
-   "summary": "",
-   "tags": [
-      "facebook",
-      "german"
-   ],
-   "title": "Und am Ende ..."
-}
+---
+author: admin
+authors: []
+categories: []
+date: "2020-12-30"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2020-12-30T22:05:33+01:00"
+output: pdf_document
+projects: []
+slug: []
+subtitle: ""
+summary: ""
+tags:
+- facebook
+- german
+title: Und am Ende ...
+---
 Und am Ende des Jahres noch etwas auf das ihr die ganze Zeit gewartet habt:
 
 Werbung!

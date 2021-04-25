@@ -1,22 +1,22 @@
 ---
-title: Korteweg-de Vries equation
 author: admin
-date: '2008-01-01'
-slug: korteweg-de-vries-equation
-categories: []
-tags:
-  - old_wiki
-  - physics
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T21:27:30+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T21:27:30+02:00"
 projects: []
+slug: korteweg-de-vries-equation
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- physics
+title: Korteweg-de Vries equation
 ---
 From [http://mathworld.wolfram.com/Korteweg-deVriesEquation.html]:
 

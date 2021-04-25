@@ -1,22 +1,22 @@
 ---
-title: Can a computer ask questions
 author: admin
-date: '2008-01-01'
-slug: can-a-computer-ask-questions
-categories: []
-tags:
-  - machine_learning
-  - old_wiki
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T11:33:46+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T11:33:46+02:00"
 projects: []
+slug: can-a-computer-ask-questions
+subtitle: ""
+summary: ""
+tags:
+- machine_learning
+- old_wiki
+title: Can a computer ask questions
 ---
 > Computers are useless. They can only give you answers. (Pablo Picasso)
 

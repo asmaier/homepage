@@ -1,26 +1,24 @@
-{
-   "author": "admin",
-   "authors": [],
-   "categories": [],
-   "date": "2020-12-21",
-   "featured": false,
-   "image": {
-      "caption": "",
-      "focal_point": "",
-      "preview_only": false
-   },
-   "lastmod": "2020-12-21T23:26:17+01:00",
-   "output": "pdf_document",
-   "projects": [],
-   "slug": [],
-   "subtitle": "",
-   "summary": "",
-   "tags": [
-      "facebook",
-      "german"
-   ],
-   "title": "Ich trommele ja ..."
-}
+---
+author: admin
+authors: []
+categories: []
+date: "2020-12-21"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2020-12-21T23:26:17+01:00"
+output: pdf_document
+projects: []
+slug: []
+subtitle: ""
+summary: ""
+tags:
+- facebook
+- german
+title: Ich trommele ja ...
+---
 Ich trommele ja schon seit Jahren für die Idee der Demarchie, das heißt Parlamentarier sollten nicht gewählt, sondern ausgelost werden. So war das bei den Erfindern der Demokratie im alten Griechenland:
 
 https://www.facebook.com/andreas.maier.754918/posts/329620680419868

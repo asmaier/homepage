@@ -1,23 +1,23 @@
 ---
-title: Shell-Skripte
 author: admin
-date: '2005-01-01'
-slug: shell-skripte
-categories: []
-tags:
-  - german
-  - computer
-  - linux
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-09-27T21:10:55+02:00'
-featured: no
+categories: []
+date: "2005-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-09-27T21:10:55+02:00"
 projects: []
+slug: shell-skripte
+subtitle: ""
+summary: ""
+tags:
+- german
+- computer
+- linux
+title: Shell-Skripte
 ---
 <p>Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte
 nötig:</p>

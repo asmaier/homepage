@@ -1,21 +1,21 @@
 ---
-title: Old Wiki Table of Content
 author: admin
-date: '2008-01-01'
-slug: old-wiki-table-of-content
-categories: []
-tags:
-  - old_wiki
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T23:28:01+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T23:28:01+02:00"
 projects: []
+slug: old-wiki-table-of-content
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+title: Old Wiki Table of Content
 ---
 Here I collect notes about a lot of things and topics I think are interesting.
 

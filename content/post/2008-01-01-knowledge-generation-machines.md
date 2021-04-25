@@ -1,23 +1,23 @@
 ---
-title: Knowledge generation machines
 author: admin
-date: '2008-01-01'
-slug: knowledge-generation-machines
-categories: []
-tags:
-  - old_wiki
-  - machine_learning
-  - big_data
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T21:06:54+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T21:06:54+02:00"
 projects: []
+slug: knowledge-generation-machines
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- machine_learning
+- big_data
+title: Knowledge generation machines
 ---
 At the moment we can use internet search machines to find knowledge, that was explicitly written on some webpage. But in my opinion the future of internet search will not be in finding better algorithms to search for this explicit knowledge. Instead I expect a paradigm shift in that future search machines will generate new knowledge, by discovering the implicit associations between webpages. In that sense future search machines will also be knowledge generation machines!  
 

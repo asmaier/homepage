@@ -1,24 +1,24 @@
 ---
-title: KDE
 author: admin
-date: '2005-01-01'
-slug: kde
-categories: []
-tags:
-  - computer
-  - linux
-  - old_website
-  - german
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-09-27T21:30:50+02:00'
-featured: no
+categories: []
+date: "2005-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-09-27T21:30:50+02:00"
 projects: []
+slug: kde
+subtitle: ""
+summary: ""
+tags:
+- computer
+- linux
+- old_website
+- german
+title: KDE
 ---
 <h6>Killerfeature: FISH</h6>
 <p>Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen

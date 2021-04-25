@@ -1,22 +1,22 @@
 ---
-title: Basic ideas of general relativity
 author: admin
-date: '2008-01-01'
-slug: basic-ideas-of-general-relativity
-categories: []
-tags:
-  - physics
-  - old_wiki
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-13T22:13:31+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-13T22:13:31+02:00"
 projects: []
+slug: basic-ideas-of-general-relativity
+subtitle: ""
+summary: ""
+tags:
+- physics
+- old_wiki
+title: Basic ideas of general relativity
 ---
 * General Relativity (GR) is a classical field theory (whatever that means, could be something like Electrodynamics or something like Fluiddynamics)
 * There is no gravitational force.

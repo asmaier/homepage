@@ -1,22 +1,22 @@
 ---
-title: Relativistic Boltzmann equation
 author: admin
-date: '2008-01-01'
-slug: relativistic-boltzmann-equation
-categories: []
-tags:
-  - old_wiki
-  - physics
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T23:05:54+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T23:05:54+02:00"
 projects: []
+slug: relativistic-boltzmann-equation
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- physics
+title: Relativistic Boltzmann equation
 ---
 * [[Google Scholar: relativistic Boltzmann equation](http://scholar.google.com/scholar?hl=en&q=relativistic+Boltzmann+equation&btnG=Search)]
 * [[Literature citing Cercignani: The relativistic Boltzmann equation: theory and applications](http://scholar.google.com/scholar?cites=17898777462636280261&hl=en)]

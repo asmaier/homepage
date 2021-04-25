@@ -1,22 +1,22 @@
 ---
-title: Netflix prize
 author: admin
-date: '2008-01-01'
-slug: netflix-prize
-categories: []
-tags:
-  - old_wiki
-  - machine_learning
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T22:43:21+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T22:43:21+02:00"
 projects: []
+slug: netflix-prize
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- machine_learning
+title: Netflix prize
 ---
 The [Netflix Prize](http://en.wikipedia.org/wiki/Netflix_Prize) will be over soon. As possibly best algorithms emerged:
 

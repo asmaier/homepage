@@ -1,26 +1,24 @@
-{
-   "author": "admin",
-   "authors": [],
-   "categories": [],
-   "date": "2020-12-29",
-   "featured": false,
-   "image": {
-      "caption": "",
-      "focal_point": "",
-      "preview_only": false
-   },
-   "lastmod": "2020-12-29T22:03:26+01:00",
-   "output": "pdf_document",
-   "projects": [],
-   "slug": [],
-   "subtitle": "",
-   "summary": "",
-   "tags": [
-      "facebook",
-      "german"
-   ],
-   "title": "\"Ein Fahrradparkhaus zu ..."
-}
+---
+author: admin
+authors: []
+categories: []
+date: "2020-12-29"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2020-12-29T22:03:26+01:00"
+output: pdf_document
+projects: []
+slug: []
+subtitle: ""
+summary: ""
+tags:
+- facebook
+- german
+title: '"Ein Fahrradparkhaus zu ...'
+---
 "Ein Fahrradparkhaus zu bauen, ist offenbar komplizierter als einen Großflughafen. Seit mehr als zehn Jahren wird diskutiert, werden immer wieder neue Standorte genannt. Passiert ist – nichts. Gar nichts."
 
 "Der erste Eintrag zum Stichwort "Fahrradparkhaus" in Berlin datiert im Tagesspiegel-Archiv aus dem Juli 2008. Damals konnte sich die Verwaltung eine solche Anlage unter dem Bierpinsel in Steglitz "vorstellen". Passiert ist nichts."

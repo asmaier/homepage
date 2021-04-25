@@ -1,24 +1,24 @@
 ---
-title: Konvertieren
 author: admin
-date: '2005-01-01'
-slug: konvertieren
-categories: []
-tags:
-  - computer
-  - linux
-  - old_website
-  - german
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-09-27T21:15:14+02:00'
-featured: no
+categories: []
+date: "2005-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-09-27T21:15:14+02:00"
 projects: []
+slug: konvertieren
+subtitle: ""
+summary: ""
+tags:
+- computer
+- linux
+- old_website
+- german
+title: Konvertieren
 ---
 <ul>
 <li><em>Umwandeln von PDF-Dateien in PS-Dateien:</em><br />

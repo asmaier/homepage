@@ -1,22 +1,22 @@
 ---
-title: Fluid Dynamics of Spacetime
 author: admin
-date: '2008-01-01'
-slug: fluid-dynamics-of-spacetime
-categories: []
-tags:
-  - old_wiki
-  - physics
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T12:23:44+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T12:23:44+02:00"
 projects: []
+slug: fluid-dynamics-of-spacetime
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- physics
+title: Fluid Dynamics of Spacetime
 ---
 ### Bibliography
 0. [Christopher Eling (2008) : Hydrodynamics of spacetime and vacuum viscosity](http://arxiv.org/abs/0806.3165)

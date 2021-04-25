@@ -1,24 +1,24 @@
 ---
-title: Python fuzzy string comparison
 author: admin
-date: '2008-01-01'
-slug: python-fuzzy-string-comparison
-categories: []
-tags:
-  - old_wiki
-  - programming
-  - python
-  - computer
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T22:53:53+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T22:53:53+02:00"
 projects: []
+slug: python-fuzzy-string-comparison
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- programming
+- python
+- computer
+title: Python fuzzy string comparison
 ---
 ## Fuzzy string comparison
 

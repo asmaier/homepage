@@ -1,22 +1,22 @@
 ---
-title: Graphs in SQL databases
 author: admin
-date: '2008-01-01'
-slug: graphs-in-sql-databases
-categories: []
-tags:
-  - old_wiki
-  - big_data
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2019-10-19T12:26:37+02:00'
-featured: no
+categories: []
+date: "2008-01-01"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T12:26:37+02:00"
 projects: []
+slug: graphs-in-sql-databases
+subtitle: ""
+summary: ""
+tags:
+- old_wiki
+- big_data
+title: Graphs in SQL databases
 ---
 ## SQL
 

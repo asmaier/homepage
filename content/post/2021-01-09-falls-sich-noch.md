@@ -1,26 +1,24 @@
-{
-   "author": "admin",
-   "authors": [],
-   "categories": [],
-   "date": "2021-01-09",
-   "featured": false,
-   "image": {
-      "caption": "",
-      "focal_point": "",
-      "preview_only": false
-   },
-   "lastmod": "2021-01-09T21:10:04+01:00",
-   "output": "pdf_document",
-   "projects": [],
-   "slug": [],
-   "subtitle": "",
-   "summary": "",
-   "tags": [
-      "facebook",
-      "german"
-   ],
-   "title": "Falls sich noch ..."
-}
+---
+author: admin
+authors: []
+categories: []
+date: "2021-01-09"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2021-01-09T21:10:04+01:00"
+output: pdf_document
+projects: []
+slug: []
+subtitle: ""
+summary: ""
+tags:
+- facebook
+- german
+title: Falls sich noch ...
+---
 Falls sich noch jemand wundert, warum Putin für sich (und seine Familie) gerne Immunität bis zu seinem Lebensende haben möchte, hier ein Artikel mit einer geradezu unglaublichen Zahl an Korruptionsgeschichten rund um seinen (Ex-)Schwiegersohn. Hier nur zwei Beispiele: 
 
 "In Schamalows [Putins Schwiegersohn] Mails wird erwähnt, dass seine Offshore-Firma ein Aktienpaket des Konzerns Sibur im Marktwert von 380 Millionen Dollar für gerade mal 100 Dollar gekauft hat."

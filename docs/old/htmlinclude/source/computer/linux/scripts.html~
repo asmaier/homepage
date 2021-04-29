@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">    
+
+<head>
+
+</head>
+
+<body>
+
+
+<h5>Shell-Skripte</h5>
+<p>Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte
+nötig:</p>
+<ol>
+<li>Eine Textdatei erzeugen mit Namen
+<pre> dateiname.sh</pre></li>
+
+<li>Die erste Zeile der Textdatei muß lauten:
+<pre>#!/bin/sh</pre>
+Im Anschluss an diese Zeile schreibt man das
+Shell-Skript. 
+Aber Achtung: Bei der Angabe von Dateinamen in Skripten sollte
+man immer den vollen Dateipfad angeben, sonst funktioniert das Skript nicht von
+jedem Verzeichnis aus. Dies ist z.B. nötig, wenn ein Skript als Icon im
+KDE-Panel gestartet werden soll.</li>
+
+<li>Ausführen des Skripts
+	<ul>
+	<li>Ohne Executable-Bit wird das Skript mithilfe des <tt>sh</tt>-Kommandos
+	gestartet:
+	<pre>> sh dateiname.sh</pre></li>
+
+	<li>Man kann ein Skript auch direkt ausführen, wenn man mit
+	<pre>> chmod u+x dateiname.sh</pre>
+	das Skript vorher ausführbar gemacht hat
+	(Mehr zum <tt>chmod</tt>-Befehl gibt es 
+	<a href="http://eva-marbach.net/handbuch/u-chmod.htm">hier</a>.).
+	Danach kann man es direkt starten mittels
+	<pre>> ./dateiname.sh</pre></li>
+	</ul>
+</ol>
+
+<p>Mehr zur Syntax der Shell-Skript-Programmierung gibt es z.B. auf den Seiten der 
+<a href="http://www.chemie.fu-berlin.de/chemnet/general/topics/scripts_sh.html">
+FU Berlin</a>.</p>
+
+</body>
+</html>

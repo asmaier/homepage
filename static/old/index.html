@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Andreas Maier Website</title>
+  <link href="new_files/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="new_files/style.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+</head>
+
+<body onload="start()">
+
+<div id="header" class="bg1">
+  <div id="topnav">
+    <ul>
+      <li><a href="http://asmaier.blogspot.de/">Blog</a></li>
+    </ul>
+  </div>
+  <div id="headerblob">
+    <img src="new_files/profil_small.jpg" class="img-circle imgme">
+    <div id="headertext">
+      <div id="htname">Andreas Maier</div>
+      <div id="htdesc">Physicist & Programmer</div>
+      <div id="htem">andimai _at_ web.de</div>
+      <div id="icons">
+        <div class="svgico">
+          <a href="https://plus.google.com/u/0/111768585641520690062/posts"><img src="new_files/80-google-plus.svg"></a>
+        </div>
+        <div class="svgico">
+          <a href="https://github.com/asmaier"><img src="new_files/octocat.svg" width="56px"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="container">
+  <div id="timeline">
+    <div class="timelineitem">
+      <div class="tdate">Summer 2015</div>
+      <div class="ttitle">Google DeepMind Internship</div>
+      <div class="tdesc"></div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">Summer 2013</div>
+      <div class="ttitle">Google Research Internship</div>
+      <div class="tdesc">Large-Scale Supervised <span class="thigh">Deep Learning</span> for Videos.</div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">2011-</div>
+      <div class="ttitle">Stanford Computer Science Ph.D. student</div>
+      <div class="tdesc">Machine Learning (with emphasis on <span class="thigh">Deep Learning</span>), Computer Vision and a pinch of NLP. My adviser is Fei-Fei Li.</div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">Summer 2011</div>
+      <div class="ttitle">Google Research Internship</div>
+      <div class="tdesc">Large-Scale Unsupervised <span class="thigh">Deep Learning</span> for Videos.</div>
+    </div>
+    <div class="timelineitem">
+     <div class="tdate">2009-2011</div>
+      <div class="ttitle">University of British Columbia: Master's Degree</div>
+      <div class="tdesc">I worked with Michiel van de Panne on Learning Compositional Controllers for Physically-simulated Articulate Figures.</div>
+    </div>
+    <div class="timelineitem">
+      <div class="tdate">2005-2009
+      </div>
+      <div class="ttitle">University of Toronto: Bachelor's Degree</div>
+      <div class="tdesc">Double major in <span class="thigh">Computer Science and Physics</span>.</div>
+    </div>
+  </div>
+</div> -->
+
+<div class="container">
+    <h2>Pet Projects</h2>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="pp">
+                <a href="http://superzon.herokuapp.com">
+                    <img src="new_files/superzon.jpg" class="img-circle imgb">
+                </a>
+                <div class="ppt">Superzon</div>
+                <div class="ppd">
+                    <a href="http://superzon.herokuapp.com">Superzon</a> can be used to find the really best products on Amazon. It does that by reranking the Amazon
+                    search results using a bayesian average of the reviews taking the number of reviewers into account.
+                    It is implemented as a small webservice written with Flask in Python and deployed on Heroku.
+                </div>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="pp">
+                <a href="https://github.com/asmaier/correlomat">
+                    <img src="new_files/correlomat.jpg" class="img-circle imgb">
+                </a>
+                <div class="ppt">Correl-O-Mat</div>
+                <div class="ppd">
+                    <a href="https://github.com/asmaier/correlomat">Correl-O-Mat</a> is a python script for analyzing
+                    correlations from the data of the <a href="http://www.bpb.de/politik/wahlen/wahl-o-mat/">wahl-o-mat</a>.
+                    It generates a correlation matrix counting all questions where the parties agree with each other.
+                    This shows, which parties share opinions and therefor are similar to each other
+                    (with sometimes <a href="http://asmaier.blogspot.de/2014/05/europawahl-2014-interessante.html">surprising results</a>!).
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="pp">
+                <a href="https://github.com/axelspringer/semaeval">
+                    <img src="new_files/semaeval.jpg" class="img-circle imgb">
+                </a>
+                <div class="ppt">Semaeval</div>
+                <div class="ppd">
+                    <a href="https://github.com/axelspringer/semaeval">Semaeval</a> is a python package to evaluate the
+                    quality of semantic engines. It supports evaluation of
+                    the natural language processing capabilities of many engines like alchemyapi, semantria, textrazor.
+                    It also offers tools to get example texts in many languages from sources like Welt.de,
+                    Huffingtonpost.fr or Fakt.pl.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="showmore" id="showmoreprojects">
+        show more
+    </div>
+
+    <div id="moreprojects">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="pp">
+                    <a href="https://github.com/asmaier/roomfinder">
+                        <img src="new_files/roomfinder.jpg" class="img-circle imgsm">
+                    </a>
+                    <div class="ppt">Roomfinder</div>
+                    <div class="ppd">
+                        Python <a href="https://github.com/asmaier/roomfinder">scripts</a> for finding free conference rooms from a Microsoft Exchange Server.
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="pp">
+                    <a href="https://github.com/asmaier/wiki2dict">
+                        <img src="new_files/Wikipedia-logo-v2.svg.png" class="img-circle imgsm">
+                    </a>
+                    <div class="ppt">Wiki2Dict</div>
+                    <div class="ppd">
+                        This <a href="https://github.com/asmaier/wiki2dict">project</a> offers some python scripts for generating a bilingual dictionary from a wikipedia dump.
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="pp">
+                    <a href="https://github.com/asmaier">
+                        <img src="new_files/circle.svg" class="img-circle imgsm">
+                    </a>
+                    <div class="ppt">More on Github</div>
+                    <div class="ppd">
+                        Even more pet projects are on <a href="https://github.com/asmaier">github</a>.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="soft">
+<hr class="soft">
+<hr class="soft">
+
+<div class="container">
+  <h2>Publications</h2>
+  <div id="pubs">
+
+    <div class="pubwrap">
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="pubimg">
+          <img src="new_files/IaaS.jpg">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="pub">
+            <div class="pubt">Towards Sustainable IaaS Pricing</div>
+            <div class="pubd">In this paper we argue that the predominant flat rate billing in conjunction with the practice of overbooking and its associated mismatch between actual costs and billed posts results in a substantial misalignment between the interests of providers and customers that stands in the way of trustworthy and sustainable cloud computing. On these grounds, we propose a hybrid IaaS pricing model that aims to avoid these problems in a non-technical fashion by shifting to consumption based billing on top of credible minimum performance.</div>
+            <div class="puba">Philipp Berndt, Andreas Maier</div>
+            <div class="pubv">Economics of Grids, Clouds, Systems, and Services. Springer International Publishing, 2013. 173-184.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pubwrap">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="pubimg">
+                    <img src="new_files/fearless.jpg">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="pub">
+                    <div class="pubt">Turbulence modeling and the physics of the intra-cluster medium</div>
+                    <div class="pubd">FEARLESS (Fluid mEchanics with Adaptively Refined Large Eddy SimulationS) is a new
+                        numerical scheme arising from the combined use of subgrid scale (SGS) model for turbulence at the
+                        unresolved length scales and adaptive mesh refinement (AMR) for resolving the large scales. This
+                        tool is especially suitable for the study of turbulent flows in strongly clumped media. In this
+                        contribution, the main features of FEARLESS are briefly outlined. We then summarize the main results
+                        of FEARLESS cosmological simulations of galaxy cluster evolution. In clusters, the production of
+                        turbulence is closely correlated with merger events; for minor mergers, we find that turbulent
+                        dissipation affects the cluster energy budget only locally. The level of entropy in the cluster
+                        core is enhanced in FEARLESS simulations, in accord with a better modeling of the unresolved flow,
+                        and with its feedback on the resolved mixing in the ICM.</div>
+                    <div class="puba">L. Iapichino, A. Maier, W. Schmidt and J. C. Niemeyer</div>
+                    <div class="pubv">AIP Conf. Proc. 1241, 928 (2010)</div>
+                    <div class="publ">
+                        <ul>
+                            <li><a href="http://arxiv.org/abs/0911.2629">Arxiv Preprint</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="pubwrap">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="pubimg">
+          <img src="new_files/cluster.jpg">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="pub">
+            <div class="pubt">Adaptively refined large eddy simulations of a galaxy cluster: turbulence modeling and the physics of the intracluster medium.</div>
+            <div class="pubd">We present a numerical scheme for modeling unresolved turbulence in cosmological adaptive mesh refinement
+                codes. As a first application, we study the evolution of turbulence in the intracluster medium (ICM) and in
+                the core of a galaxy cluster. Simulations with and without subgrid scale (SGS) model are compared in detail.
+                Since the flow in the ICM is subsonic, the global turbulent energy contribution at the unresolved length scales
+                is smaller than 1% of the internal energy. We find that the production of turbulence is closely correlated with
+                merger events occurring in the cluster environment, and its dissipation locally affects the cluster energy budget.
+                Because of this additional source of dissipation, the core temperature is larger and the density is smaller in
+                the presence of SGS turbulence than in the standard adiabatic run, resulting in a higher entropy core value.</div>
+            <div class="puba">Maier, A., Iapichino, L., Schmidt, W., & Niemeyer, J. C.</div>
+            <div class="pubv">The Astrophysical Journal 707.1 (2009): 40.</div>
+            <div class="publ">
+              <ul>
+                <li><a href="http://arxiv.org/abs/0909.1800">Arxiv Preprint</a></li>
+                <li><a href="https://vimeo.com/groups/ytgallery/videos/15121499">Vimeo Video</a></li>
+               </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pubwrap">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="pubimg">
+          <img src="new_files/flash.jpg">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="pub">
+            <div class="pubt">C+O detonations in thermonuclear supernovae: Interaction with previously burned material</div>
+            <div class="pubd">In the context of explosion models for Type Ia Supernovae, we present one- and two-dimensional
+                simulations of fully resolved detonation fronts in degenerate C+O White Dwarf matter including clumps of
+                previously burned material. The ability of detonations to survive the passage through sheets of nuclear
+                ashes is tested as a function of the width and composition of the ash region. We show that detonation
+                fronts are quenched by microscopically thin obstacles with little sensitivity to the exact ash composition.
+                Front-tracking models for detonations in macroscopic explosion simulations need to include this effect in
+                order to predict the amount of unburned material in delayed detonation scenarios.</div>
+            <div class="puba">A. Maier, J.C. Niemeyer</div>
+            <div class="pubv">Astronomy & Astrophysics 451.1 (2006): 207-212.</div>
+            <div class="publ">
+              <ul>
+                <li><a href="http://arxiv.org/abs/astro-ph/0605293">Arxiv Preprint</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="soft">
+<hr class="soft">
+<hr class="soft">
+
+<div class="container">
+
+  <h2>Misc</h2>
+  <div class="row">
+    <div class="col-md-6">
+
+      <div class="miscitem">
+        <div class="miscimg">
+          <img src="new_files/noun_8640_cc.svg" class="img-circle">
+        </div>
+        <div class="miscd">
+          Half alive and half dead, like Schrödingers cat: <a href="index2.html">My old website</a>.
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+
+      <div class="miscitem">
+        <div class="miscimg">
+          <img src="new_files/feed.png" class="img-circle">
+        </div>
+        <div class="miscd">
+          Find me on <a href="https://www.xing.com/profile/Andreas_Maier78">Xing</a>, <a href="https://de.linkedin.com/pub/andreas-maier/57/910/614">LinkedIn</a>, <a href="https://plus.google.com/u/0/111768585641520690062">Google+</a>, <a href="https://github.com/asmaier">Github</a>, <a href="http://stackexchange.com/users/59864/asmaier">StackExchange</a> .
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+<hr class="soft">
+<hr class="soft">
+<hr class="soft">
+
+<div class="container">
+
+    <h2>The end</h2>
+
+<div class="container quote">
+    <blockquote>
+        "Computers are useless, they can only give you answers!"
+        <footer>Pablo Picasso</footer>
+    </blockquote>
+</div>
+</div>
+
+<!--
+<div id="sitefooter">
+</div>
+-->
+
+<!-- place js at end for faster loading -->
+<script src="new_files/jquery-1.11.1.min.js"></script>
+<script src="new_files/bootstrap.min.js"></script>
+<script>
+
+var more_projects_shown = false;
+function start() {
+  $("#showmoreprojects").click(function() {
+    if(!more_projects_shown) {
+      $("#moreprojects").slideDown('fast', function() {
+        $("#showmoreprojects").text('hide');
+      });
+      more_projects_shown = true;
+    } else {
+      $("#moreprojects").slideUp('fast', function() {
+        $("#showmoreprojects").text('show more');
+      });
+      more_projects_shown = false;
+    }
+  });
+
+  var more_pubs_shown = false;
+  $("#showmorepubs").click(function() {
+    if(!more_pubs_shown) {
+      $("#morepubs").slideDown('fast', function() {
+        $("#showmorepubs").text('hide');
+      });
+      more_pubs_shown = true;
+    } else {
+      $("#morepubs").slideUp('fast', function() {
+        $("#showmorepubs").text('show more');
+      });
+      more_pubs_shown = false;
+    }
+  });
+
+}
+
+</script>
+
+
+
+</body></html>

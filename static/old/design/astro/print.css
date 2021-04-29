@@ -1,0 +1,33 @@
+body, h2, h3, h4, h5, h6,  a {
+			     color:#000000;
+			     background:transparent;
+			     margin:0px;
+			     padding:0px;}
+
+h2 {
+   text-align:left;
+   margin-bottom:2em;}
+
+#contenido, .margen {
+		    color:#000000;
+		    border:0px solid white;
+		    background-color:#ffffff;
+		    margin:0px;
+		    padding:0px;}
+
+.table_members td, .table_members th {
+				     color:#000000;
+				     background-color:transparent;
+				     border: 1px solid #6c6c6c;}
+
+.table_members th {
+		  font-weight:bold;}
+.table_members {
+	       margin:0px;
+	       border-collapse : collapse;}
+
+#navegador, #cabeza, #pie, h1 {
+			      display:none;}
+/* error display: missing closing bracket */
+/* a[href="#top"], img[alt="nach oben"] {
+				     display:none;} */

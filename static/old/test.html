@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index"/>
+
+
+<title>Andis Homepage</title>
+<script type="text/javascript">
+function whoami(unkown)
+{
+	var pos=parseInt(unkown.id);
+	
+	for (var i = 0; i < document.getElementsByTagName("li").length; i++)
+	{
+		document.getElementsByTagName("li")[i].style.fontSize='1em';
+	}
+	
+	if(pos==0)
+	{
+		unkown.style.fontSize='2em';
+		document.getElementById(String(pos+1)).style.fontSize='1.3em';
+		document.getElementById(String(pos+2)).style.fontSize='1.1em';
+	}
+	else if(pos==1)
+	{
+		document.getElementById(String(pos-1)).style.fontSize='1.3em';
+		unkown.style.fontSize='2em';
+		document.getElementById(String(pos+1)).style.fontSize='1.3em';
+		document.getElementById(String(pos+2)).style.fontSize='1.1em';
+	}
+	else if(pos==(document.getElementsByTagName("li").length)-2)
+	{
+		document.getElementById(String(pos-2)).style.fontSize='1.1em';
+		document.getElementById(String(pos-1)).style.fontSize='1.3em';
+		unkown.style.fontSize='2em';
+		document.getElementById(String(pos+1)).style.fontSize='1.3em';
+	}
+	else if(pos==(document.getElementsByTagName("li").length)-1)
+	{
+		document.getElementById(String(pos-2)).style.fontSize='1.1em';
+		document.getElementById(String(pos-1)).style.fontSize='1.3em';
+		unkown.style.fontSize='2em';
+	}
+	else
+	{
+		document.getElementById(String(pos-2)).style.fontSize='1.1em';
+		document.getElementById(String(pos-1)).style.fontSize='1.3em';
+		unkown.style.fontSize='2em';
+		document.getElementById(String(pos+1)).style.fontSize='1.3em';
+		document.getElementById(String(pos+2)).style.fontSize='1.1em';
+	}
+		
+	
+}
+</script>
+
+
+				
+</head>
+
+<body>
+
+		<ul>
+		<li id="0" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="1" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="2" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="3" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="4" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="5" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="6" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="7" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="8" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="9" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="10" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="11" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="12" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="13" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="14" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="15" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="16" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="17" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="18" onmouseover="whoami(this)"><a>Link</a></li>
+		<li id="19" onmouseover="whoami(this)"><a>Link</a></li>
+		</ul>
+
+
+</body>
+</html>

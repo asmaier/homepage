@@ -1,0 +1,592 @@
+/* Von mir hinzugefügt*/
+
+* {
+	margin:0;
+	padding:0;
+	/*border:solid 1px;*/
+	}
+	
+h1 #add		{
+		font-size: 	1.5em;
+		font-style: 	italic;
+		position: 	relative;
+		top: 		3px;
+		left:		1px;
+		}
+		
+#top		{
+		position: 	relative; /* nötig, damit z-index funktioniert*/
+		z-index:		2;
+		white-space:nowrap;
+		font-size:12px;
+		
+		}
+		
+#top .tabs	{
+		margin-top:	0;
+		margin-left:	auto;
+		margin-right:	auto;
+		margin-bottom:	0;
+		}
+#top .tabs .l	{
+		background-image: 	url(tableftwhite.gif);
+			
+		height: 0;
+		overflow: hidden;
+		
+		padding-top: 25px;
+   		width: 12px;
+   		
+   		float:left;
+		}
+#top .tabs .m	{
+		color:		#999999;
+		
+		background-image: 	url(tabwhite.gif);
+		height: 		19px;
+		overflow: 	hidden;
+		float: 		left;
+		padding-top:	3px;
+		padding-bottom: 	3px;
+		font-weight:	normal;
+		}		
+#top .tabs .r	{
+		background-image: 	url(tabrightwhite.gif);
+			
+		height: 		0;
+		overflow: 	hidden;
+		
+		padding-top: 	25px;
+   		width: 		12px;
+   			
+   		float:		left;
+		}
+		
+#top .tabs .lactive	{
+		background-image: 	url(tableftblue.gif);
+			
+		height: 		0;
+		overflow: 	hidden;
+		
+		padding-top: 	25px;
+   		width: 		12px;
+   			
+   		float:		left;
+		}
+#top .tabs .mactive	{
+		color:		#000000;
+		background-image: 	url(tabblue.gif);
+		height: 		19px;
+		overflow: 	hidden;
+		float: 		left;
+		padding-top:	3px;
+		padding-bottom: 	3px;
+		
+		}		
+#top .tabs .ractive	{
+		background-image: 	url(tabrightblue.gif);
+			
+		height: 		0;
+		overflow: 	hidden;
+		
+		padding-top: 	25px;
+   		width: 		12px;
+   		float:		left;
+		}
+		
+#top .tabs .rr	{
+		background-image: 	url(tabrrightwhite.gif);
+			
+		height: 		0;
+		overflow: 	hidden;
+		
+		padding-top: 	25px;
+   		width: 		12px;
+   			
+   		float:		left;
+		}
+
+#top .tabs .ll	{
+		background-image: 	url(tablleftwhite.gif);
+			
+		height: 0;
+		overflow: hidden;
+		
+		padding-top: 25px;
+   		width: 12px;
+   		
+   		float:left;
+		}
+		
+#top .tabs .llactive	{
+		background-image: 	url(tablleftblue.gif);
+			
+		height: 		0;
+		overflow: 	hidden;
+		
+		padding-top: 	25px;
+   		width: 		12px;
+   			
+   		float:		left;
+		}		
+				
+#top .tabs .rractive	{
+		background-image: 	url(tabrrightblue.gif);
+			
+		height: 		0;
+		overflow: 	hidden;
+		
+		padding-top: 	25px;
+   		width: 		12px;
+   		float:		left;
+		}
+		
+#submenu
+		{
+		margin-top:	1em;
+		margin-left:	auto;
+		margin-right:	auto;
+		margin-bottom:	1em;
+		width:		90%;
+		border-bottom: 1px solid #dddddd;
+		
+		text-align:	center;
+		position:relative;  /* For IE6 */
+		}
+		
+#submenu .tabs	{
+		margin-top:	0;
+		margin-left:	auto;
+		margin-right:	auto;
+		margin-bottom:	0;
+		/*width:		90%;
+		border-bottom: 1px solid #dddddd;
+		
+		text-align:	center;*/
+		position:relative;
+		}
+		
+#submenu .tabs .l
+		{
+		display:none;
+		}		
+#submenu .tabs .m
+		{
+		font-size:	1.0em;
+		color:		#dddddd;
+		
+		padding-left:	5px;
+		padding-right:	5px;
+		position:relative; /* For Safari and Opera */
+		}
+		
+#submenu .tabs .m:hover
+		{
+		font-size:	1.5em;
+		color:		red;
+		
+		margin-left:	5px;
+		margin-right:	5px;
+		}
+		
+
+#submenu .tabs .r
+		{
+		display:none;
+		}
+
+		
+#submenu .tabs .lactive
+		{
+		display:none;
+		}
+		
+#submenu .tabs .mactive
+		{
+		font-size:	1.5em;
+		color:		black;
+		
+		padding-left:	5px;
+		padding-right:	5px;
+		position:relative; /* For Safari and Opera */
+		}
+		
+#submenu .tabs .ractive
+		{
+		display:none;
+		}		
+		
+/*
+
+#submenu .tabs .mactive:hover
+		{
+		font-size:	1.0em;
+		}				
+		
+*/			
+		
+#subsubmenu
+		{
+		
+		margin-top:	-1em;
+		margin-left:	auto;
+		margin-right:	auto;
+		margin-bottom:	1em;
+		width:		90%;
+		/*border-bottom: 1px solid #dddddd;*/
+		
+		text-align:	center;
+		position:relative;  /* For IE6 */
+		}
+		
+#subsubmenu .tabs	{
+		
+		margin-top:	0;
+		margin-left:	auto;
+		margin-right:	auto;
+		margin-bottom:	0;
+		/*width:		90%;
+		border-bottom: 1px solid #dddddd;
+		
+		text-align:	center;*/
+		position:relative;  /* For IE6 */
+		}
+		
+#subsubmenu .tabs .l
+		{
+		display:none;
+		}		
+#subsubmenu .tabs .m
+		{
+		font-size:	0.8em;
+		color:		#dddddd;
+		
+		margin-left:	5px;
+		margin-right:	5px;
+		position:relative; /* For Safari and Opera */
+		
+		}
+		
+#subsubmenu .tabs .m:hover
+		{
+		font-size:	1.0em;
+		color:		red;
+		
+		margin-left:	5px;
+		margin-right:	5px;
+		
+		}
+		
+#subsubmenu .tabs .r
+		{
+		display:none;
+		}
+		
+#subsubmenu .tabs .lactive
+		{
+		display:none;
+		}
+		
+#subsubmenu .tabs .mactive
+		{
+		font-size:	1.0em;
+		color:		black;
+		
+		margin-left:	5px;
+		margin-right:	5px;
+		position:relative;  /* For Safari and Opera */
+		
+		}
+		
+#subsubmenu .tabs .ractive
+		{
+		display:none;
+		}	
+		
+#box	
+		{
+		background-color:	#ffffff;
+		min-width:	600px;
+		margin-top:	-27px;
+		position: 	relative; /* nötig, damit z-index funktioniert*/
+		z-index:		1;
+		/*width:64em;*/
+		}
+#bo		{
+		background-image: 	url(bo.gif);
+		background-repeat:	repeat-x;
+		}
+#blo		{
+		background-image: url(blo.gif);
+		background-position: top left;
+      		background-repeat: no-repeat;
+      		}
+#bro		{
+		background-image: url(bro.gif);
+		background-position: top right;
+      		background-repeat: no-repeat;
+      		}
+#bl		{
+		background-image: url(bl.gif);
+		background-position: left;
+		background-repeat: repeat-y;
+		}
+#br		{
+		background-image: url(br.gif);
+		background-position: right;
+		background-repeat: repeat-y;
+		}
+#bu		{
+		background-image: 	url(bu.gif);
+		background-position: bottom;
+		background-repeat:	repeat-x;
+		}		
+#blu		{
+		background-image: url(blu.gif);
+		background-position: bottom left;
+      		background-repeat: no-repeat;
+      		}
+#bru		{
+		background-image: url(bru.gif);
+		background-position: bottom right;
+      		background-repeat: no-repeat;
+      		}
+		
+#content	{
+		padding-top:	32px;
+		padding-bottom:	45px;
+		padding-left:	80px;
+		padding-right:	80px;
+		}
+		
+div.spacer 	{
+		clear: both;
+		}
+		
+.album 		{
+		margin-top: 20px;
+		margin-right: -20px;
+		position: 	relative; /* nötig, damit z-index funktioniert*/
+		z-index:		3;
+		}
+		
+.thumb 		{ 
+		display: inline; 
+		float: left; 
+		margin: 4px; 
+		background: transparent url(frame2.gif) no-repeat top left; 
+		width: 101px; 
+		height: 115px;
+		position: 	relative; /* nötig, damit z-index funktioniert*/
+		z-index:		3;
+		}
+		
+.thumb a 	{ 
+		display: block; 
+		width: 101px; 
+		height: 101px; 
+		background-position: center; 
+		background-repeat: no-repeat; 
+		text-decoration: none; 
+		}
+		
+.thumb a span 	{ 
+		font-size: 9px; 
+		position: relative; 
+		top: 103px; 
+		color: black;  
+		text-transform: uppercase; 
+		display: block; 
+		text-align: center;
+		width: 101px;
+		overflow: hidden; 
+		}
+		
+.thumb a:hover span { 
+		color: red; 
+		}		
+
+#subpage	{
+		margin-left: auto; 
+		margin-right:auto;
+		}
+		
+#subpage #center{
+		display: block; 
+		margin-left: auto; 
+		margin-right: auto;
+		}
+		
+#subpage #caption	{
+		text-align:center; 
+		margin-top: 3px; 
+		text-transform: uppercase;
+		}	
+		
+		
+/* The W3C Core Styles */
+
+body	{
+	font-size:	14px;
+	font-family:	Trebuchet ms, Verdana, Myriad Web, Syntax, sans-serif;
+	/*font-family: 	Verdana, "Lucida Grande", "Lucida Sans",  "Bitstream Vera Sans", sans-serif;*/
+	/*font-family:	Georgia, Minion Web, Palatino, Book Antiqua, Utopia, Times New Roman, serif;*/
+
+	padding-top:	1em;
+	border: 0;
+	line-height:	1.5em;
+	background-image:	url(back.gif);
+	background-position:0px 4px;
+	background-color:white;
+	color:black;
+	}
+	
+h1, h2, h3, h4, h5, h6	{	
+	line-height:	1.33em;
+	margin-bottom:	.33em;
+	}	
+
+		
+h1	{
+	font-size:	2em;
+	font-weight:	normal;
+	margin-top:	1.33em;
+	
+	}	
+		
+h2	{
+	font-size:	1.75em;
+	font-weight:	normal;
+	margin-top:	1.75em;
+	}	
+		
+h3	{
+	font-size:	1.58em;
+	font-weight:	normal;
+	margin-top:	1.58em;
+	}	
+		
+h4	{
+	font-size:	1.33em;
+	margin-top:	1.33em;
+	}	
+		
+h5 {
+	font-size:	1.17em;
+	margin-top:	1.17em;
+	
+	}	
+		
+h6	{
+	font-size:	1em;
+	margin-top:	1em;
+	}		
+
+a:link	{
+	text-decoration:	none;
+	font-weight:	bold; 
+	color:	#C00;
+	}	
+		
+a:visited	{
+	text-decoration:	none;
+	font-weight:	bold;
+	color:	#69C;
+	}	
+		
+a:active	{
+	text-decoration:	none;
+	font-weight:	bold;
+	color:	#C00;
+	}	
+		
+a:hover	{
+	text-decoration:	none;
+	color:	#F00;
+	}	
+		
+a.offsite	{
+	text-decoration:	none;
+	font-weight:	normal;
+	color:	#C66;
+	}	
+	
+ul, ol, dl	{	
+	margin-top:	.83em;
+	margin-bottom:	.83em;
+	}	
+	
+ul ul, ol ol, li address, li dl, li ol, li p, li ul, li dir, li hr, li menu, li pre, li h1, li h2, li h3, li h4, li h5, li h6, dd address, dd dl, dd ol, dd p, dd ul, dd dir, dd hr, dd menu, dd pre, dd h1, dd h2, dd h3, dd h4, dd h5, dd h6	{	
+	margin-top:	0;
+	margin-bottom:	0;
+	}
+	
+li	{	
+	margin-left:	1.75em;
+	}
+	
+img	{	
+	border-style:	none;
+	}	
+	
+pre	{
+	font-size:	1em;
+	font-family:	'Monotype.com', Courier New, monospace;
+
+	margin-top:	.83em;
+	margin-bottom:	.83em;
+	line-height:	1.33em;
+	}
+	
+em	{	
+	font-style:	normal;
+	font-weight:	bold;
+	color:		black;
+	}
+	
+td, th	{	
+	line-height:	1.58em;
+	}
+	
+address	{	
+	font-style:	normal;
+	letter-spacing:	.1em;
+
+	margin-top:	1.75em;
+	margin-bottom:	1.75em;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

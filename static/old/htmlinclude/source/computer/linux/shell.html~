@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+</head>
+
+<body>
+
+<h5>Die Kommandozeile (bzw. die Shell oder das Terminal)</h5>
+<p>Einen gute und schnellen Überblick über die Kommandozeile gibt es in der
+<a href="http://www.heise.de/ct/99/12/170/">c't 12/99</a>.
+Dieser Artikel sei jedem als Ergänzung zu den folgenden Tipps
+empfohlen:</p>
+
+<ul>
+<li><em>Einen Prozess im Hintergrund starten, so dass er auch beim Schließen
+der Kommandozeile weiterläuft:</em>
+<pre>> ./command &amp;</pre>
+Achtung: Beim Schliessen der Kommandozeile per Fenster-Icon wird
+<tt>command</tt> trotzdem beendet! Nur wenn das Terminal per
+<pre>> exit</pre> beendet wird läuft <tt>command</tt> weiter.</li>
+
+<li><em>Umleiten der Ausgabe von STDERR(2) und STDOUT(1) in eine Datei:</em>
+<pre>> ./command 1>command.log 2>&amp;1 </pre>
+ACHTUNG: Die Reihenfolge der Umleitungen ist signifikant. Würde man
+<tt>2>&amp;1</tt> vor <tt>1>command.log</tt> schreiben, so 
+leitet man nur STDOUT in die Datei <tt>command.log</tt> um;
+STDERR wird jedoch nur auf den Kanal umgeleitet der vorher STDOUT war 
+(meist das Terminal), d.h. man sieht die Fehlermeldungen im Termial und alle anderen
+Ausgaben werden in die Datei umgeleitet (Siehe dazu auch die 
+<a href="http://wwwcip.informatik.uni-erlangen.de/old/tree/CIP/Manuals/unix/shell/umlenkung.html">
+Unix-Anleitung der Uni Erlangen</a>).<br />
+Will man die Ausgabe gleichzeitig noch in der Shell sehen, so kann
+muß man die Weiterleitung der Ausgabe mit dem Pipezeichen |
+mit dem T-Stück "tee" verzweigen:
+<pre>> ./command 2>&amp;1 | tee command.log</pre></li>
+
+<li><em>Einen Prozess so starten, dass er auch nach einem Logout weiterläuft:</em>
+<pre>> nohup command &amp;</pre>
+Dies funktioniert auch mit parallelisierten Programmen, z.B. für ein
+mit MPI parallelisiertes Programm, welches in vier parallelen Prozessen
+laufen soll :
+<pre>> nohup mpirun -np 4 mpicommand 2>&amp;1 > output.log &amp; </pre>
+Aber Achtung: Wenn der Prozess z.B. mit <tt>|</tt> Ausgaben umleitet,
+oder mit <tt>tee</tt> Ausgaben in die
+Kommandozeile schreibt, funktioniert das anscheinend nicht; z.B.
+würde folgender Prozess beim Schließen des Terminals abgebrochen:
+<pre>> nohup command 2>&amp;1 | tee output.log &amp; </pre>
+Siehe auch <a href="http://www.lugbz.org/content/sections/workshops/bash-intro-2003-04-26/slide_nohup.html">
+Pircher 2003</a>.</li>
+
+<li><em>Ausgehend vom aktuellen Verzeichnis alle Dateien mit der Endung "suffix"
+finden:</em>
+<pre>> find . -name "*.suffix"</pre>
+Wichtig sind dabei die Anführungszeichen. Ohne sie kommt es zu seltsamen
+Fehlern, wenn das gesuchte Suchmuster das Jokerzeichen <tt>*</tt> enthält.</li>
+
+<li><em>Ausgehend vom aktuellen Verzeichnis alle Dateien, die in den letzten 30 Tagen 
+modifiziert wurden, finden:</em>
+<pre>> find . -mtime -30 -ls</pre>
+Wichtig ist dabei das Minuszeichen vor der <tt>30</tt>. Vergisst man es werden nur die Dateien
+angezeigt, die genau vor 30 Tagen geändert wurden. Gibt man stattdessen <tt>+30</tt> an, werden
+die Dateien gesucht, welche vor mehr als 30 Tagen geändert wurden. Die Option <tt>-ls</tt> sorgt
+dafür, dass <tt>find</tt> die Dateien im selben Format anzeigt wir der Befehl <tt>ls -dils</tt>.
+Damit sieht man gleich das Änderungsdatum der gefundenen Dateien.</li>
+
+<li><em>Suchen eines Begriffes in allen Dateien des aktuellen Verzeichnisses und der
+Unterverzeichnisse:</em>
+<pre>> find -exec grep "Suchbegriff" {} \; -print</pre>
+Gefunden in <a href="http://www.amazon.de/exec/obidos/ASIN/3827321581/ref=ase_michaelkofler/302-7208934-0117615">
+Kofler 2004</a>. Achtung: wenn der Suchbegriff mit Sonderzeichen durchsetzt, muß man diese mit einem oder 
+mehreren(!) "Backslashes escapen". Sucht man z.B. <tt>"rm -f $*.f"</tt> so muß man als Suchbegriff 
+<tt>"rm -f \\$\*.f"</tt> eingeben (Man beachte den doppelten(!) Backslash vor dem $-Zeichen).
+</li>
+
+<li><em>Nach Größen sortierte Ausgabe aller Dateien und Verzeichnisse im aktuellen
+Verzeichnis:</em>
+<pre>> du --max-depth=1 -all -k | sort -n</pre>
+Dabei steht <tt>--max-depth=1</tt> dafür, dass nur die Unterverzeichnisse
+im aktuellen Verzeichnis aufgelistet werden und nicht auch noch die
+Unterverzeichnisse in den Unterverzeichnissen. Die Option <tt>-all</tt> steht dafür,
+dass auch die Größen der Dateien im aktuellen Verzeichnis angezeigt werden und
+die Option <tt>-n</tt> des <tt>sort</tt>-Befehls sortiert die übergebene Liste
+numerisch.
+Die Option <tt>-k</tt> gibt an,
+dass die Größenangabe in Kibibyte (=1024 Byte) sein soll und ist eine Abkürzung für
+<tt>-B 1K</tt> Die Option <tt>-B 1KB</tt> steht für Kilobyte (=1000Byte) und
+entsprechend steht <tt>-B 1M</tt> für Mebibyte (=1024*1024=1048576 Byte) und
+<tt>-B 1MB</tt> für Megabyte (=1000000 Byte) usw. für G, T, P, E, Z, Y.
+Zudem wird immer auf die nächstgrößere Zahl gerundet, d.h 4096 Byte entsprechen 4 Kibibyte
+aber aufgerundet sind das 5 Kilobyte. Wen das alles verwirrt, der kann auch <tt>-B 1</tt> setzen
+und bekommt die Größen in Byte angezeigt oder mehr zum Thema Kibibyte und Mebibyte
+lesen und zwar beim <a href="http://physics.nist.gov/cuu/Units/binary.html">NIST
+(National Institut of Standards and Technology)</a> oder in der
+<a href="http://en.wikipedia.org/wiki/Binary_prefix">Wikipedia</a>.</li>
+
+<li><em>Befehlsabkürzungen (Aliase) und Funktionen:</em><br />
+Für häufig benötigte lange Befehlszeilen schreibt man am besten Abkürzungen,
+sog. Aliase. Diese werden in der Datei <tt>.alias</tt> im Homeverzeichnis angelegt.
+Meine .alias-Datei enthält z.B. folgende Zeile:
+<pre>alias platz="du --max-depth=1 -all -k | sort -n"</pre>
+Durch Eingabe von <tt>platz</tt> kann ich mir damit also immer die Größe aller Dateien
+und Verzeichnisse (s. oben) anzeigen lassen. Durch Eingabe von
+<tt>alias</tt>
+kann man sich alle (auch global) gesetzten Befehlsabkürzungen anzeigen lassen.
+Alias-Anweisungen mit Übergabe eines Arguments sind in der Bash-Shell jedoch nicht
+möglich, dafür gibt es Funktionen, welche man in der Datei <tt>.bashrc</tt>
+definieren kann. Um z.B. eine Funktion der Art <tt>such begriff</tt>
+zu definieren, die alle Dateien (auch die, die ev. in Unterverzeichnissen vom
+aktuellen Verzeichnis aus gesehen liegen) anzeigt, welche "begriff" enthalten,
+muss man folgende Zeile in die <tt>.bashrc</tt> einfügen:
+<pre>such() { find -exec grep $1 {} \; -print; }</pre>
+Wichtig dabei ist, dass man nach der ersten geschweiften Klammer, bzw. vor der
+letzten geschweifen Klammer immer ein Leerzeichen lassen muß, ansonsten funktioniert
+es nicht. <tt>$1</tt> steht übrigens für das erste übergebene Argument nach dem
+Kommando selbst (s. auch Shellskript-Programmierung weiter unten). Ausführen kann man
+das Suchkommando jetzt mit
+<pre>such test</pre>
+Das Ergebnis sind ist eine Liste aller Dateien auch in den Unterverzeichnissen,
+welche "test" enthalten. Zusätzlich wird auch die Zeile in der der Begriff vorkommt
+angezeigt.</li>
+
+<li><em>Kommandos zu einem bestimmten Zeitpunkt ausführen lassen:</em><br />
+Mithilfe der <tt>at</tt>-Kommandos kann man Befehle zu einem vorbestimmten
+Zeitpunkt ausführen lassen. Dazu ist es nötig, dass der <tt>atd</tt>-Dienst
+läuft (s. Linux/Administration). Läuft dieser Dienst, kann man, wenn man z.B.
+einen Befehl einen Befehl an einem bestimmten Datum zu einer bestimmten Zeit
+ausführen möchte, folgendes eingeben:
+<pre>> at 05:00 30.08.05</pre>
+Dies würde alle folgenden Befehle um fünf Uhr morgens am 30. August 2005
+starten (Mehr zur Datums- bzw. Zeitsyntax siehe <tt>man at</tt>). Um einen
+Befehl in fünf Minuten auszuführen kann man aber auch folgendes eingeben:
+<pre>> at now +5 minutes</pre>
+Nach Eingabe des <tt>at</tt>-Kommandos erscheint dann immer folgende Eingabezeile:
+<pre>at></pre>
+Hier kann man nun interaktiv einen, bzw. mehrere Befehle hintereinander eingeben,
+welche dann in dieser Reihenfolge zum gegebenen Zeitpunkt gestartet werden. Abschliessend
+muß man die Tastenkombination <tt>Ctrl-d</tt> (Nicht <tt>Ctrl-c</tt>, das beendet
+<tt>at</tt> ohne das es sich die eingegebenen Befehle merkt) drücken. Die Ausgabe
+des Befehls wird dann nach Ausführung als Email an username@computername.domainname
+geschickt (Dies kann man auch ändern, wenn gewünscht). Mit Hilfe von <tt>atq</tt>
+kann man alle anstehenden Jobs (als Superuser sogar alle anstehenden Jobs aller
+Benutzer) ansehen:
+<pre>
+> atq
+	5	2005-08-30	05:00	a	asmaier</pre>
+Dabei steht die erste Zahl für die Jobnummer, darauf folgt das Datum und die
+Uhrzeit zu der der Job ausgeführt werden soll, dann folgt die Angabe der
+Warteschlange (Queue) in der der Befehl steht (Man kann nämlich mehrere Queues
+erzeugen, <tt>a</tt> ist allerdings die Default-Queue) und abschließend der Name
+des Benutzers der den Job in Auftrag gegeben hat. Will man einen Job wieder löschen
+kann man dies folgendermaßen tun:
+<pre>atrm 5</pre>
+Dabei steht die angegebene Nummer für die unter <tt>atq</tt> angezeigte Jobnummer,
+welche man löschen will. Mehr zur Benutzung von <tt>at</tt> findet man unter anderem in der
+<a href="http://www.linuxfibel.de/weiteres.htm">Linuxfibel</a>.
+</li>
+
+<li><em>Alle laufenden Prozesse anzeigen (BSD Syntax, siehe auch <tt>man ps</tt>):</em>
+<pre>> ps aux</pre>
+Die Option <tt>a</tt> zeigt alle Prozesse auch der anderen Benutzer (und nicht
+nur die Eigenen) an, die Option <tt>x</tt> zeigt zusätzlich alle Prozesse
+an denen kein Terminal zugeordnet ist (z.B. Dienste bzw. Daemons oder
+X-Server-Prozesse) und die Option <tt>u</tt> zeigt zusätzliche Informationsspalten
+wie die Benutzerkennung unter der der Prozeß läuft,
+aktueller Speicher- und Rechenzeitverbrauch, Startzeit des
+Prozesses und weitere an. Zusätzlich kann man noch die Option <tt>w</tt> setzen;
+dann wird die Anzeige breiter. Setzt man <tt>w</tt> zweimal, so wird wirklich
+alles angezeigt und auch lange Kommandozeilen für Prozessaufrufe
+nicht abgeschnitten. </li>
+
+<li><em>Anzeige aller Umgebungsvariablen unter Linux:</em>
+<pre>> env</pre></li>
+
+<li><em>Anzeige aller Benutzergruppen zu denen man gehört:</em>
+<pre>> groups</pre></li>
+
+<li><em>Anzeige von Hard- und Softwareinformationen:</em><br />
+Um welche Linuxversion es sich handelt erfährt man standardgemäß mittels
+<pre>> lsb_release -a</pre>
+Sollte dieser Befehl nicht funktionieren so erfährt man die Versionsnummer von
+SuSE in der Datei <tt>/etc/SuSE-release</tt>, von Debian in </tt>/etc/debian-version</tt> und von Solaris
+in <tt>/etc/release</tt> (siehe auch die ausführliche Liste unter
+<a href="http://www.kubieziel.de/blog/archives/785-Welche-Distribution-besitze-ich.html">www.kubieziel.de</a>).
+Informationen über den Prozessor und die Speicherausstattung findet man in Linux mit
+<pre>
+> less /proc/cpuinfo
+> less /proc/meminfo
+</pre>
+Unter Solaris 10 hilft der Aufruf von
+<pre>> prtdiag</pre>
+weiter (siehe auch <a href="http://www.lifeaftercoffee.com/2006/02/27/getting-hardware-information-in-solaris/">
+www.lifeaftercoffee.com</a>).
+Die MAC-Adresse bekommt man ohne(!) root-Rechte heraus indem man die Datei <tt>/var/log/boot.msg</tt>
+betrachtet. Dort sucht man nach den Zeilen
+<pre>
+...
+Setting up network interfaces
+...
+eth0 configuration: eth-id-[MAC-Adresse]
+eth0 IP address: [IP-Adresse]
+...
+</pre>
+wobei <tt>[MAC-Adresse]</tt> die gesuchte MAC-Adresse darstellt und <tt>[IP-Adresse]</tt> die IP-Adresse
+des Rechners ist. 
+</li>
+
+<li><em>Zeilenumbruch in <tt>less</tt> abschalten:</em><br />
+Entweder die Datei über die Kommandozeile mit
+<pre>> less -S </pre>
+aufrufen, oder bei der Anzeige der Datei <tt>-S</tt> drücken. Mit der Cursortaste kann man dann nach links und 
+rechts navigieren.</li>
+
+<li><em>Cursorsteuerung:</em><br />
+Um bei langen Befehlszeilen den Cursor an den Anfang springen zu lassen
+drücke man <tt>Ctrl-a</tt>, um wieder ans Ende zu gelangen <tt>Ctrl-e</tt>.</li>
+</ul>
+
+
+
+</body>
+</html>

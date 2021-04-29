@@ -21,7 +21,7 @@
     console.debug(`Processed ${mermaids.length} Mermaid code blocks`);
   }
 
-  // js/wowchemy-slides.js
+  // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath, RevealZoom];
   var isObject = function(o) {
     return o === Object(o) && !isArray(o) && typeof o !== "function";
@@ -90,7 +90,7 @@
     slides.diagram = false;
   }
   if (slides.diagram) {
-    var mermaidOptions = {};
+    mermaidOptions = {};
     if (typeof slides.diagram_options !== "undefined") {
       mermaidOptions = slides.diagram_options;
     }
@@ -100,4 +100,5 @@
       fixMermaid(false);
     });
   }
+  var mermaidOptions;
 })();

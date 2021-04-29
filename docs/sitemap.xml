@@ -1,1268 +1,760 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/project/filterbubble/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/immospider/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/superzon/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/correlomat/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/semaeval/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/roomfinder/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/wiki2dict/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/more_on_github/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/chrome/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/internet/</loc>
     <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/javascript/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/climate/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-03-17-die-meinung-der-profis/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/german/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/old_blog/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/politics/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/health/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/myopia/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/science/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-06-14-fuball-wm-2018-in-russland/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/russia/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/soccer/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2017-12-03-die-unendliche-geschichte-vom/</loc>
     <lastmod>2017-12-03T21:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/online_retailer/</loc>
     <lastmod>2017-12-03T21:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/aws/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/docker/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/python/</loc>
     <lastmod>2019-10-19T22:53:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/scrapy/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2017-02-12-das-internet-neuland-fur-krankenkassen/</loc>
     <lastmod>2017-02-12T15:55:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2016-12-10-mehr-zufall-wagen/</loc>
     <lastmod>2016-12-10T00:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/berlin/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2016-11-02-krank-am-wochenende-in-berlin-lieber/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2016-07-21-systematische-benachteiligung-von/</loc>
     <lastmod>2016-07-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/tax/</loc>
     <lastmod>2016-07-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/bayesian/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/correlation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/flask/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/github/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/heroku/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/microsoft-exchange-server/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/nlp/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/nltk/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ranking/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/translation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/wikipedia/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/xml/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2016-01-10-nur-in-russland-notizen-einer-reise/</loc>
     <lastmod>2016-01-10T18:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/travel/</loc>
     <lastmod>2016-01-10T18:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-11-29-kurzsichtigkeit-stand-der-wissenschaft/</loc>
     <lastmod>2015-11-29T20:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/bike/</loc>
     <lastmod>2015-11-26T22:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-11-26-neue-ideen-fur-die-fahrradsicherheit/</loc>
     <lastmod>2015-11-26T22:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-06-12-global-average-internet-speed-according/</loc>
     <lastmod>2015-06-12T16:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/critique/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/machine_learning/</loc>
     <lastmod>2019-10-19T22:43:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/philosophy/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-06-07-superintelligence-critique-of-nick/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-06-04-gastronomische-geheimtips-fur-berlin/</loc>
     <lastmod>2015-06-04T21:12:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/religion/</loc>
     <lastmod>2015-01-31T22:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-01-31-selig-sind-die-humorvollen-und-weisen/</loc>
     <lastmod>2015-01-31T22:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2014-12-01-sowjetrussiche-filme-die-man-gesehen/</loc>
     <lastmod>2014-12-01T22:52:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2014-05-17-europawahl-2014-interessante/</loc>
     <lastmod>2014-05-17T13:52:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2014-02-05-bing-translator-statt-google-translate/</loc>
     <lastmod>2014-02-05T22:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-09-06-bundestagswahl-2013-interessante/</loc>
     <lastmod>2013-09-06T23:37:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-08-26-landtagswahl-in-bayern-2013/</loc>
     <lastmod>2013-08-26T22:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-07-12-liebe-nsa-ich-habe-euch-unterschatzt/</loc>
     <lastmod>2013-07-12T17:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-07-09-wo-bleibt-eigentlich-die-revolution/</loc>
     <lastmod>2013-07-09T19:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-05-12-gewirbeltes-wasser-pseudowissenschaft/</loc>
     <lastmod>2013-05-12T16:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-03-24-fragen-beim-gebrauchtwagenkauf/</loc>
     <lastmod>2013-03-24T12:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andreas-maier/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cloud-computing/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/philipp-berndt/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/iaaspricing/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-06-11-gute-fahrradschlosser-gibt-es-fast/</loc>
     <lastmod>2012-06-11T21:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-03-30-24-vorschlage-die-deutsche-regierung/</loc>
     <lastmod>2012-03-30T21:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-02-19-mitmachen-beim-dialog-uber-deutschland/</loc>
     <lastmod>2012-02-19T12:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-02-10-behordenrufnummer-115-weder-schnell/</loc>
     <lastmod>2012-02-10T12:12:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-02-05-huk-coburg-und-techniker-krankenkasse/</loc>
     <lastmod>2012-02-05T15:48:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-02-03-traurige-geschichten-aus-der/</loc>
     <lastmod>2012-02-03T22:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2012-01-25-elektronischer-aufenthaltstitel-eat/</loc>
     <lastmod>2012-01-25T21:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2011-11-10-deutschlands-schattenregierung-das/</loc>
     <lastmod>2011-11-10T00:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2011-11-05-simulation-der-gesamten-menschheit/</loc>
     <lastmod>2011-11-05T22:55:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2011-09-16-berlin-wahl-2011-interessante/</loc>
     <lastmod>2011-09-16T00:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2011-09-04-fur-einaugige-wenig-neues-ein-paar/</loc>
     <lastmod>2011-09-04T01:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2011-07-09-remixes-mashups-covers-guttenberg-ist/</loc>
     <lastmod>2011-07-09T22:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/data_privacy/</loc>
     <lastmod>2011-04-11T20:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2011-04-11-zensus-2011-stasi-2011/</loc>
     <lastmod>2011-04-11T20:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-11-25-restaurants-in-munchen-und-umgebung/</loc>
     <lastmod>2010-11-25T12:18:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-11-18-microsoft-kinect-eine-revolution-fur/</loc>
     <lastmod>2010-11-18T17:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-11-13-unterbrechung-des-friedenszustandes/</loc>
     <lastmod>2010-11-13T11:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-10-31-mietpreise-in-deutschland/</loc>
     <lastmod>2010-10-31T15:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-09-21-zuge-vonund-nach-nischni-nowgorod/</loc>
     <lastmod>2010-09-21T13:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-09-12-tipp-fur-itunes-10/</loc>
     <lastmod>2010-09-12T19:52:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-07-25-exoplaneten-kepler-findet-unmengen/</loc>
     <lastmod>2010-07-25T00:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-07-12-flask-unter-mac-os-x-106-installieren/</loc>
     <lastmod>2010-07-12T00:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-07-11-installation-von-modwsgi-unter-mac-os-x/</loc>
     <lastmod>2010-07-11T22:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-06-28-50-aller-leute-sind-dummer-als-die/</loc>
     <lastmod>2010-06-28T17:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-05-27-tetrachromacy-wikipedia-free/</loc>
     <lastmod>2010-05-27T14:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-04-26-wetter-schmutz-verhindert-niederschlag/</loc>
     <lastmod>2010-04-26T22:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-04-10-instantshift/</loc>
     <lastmod>2010-04-10T22:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-04-06-quake2-im-browser-html5-und-webgl/</loc>
     <lastmod>2010-04-06T22:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-03-16-tiefenscharfe-in-3d-filmen/</loc>
     <lastmod>2010-03-16T14:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-02-18-die-populaersten-programmiersprachen/</loc>
     <lastmod>2010-02-18T18:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-02-15-google-ermoglicht-virtuelle-reise-von/</loc>
     <lastmod>2010-02-15T11:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-02-15-russischen-besucher-nach-deutschland/</loc>
     <lastmod>2010-02-15T10:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2010-01-24-als-das-geld-vom-himmel-fiel/</loc>
     <lastmod>2010-01-24T16:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/adaptive-mesh-refinement/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/fluid-mechanics/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/galaxy-clusters/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/j.-c.-niemeyer/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/l.-iapichino/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/simulation/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/subgrid-scale-model/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/turbulence/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/fearless/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/w.-schmidt/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-12-16-postleitzahlen/</loc>
     <lastmod>2009-12-16T19:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-28-von-wnukowo-nach-domodedowo/</loc>
     <lastmod>2009-11-28T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-27-guenstige-fluege-nach-moskau/</loc>
     <lastmod>2009-11-27T17:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-26-tipps-fuer-moskau/</loc>
     <lastmod>2009-11-26T22:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-25-visum-fuer-russland/</loc>
     <lastmod>2009-11-25T09:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-22-die-simpsons-in-latex/</loc>
     <lastmod>2009-11-22T16:34:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-22-stackexchange/</loc>
     <lastmod>2009-11-22T13:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-21-teilchenphysiker-porno/</loc>
     <lastmod>2009-11-21T13:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-19-kyrillisch-suchen/</loc>
     <lastmod>2009-11-19T19:19:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-18-ursachen-der-kurzsichtigkeit/</loc>
     <lastmod>2009-11-18T23:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-18-sanfmru/</loc>
     <lastmod>2009-11-18T22:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-11-12-dell-und-das-enron-e/</loc>
     <lastmod>2009-11-12T19:43:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-10-24-google-translator-toolkit/</loc>
     <lastmod>2009-10-24T17:51:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-10-23-gute-fragen/</loc>
     <lastmod>2009-10-23T17:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-10-22-synergy/</loc>
     <lastmod>2009-10-22T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-10-15-gute-passworter-die-man-sich-merken/</loc>
     <lastmod>2009-10-15T23:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-10-01-inlage-endlich-latex-formeln/</loc>
     <lastmod>2009-10-01T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-09-25-ehrliche-wahlwerbung/</loc>
     <lastmod>2009-09-25T21:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-09-06-kwas-drink-different/</loc>
     <lastmod>2009-09-06T20:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/cluster/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/bilder/</loc>
     <lastmod>2019-09-27T20:48:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/old_website/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2009-08-01-iq-von-75-reicht-um-beamter-zu-sein/</loc>
     <lastmod>2009-08-01T22:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2008-11-25-nur-fnf-jahre-gefngnis-fr-die-zndung/</loc>
     <lastmod>2008-11-25T11:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2008-10-13-wichtige-fragen-bei-der-wohnungssuche/</loc>
     <lastmod>2008-10-13T22:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2008-10-13-eigene-fragen-beim-vorstellungsgesprch/</loc>
     <lastmod>2008-10-13T22:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2008-08-05-full-hd-auflosung-unnotig/</loc>
     <lastmod>2008-08-05T21:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/ai-books/</loc>
     <lastmod>2019-10-19T11:29:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/basic-ideas-of-general-relativity/</loc>
     <lastmod>2019-10-13T22:13:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/battery/</loc>
     <lastmod>2019-10-19T11:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/big_data/</loc>
     <lastmod>2019-10-19T21:10:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/books/</loc>
     <lastmod>2019-10-19T11:29:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/can-a-computer-ask-questions/</loc>
     <lastmod>2019-10-19T11:33:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/classical-limit-of-quantum-mechanics/</loc>
     <lastmod>2019-10-19T11:41:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/computer/</loc>
     <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/data-mining-algorithms/</loc>
     <lastmod>2019-10-19T11:51:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/fluid-dynamics-of-spacetime/</loc>
     <lastmod>2019-10-19T12:23:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/graphs-in-sql-databases/</loc>
     <lastmod>2019-10-19T12:26:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/gravitational-cherenkov-radiation/</loc>
     <lastmod>2019-10-19T11:37:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/gravity/</loc>
     <lastmod>2019-10-19T12:28:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/hawking-radiation/</loc>
     <lastmod>2019-10-19T21:04:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/knowledge-generation-machines/</loc>
     <lastmod>2019-10-19T21:06:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/knowledge-paths/</loc>
     <lastmod>2019-10-19T21:10:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/korteweg-de-vries-equation/</loc>
     <lastmod>2019-10-19T21:27:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/limits-to-growth/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/netflix-prize/</loc>
     <lastmod>2019-10-19T22:43:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/old-wiki-table-of-content/</loc>
     <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/old_wiki/</loc>
     <lastmod>2019-10-19T23:28:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/physics/</loc>
     <lastmod>2019-10-19T23:05:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/programming/</loc>
     <lastmod>2019-10-19T22:53:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/programming-hint/</loc>
     <lastmod>2019-10-19T22:49:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/python-fuzzy-string-comparison/</loc>
     <lastmod>2019-10-19T22:53:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/quantum-entanglement/</loc>
     <lastmod>2019-10-19T23:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/relativistic-boltzmann-equation/</loc>
     <lastmod>2019-10-19T23:05:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/technology/</loc>
     <lastmod>2019-10-19T11:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/top-level-domains/</loc>
     <lastmod>2019-10-19T23:09:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-10-28-mac-os-x-leopard-installation/</loc>
     <lastmod>2007-10-28T18:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-03-09-lucky-imaging-fr-den-durchblick/</loc>
     <lastmod>2007-03-09T14:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-02-20-quantencomputer-mit-16-qubits/</loc>
     <lastmod>2007-02-20T15:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-02-12-physikalisch-korrektes-rendering/</loc>
     <lastmod>2007-02-12T21:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-02-01-gigapixel-fotographie/</loc>
     <lastmod>2007-02-01T09:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-01-27-multitouchscreen-eingabemedium-der/</loc>
     <lastmod>2007-01-27T12:38:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2007-01-23-not-macht-zivilisiert/</loc>
     <lastmod>2007-01-23T12:34:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-11-16-wachroboter-al-robocop/</loc>
     <lastmod>2006-11-16T17:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-11-15-habe-seit-kurzem-einen-mac-mini/</loc>
     <lastmod>2006-11-15T17:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-11-10-weltkarte-der-vorurteile/</loc>
     <lastmod>2006-11-10T21:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-11-09-pisa-wertlos/</loc>
     <lastmod>2006-11-09T22:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-11-06-webcams-finden/</loc>
     <lastmod>2006-11-06T14:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-10-30-tarnschirme-und-metamaterialien/</loc>
     <lastmod>2006-10-30T16:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-10-15-opensource-ist-gut-denn/</loc>
     <lastmod>2006-10-15T18:17:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-09-30-hass-auf-programmiersprachen/</loc>
     <lastmod>2006-09-30T16:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-09-29-akustische-illusionen/</loc>
     <lastmod>2006-09-29T15:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-09-28-rechtschreibfanatiker/</loc>
     <lastmod>2006-09-28T13:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-09-10-ist-warneckes-wundermittel-gelantine/</loc>
     <lastmod>2006-09-10T21:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-25-schlechte-wissenschaft/</loc>
     <lastmod>2006-08-25T23:26:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</loc>
     <lastmod>2006-08-25T20:58:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-24-papier-falten/</loc>
     <lastmod>2006-08-24T22:17:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-24-handschrifterkennung-mathematischer/</loc>
     <lastmod>2006-08-24T20:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-21-bookmarks-online-verwalten/</loc>
     <lastmod>2006-08-21T20:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-01-fehlende-organizer-funktion-in-sony/</loc>
     <lastmod>2006-08-01T20:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-08-01-weltkarte-des-glcks/</loc>
     <lastmod>2006-08-01T13:33:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-07-20-anti-rhetorik/</loc>
     <lastmod>2006-07-20T12:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-07-01-krasses-video-eines-russischen-turners/</loc>
     <lastmod>2006-07-01T16:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-06-15-warum-ich-immer-noch-den-internet/</loc>
     <lastmod>2006-06-15T12:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-06-07-am-7-juni/</loc>
     <lastmod>2006-06-07T11:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/flash/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/detonation/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/supernovae/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-03-29-beruf-astrophysiker/</loc>
     <lastmod>2006-03-29T12:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2006-02-15-knstliche-kiemen-fr-taucher/</loc>
     <lastmod>2006-02-15T20:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2005-11-17-das-druckluftauto-fakt-oder-fake/</loc>
     <lastmod>2005-11-17T20:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2005-11-06-endlich-3d-hologrammfilme-la-starwars/</loc>
     <lastmod>2005-11-06T13:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2005-10-20-kreationismusdebatte/</loc>
     <lastmod>2005-10-20T18:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2005-10-08-biosprit-und-telepolis/</loc>
     <lastmod>2005-10-08T18:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2005-08-10-paranueffekt-endlich-geklrt/</loc>
     <lastmod>2005-08-10T21:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2005-07-04-mein-zusammensto-mit-dem-kometen/</loc>
     <lastmod>2005-07-04T11:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/physik/</loc>
     <lastmod>2019-09-27T20:44:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/administration/</loc>
     <lastmod>2019-09-27T21:28:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/archivieren/</loc>
     <lastmod>2019-09-27T21:26:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/drucken/</loc>
     <lastmod>2019-09-27T21:22:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/editoren/</loc>
     <lastmod>2019-09-27T21:19:03+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/html/</loc>
     <lastmod>2019-09-27T20:53:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/kde/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/konvertieren/</loc>
     <lastmod>2019-09-27T21:15:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/latex/</loc>
     <lastmod>2019-09-27T20:55:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/linux/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/programmieren/</loc>
     <lastmod>2019-09-27T21:04:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/python/</loc>
     <lastmod>2019-09-27T21:01:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/shell/</loc>
     <lastmod>2019-09-27T21:07:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/shell-skripte/</loc>
     <lastmod>2019-09-27T21:10:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/ssh/</loc>
     <lastmod>2019-09-27T21:12:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/tools/</loc>
     <lastmod>2019-09-27T20:59:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2004-02-01-mondlandung/</loc>
     <lastmod>2004-02-01T17:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/lake/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publications/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/stream/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
-  
 </urlset>

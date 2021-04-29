@@ -1,6 +1,6 @@
 ---
 date: "2019-09-27T00:00:00+01:00"
-draft: true
+draft: false
 header:
   caption: ""
   image: ""
@@ -9,4 +9,5 @@ title: Data Archive
 ---
 - [Old Blog](http://asmaier.blogspot.de/)
 - [Old Wiki](http://maierandi.wikidot.com/)
-- [Old Website](/old/index2.html)
+- [Old Website](/old/index.html)
+- [Very Old Website](/old/index2.html)

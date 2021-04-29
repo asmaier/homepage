@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology | Andreas Maier</title>
+    <link>/tag/technology/</link>
+      <atom:link href="/tag/technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>technology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>technology</title>
+      <link>/tag/technology/</link>
+    </image>
+    
+    <item>
+      <title>Battery</title>
+      <link>/post/battery/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/battery/</guid>
+      <description>&lt;p&gt;Lithium metal-air batteries can store a tremendous amount of energy&amp;ndash;in theory, more than 5,000 watt-hours per kilogram. That&amp;rsquo;s more than ten-times as much as today&amp;rsquo;s high-performance lithium-ion batteries, and &lt;strong&gt;more than&lt;/strong&gt; another class of energy-storage devices: &lt;strong&gt;fuel cells&lt;/strong&gt;. Instead of containing a second reactant inside the cell, these batteries react with oxygen in the air that&amp;rsquo;s pulled in as needed, making them lightweight and compact.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.technologyreview.com/energy/22780/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Invests in Battery Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/IBM-will-Lithium-Luft-Batterien-fuer-Elektroautos-entwickeln--/meldung/141134&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithium-Luft-Batterien für Elektroautos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.epsrc.ac.uk/PressReleases/oxlithbattery.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Air-fuelled Battery Could Last Up to 10 Times Longer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ch-www.st-and.ac.uk/staff/pgb/group/lio.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithium Oxygen Battery&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

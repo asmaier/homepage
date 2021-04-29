@@ -1,7 +1,7 @@
 ---
 active: true
 content:
-  count: 20
+  count: 60
   taxonomy: tags
 design:
   font_size_max: 2

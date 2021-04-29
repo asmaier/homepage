@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ranking | Andreas Maier</title>
+    <link>/tag/ranking/</link>
+      <atom:link href="/tag/ranking/index.xml" rel="self" type="application/rss+xml" />
+    <description>ranking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>ranking</title>
+      <link>/tag/ranking/</link>
+    </image>
+    
+    <item>
+      <title>Superzon</title>
+      <link>/project/superzon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/superzon/</guid>
+      <description>&lt;p&gt;Superzon can be used to find the really best products on Amazon. It does that by reranking the Amazon search results using a bayesian average of the reviews taking the number of reviewers into account. It is implemented as a small webservice written with Flask in Python and deployed on Heroku.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

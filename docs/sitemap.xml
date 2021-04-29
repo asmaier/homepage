@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/filterbubble/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -43,6 +28,11 @@
   </url>
   
   <url>
+    <loc>/courses/example/python/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/roomfinder/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +40,16 @@
   <url>
     <loc>/project/wiki2dict/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/visualization/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/stats/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,27 +63,37 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/chrome/</loc>
+    <loc>/courses/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/chrome/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/internet/</loc>
+    <loc>/tag/internet/</loc>
     <lastmod>2019-10-19T23:09:23+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/javascript/</loc>
+    <loc>/tag/javascript/</loc>
     <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,12 +108,7 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/climate/</loc>
+    <loc>/tag/climate/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
   </url>
   
@@ -113,17 +118,17 @@
   </url>
   
   <url>
-    <loc>/tags/german/</loc>
+    <loc>/tag/german/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/old_blog/</loc>
+    <loc>/tag/old_blog/</loc>
     <lastmod>2019-03-17T21:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/politics/</loc>
+    <loc>/tag/politics/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
   </url>
   
@@ -143,7 +148,7 @@
   </url>
   
   <url>
-    <loc>/tags/health/</loc>
+    <loc>/tag/health/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
   </url>
   
@@ -153,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/tags/myopia/</loc>
+    <loc>/tag/myopia/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/science/</loc>
+    <loc>/tag/science/</loc>
     <lastmod>2018-09-17T20:16:00+00:00</lastmod>
   </url>
   
@@ -168,12 +173,12 @@
   </url>
   
   <url>
-    <loc>/tags/russia/</loc>
+    <loc>/tag/russia/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/soccer/</loc>
+    <loc>/tag/soccer/</loc>
     <lastmod>2018-06-14T11:14:00+00:00</lastmod>
   </url>
   
@@ -183,27 +188,27 @@
   </url>
   
   <url>
-    <loc>/tags/online_retailer/</loc>
+    <loc>/tag/online_retailer/</loc>
     <lastmod>2017-12-03T21:13:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/aws/</loc>
+    <loc>/tag/aws/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/docker/</loc>
+    <loc>/tag/docker/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/python/</loc>
+    <loc>/tag/python/</loc>
     <lastmod>2019-10-19T22:53:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/scrapy/</loc>
+    <loc>/tag/scrapy/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,7 +223,7 @@
   </url>
   
   <url>
-    <loc>/tags/berlin/</loc>
+    <loc>/tag/berlin/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,67 +238,67 @@
   </url>
   
   <url>
-    <loc>/tags/tax/</loc>
+    <loc>/tag/tax/</loc>
     <lastmod>2016-07-21T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bayesian/</loc>
+    <loc>/tag/bayesian/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/correlation/</loc>
+    <loc>/tag/correlation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/flask/</loc>
+    <loc>/tag/flask/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/github/</loc>
+    <loc>/tag/github/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/heroku/</loc>
+    <loc>/tag/heroku/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/microsoft-exchange-server/</loc>
+    <loc>/tag/microsoft-exchange-server/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nlp/</loc>
+    <loc>/tag/nlp/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nltk/</loc>
+    <loc>/tag/nltk/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ranking/</loc>
+    <loc>/tag/ranking/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/translation/</loc>
+    <loc>/tag/translation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/wikipedia/</loc>
+    <loc>/tag/wikipedia/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/xml/</loc>
+    <loc>/tag/xml/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,7 +308,7 @@
   </url>
   
   <url>
-    <loc>/tags/travel/</loc>
+    <loc>/tag/travel/</loc>
     <lastmod>2016-01-10T18:31:00+00:00</lastmod>
   </url>
   
@@ -313,7 +318,7 @@
   </url>
   
   <url>
-    <loc>/tags/bike/</loc>
+    <loc>/tag/bike/</loc>
     <lastmod>2015-11-26T22:36:00+00:00</lastmod>
   </url>
   
@@ -328,17 +333,17 @@
   </url>
   
   <url>
-    <loc>/tags/critique/</loc>
+    <loc>/tag/critique/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/machine_learning/</loc>
+    <loc>/tag/machine_learning/</loc>
     <lastmod>2019-10-19T22:43:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/philosophy/</loc>
+    <loc>/tag/philosophy/</loc>
     <lastmod>2015-06-07T23:03:00+00:00</lastmod>
   </url>
   
@@ -353,7 +358,7 @@
   </url>
   
   <url>
-    <loc>/tags/religion/</loc>
+    <loc>/tag/religion/</loc>
     <lastmod>2015-01-31T22:31:00+00:00</lastmod>
   </url>
   
@@ -408,12 +413,12 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/author/andreas-maier/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -423,12 +428,12 @@
   </url>
   
   <url>
-    <loc>/tags/cloud-computing/</loc>
+    <loc>/tag/cloud-computing/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/philipp-berndt/</loc>
+    <loc>/author/philipp-berndt/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,7 +513,7 @@
   </url>
   
   <url>
-    <loc>/tags/data_privacy/</loc>
+    <loc>/tag/data_privacy/</loc>
     <lastmod>2011-04-11T20:25:00+00:00</lastmod>
   </url>
   
@@ -613,47 +618,47 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/adaptive-mesh-refinement/</loc>
+    <loc>/tag/adaptive-mesh-refinement/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/fluid-mechanics/</loc>
+    <loc>/tag/fluid-mechanics/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/galaxy-clusters/</loc>
+    <loc>/tag/galaxy-clusters/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/j.-c.-niemeyer/</loc>
+    <loc>/author/j.-c.-niemeyer/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/l.-iapichino/</loc>
+    <loc>/author/l.-iapichino/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/simulation/</loc>
+    <loc>/tag/simulation/</loc>
     <lastmod>2019-10-19T22:22:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/subgrid-scale-model/</loc>
+    <loc>/tag/subgrid-scale-model/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/turbulence/</loc>
+    <loc>/tag/turbulence/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -663,7 +668,7 @@
   </url>
   
   <url>
-    <loc>/authors/w.-schmidt/</loc>
+    <loc>/author/w.-schmidt/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -773,7 +778,7 @@
   </url>
   
   <url>
-    <loc>/tags/old_website/</loc>
+    <loc>/tag/old_website/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
   </url>
   
@@ -818,12 +823,12 @@
   </url>
   
   <url>
-    <loc>/tags/big_data/</loc>
+    <loc>/tag/big_data/</loc>
     <lastmod>2019-10-19T21:10:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/books/</loc>
+    <loc>/tag/books/</loc>
     <lastmod>2019-10-19T11:29:06+02:00</lastmod>
   </url>
   
@@ -838,7 +843,7 @@
   </url>
   
   <url>
-    <loc>/tags/computer/</loc>
+    <loc>/tag/computer/</loc>
     <lastmod>2019-10-19T23:09:23+02:00</lastmod>
   </url>
   
@@ -903,17 +908,17 @@
   </url>
   
   <url>
-    <loc>/tags/old_wiki/</loc>
+    <loc>/tag/old_wiki/</loc>
     <lastmod>2019-10-19T23:28:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/physics/</loc>
+    <loc>/tag/physics/</loc>
     <lastmod>2019-10-19T23:05:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/programming/</loc>
+    <loc>/tag/programming/</loc>
     <lastmod>2019-10-19T22:53:53+02:00</lastmod>
   </url>
   
@@ -938,7 +943,7 @@
   </url>
   
   <url>
-    <loc>/tags/technology/</loc>
+    <loc>/tag/technology/</loc>
     <lastmod>2019-10-19T11:20:00+02:00</lastmod>
   </url>
   
@@ -1098,12 +1103,12 @@
   </url>
   
   <url>
-    <loc>/tags/detonation/</loc>
+    <loc>/tag/detonation/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/supernovae/</loc>
+    <loc>/tag/supernovae/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1193,7 +1198,7 @@
   </url>
   
   <url>
-    <loc>/tags/linux/</loc>
+    <loc>/tag/linux/</loc>
     <lastmod>2019-09-27T21:30:50+02:00</lastmod>
   </url>
   
@@ -1233,6 +1238,10 @@
   </url>
   
   <url>
+    <loc>/admin/</loc>
+  </url>
+  
+  <url>
     <loc>/lake/</loc>
   </url>
   
@@ -1250,6 +1259,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

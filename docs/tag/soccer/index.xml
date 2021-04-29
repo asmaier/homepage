@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soccer | Andreas Maier</title>
+    <link>/tag/soccer/</link>
+      <atom:link href="/tag/soccer/index.xml" rel="self" type="application/rss+xml" />
+    <description>soccer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jun 2018 11:14:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>soccer</title>
+      <link>/tag/soccer/</link>
+    </image>
+    
+    <item>
+      <title>Fußball-WM 2018 in Russland </title>
+      <link>/post/2018-06-14-fuball-wm-2018-in-russland/</link>
+      <pubDate>Thu, 14 Jun 2018 11:14:00 +0000</pubDate>
+      <guid>/post/2018-06-14-fuball-wm-2018-in-russland/</guid>
+      <description>
+&lt;div dir=&#34;ltr&#34; style=&#34;text-align: left;&#34; trbidi=&#34;on&#34;&gt;Russland hat sich fein gemacht zur Fußball-WM 2018, besonders in der Nähe der Fußballstadien, Fanmeilen und Teamunterkünfte. Auch nach der WM dürften diese Orte daher einen Besuch wert sein. Dazu biete ich hier einige Übersichtskarten an, um den Touristen in diesem riesigem Land ein paar Anhaltspunkte zu geben.&lt;br /&gt;&lt;h3 style=&#34;text-align: left;&#34;&gt;&lt;/h3&gt;&lt;h2 style=&#34;text-align: left;&#34;&gt;Stadien der WM 2018&lt;/h2&gt;&lt;iframe frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://asmaier.github.io/kartenmacher/stadiums.html&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt; &lt;br /&gt;&lt;br /&gt;&lt;h2 style=&#34;text-align: left;&#34;&gt;Team-Unterkünfte der WM 2018&lt;/h2&gt;&lt;iframe frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://asmaier.github.io/kartenmacher/teams.html&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt; &lt;br /&gt;&lt;div&gt;&lt;br /&gt;Mehr Informationen zu den Teamunterkünften gibt es unter&amp;nbsp;&lt;a href=&#34;http://welcome2018.com/de/zu-den-trainingsbasen/&#34;&gt;http://welcome2018.com/de/zu-den-trainingsbasen/&lt;/a&gt;&amp;nbsp;. Über die ausrichtenden Städte gibt es auf den offiziellen Seiten ebenfalls viel zu erfahren, z.B. &lt;a href=&#34;http://welcome2018.com/de/cities/nizhny-novgorod/&#34;&gt;hier über Nischni Nowgorod&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;P.S.: Die Karten habe ich alle mit meinem Kartenmacher-Skript erzeugt (Quellcode gibt es unter&amp;nbsp;&lt;a href=&#34;https://github.com/asmaier/kartenmacher&#34;&gt;https://github.com/asmaier/kartenmacher&lt;/a&gt;&amp;nbsp;).&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

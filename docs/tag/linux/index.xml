@@ -1,0 +1,2043 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux | Andreas Maier</title>
+    <link>/tag/linux/</link>
+      <atom:link href="/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>linux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>linux</title>
+      <link>/tag/linux/</link>
+    </image>
+    
+    <item>
+      <title>Administration</title>
+      <link>/post/administration/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/administration/</guid>
+      <description>&lt;p&gt;Hier stehen Dinge, die man nur als Administrator (Root) bzw.
+Superuser ausführen kann.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Administratorrechte bekommen:&lt;/em&gt;&lt;br /&gt;
+Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte
+verschaffen. Dazu muß man nur im Bootmanager als Option
+&lt;pre&gt; init=/bin/bash &lt;/pre&gt;
+eingeben. Das System bootet dann ohne(!!) nach dem Passwort zu fragen in eine
+bash-shell mit Root-Rechten. Jetzt gibt man einfach
+&lt;pre&gt;&gt; passwd&lt;/pre&gt;
+ein und gibt ein neues Passwort ein. Damit hat man das Root-Passwort neu gesetzt
+und damit sofort Root-Rechte auf diesem Rechner.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Als Administrator/Superuser das Passwort eines anderen Benutzers neu setzen&lt;/em&gt;&lt;br /&gt;
+Als Superuser kann man sich zwar jederzeit mittels &lt;tt&gt;sudo -i -u [Benutzername]&lt;/tt&gt; als
+Benutzer &lt;tt&gt;[Benutzername]&lt;/tt&gt; anmelden, aber versucht man dann das Passwort mittels &lt;tt&gt;passwd&lt;/tt&gt;
+neu zu setzen, wird man nach dem alten Passwort des Benutzers &lt;tt&gt;[Benutzername]&lt;/tt&gt; gefragt,
+das man wahrscheinlich nicht kennt. Viel einfacher und ohne das Passwort des Benutzers zu kennen,
+setzt man das Passwort als Administrator/Superuser neu:
+&lt;pre&gt;
+&gt; passwd [Benutzername]
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Passwortänderung beim nächten Login erzwingen:&lt;/em&gt;&lt;br /&gt;
+Will man, dass ein Benutzer beim nächsten Login sein Passwort neu setzt, so benutzt man
+&lt;pre&gt;
+&gt; passwd -e [Benutzername]
+&lt;/pre&gt;
+Dies ist auch nützlich, wenn man gerade einen neuen Benutzeraccount angelegt hat und dem
+Benutzer ein initiales Passwort per Email senden möchte, dass er nur für den ersten Login
+verwenden soll. Setzt man unmittelbar nach der Erzeugung des Account 
+&lt;tt&gt; passwd -e [Benutzername]&lt;/tt&gt;, so ist der Benutzer gezwungen bereits beim ersten Login
+ein neues Passwort zu setzen. Mehr dazu bei 
+&lt;a href=&#34;http://theos.in/desktop-linux/tip-that-matters/how-do-i-force-linux-to-change-forcefully-user-password/&#34;&gt;Hakuna Matata:How do I force linux to change (forcefully) user password?&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Als Superuser X-Programme ausführen:&lt;/em&gt;&lt;br /&gt;
+Mit dem üblichen &lt;tt&gt;su&lt;/tt&gt;-Befehl kann man keine X-Programme
+(Programme mit grafischer Benutzeroberfläche) ausführen,
+da die entsprechenden Rechte nicht automatisch gesetzt werden.
+Unter Suse gibt es dafür folgenden Befehl:
+&lt;pre&gt;&gt; sux&lt;/pre&gt;
+Nach Eingabe des Superuserpassworts kann man dann ohne Probleme
+auch Programme mit grafischer Benutzeroberfläche mit Superuserrechten
+aus der Kommandozeile starten.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einem Benutzer in die sudoers-Liste aufnehmen:&lt;/em&gt;&lt;br /&gt;
+Frei nach &lt;a href=&#34;http://de.wikipedia.org/wiki/Sudo&#34;&gt;Wikipedia/Sudo&lt;/a&gt;:
+Man benutzt &lt;tt&gt;sudo&lt;/tt&gt; anstelle von &lt;tt&gt;su&lt;/tt&gt;, um bestimmten Benutzern die Möglichkeit zu geben, 
+gewisse Programme mit den Rechten eines anderen Benutzers (meistens Root) ausführen zu können, ohne 
+das Root-Passwort weitergeben zu müssen. Die Sicherheitsrichtlinien sind bei Linux in der Datei /etc/sudoers gespeichert, 
+die nur vom Superuser root editiert werden darf.&lt;br /&gt;
+Um also für einen Benutzer &lt;tt&gt;sudo&lt;/tt&gt; freizuschalten, editiert man als root die sudoers-Datei
+&lt;pre&gt;
+&gt; jpico /etc/sudoers
+&lt;/pre&gt;
+Folgende Zeilen müssen hinzugefügt werden, um einem Benutzer &lt;tt&gt;[username]&lt;/tt&gt; Zugriff auf alle Befehle mittels 
+&lt;tt&gt;sudo&lt;/tt&gt; zu geben:
+&lt;pre&gt;
+[username] ALL=(ALL) ALL
+&lt;/pre&gt;
+Unter Suse Linux wird der Benutzer beim Ausführen von &lt;tt&gt;sudo&lt;/tt&gt; jedoch trotzdem standardmäßig nach dem
+root-Passwort gefragt. Um das zu verhindern muß man zwei Zeilen wie folgt auskommentieren
+&lt;pre&gt;
+#Defaults targetpw    # ask for the password of the target user i.e. root
+#%users ALL=(ALL) ALL # WARNING! Only use this together with &#39;Defaults targetpw&#39;!
+&lt;/pre&gt;
+Jetzt fragt &lt;tt&gt;sudo&lt;/tt&gt; wie gewünscht beim Ausführen nach dem Benutzerpasswort und nicht nach dem
+root-Passwort.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;sudo&lt;/tt&gt; benutzen:&lt;/em&gt;&lt;br /&gt;
+Um sich als anderer Benutzer &lt;tt&gt;[username] &lt;/tt&gt; einzuloggen:
+&lt;pre&gt;&gt; sudo -i -u [username] &lt;/pre&gt;
+Um sich als &lt;tt&gt;root&lt;/tt&gt; einzuloggen:
+&lt;pre&gt;&gt; sudo -i &lt;/pre&gt;
+Letzterer Befehl ist äquivalent zu &lt;tt&gt;sudo su -&lt;/tt&gt;.
+Will man eine Shell mit &lt;tt&gt;root&lt;/tt&gt;-Rechten, jedoch ohne die Umgebungsvariablen der aktuellen Umgebung zu verlieren, so benutzt man
+&lt;pre&gt;&gt; sudo -s &lt;/pre&gt;
+Letzteres funktioniert jedoch nur, wenn in der Datei &lt;tt&gt;/etc/sudoers&lt;/tt&gt; die eventuell vorhandene Zeile
+&lt;pre&gt;Defaults    env_reset&lt;/pre&gt;
+auskommentiert(!) ist.
+Mehr zum &lt;tt&gt;sudo&lt;/tt&gt;-Kommando gibt es unter 
+&lt;a href=&#34;https://help.ubuntu.com/community/RootSudo&#34;&gt;RootSudo(help.ubuntu.com)&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Graphische (X-Window) Programme ueber &lt;tt&gt;sudo&lt;/tt&gt; aufrufen:&lt;/em&gt;&lt;br /&gt;
+Das naive Aufrufen graphischer Programme aus einer &lt;tt&gt;sudo&lt;/tt&gt;-Shell scheitert meist,
+da notwendige Umgebungsvariablen nicht gesetzt sind. Insbesondere wird vom Betriebssystem oft die &lt;tt&gt;XAUTHORITY&lt;/tt&gt;-Variable nicht gesetzt, weswegen auch nach einem &lt;tt&gt;sudo -s&lt;/tt&gt; die X-Window-Ausgabe nicht funktioniert, obwohl sie in der Umgebung des vorherigen Benutzers durchaus funktioniert hat. Man muß daher leider die &lt;tt&gt;XAUTHORITY&lt;/tt&gt;-Variable manuell setzen
+&lt;pre&gt;
+&gt; export XAUTHORITY=$HOME/.Xauthority
+&gt; sudo -s
+&gt; xclock
+&lt;/pre&gt;
+Will man jedoch eine Login-Shell, so muß man zusaetzlich noch die &lt;tt&gt;DISPLAY&lt;/tt&gt;-Variable setzten und zwar auf den Wert den sie fuer den Benutzer &lt;tt&gt;[username]&lt;/tt&gt; hatte von dem aus man &lt;tt&gt;sudo&lt;/tt&gt; aufgerufen hat
+&lt;pre&gt;
+&gt; echo $DISPLAY
+localhost:11.0
+&gt; echo $HOME
+/home/[username]
+&gt; sudo -i
+&gt; export DISPLAY=localhost:11.0
+&gt; export XAUTHORITY=/home/[username]/.Xauthority
+&gt; xclock
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Daemonen (Dienste) unter Suse Linux neustarten:&lt;/em&gt;&lt;br /&gt;
+Manchmal hilft ein Neustart eines Hintergrundprozesses (auch Daemon,
+bzw. Dienst genannt) um die seltsamsten Probleme zu lösen.
+Den SSH-Server z.B startet man unter Suse 9.3 mit der Kommandozeile
+&lt;pre&gt;
+&gt; rcsshd restart
+&lt;/pre&gt;
+neu.&lt;/li&gt;
+&lt;li&gt;&lt;em id=&#34;mac&#34;&gt;Eigene MAC Adresse herausfinden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; sudo /sbin/ifconfig
+eth0      Link encap:Ethernet  HWaddr [MAC-Adresse]
+...
+&lt;/pre&gt; 
+wobei &lt;tt&gt;[MAC-Adresse]&lt;/tt&gt; die gesuchte MAC-Adresse der ersten eingebauten Netzwerkkarte ist. 
+Braucht man die WLAN MAC-Adresse steht diese oft unter Punkt &lt;tt&gt;eth1&lt;/tt&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, welche Computer online in einem Subnetz sind:&lt;/em&gt;
+&lt;pre&gt;
+&gt; nmap -sP 123.123.123.*
+&lt;/pre&gt;
+Wird derselbe Befehl nicht als root aufgerufen, findet &lt;tt&gt;nmap&lt;/tt&gt;
+eventuell nicht alle Computer.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, welches Betriebssystem hinter einer bestimmten IP-Nummer steckt:&lt;/em&gt;
+&lt;pre&gt;
+&gt; nmap -O 123.123.123.*
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a id=&#34;lsof&#34;&gt;Herausfinden, welcher Benutzer und welcher Prozess auf Dateien in einem Verzeichnis zugreift:&lt;/a&gt;&lt;/em&gt;
+&lt;pre&gt;
+&gt; lsof /pfad/verzeichnis
+&lt;/pre&gt;
+&lt;tt&gt;lsof&lt;/tt&gt; steht dabei für &#34;list open files&#34; 
+(siehe auch &lt;a href=&#34;http://www.uwsg.iu.edu/UAU/advcomm/lsof.html&#34;&gt;UnixforAdvancedUsers&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alle Dateien eines bestimmten Benutzers finden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; sudo find / -user [user]
+&lt;/pre&gt;
+&lt;p&gt;Der Befehl funktioniert natürlich nur, wenn der Benutzer &lt;tt&gt;[user]&lt;/tt&gt; existiert. Mehr Infos gibts
+bei &lt;a href=&#34;http://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/&#34;&gt;
+www.cyberciti.biz&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Eine Datei schreibschützen (so dass selbst &lt;tt&gt;root&lt;/tt&gt; die Datei nicht verändern kann):&lt;/em&gt;
+&lt;pre&gt;
+&gt; chattr +i [readonly]
+&lt;/pre&gt;
+&lt;p&gt;
+Mit diesem Befehl kann man sicherstellen, dass die Datei &lt;tt&gt;[readonly]&lt;/tt&gt; niemals überschrieben werden kann,
+auch nicht von &lt;tt&gt;root&lt;/tt&gt; selbst. Allerdings kann man als &lt;tt&gt;root&lt;/tt&gt; den Schutz 
+natürlich wieder entfernen. Das ist nützlich, um sicherzustellen, dass bestimmte Dateien 
+(z.B. &lt;tt&gt;/etc/passwd&lt;/tt&gt; und andere Systemdateien) auch bei Systemupdates nicht überschrieben werden 
+können. Das ganze funktioniert wohl nur auf ext2/3/4 Dateisystemen. Da der Befehl relativ wenig bekannt ist
+wird er auch von einigen RootKits benutzt um das Beseitigen des RootKits zu erschweren. Mehr Infos über den Befehl
+gibts bei &lt;a href=&#34;http://linuxhelp.blogspot.com/2005/11/make-your-files-immutable-which-even.html&#34;&gt;
+linuxhelp.blogspot.com&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bildschirmsperre (mit Passwort) abschalten:&lt;/em&gt;&lt;br /&gt;
+Manchmal kommt es vor, dass die Bildschirmsperre unter KDE abstürzt oder
+man das Passwort nicht mehr richtig eingeben kann. Dies passiert z.B. wenn 
+man unter Suse 9.3 und KDE ein Passwort mit lateinischen Zeichen hat, 
+jedoch auf russische Tastaturbelegung umgeschaltet hat kurz bevor die
+Bildschirmsperre kommt. Da man dann die Tastaturbelegung nicht mehr 
+ändern kann (siehe dazu auch &lt;a href=&#34;http://bugs.kde.org/show_bug.cgi?id=102149&#34;&gt;bugs.kde.org&lt;/a&gt;), 
+kann man das Passwort mit den lateinischen Buchstaben nicht 
+mehr eingeben und sich auch nicht mehr einloggen. Einzige Möglichkeit ist 
+dann noch die Deaktivierung der Bildschirmsperre als &lt;tt&gt;root&lt;/tt&gt;.
+Eingeloggt als &lt;tt&gt;root&lt;/tt&gt; findet man die Bildschrimsperre mit
+&lt;pre&gt;
+&gt; ps aux | grep kdesktop_lock
+pechvogel 14161 0.0 0.1 2700 704 pts/11 S 14:35
+&lt;/pre&gt;
+Mittels
+&lt;pre&gt;
+&gt; kill 14161
+&lt;/pre&gt;
+kann man jetzt die Bildschirmsperre für den Benutzer &lt;tt&gt;pechvogel&lt;/tt&gt;
+&#34;abschießen&#34;, so dass derjenige wieder mit seiner noch laufenden
+&#34;Session&#34; weiterarbeiten kann.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Computer über Terminalkommando herunterfahren:&lt;/em&gt;&lt;br /&gt;
+Will man das System &lt;em&gt;sofort&lt;/em&gt; herunterfahren, so kann man dass
+mittels
+&lt;pre&gt;
+&gt; sux
+&gt; halt &lt;/pre&gt;
+oder
+&lt;pre&gt;
+&gt; poweroff&lt;/pre&gt;
+erreichen. Der Befehl &lt;tt&gt;halt&lt;/tt&gt; ist dabei die Abkürzung für
+&lt;tt&gt;shutdown -h now&lt;/tt&gt; und &lt;tt&gt;poweroff&lt;/tt&gt; steht für
+&lt;tt&gt;halt -p&lt;/tt&gt;. Wenn man es weniger eilig hat, kann man das System
+z.B. in 2 Minuten mit dem Befehl
+&lt;pre&gt;&gt; shutdown -h +2&lt;/pre&gt;
+herunterfahren. Will man nur neustarten benutzt man am besten
+&lt;pre&gt;
+&gt; reboot
+&lt;/pre&gt;
+which is an alias for &lt;tt&gt;shutdown -r now&lt;/tt&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;System an einem bestimmmten Tag herunterfahren:&lt;/em&gt;&lt;br /&gt;
+Mit dem Befehl &lt;tt&gt;shutdown&lt;/tt&gt; allein ist es nicht möglich, den
+Computer an einem bestimmten Datum herunterzufahren, da
+&lt;tt&gt;shutdown&lt;/tt&gt; nur Uhrzeitangaben, jedoch keine Datumsangaben
+(Tage, Monate, Jahre...) erlaubt. Daher muß man &lt;tt&gt;at&lt;/tt&gt; benutzen,
+z.B.:
+&lt;pre&gt;
+&gt; sux
+&gt; at 05:00 30.08.05
+at&gt; halt
+at&gt; [[Ctrl]]-[[d]]
+&gt;
+&lt;/pre&gt;
+Dieser Befehl (&lt;tt&gt;[[Ctrl]]-[[d]]&lt;/tt&gt; steht dabei für die abschließende Tastenkombination
+&lt;tt&gt;Ctrl-d&lt;/tt&gt; ) fährt das System am 30.08.2005 um 5 Uhr früh herunter.
+Eventuelle Ausgaben werden als Mail an &lt;tt&gt;root@computername.domainname&lt;/tt&gt; geschickt.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scratch-Partition einrichten:&lt;/em&gt;&lt;br /&gt;
+Um allen Benutzern auf einem Computer die Möglichkeit zu geben temporär
+Daten auf dem lokalen Computer abzulegen, ist es üblich sogenannte
+Scratch-Partitionen (oder ein Scratch-Verzeichnis) anzulegen. Um ein
+Scratch-Verzeichnis anzulegen kann man z.B. folgendermaßen vorgehen:
+&lt;pre&gt;
+&gt; sux
+&gt; cd /
+&gt; mkdir scratch
+&gt; chmod a+rwx scratch
+&lt;/pre&gt;
+Der letze Befehl gibt dabei allen Benutzern Lese- und Schreibrechte.
+Das Executable-Bit &lt;tt&gt;x&lt;/tt&gt; zusätzlich ist wichtig, damit auch alle
+Benutzer in das Verzeichnis mittels &lt;tt&gt;cd&lt;/tt&gt; wechseln können.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Windows-Partition unter Linux mounten:&lt;/em&gt;
+&lt;pre&gt;&gt; mount /dev/hdc1 /mnt -t vfat -o umask=000, exec &lt;/pre&gt;
+Dabei steht &lt;tt&gt;vfat&lt;/tt&gt; für das Dateisystem FAT32, &lt;tt&gt;umask=000&lt;/tt&gt; gibt allen Benutzern 
+Lese- und Schreibrechte und &lt;tt&gt;exec&lt;/tt&gt; erlaubt das Ausführen von Programmen
+von dem gemounteten Dateisystem. Soll das Laufwerk immer beim booten gemountet werden,
+sieht ein entsprechender Eintrag in die Datei &lt;tt&gt;/etc/fstab&lt;/tt&gt; folgendermaßen aus:
+&lt;pre&gt;
+/dev/sda7  /windows/E  vfat  users,gid=users, umask=0000,exec,utf8=true  0  0
+&lt;/pre&gt;
+Erläuterung zum umask-code:&lt;br /&gt;
+Die erste 0 zeigt einfach an, dass eine Octal-Zahl folgt, die zweite Zahl steht für die Rechte
+des &lt;tt&gt;user&lt;/tt&gt;, die dritte für die rechte der &lt;tt&gt;group&lt;/tt&gt; und die vierte für &lt;tt&gt;others&lt;/tt&gt;.
+Die Kodierung ist dabei folgendermaßen:
+keine Leserechte &lt;tt&gt;r&lt;/tt&gt;=4, keine Schreibrechte &lt;tt&gt;w&lt;/tt&gt;=2 und keine Ausführbarkeit &lt;tt&gt;x&lt;/tt&gt;=1,
+sodass z.B. alle Rechte für &lt;tt&gt;others&lt;/tt&gt; ausgeschlossen sind, wenn die entsprechende Zahl 4+2+1=7 ist. 
+Alle möglichen Kombinationen entnehme man folgender Tabelle:
+&lt;table border=&#34;1&#34; style=&#34;margin:auto;&#34;&gt;
+&lt;tr&gt;&lt;td&gt; 0 &lt;/td&gt;&lt;td&gt; 1 &lt;/td&gt;&lt;td&gt; 2 &lt;/td&gt;&lt;td&gt; 3 &lt;/td&gt;&lt;td&gt; 4 &lt;/td&gt;&lt;td&gt; 5 &lt;/td&gt;&lt;td&gt; 6 &lt;/td&gt;&lt;td&gt; 7 &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;rwx&lt;/td&gt;&lt;td&gt;rw-&lt;/td&gt;&lt;td&gt;r-x&lt;/td&gt;&lt;td&gt;r--&lt;/td&gt;&lt;td&gt;-wx&lt;/td&gt;&lt;td&gt;-w-&lt;/td&gt;&lt;td&gt;--x&lt;/td&gt;&lt;td&gt;---&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+Mehr dazu findet man auch auf
+&lt;a href=&#34;http://gentoo-wiki.com/HOWTO_Mount_Windows_partitions_(DOS,_FAT,NTFS)#uid.2Cgid:_mount_as_.28user.2Cgroup.29&#34;&gt;
+gentoo-wiki.com
+&lt;/a&gt; und &lt;a href=&#34;http://de.opensuse.org/SDB%3ADOS_Mount%2C_Schreibrechte_f%C3%BCr_alle&#34;&gt;de.opensuse.org&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;USB-Disk unter Linux als FAT32 formatieren:&lt;/em&gt;&lt;br /&gt;
+Als root oder Superuser eingeben (siehe auch &lt;a href=&#34;http://www.linux-club.de/viewtopic.php?t=59075&#34;&gt;www.linuxclub.de&lt;/a&gt;):
+&lt;pre&gt;&gt; mkfs.vfat -F 32 /dev/[laufwerk]&lt;/pre&gt;
+oder
+&lt;pre&gt;&gt; mkdosfs -F 32 /dev/[laufwerk]&lt;/pre&gt;
+Das Laufwerk bekommt man unter KDE auf Suse Linux heraus, indem man das Icon des USB-Sticks auf dem Desktop
+rechtsklickt und im Menü-&gt;Eigenschaften wählt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Disketten formatieren unter Linux:&lt;/em&gt;&lt;br /&gt;
+Falls man an einem Computer sitzt der noch ein Diskettenlaufwerk besitzt
+&lt;pre&gt;&gt; mformat a:&lt;/pre&gt;
+Dies formatiert eine Diskette mit dem DOS-FAT Dateisystem. Für weitere Informationen siehe
+&lt;a href=&#34;http://de.opensuse.org/SDB:Disketten_formatieren_unter_Linux&#34;&gt;SDB:Disketten formatieren unter Linux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Unterschied zwischen &lt;tt&gt;user&lt;/tt&gt; und &lt;tt&gt;users&lt;/tt&gt; beim mounten:&lt;/em&gt;&lt;br /&gt;
+Es besteht ein subtiler (und in den &lt;tt&gt;man&lt;/tt&gt;-Pages schlecht erklärter) Unterschied
+zwischen den Optionen &lt;tt&gt;user&lt;/tt&gt; und &lt;tt&gt;users&lt;/tt&gt;, die man beim mounten von Laufwerken
+angeben kann:&lt;br /&gt;
+Die Option &lt;tt&gt;user&lt;/tt&gt; erlaubt es, dass jeder Benutzer ein Laufwerk mounten darf; aber nur der
+Benutzer, welcher das Laufwerk gemountet hat, darf es auch wieder unmounten. Die Option
+&lt;tt&gt;users&lt;/tt&gt; erlaubt es hingegen, dass jeder Benutzer, egal ob er das Laufwerk gemountet hat
+oder nicht, dieses wieder unmounten darf.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Detaillierte &lt;tt&gt;Yast2&lt;/tt&gt;-Fehlermeldungen lesen:&lt;/em&gt;&lt;br /&gt;
+Sämtliche Fehler, die bei der Benutzung von &lt;tt&gt;Yast2&lt;/tt&gt; auftreten, werden detailliert
+im Yast2-Logfile mitprotokolliert. Lesen kann man dieses unter Suse Linux mit
+&lt;pre&gt;
+&gt; less /var/log/Yast2/y2log
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;NIS-User mit &lt;tt&gt;Yast2&lt;/tt&gt; verwalten&lt;/em&gt;&lt;br /&gt;
+Unter Suse kann man über &lt;tt&gt;Yast2&lt;/tt&gt; nicht nur die lokalen Benutzer, sondern auf dem NIS-Server
+auch die NIS-Benutzer verwalten. Dazu muß ein NIS-Server konfiguriert und gestartet sein.
+Jedoch erkennt das Benutzerverwaltungsmodul von &lt;tt&gt;Yast2&lt;/tt&gt; nicht immer, wenn ein NIS-Server
+läuft, so dass es die Verwaltung der NIS-Benutzer nicht erlaubt. Einzige Abhilfe in diesem Fall ist
+mittels
+&lt;pre&gt;
+&gt; /usr/lib/yp/ypinit -m
+&lt;/pre&gt;
+im Verzeichnis &lt;tt&gt;/var/yp&lt;/tt&gt; den Server manuell neu zu initialisieren. Erst danach erkennt 
+&lt;tt&gt;Yast2&lt;/tt&gt; wieder, dass ein NIS-Server läuft und erlaubt die NIS-Benutzerverwaltung.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;RPM-Pakete von Kommandozeile über Yast2 installieren:&lt;/em&gt;&lt;br /&gt;
+Obwohl es zunächst unsinnig klingen mag, ist es manchmal von Vorteil
+&lt;pre&gt;&gt; kdesu /opt/kde3/share/apps/krpmview/setup_temp_source *.rpm&lt;/pre&gt;
+Dies entspricht der Aktion &#34;Mit Yast installieren&#34;, welche man per Rechtsklick auf ein 
+RPM im Kontextmenü des Konqueror findet. Es funktioniert auch mit mehreren RPMs.&lt;/li&gt; 
+&lt;li&gt;&lt;em&gt;RPM-Pakete von Kommandozeile ohne Yast2 installieren:&lt;/em&gt;
+&lt;pre&gt;
+&gt; rpm -Uhv [paketname].rpm
+&lt;/pre&gt;
+Die Option &lt;tt&gt;-U&lt;/tt&gt; steht dabei für Upgrade, welches nach der Installation alle älteren 
+installierten Versionen von &lt;tt&gt;[paketname]&lt;/tt&gt; entfernt. &lt;tt&gt;-h&lt;/tt&gt; steht für &#34;hash marks&#34;,
+welches zur Fortschrittsanzeige beim Installieren 50 &#34;hash marks&#34; anzeigt. Die Option &lt;tt&gt;-v&lt;/tt&gt;
+steht für &#34;verbose&#34; und sorgt u.a. dafür, dass die &#34;hash marks&#34; etwas schöner angezeigt werden.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, welche Version eines Pakets installiert ist:&lt;/em&gt;
+&lt;pre&gt;
+&gt; rpm -q [paketname] 
+&lt;/pre&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, wohin die Dateien eines Pakets installiert werden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; rpm -q -l [paketname] 
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Kopieren für Fortgeschrittene&lt;/h6&gt;
+&lt;p&gt;Wer jemals ein komplettes Home-Verzeichnis für z.B. Backup-Zwecke mittels &lt;tt&gt;cp -R &lt;/tt&gt; kopiert hat,
+wird erstaunt feststellen, dass nicht alle Dateien kopiert wurden und auch die Rechte der Dateien 
+eventuell nicht den ursprünglichen Rechten entsprechen. Ein ziemliches Desaster, wenn man diese Kopie
+für Backup-Zwecke verwenden wollte. Die Lösung dafür ist&lt;/p&gt;
+&lt;pre&gt;
+&gt; sudo cp -a -T source dest
+&lt;/pre&gt;
+&lt;p&gt;Die Option &lt;tt&gt;-a&lt;/tt&gt; ist equivalent zu &lt;tt&gt;-r -p -d&lt;/tt&gt;, kopiert also rekursiv, erhält dabei die Rechte
+und erhält auch Links. Die Option &lt;tt&gt;-T&lt;/tt&gt; behandelt das Ziel &lt;tt&gt;dest&lt;/tt&gt; wie eine Datei, d.h. falls
+&lt;tt&gt;dest&lt;/tt&gt; noch nicht existiert, wird es angelegt (mehr zu dieser Option unter
+&lt;a href=&#34;http://www.gnu.org/software/coreutils/manual/html_node/Target-directory.html#Target-directory&#34;&gt;
+http://www.gnu.org/software/coreutils&lt;/a&gt;)
+. Eine vergleichbare Lösung ist (siehe
+&lt;a href=&#34;http://superuser.com/questions/26586/copy-directory-contents-using-cp-command&#34;&gt;superuser.com&lt;/a&gt;):&lt;/p&gt;
+&lt;pre&gt;
+&gt; sudo cp -a source/. dest
+&lt;/pre&gt;
+&lt;p&gt;Für den Fall, dass man auf einem sehr alten Unix-System arbeitet, das vielleicht nicht alle genannten 
+&lt;tt&gt;cp&lt;/tt&gt;-Optionen unterstützt, gibt es auch noch die Möglichkeit das Quellverzeichnis in eine &lt;tt&gt;tar&lt;/tt&gt;-Datei
+zu packen und am Zielort wieder zu entpacken (das ganze funktioniert auch über &lt;tt&gt;ssh&lt;/tt&gt;), siehe
+&lt;a href=&#34;http://www.tech-recipes.com/rx/513/copy-entire-contents-of-a-directory-and-preserve-permissions/&#34;&gt;
+www.tech-recipes.com&lt;/a&gt;. Will man nur versteckte Dateien (&lt;tt&gt;.*&lt;/tt&gt;) kopieren, stößt man mit dem
+Standardpatternmatching an Grenzen, denn &lt;tt&gt;.*&lt;/tt&gt; gilt auch für &lt;tt&gt;..&lt;/tt&gt;. Auch dabei kann &lt;tt&gt;tar&lt;/tt&gt; helfen,
+siehe &lt;a href=&#34;http://serverfault.com/questions/3154/recursively-copying-hidden-files-linux&#34;&gt;serverfault.com&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Netzwerkinterface unter Suse/Ubuntu konfigurieren&lt;/h6&gt;
+&lt;p&gt;Unter Suse konfiguriert man Netzwerkarten usw. am besten über Yast2. Will man
+dennoch über die Kommandozeile arbeiten wird man feststellen, dass die unter Debian/Ubuntu
+verbreitete Konfigurationsdatei &lt;tt&gt;/etc/network/interfaces&lt;/tt&gt; unter Suse nicht existiert
+(siehe &lt;a href=&#34;http://lilypond.org/blog/janneke/openSUSE-HOWTO&#34;&gt;openSUSE-HOWTO&lt;/a&gt;)
+. Unter Suse wird für jedes 
+Netzwerkinterface eine eigene Datei der Form &lt;tt&gt;ifcfg-*&lt;/tt&gt; unter &lt;tt&gt;/etc/sysconfig/network/&lt;/tt&gt; angelegt.
+Informationen über das Format dieser Datei gibt es mit &lt;tt&gt;man ifcfg&lt;/tt&gt; und z.B. bei 
+&lt;a href=&#34;http://www.fibel.org/linux/lfo-0.6.0/node478.html&#34;&gt;www.fibel.org&lt;/a&gt;. Wie man unter Ubuntu eine Netzwerkarte
+einrichtet wird bei 
+&lt;a href=&#34;https://help.ubuntu.com/9.04/serverguide/C/network-configuration.html&#34;&gt;Ubuntu Server Guide&lt;/a&gt; und in den
+&lt;a href=&#34;http://manpages.ubuntu.com/manpages/jaunty/en/man5/interfaces.5.html&#34;&gt;Ubuntu ManPages&lt;/a&gt;
+erklärt. Für eine Netzwerkarte mit dynamischer IP-Adresse schreibt man in &lt;tt&gt;/etc/network/interfaces&lt;/tt&gt;:&lt;/p&gt;
+&lt;pre&gt;
+auto eth0
+iface eth0 inet dhc
+&lt;/pre&gt;
+&lt;p&gt;Für eine Netzwerkarte mit statischer IP-Adresse z.B.:&lt;/p&gt;
+&lt;pre&gt;
+auto eth0
+iface eth0 inet static
+address 123.456.10.225
+netmask 255.255.255.0
+gateway 123.456.10.254
+&lt;/pre&gt;
+&lt;h6&gt;Init-Skripte für Suse Linux schreiben&lt;/h6&gt;
+&lt;p&gt;Init-Skript sind bash-Skripten, die benutzt werden sollten um einen Hintergrund-Dienst (Dämon,Service) 
+zu kontrollieren (starten, stoppen,neustarten). Sie werden auch vom Betriebsystem genutzt um einen Dienst
+beim Start des System automatisch zu starten. Normalerweise werden sie in &lt;tt&gt;/etc/init.d&lt;/tt&gt; als 
+ausführbare Dateien ohne Suffix (z.B. &lt;tt&gt;/etc/init.d/sshd&lt;/tt&gt;) gespeichert.
+Mit Suse wird ein Beispiel-Init-Skript mitgeliefert, das als Ausgangspunkt für eigene Init-Skripte dienen
+kann. Es liegt unter&lt;/p&gt;
+&lt;pre&gt;
+/etc/init.d/skeleton
+&lt;/pre&gt;
+&lt;p&gt;Eine ausführliche Anleitung zum Erstellen eigener Init-Skripten findet man bei
+&lt;a href=&#34;http://developer.novell.com/wiki/index.php/Writing_Init_Scripts&#34;&gt;Novell Developer - Writing_Init_Scripts&lt;/a&gt;.
+Mit&lt;/p&gt; 
+&lt;pre&gt;
+&gt; sudo /sbin/chkconfig -a newservice
+&lt;/pre&gt;
+&lt;p&gt;kann man einen Dienst beim Betriebssystem registrien, so dass er automatisch gestartet wird. In welchen Runlevels
+er gestartet wird, wird im Init-Skript definiert. Eine Übersicht über alle Dienste bekommt man mit&lt;/p&gt;
+&lt;pre&gt;
+&gt; sudo /sbin/chkconfig -l
+&lt;/pre&gt;
+&lt;p&gt;Mehr über &lt;tt&gt;chkconfig&lt;/tt&gt; steht bei 
+&lt;a href=&#34;http://www.easylinux.de/Artikel/ausgabe/2007/01/126-chkconfig/&#34;&gt;easyLinux - Mit den Dienern reden&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Umgang mit ISO-Images unter Linux&lt;/h6&gt;
+&lt;p&gt;Ein ISO-Image einfach zu dekomprimieren wie unter Windows scheint unter Linux nicht möglich zu sein.
+Stattdessen muss man als root(!)-User das Image als virtuelles Laufwerk mounten&lt;/p&gt;
+&lt;pre&gt;
+&gt; mkdir /mnt/iso
+&gt; mount -r -t iso9660 -o loop Datei.iso /mnt/iso
+&lt;/pre&gt;
+&lt;p&gt;Dabei bedeutet &lt;tt&gt;-r&lt;/tt&gt;, dass von diesem Laufwerk nur gelesen werden kann und die Angabe 
+&lt;tt&gt;-t iso9660&lt;/tt&gt; spezifiziert das genaue Dateisystem, kann aber oft auch weggelassen werden.&lt;/p&gt;
+&lt;p&gt;Jetzt kann man auch als normaler Benutzer das Iso-Image Verzeichnis z.B. ins aktuelle Verzeichnis kopieren&lt;/p&gt;
+&lt;pre&gt;
+&gt; cp -v -r /mnt/iso .
+&lt;/pre&gt;
+&lt;p&gt;Jetzt hat man die Daten vom aktuellen Verzeichnis ausgehend im Unterverzeichnis &lt;tt&gt;iso&lt;/tt&gt;.
+Von dort aus kann man die Daten weiterverarbeiten oder auch das &lt;tt&gt;iso&lt;/tt&gt;-Verzeichnis anders komprimieren.
+Allerdings kann man das kopierte Verzeichnis &lt;tt&gt;iso&lt;/tt&gt; nicht unmittelbar löschen, da es von einer
+(virtuellen) CD kopiert wurde und die Rechte noch einer nichtbeschreibbaren CD entsprechen. Daher muss man erst
+mit&lt;/p&gt;
+&lt;pre&gt;
+&gt; chmod -R a+w iso
+&lt;/pre&gt;
+&lt;p&gt;die Rechte entsprechend anpassen, dann kann man das Verzeichnis wieder löschen mit&lt;/p&gt;
+&lt;pre&gt;
+&gt; rm -r iso
+&lt;/pre&gt;
+&lt;p&gt;Um das ISO-Image wieder zu unmounten muss man als root eingeben&lt;/p&gt;
+&lt;pre&gt;
+&gt; umount /mnt/iso
+&gt; rm -r /mnt/iso
+&lt;/pre&gt;
+&lt;p&gt;Kommt bei &lt;tt&gt;umount&lt;/tt&gt; der Fehler&lt;/p&gt;
+&lt;pre&gt;umount: /mnt/iso: device is busy&lt;/pre&gt;
+&lt;p&gt; so muss man sicherstellen, dass kein anderer Benutzer oder Programm gerade auf das Laufwerk
+zugreift (z.B. ein Terminal-Fenster, welches gerade auf &lt;tt&gt;/mnt/iso&lt;/tt&gt; verweist). Dies kann man mit dem 
+&lt;tt&gt;lsof&lt;/tt&gt;-Kommando (siehe &lt;a href=&#34;#lsof&#34;&gt;oben&lt;/a&gt;) überprüfen.&lt;/p&gt;
+&lt;p&gt;Aber eine Frage nach dieser ganzen Prozedur bleibt: Warum nur kann man ein ISO-Image unter Linux nicht einfach 
+wie ein Archiv als normaler Benutzer entpacken? Aber das wäre wahrscheinlich zu einfach.&lt;/p&gt;
+&lt;h6&gt;NFS-Server unter Suse Linux 9.3 einrichten&lt;/h6&gt;
+&lt;p&gt;Ein Network File System (NFS) Server einzurichten ist unter Suse 9.3 nicht schwer.
+Jedoch kann es einige Probleme mit der Suse Firewall geben die einen viel Zeit kosten
+können, daher hier diese Kurzanleitung zur NFS-Server-Installation:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Yast2 aufrufen und unter Network Services das NFS-Server-Modul aufrufen.&lt;/li&gt;
+&lt;li&gt;Den NFS-Server durch anklicken von &lt;tt&gt;Start NFS-Server&lt;/tt&gt; aktivieren und
+&lt;tt&gt;Open Port in Firewall&lt;/tt&gt; auswählen. Ansonsten funktioniert später garnichts.
+Dann weiter zum nächsten Dialog gehen.&lt;/li&gt;
+&lt;li&gt;Im nächsten Dialog muß man nun durch Auswahl von &lt;tt&gt;Add directory&lt;/tt&gt; das
+per NFS zu verteilende Verzeichnis angeben. Im darauffolgenden Eingabefenster
+kann man als &lt;tt&gt;Host wildcard&lt;/tt&gt; &lt;tt&gt;*&lt;/tt&gt; übernehmen, aber damit erlaubt
+man wirklich jedem, dass NFS-Laufwerk zu mounten. Es ist sicherer dies z.B. nur
+für Rechner des eigenen Subnetzes zu erlauben. Man sollte daher für 
+&lt;tt&gt;Host wildcard&lt;/tt&gt; z.B.
+&lt;pre&gt;
+192.168.0.0/255.255.255.0
+&lt;/pre&gt;
+eintragen. Als Optionen sollte man
+&lt;pre&gt;
+ro,root_squash,async
+&lt;/pre&gt;
+setzen. Die Option &lt;tt&gt;ro&lt;/tt&gt; erlaubt dabei nur lesenden Zugriff auf
+das freigegebene Verzeichnis, &lt;tt&gt;root_squash&lt;/tt&gt; (wörtl. &#34;Wurzel zerquetschen&#34;)
+verhindert, dass jemand mit Rootrechten auf einem fremden Rechner, der das NFS-Laufwerk
+eingebunden hat, diese Rootrechte auch auf dem NFS-Laufwerk hat und &lt;tt&gt;async&lt;/tt&gt;
+erlaubt einen schnelleren Zugriff und Datentransfer (ist allerdings etwas
+anfälliger für Fehler als &lt;tt&gt;sync&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;Durch Anklicken von &lt;tt&gt;Finish&lt;/tt&gt; wird der NFS-Server gestartet.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Die Clientrechner sollten nun in der Lage sein, dass freigegebene Verzeichnis zu
+sehen und einzubinden. Oft ist dies jedoch noch nicht der Fall.
+Dann sollte man zunächst mit Rootrechten vom Client aus überprüfen, ob der Portmapper Daemon auf 
+dem Server läuft:&lt;/p&gt;
+&lt;pre&gt;
+&gt; rpcinfo -p servername
+&lt;/pre&gt;
+Dieser Befehl sollte eigentlich eine Liste anzeigen, die so ähnlich
+aussieht:
+&lt;pre&gt;
+program vers proto   port
+...
+100003    2   udp   2049  nfs
+100003    3   udp   2049  nfs
+100003    2   tcp   2049  nfs
+100003    3   tcp   2049  nfs
+...
+&lt;/pre&gt;
+Passiert jedoch garnichts, so handelt es sich um ein Problem mit der
+Firewall auf dem Server. Vermutlich wurde &lt;tt&gt;Open Port in Firewall&lt;/tt&gt;
+vergessen auszuwählen. Wenn stattdessen die Fehlermeldung
+&lt;pre&gt;
+RPC: Program not registered
+&lt;/pre&gt;
+erscheint, so sollte man die Dateien &lt;tt&gt;/etc/hosts.allow&lt;/tt&gt; bzw.
+&lt;tt&gt;/etc/hosts.deny&lt;/tt&gt; überprüfen. In &lt;tt&gt;/etc/hosts.allow&lt;/tt&gt;
+sollte man folgende Dienste erlauben, falls man
+ansonsten in &lt;tt&gt;/etc/hosts.deny&lt;/tt&gt; alle Dienste erst einmal 
+generell verboten hat:
+&lt;pre&gt;
+portmap: 192.168.0.0/255.255.255.0 :ALLOW
+mountd: 192.168.0.0/255.255.255.0 :ALLOW
+lockd: 192.168.0.0/255.255.255.0 :ALLOW
+rquotad: 192.168.0.0/255.255.255.0 :ALLOW
+statd: 192.168.0.0/255.255.255.0 :ALLOW
+&lt;/pre&gt;
+&lt;p&gt;Mehr dazu findet man auch in der 
+&lt;a href=&#34;http://www.faqs.org/docs/Linux-HOWTO/NFS-HOWTO.html&#34;&gt;Linux-NFS-HOWTO&lt;/a&gt;
+&lt;p&gt;Funktioniert der &lt;tt&gt;rpcinfo&lt;/tt&gt;-Befehl jedoch ohne Probleme und
+der Clientrechner findet die Freigaben immer noch nicht, so hilft es häufig
+die Suse Firewall auf dem Server ab- und dann wieder anzuschalten. Dann funktioniert
+seltsamerweise oft alles wieder wie es soll. &lt;br /&gt;
+Mehr zum Thema NFS findet man abgesehen vom oben erwähnten
+Linux-NFS-HOWTO auch auf deutsch unter &lt;a href=&#34;http://linuxwiki.de/NFS&#34;&gt;linuxwiki.de&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h6&gt;Subversion (SVN) einrichten&lt;/h6&gt;
+&lt;p&gt;Das Versionskontrollsystem Subversion (SVN) einzurichten lohnt sich nicht nur für Gruppen von Entwicklern
+sondern auch für den einzelnen Programmierer, denn mit SVN hat man praktisch eine Zeitmaschine (wie es die
+SVN Entwickler selbst ausdrücken), die es einem erlaubt sämtliche(!) Änderungen (d.h. auch das Überschreiben
+und Umbenennen von Dateien und Verzeichnissen u.ä.) an einem Projekt transparent zu verfolgen und gegebenenfalls
+rückgängig zu machen. Wäre jedes Filesystem ein Versionskontrollsystem gäbe es nie mehr Datenverlust durch das 
+unbeabsichtigte Überschreiben von Dateien, vor dem auch Techniken wie die Verwendung von &#34;Trashcans&#34; in
+modernen Betreibsystemen nicht schützen. Aber es soll hier nicht diskutiert werden, warum es sowas nützliches wieder
+nicht gibt, sondern die Installation von SVN dargestellt werden. &lt;br /&gt;
+Die Installation von SVN ist im Prinzip in der ausführliche offiziellen 
+&lt;a href=&#34;http://svnbook.red-bean.com/&#34;&gt;Onlineanleitung&lt;/a&gt; zu SVN beschrieben. Jedoch liegt der Schwerpunkt
+eher auf der Installation im Zusammenhang mit dem WebDAV-Module für Apache. Will man jedoch nicht extra
+Apache laufen lassen und stattdessen SVN einfach über SSH bedienen sind einige Fallstricke bezüglich
+Benutzerrechten zu umschiffen. Dies wird recht übersichtlich bei 
+&lt;a href=&#34;http://www.linux-fuer-alle.de/doc_show.php?docid=230&amp;amp;catid=3&#34;&gt;Linux-fuer-alle&lt;/a&gt; erklärt
+und soll hier nochmal zusammengefasst und ergänzt werden:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zunächst muß man Subversion auf dem Server installieren, auf dem man das Repository
+(die Ablage für die Dateien, die versionskontrolliert werden sollen) anlegen möchte. 
+Dies macht man am besten mit &lt;tt&gt;Yast2&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;Dann sollte man eine neue Benutzergruppe (Name z.B. &lt;tt&gt;svn&lt;/tt&gt;) im System anlegen.
+Alle Benutzer, die später Subversion verwenden wollen, müssen Mitglieder dieser Gruppe werden.
+Am einfachsten erledigt man das wieder mit &lt;tt&gt;Yast2&lt;/tt&gt; indem man unter &#34;Security and Users&#34; 
+das Module &#34;Edit and create groups&#34; aufruft (Ob man das &#34;lokal&#34; auf dem Rechner macht, auf dem
+das Repository liegt, oder &#34;global&#34; auf dem eventuell vorhandenen NIS-Server ist eigentlich egal,
+aber mit einer globalen Gruppe ist es später leichter, das Repository auf einen anderen Rechner
+zu verschieben). Nach Aufruf von &#34;Add&#34; (eventuell sollte man vorher unter &#34;Set Filter&#34;
+&#34;NIS Groups&#34; oder &#34;System Groups&#34; auswählen, damit man später auch die &#34;globalen&#34; Benutzer sieht)
+gibt man &#34;Group Name&#34; und &#34;Group ID&#34; (diese sollte &gt; 500 sein, andernfalls gibts Probleme) und
+wählt die zugehörigen Mitglieder aus. Danach kann man das ganze durch Drücken von &#34;Accept&#34; und &#34;Finish&#34;
+abschließen.&lt;/li&gt;
+&lt;li&gt;Damit sich die verschiedenen Benutzer nicht gegenseitig aussperren, weil die gesendeten
+Dateien die falschen Benutzungsrechte haben, muß man auf dem Repository-Server den
+Befehl &lt;tt&gt;/usr/bin/svnserve&lt;/tt&gt; durch ein Wrapper-Skript ersetzen, welches automatisch
+die richtigen Rechte für alle empfangenen Dateien setzt. Dazu sollte man den
+Orginalbefehl umbenennen:
+&lt;pre&gt;
+&gt; mv svnserve svnserv
+&lt;/pre&gt;
+und stattdessen folgendes Skript anlegen:
+&lt;pre&gt;
+&gt; pico svnserve
+#!/bin/bash
+umask 002            #Everything is allowed for user and the group,
+                     #nothing is allowed for others.
+/usr/bin/svnserv $*
+&lt;/pre&gt;
+Nicht vergessen, dass Skript für alle ausführbar zu machen:
+&lt;pre&gt;
+&gt; chmod a+x svnserve
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Jetzt muß man das Repository anlegen, z.B. kann man mit Rootrechten ein neues Verzeichnis im
+Wurzelverzeichnis des Repository-Servers anlegen:
+&lt;pre&gt;
+&gt; cd /
+&gt; mkdir subversion
+&lt;/pre&gt;
+Will man erlauben, dass auch Benutzer der Gruppe &lt;tt&gt;svn&lt;/tt&gt; neue Repositories innerhalb des Verzeichnises
+&lt;tt&gt;subversion&lt;/tt&gt; anlegen können, so muß man noch die Gruppenzugehörigkeit und die Schreibrechte dieses 
+Verzeichnisses anpassen:
+&lt;pre&gt;
+&gt; chown root.svn subversion/
+&gt; chmod g+w subversion/
+&lt;/pre&gt;
+Hat man den letzten Schritt getan, kann man die folgenden mit einem Benutzer aus der Gruppe &lt;tt&gt;svn&lt;/tt&gt;
+durchfuehren, ansonsten muß man weiter mit Root-Rechten arbeiten.
+&lt;pre&gt;
+&gt; cd subversion
+&gt; mkdir projektname
+&lt;/pre&gt;
+Das Unterverzeichnis &lt;tt&gt;projektname&lt;/tt&gt; ist nur zur Übersicht, da man sicher mehr als nur
+ein Projekt mit Subversion verwalten möchte. Dieses Unterverzeichnis muß man nun zu einem
+Repository erklären (subversion legt dazu dort einige Unterverzeichnisse und Dateien an):
+&lt;pre&gt;
+&gt; svnadmin create --fs-type fsfs projektname
+&lt;/pre&gt;
+Die Option &lt;tt&gt;--fs-type fsfs&lt;/tt&gt; stellt dabei sicher, dass Subversion als Speichersystem
+einfach das Filesystem verwendet und nicht die veraltete Berkley Database (DB), die eigentlich
+nur Nachteile hat (siehe 
+&lt;a href=&#34;http://svnbook.red-bean.com/nightly/en/svn.reposadmin.html#svn.reposadmin.basics.backends&#34;&gt;
+Repository Administration&lt;/a&gt; im Online Manual). Ich wundere mich, warum sie immer
+noch in der Defaulteinstellung verwendet wird.&lt;/li&gt;
+&lt;li&gt;Nun muß man die Zugriffsrechte auf das Repository so anpassen, dass später alle
+Mitglieder der angelegten Gruppe &lt;tt&gt;svn&lt;/tt&gt; Zugriff darauf haben:
+&lt;pre&gt;
+&gt; chgrp -R svn projektname
+&lt;/pre&gt;
+Alle anderen haben im Repository nichts verloren:
+&lt;pre&gt;
+&gt; chmod -R o-rwx projektname
+&lt;/pre&gt;
+Die Gruppenmitglieder sollen natürlich auch schreiben dürfen:
+&lt;pre&gt;
+&gt; chmod -R g+rw projektname
+&lt;/pre&gt;
+Um sicherzustellen, dass die Logfiles, welche Subversion anlegt auch problemlos geschrieben
+werden können ist noch folgende Rechteänderung nötig:
+&lt;pre&gt;
+&gt; chmod g+s projektname/db
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Nun muss man nur noch die Konfiguration des Repositories etwas anpassen.
+Dazu sollte man in der Datei &lt;tt&gt;/subversion/projektname/conf/svnserve.conf&lt;/tt&gt;
+folgendes eintragen:
+&lt;pre&gt;
+[general]            #Diese Zeile darf nicht weggelassen werden.
+anon-access = none
+auth-access = write
+realm = projektname
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Falls noch nicht geschehen kann man jetzt Subversion mit &lt;tt&gt;Yast2&lt;/tt&gt;
+auch auf den Clientrechnern installieren. Von einem Clientrechner aus kann
+man jetzt, wenn man zur Benutzergruppe &lt;tt&gt;svn&lt;/tt&gt; gehört, das Repository
+mit Daten füllen:
+&lt;pre&gt;
+svn import dirname svn+ssh://[svnserver]/subversion/projektname/dirname -m &#34;Original Version&#34;
+&lt;/pre&gt;
+Dabei steht &lt;tt&gt;dirname&lt;/tt&gt; z.B. für das Verzeichnis in dem das Projekt
+(inklusive Sourcecode, Makefiles, Bilder, Readme usw., Subversion verwaltet alles!)
+bisher auf dem Clientrechner lag. &lt;tt&gt;[svnserver]&lt;/tt&gt; steht für die Adresse
+des Servers, auf dem das Repository eingerichtet wurde und mit
+der Option &lt;tt&gt;-m&lt;/tt&gt; hat man die Möglichkeit kurze Notizen zu dem
+gerade eingerichtet Projekt zu geben.
+Noch ein Tipp zum Schluß: Falls aus unerfindlichen Gründen beim Datenimport
+plötzlich &lt;tt&gt;vim&lt;/tt&gt; startet, so kann man diesen mit Eingabe von
+&lt;tt&gt;:quit[[Enter]]&lt;/tt&gt; beenden. Die darauf folgende Frage muß man dann mit
+&lt;tt&gt;c(ontinue)&lt;/tt&gt; beantworten. Dann startet der Datenimport aber wirklich.
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Archivieren</title>
+      <link>/post/archivieren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/archivieren/</guid>
+      <description>&lt;p&gt;Eine gute Einführung übers Archivieren und Komprimieren gibts in bei
+&lt;a href=&#34;http://www.oreilly.de/german/freebooks/rlinux3ger/ch072.html&#34;&gt;
+Welsh et al. 2000&lt;/a&gt;.
+Ich beschränke mich daher im weiteren auf ein paar eigene Bemerkungen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.gz&lt;/tt&gt;-Dateien entpacken:&lt;/em&gt;
+&lt;pre&gt;&gt; gunzip dateiname.gz&lt;/pre&gt;
+Achtung: &lt;tt&gt;gunzip&lt;/tt&gt; ersetzt die gepackte Datei (dateiname.gz)
+mit der ungepackten Version (dateiname). 
+Achtung2: &lt;tt&gt;gunzip&lt;/tt&gt; ist ungeeignet um &lt;tt&gt;*.zip&lt;/tt&gt;-Dateien
+zu entpacken. &lt;tt&gt;gunzip&lt;/tt&gt; unterstützt nur &lt;tt&gt;*.zip&lt;/tt&gt;-Archive,
+die aus genau einer Datei bestehen (siehe auch &lt;tt&gt;man gunzip&lt;/tt&gt;).
+Zum Entpacken von &lt;tt&gt;*.zip&lt;/tt&gt;-Archiven die aus mehrerer Dateien bestehen
+(was praktisch immer der Fall ist) muß man &lt;tt&gt;unzip&lt;/tt&gt; verwenden.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.zip&lt;/tt&gt;-Dateien entpacken:&lt;/em&gt;
+&lt;pre&gt;&gt; unzip dateiname.zip&lt;/pre&gt;
+Dabei werden alle Dateien und Verzeichnisse ins aktuelle Verzeichnis entpackt.
+Um Chaos zu vermeiden empfiehlt es sich daher vor dem Entpacken ein neues
+Verzeichnis &lt;tt&gt;dateiname&lt;/tt&gt; anzulegen, die Datei &lt;tt&gt;dateiname.zip&lt;/tt&gt;
+in dieses zu verschieben und dort erst zu entpacken. Das gleiche Vorgehen
+empfiehlt sich natürlich auch für &lt;tt&gt;*.tar&lt;/tt&gt;-Archive.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Dateien entpacken:&lt;/em&gt;
+&lt;pre&gt;&gt; tar zxvf dateiname.tar.gz&lt;/pre&gt;
+Die obige Schreibweise entspricht der sogennanten BSD-Unix-Schreibweise.
+&lt;tt&gt;tar&lt;/tt&gt; unterstützt auch die Standart-Schreibweise. Mit dieser
+würde die obige Befehlszeile folgendermaßen aussehen:
+&lt;pre&gt;&gt; tar -z -x -v -f dateiname.tar.gz&lt;/pre&gt; 
+Zu beachten ist, dass die Option &lt;tt&gt;-f&lt;/tt&gt; stets die letzte ist, da diese
+den zu entpackenden Dateinamen angibt und daher dieser direkt im Anschluß
+an die Option &lt;tt&gt;-f&lt;/tt&gt; stehen muß. Die weiteren Optionen sind:
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;-v&lt;/tt&gt; (verbose): Damit gibt &lt;tt&gt;tar&lt;/tt&gt; Informationen über den
+Entpackprozess an. Kann auch mehrfach angegeben werden, dann gibt &lt;tt&gt;tar&lt;/tt&gt;
+immer mehr Informationen an.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-x&lt;/tt&gt; (extract): Sagt nur, dass die Datei hinter &lt;tt&gt;-f&lt;/tt&gt; entpackt 
+bzw. dearchiviert werden soll.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-z&lt;/tt&gt;: Gibt an, dass die Datei hinter &lt;tt&gt;-f&lt;/tt&gt; zunächst mit
+&lt;tt&gt;gunzip&lt;/tt&gt; entpackt und dann erst weiter mit &lt;tt&gt;tar&lt;/tt&gt; dearchiviert werden 
+soll. Dies erspart den Extraaufruf von &lt;tt&gt;gunzip&lt;/tt&gt; zum Entpacken der 
+&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Datei. Statt &lt;tt&gt;-x&lt;/tt&gt; kann man hier übrigens auch andere Optionen
+und damit andere Packprogramme verwenden. Verwendet man &lt;tt&gt;-X&lt;/tt&gt; wird 
+&lt;tt&gt;uncompress&lt;/tt&gt; (für &lt;tt&gt;*.tar.z&lt;/tt&gt;-Dateien) aufgerufen, verwendet man &lt;tt&gt;-j&lt;/tt&gt;
+wird &lt;tt&gt;bunzip2&lt;/tt&gt; (für &lt;tt&gt;*.tar.bz2&lt;/tt&gt;-Dateien) benutzt.&lt;/li&gt;
+&lt;/ul&gt;
+Hinweis: Auf FAT32-Filesystemen ist zusätzlich die 
+Option &lt;tt&gt;-m&lt;/tt&gt; anzugeben, welche das Entpacken der Dateimodifikationszeit
+verhindert, da es ansonsten beim Entpacken zu Fehlermeldungen kommt.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Dateien packen:&lt;/em&gt;
+&lt;pre&gt;&gt; tar zcvf verzeichnis.tar.gz verzeichnis&lt;/pre&gt;
+Zu Beachten ist hier, dass 
+(im Gegensatz zu anderen Kommandos wie z.B. &lt;tt&gt;cp&lt;/tt&gt; oder &lt;tt&gt;scp&lt;/tt&gt;)
+die zu erzeugende Datei (das Ziel) zuerst angegeben
+werden muß und dann erst das zu archivierende Verzeichnis (die Quelle).
+Die Optionen dazu sind die gleichen wie oben beschrieben, nur steht nun
+&lt;tt&gt;-c&lt;/tt&gt; dafür, dass &lt;tt&gt;tar&lt;/tt&gt; jetzt archivieren soll und &lt;tt&gt;-z&lt;/tt&gt;
+steht dafür, dass nach der Archivierung durch &lt;tt&gt;tar&lt;/tt&gt; das Archiv noch
+mittels &lt;tt&gt;gzip&lt;/tt&gt; komprimiert werden soll. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Dateien erzeugen, wobei versteckte Verzeichnisse von Subversion (&lt;tt&gt;.svn&lt;/tt&gt;) ausgeschlossen werden:&lt;/em&gt;
+&lt;pre&gt;&gt; tar --exclude=&#39;.svn&#39; -zcvf verzeichnis.tar.gz verzeichnis&lt;/pre&gt;
+oder in neueren &lt;tt&gt;tar&lt;/tt&gt; Versionen auch mit
+&lt;pre&gt;&gt; tar --exclude-vcs -zcvf verzeichnis.tar.gz verzeichnis&lt;/pre&gt;
+Siehe auch 
+&lt;a href=&#34;http://www.linuxquestions.org/questions/linux-software-2/copy-svn-working-dir-without-svn-hidden-dirs-and-files-620586/&#34;&gt;
+http://www.linuxquestions.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Entpackprozess beobachten:&lt;/em&gt;&lt;br /&gt;
+Hat man beim Aufruf des Entpackprogramms die Verbose-Option vergessen und man möchte
+trotzdem wissen, ob der Entpackprozess vorangeht, kann man dies mit Hilfe von
+&lt;tt&gt;watch&lt;/tt&gt; erreichen. Hat man z.B. das Entpacken mehrerer 
+&lt;tt&gt;*.iso.gz&lt;/tt&gt;-Dateien mittels &lt;tt&gt;gunzip&lt;/tt&gt; gestartet, kann man mittels
+&lt;pre&gt;&gt;watch ls -l *.iso&lt;/pre&gt;
+sehen, wie sich die Größe der entpackten Datei (im Abstand von zwei Sekunden,
+da &lt;tt&gt;watch&lt;/tt&gt; einfach alle 2 Sekunden den Befehl &lt;tt&gt;ls -l&lt;/tt&gt; ausführt)
+mit der Zeit entwickelt.
+Hinweis: &lt;tt&gt;watch ll *.iso&lt;/tt&gt; funktioniert nicht, da &lt;tt&gt;watch&lt;/tt&gt; 
+anscheinend nicht mit Aliasen umgehen kann.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Inhalt von &lt;tt&gt;*.war&lt;/tt&gt;-Dateien anzeigen&lt;/em&gt;
+&lt;pre&gt;&gt; jar -tf datei.war&lt;/pre&gt;
+&lt;tt&gt;war&lt;/tt&gt;-Dateien sind übrigens keine Dateien für den 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Verteidigungsfall&#34;&gt;Verteidigungsfall&lt;/a&gt; sondern
+sogenannte &lt;a href=&#34;http://de.wikipedia.org/wiki/Web_Archive&#34;&gt;Web Application Archive-Dateien&lt;/a&gt;
+abgeleitet von 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Java_Archive&#34;&gt;Java Archive-Dateien (&lt;tt&gt;*.jar&lt;/tt&gt;)&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dateien aufteilen (splitten) und wieder zusammenfügen&lt;/em&gt;&lt;br /&gt;
+Moechte man eine sehr große Datei namens &lt;tt&gt;file&lt;/tt&gt; in Teile zu je 1GB = 1024MB aufteilen, so hilft das 
+&lt;tt&gt;split&lt;/tt&gt;-Kommando:
+&lt;pre&gt;&gt; split -b 1024m file file.split&lt;/pre&gt;
+Um die so entstandenen Teile namens &lt;tt&gt;file.split.aa, file.split.ab, ...&lt;/tt&gt; wieder zusammenzufuegen nutzt man &lt;tt&gt;cat&lt;/tt&gt;:
+&lt;pre&gt;&gt; cat file.split.* &gt; file &lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drucken</title>
+      <link>/post/drucken/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/drucken/</guid>
+      <description>&lt;p&gt;Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems
+ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows
+oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist
+unter Linux manchmal immer noch ein unnötig komplizierter Vorgang.
+Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet,
+ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows
+ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch
+kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat,
+dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen
+erlaubt.&lt;/p&gt;
+&lt;h6&gt;Drucken unter CUPS&lt;/h6&gt;
+&lt;p&gt;Benutzt man das Common Unix Printing System (CUPS), so kann man viele
+Einstellungen und Informationen zum Druckvorgang über den Webbrowser
+bekommen. Folgende Adressen ([cupsserver] steht für die IP-Adresse
+des CUPS-Servers, z.B. &lt;tt&gt;192.168.0.2&lt;/tt&gt; oder 
+bei lokaler Installation &lt;tt&gt;localhost&lt;/tt&gt;) sind u.a. nützlich:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Bedienung über HTML allgemein:&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anleitung zu CUPS-Bedienung&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/sum.html
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Laufende Jobs:&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/jobs
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;vorhandene bzw. eingerichtete Drucker:&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/printers
+&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Das CUPS erweitert auch die Steuerungsmöglichkeiten des Druckvorgangs
+über die Kommandozeile. Einige nützliche Optionen sind u.a.:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;nur bestimmte Seiten drucken:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpr -o page-ranges=1-4,7,9-12 dateiname
+&lt;/pre&gt;
+Mit diesem Kommando werden nur die Seiten 1-4,7 und 9-12 der Datei
+&lt;tt&gt;dateiname&lt;/tt&gt; gedruckt. Zu beachten ist, dass die Seitenangabe
+hier meist nicht mit der Seitennummerierung innerhalb der Datei übereinstimmt,
+z.B. wenn das Titelblatt die Seitennummer 0 hat.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mehrere Seiten auf ein Blatt drucken:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpr -o number-up=4 -o number-up-layout=tblr dateiname
+&lt;/pre&gt;
+Hiermit werden vier Seiten auf ein Blatt gedruckt. Die Option
+&lt;tt&gt;number-up-layout&lt;/tt&gt; gibt dabei an, in welcher Reihenfolge
+die einzelnen Seiten auf das Blatt gedruck werden sollen.
+Die Defaulteinstellung ist &lt;tt&gt;lrtb&lt;/tt&gt; (left to right, top to bottom),
+eine andere Möglichkeit ist das im Beispiel verwendete
+&lt;tt&gt;tblr&lt;/tt&gt; (top to bottom, left to right).
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;doppelseitig drucken:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpr -o sides=two-sided-long-edge dateiname
+&lt;/pre&gt;
+Die Option &lt;tt&gt;sides=two-sided-long-edge&lt;/tt&gt; gibt dabei an, dass
+das doppelseitige Dokument später über die lange Blattkante
+geblättert werden soll. Sie macht natürlich nur dann Sinn,
+wenn der Drucker auch doppelseitig drucken kann und entsprechend
+eingerichtet wurde.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige der Druckerwarteschlange:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpq
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Druckaufträge aus der Warteschlange löschen:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lprm
+&lt;/pre&gt;
+Dies löscht alle eigenen Druckaufträge, aber nicht die anderer
+Benutzer. Will man nur einen bestimmten Druckauftrag löschen,
+so muß man dies extra angeben:
+&lt;pre&gt;
+&gt; lprm -Plp1 42
+&lt;/pre&gt;
+Dies löscht den Druckauftrag Nummer 42 aus der Druckerwarteschlange für
+den Drucker &lt;tt&gt;lp1&lt;/tt&gt;.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Poster drucken&lt;/h6&gt;
+&lt;p&gt;Um Poster oder andere große Bilder einfach auf mehrere Blätter verteilt zu drucken gibt
+es für Linux eine einfache Antwort:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://posterazor.sourceforge.net/&#34;&gt;Posterazor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit diesem kleinen Programm kann ein beliebiges Bild in ein entsprechendes mehrseitiges
+PDF umgewandelt werden, welches man dann mit einem beliebigem PDF-Viewer ausdrucken kann. 
+Dabei bietet es intuitive Benutzeroberfläche, so dass man sofort sieht,
+wie das Bild auf die verschiedenen Seiten aufgeteilt wird. Das ist wesentlich einfacher
+als mit einem Programm, welches nur irgendwelche kryptischen Parameter auf der Kommandozeile
+entgegennimmt, wie z.B. bei &lt;a href=&#34;http://printing.kde.org/downloads/&#34;&gt;&lt;tt&gt;poster&lt;/tt&gt;&lt;/a&gt; der Fall.
+Wer es unbedingt doch über die Kommandozeile machen möchte findet bei
+&lt;a href=&#34;http://issaris.blogspot.com/2006/02/printing-huge-posters.html&#34;&gt;Printing huge posters&lt;/a&gt;
+eine Anleitung, wie man das mit obengenanntem &lt;tt&gt;poster&lt;/tt&gt; bewerkstelligt.&lt;/p&gt;
+&lt;h6&gt;Drucken von DIN A5-Heftchen&lt;/h6&gt;
+&lt;p&gt;Manchmal ist es praktisch ein Dokument (z.B. die 
+&lt;a href=&#34;http://www.wvv.de/vvm/fahrplan/fahrplaene/index.html&#34;&gt;Würzburger Busfahrpläne&lt;/a&gt;)
+als DIN A5-Heftchen (d.h. es werden jeweils zwei Seiten auf 
+ein DIN A4 Blatt gedruckt und dann so gefaltet, dass ein DIN A5-Heft entsteht)
+zu drucken. Dies kann man ganz einfach über den KDE-Druckdialog erreichen
+(Leider steht dieser im Acrobat Reader nicht zur Verfügung. PDF-Dokumente sollte
+man daher mit KGhostview öffnen.):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;KDE-Druckdialog öffnen und auf &#34;Eigenschaften&#34; (&#34;Properties&#34;) klicken.&lt;/li&gt;
+&lt;li&gt;Den Karteireiter &#34;Filter&#34; (&#34;filter&#34;) auswählen.&lt;/li&gt;
+&lt;li&gt;Auf das trichterförmige Icon &#34;Filter hinzufügen&#34; (&#34;add filter&#34;) klicken.&lt;/li&gt;
+&lt;li&gt;Hier den Filter &#34;Pamphlet Printing (use with small side duplex printing)&#34; auswählen
+und auf &#34;OK&#34; klicken.&lt;/li&gt;
+&lt;li&gt;Zurück auf den Karteireiter &#34;Allgemein&#34; (&#34;General&#34;) klicken und dort unter 
+&#34;Beidseitiger Druck&#34; (Duplex Printing&#34;) &#34;Schmalseitig&#34; (&#34;short side&#34;) auswählen.&lt;/li&gt;
+&lt;li&gt;Den Dialog mit &#34;OK&#34; abschließen und das Dokument drucken.&lt;/li&gt; 
+&lt;/ol&gt;
+&lt;p&gt;Alternativ dazu kann man das ganze auch über die Kommandozeile erreichen.
+Dazu ist es notwendig, dass das Paket &#34;psutils&#34; installiert ist (einfach mit YAST2 
+überprüfen und gegebenenfalls nachinstallieren). Dann kann man PS-Dokumente
+(PDF-Dokumente muß man vorher in PS-Dokumente umwandeln wie 
+&lt;a href=&#34;convert.html&#34;&gt;hier&lt;/a&gt; beschrieben.)
+mit folgendem Befehl umwandeln:&lt;/p&gt;
+&lt;pre&gt;
+&gt; psbook datei.ps | psnup -2 &gt; datei_A5.ps
+&lt;/pre&gt;
+&lt;p&gt;Der Befehl &lt;tt&gt;psbook&lt;/tt&gt; ändert dabei die Reihenfolge der Seiten des PS-Dokuments in
+geeigneter Weise und der anschließende Befehl &lt;tt&gt;psnup&lt;/tt&gt; generiert ein
+PS-Dokument so, dass 2 Seiten des ursprünglichen Dokuments jetzt auf ein Blatt verkleinert
+werden. Jetzt kann man das so generierte Dokument ausdrucken:&lt;/p&gt;
+&lt;pre&gt;
+&gt; lpr -o sides=two-sided-short-edge datei_A5.ps
+&lt;/pre&gt;
+&lt;h6&gt;Präsentationen drucken&lt;/h6&gt;
+&lt;p&gt;Viele Präsentationen sind als PDFs im Querformat erstellt. Um diese platzsparend auszudrucken
+kann man folgende Befehlszeile versuchen:&lt;/p&gt;
+&lt;pre&gt;
+&gt; lpr -o number-up=4 -o number-up-layout=lrtb praesentation.pdf
+&lt;/pre&gt;
+&lt;p&gt;Leider funktioniert das nicht immer richtig, da viele PDF-Präsentationen seltsame Seitenformate
+verwenden und daher zunächst noch skaliert werden müssen. Eine Lösung ist diese
+Präsentationen mit dem Acrobat Reader auszudrucken. Dort muß man dann unter
+&#34;Page Scaling: Fit to Printer Margins&#34; auswählen und als &#34;Printer Command&#34;&lt;/p&gt;
+&lt;pre&gt;
+/usr/bin/lpr -P lp1 -o number-up=4 -o number-up-layout=lrtb
+&lt;/pre&gt;
+&lt;p&gt;eintragen.&lt;/p&gt;
+&lt;h6&gt;Tipps zu a2ps&lt;/h6&gt;
+&lt;p&gt;Das Programm &lt;tt&gt;a2ps&lt;/tt&gt; erlaubt es ASCII-Text &#34;schön&#34; formatiert
+auszudrucken. Dies ist besonders zum Ausdrucken von Quellcode nützlich,
+da &lt;tt&gt;a2ps&lt;/tt&gt; z.B. Kommentare und Schlüsselwörter im Code automatisch erkennt
+und diese durch Farbe, Schriftgrad oder Schriftart hervorhebt und damit den
+Code erheblich lesbarer gestaltet. Der Vorteil von &lt;tt&gt;a2ps&lt;/tt&gt; gegenüber
+dem direkten Ausdruck aus einem Editor mit eigener Synaxerkennung heraus
+(z.B. Kile für Latex oder Kate für C++) ist, dass es insbesondere für
+den Graustufendruck angepasste und optimierte Designs anbietet und
+natürlich das &lt;tt&gt;a2ps&lt;/tt&gt; aus der Kommandozeile
+heraus zu starten immer schneller ist als mühsam einen Editor zu laden,
+sich durch die notwendigen Druckeinstellungen zu quälen um schließlich drucken
+zu können. Ein großer Nachteil von &lt;tt&gt;a2ps&lt;/tt&gt; ist jedoch, dass es 
+(noch?) keine UTF8-Kodierung unterstützt (mehr dazu siehe weiter unten).
+&lt;br /&gt;
+Das &lt;tt&gt;a2ps&lt;/tt&gt;-Kommando erlaubt eine Unmenge von Optionen. Einige
+wichtige zeigt das folgende Beispiel, welches ich als
+Alias in meiner &lt;tt&gt;.alias&lt;/tt&gt;-Datei definiert habe:&lt;/p&gt;
+&lt;pre&gt;
+alias druck=&#34;a2ps --line-numbers=1 -l 100 -T 3 -s 2 -M A4 --delegate=0 -P display&#34;
+&lt;/pre&gt;
+&lt;p&gt;Die Layoutoptionen dabei sind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;em&gt;Zeilennummern einschalten:&lt;/em&gt; &lt;tt&gt;--line-numbers=1&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Zeilenlänge von 100 Buchstaben:&lt;/em&gt; &lt;tt&gt;-l 100&lt;/tt&gt; oder &lt;tt&gt;--chars-per-line=100&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Tabulatorabstand von 3 Zeichen:&lt;/em&gt; &lt;tt&gt;-T 3&lt;/tt&gt; oder &lt;tt&gt;--tabsize=3&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Zweiseitiger Ausdruck (wenn der Drucker es erlaubt):&lt;/em&gt; &lt;tt&gt;-s 2&lt;/tt&gt; oder &lt;tt&gt;--sides=duplex&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Papierformat DIN A4:&lt;/em&gt; &lt;tt&gt;-M A4&lt;/tt&gt; oder &lt;tt&gt;--medium=A4&lt;/tt&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die Option &lt;tt&gt;--delegate=0&lt;/tt&gt; verhindert, dass &lt;tt&gt;a2ps&lt;/tt&gt; automatisch 
+mithilfe externer Programme die übergebenen Dateien in PS-Dateien umzuwandeln
+versucht (z.B. möchte es in der Standardeinstellung HTML-Dateien mithilfe von
+Netscape in PS-Dateien umzuwandeln). Dies ist meistens nicht gewollt; wenn man 
+&lt;tt&gt;a2ps&lt;/tt&gt; schon verwendet, dann will man eigentlich immer den Quelltext drucken 
+und nicht das gerenderte Ergebnis. &lt;br /&gt;
+Die Option &lt;tt&gt;-P display&lt;/tt&gt; schließlich sorgt dafür, dass &lt;tt&gt;a2ps&lt;/tt&gt; das Ergebnis
+nicht gleich an den Standarddrucker schickt, sondern zunächst als Vorschau in
+&lt;tt&gt;gv&lt;/tt&gt; öffnet. Gefällt das Ergebnis kann man es von da aus bequem ausdrucken.
+&lt;br /&gt;
+&lt;em&gt;Druckvorschau mit &lt;tt&gt;kghostview&lt;/tt&gt; statt &lt;tt&gt;gv&lt;/tt&gt;:&lt;/em&gt;&lt;br /&gt;
+In Suse 9.3 wird &lt;tt&gt;gv&lt;/tt&gt; nicht mehr standardmäßig installiert und die
+Druckvorschau funktioniert mit &lt;tt&gt;a2ps&lt;/tt&gt; dementsprechend zunächst nicht.
+Will oder kann man das alte &lt;tt&gt;gv&lt;/tt&gt; deswegen nicht installieren, so kann man
+zur Druckvorschau auch &lt;tt&gt;kghostview&lt;/tt&gt; verwenden, wenn man &lt;tt&gt;a2ps&lt;/tt&gt;
+entsprechend konfiguriert. Dazu sind folgende Schritte nötig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt; Falls nicht vorhanden im Homeverzeichnis ein Verzeichnis &lt;tt&gt;.a2ps&lt;/tt&gt;
+anlegen und in diesem eine Datei namens &lt;tt&gt;a2psrc&lt;/tt&gt; erzeugen:
+&lt;pre&gt;
+&gt; mkdir .a2ps
+&gt; cd a2ps
+&gt; pico a2psrc
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;In diese Datei folgende Zeile eintragen:
+&lt;pre&gt;
+Variable: ghostview kghostview
+&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Das wars. Beim nächsten Start von &lt;tt&gt;a2ps&lt;/tt&gt; wird als Vorschau immer 
+&lt;tt&gt;kghostview&lt;/tt&gt; statt &lt;tt&gt;gv&lt;/tt&gt; verwendet. Will man noch andere 
+Einstellungen ändern, so empfiehlt es sich als Vorlage die systemweite
+Konfigurationsdatei von &lt;tt&gt;a2ps&lt;/tt&gt; anzuschauen, welche unter Suse Linux 9.3
+unter &lt;tt&gt;/etc/a2ps.cfg&lt;/tt&gt; zu finden ist. 
+&lt;br /&gt;
+&lt;em&gt;Weitere Optionen:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Ein bestimmtes Syntaxhighlighting erzwingen:&lt;/em&gt;
+Manchmal erkennt &lt;tt&gt;a2ps&lt;/tt&gt; die verwendete Sytax nicht richtig.
+Dies kann man überprüfen durch:
+&lt;pre&gt;
+&gt; a2ps --guess dateiname
+&lt;/pre&gt;
+Wird dabei eine offensichtlich falsche Syntax erkannt, kann 
+man dies mit der &lt;tt&gt;-E&lt;/tt&gt;-Option erzwingen. Verwendet man mein obiges Alias,
+dann kann man z.B. die Verwendung von Fortran-Syntaxhighlighting für die Datei
+&#34;dateiname&#34; erzwingen durch:
+&lt;pre&gt;
+&gt; druck -Efortran dateiname
+&lt;/pre&gt;
+Weitere Möglichkeiten sind z.B. &lt;tt&gt;-Ec&lt;/tt&gt; (C), &lt;tt&gt;-Ecpp&lt;/tt&gt; (C++), &lt;tt&gt;-Etex&lt;/tt&gt; (Latex).
+Sämtliche möglichen Programmiersprachen bzw. Syntax-Stylesheets findet man z.B. 
+&lt;a href=&#34;http://www.infres.enst.fr/~demaille/a2ps/doc-4.12/a2ps_7.html#SEC69&#34;&gt;hier&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Farbe erzwingen:&lt;/em&gt;&lt;br /&gt;
+Will man ein farbiges statt graues Syntaxhighlighting so kann man dies erreichen durch
+&lt;pre&gt;
+&gt; druck --prologue=color dateiname
+&lt;/pre&gt;
+Damit wird eine farbige PS-Datei generiert und als Vorschau angezeigt.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Aktuelles Verzeichnis im Kopf der Ausdrucks:&lt;/em&gt;&lt;br /&gt;
+In den Standardeinstellungen erscheint der Pfad der ausgedruckten Datei leider
+nicht. Aber durch folgende Option kann man das gerade aktive Verzeichnis und damit
+auch meist den richtigen Pfad zur Datei im Header des Ausdrucks angeben:
+&lt;pre&gt;
+&gt; druck --header=$PWD
+&lt;/pre&gt;
+Jedoch erlebt man eine Enttäuschung, wenn man diese Option zusätzlich zu den anderen in einem
+Alias definiert. Die &lt;tt&gt;.alias&lt;/tt&gt;-datei wird immer beim Start eines neuen
+Terminals ausgeführt und somit wird man immer das beim Start des Terminals aktive
+Verzeichnis (also meist das eigene Homeverzeichnis) im Kopf der ausgedruckten Datei
+finden. Um das gewünschte Ergebnis zu erzielen, muß man stattdessen eine Funktion
+(s. auch &lt;a href=&#34;shell.html&#34;&gt;Tipps zur Shell&lt;/a&gt;) in der &lt;tt&gt;.bashrc&lt;/tt&gt;-Datei 
+wie folgt definieren:
+&lt;pre&gt;
+druckiso() { druck --header=$PWD $1; }
+&lt;/pre&gt;
+Mithilfe von 
+&lt;pre&gt;
+&gt; druckiso dateiname
+&lt;/pre&gt;
+ist es dann einfach alle Dateien (zumindest die mit ISO-Encoding) 
+schön formatiert auszudrucken.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;UTF8-kodierte Dateien ausdrucken:&lt;/em&gt;&lt;br /&gt;
+UTF8 wird von &lt;tt&gt;a2ps&lt;/tt&gt; leider noch immer nicht unterstützt. Das Einzige was möglich
+ist, ist eine UTF8-Datei automatisch in ein Encoding umzuwandeln welches &lt;tt&gt;a2ps&lt;/tt&gt;
+kennt. Dazu bietet sich z.B. das Tool &lt;tt&gt;iconv&lt;/tt&gt; an (andere Möglichkeiten wären
+mit dem &lt;tt&gt;recode&lt;/tt&gt;-Befehl oder dem &lt;tt&gt;u2ps&lt;/tt&gt;-Skript). Ich habe mir dazu folgende
+Funktion in der &lt;tt&gt;.bashrc&lt;/tt&gt; definiert:
+&lt;pre&gt;
+druckutf() { iconv -f utf8 -t latin1 $1 | druck --header=$PWD --center-title=$1; }
+&lt;/pre&gt;
+Damit werden alle UTF8-Dateien von &lt;tt&gt;iconv&lt;/tt&gt; zunächst in das Latin1-Encoding
+konvertiert und die Ausgabe an &lt;tt&gt;a2ps&lt;/tt&gt; (bzw. meinen Alias &lt;tt&gt;druck&lt;/tt&gt;)
+weitergegeben. Die Option &lt;tt&gt;--center-title=$1&lt;/tt&gt; ist nötig, da &lt;tt&gt;a2ps&lt;/tt&gt;
+ansonsten in den Kopf des Ausdrucks nicht den Dateinamen übernimmt.Stattdessen
+steht dort &lt;tt&gt;stdin&lt;/tt&gt;, da die Ausgabe von &lt;tt&gt;iconv&lt;/tt&gt; 
+direkt per Pipe &lt;tt&gt;|&lt;/tt&gt; an und damit über &lt;tt&gt;stdin&lt;/tt&gt; an &lt;tt&gt;a2ps&lt;/tt&gt; geht.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Passwortgeschütztes PDF über die Kommandozeile drucken&lt;/h6&gt;
+&lt;p&gt;Der offensichtliche Weg über &lt;tt&gt;acroread -toPostScript | lpr&lt;/tt&gt; funktioniert nicht,
+da es beim Aufruf des Acrobat Readers über die Kommandozeile keine Möglichkeit gibt ein Passwort
+zu übergeben. Daher muss man unter Suse Linux erst mit Yast das Paket &lt;tt&gt;xpdf&lt;/tt&gt; installieren.
+Dieses enthält das Tool &lt;tt&gt;pdftops&lt;/tt&gt; mit dem man dann das PDF ausdrucken kann&lt;/p&gt;
+&lt;pre&gt;
+&gt; pdftops -upw [Passwort] Dateiname.pdf - | lpr
+&lt;/pre&gt;
+&lt;p&gt;Dabei steht &lt;tt&gt;-upw&lt;/tt&gt; für &#34;user password&#34; und &lt;tt&gt;[Passwort]&lt;/tt&gt; sollte durch das entsprechende Passwort ersetzt werden.
+Die Angabe von &lt;tt&gt;-&lt;/tt&gt; als Ausgabedateinamen bewirkt die Ausgabe in die Standardausgabe &lt;tt&gt;stdout&lt;/tt&gt;, welche
+dann mit dem Pipe-Kommando &lt;tt&gt;|&lt;/tt&gt; in die Standardeingabe des nächsten Befehls (hier &lt;tt&gt;lpr&lt;/tt&gt;) weitergeleitet
+wird (siehe dazu auch Kapitel 9.3 von 
+&lt;a href=&#34;http://www.csse.monash.edu.au/software/mil/userguide.html#tth_sEc9.3&#34;&gt;Monash Image Library for Linux&lt;/a&gt;).
+Statt &lt;tt&gt;pdftops&lt;/tt&gt; kann man auch &lt;tt&gt;pdf2ps&lt;/tt&gt; versuchen, aber letzteres erzeugt viel größere und qualitativ 
+schlechtere PS-Dateien.&lt;/p&gt;
+&lt;h6&gt;Man-Pages ausdrucken&lt;/h6&gt;
+Angenommen wir wollen die man-page von &lt;tt&gt;rsync&lt;/tt&gt; ausdrucken, Dann gibt es drei Möglichkeiten:
+&lt;ol&gt;
+&lt;li&gt;Umwandlung der man-page in ein PDF:
+&lt;pre&gt;
+&gt; man -t rsync | ps2pdf - &gt; rsync.pdf
+&lt;/pre&gt;
+Danach kann die Datei über jeden PDF-Anzeiger ausgedruckt werden.
+&lt;/li&gt;
+&lt;li&gt;Umwandlung der man-page in HTML: Dazu unter KDE den Konqueror starten und in die Adresszeile
+&lt;tt&gt;man:rsync&lt;/tt&gt; eingeben. Dann kann man wie üblich die HTML-Seite mit dem Konqueror ausdrucken.
+&lt;/li&gt;
+&lt;li&gt; Umwandlung der man-page in eine reine Textdatei:
+&lt;pre&gt;
+&gt; man rsync | col -b &gt; rsync.txt
+&lt;/pre&gt;
+Danach kann die Datei über jeden Texteditor ausgedruckt werden.
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Editoren</title>
+      <link>/post/editoren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/editoren/</guid>
+      <description>&lt;h6&gt;Welchen Editor verwenden ?&lt;/h6&gt;
+&lt;p&gt; Statt sich unter Linux mit &lt;tt&gt;emacs&lt;/tt&gt; oder &lt;tt&gt;vi&lt;/tt&gt; rumzuquaelen sollte man lieber mal folgende
+ausprobieren:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kate.kde.org/&#34;&gt;Kate&lt;/a&gt; : Kann alles, braucht aber KDE. Trotzdem mein Favorit!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiana.edu/~ucspubs/b103/&#34;&gt;Pico&lt;/a&gt; : Superschnell, winzig und läuft im Terminalfenster.
+Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen.
+(Alternativen sind &lt;a href=&#34;http://de.wikipedia.org/wiki/Nano_(Texteditor)&#34;&gt;nano&lt;/a&gt; bzw. 
+&lt;a href=&#34;http://linux.die.net/man/1/jpico&#34;&gt;jpico&lt;/a&gt; ein Alias fuer den 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Joe%27s_Own_Editor&#34;&gt;Joe-Editor&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nedit.org/&#34;&gt;Nedit&lt;/a&gt; : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fte.sourceforge.net/&#34;&gt;FTE&lt;/a&gt; : Beherrscht falten (folding),
+was Nedit leider noch nicht kann. Hat allerdings eine altertümliche Oberfläche.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Um Latex zu editieren empfehle ich &lt;a href=&#34;http://kile.sourceforge.net/&#34;&gt;Kile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;P.S.:Die Ergebnisse einer Umfrage zur Beliebtheit von Editoren unter Linux gibts
+&lt;a href=&#34;http://www.linuxquestions.org/questions/showthread.php?s=&amp;amp;threadid=272122&#34;&gt;hier.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.P.S.: Unter Windows ist &lt;a href=&#34;http://www.textpad.com/&#34;&gt;Textpad&lt;/a&gt; mein Favorit!&lt;/p&gt;
+&lt;h6&gt;Tipps zum Nedit&lt;/h6&gt;
+&lt;p&gt;Man kann Nedit beibringen eigene Shell-Kommandos per Menü zu starten.
+Dazu muß man den Dialog unter&lt;/p&gt;
+&lt;pre&gt;Preferences/Default Settings/Customize Menus/Shell Menu&lt;/pre&gt;
+&lt;p&gt;aufrufen. Um z.B. Latex direkt über Nedit zu steuern könnte man
+Befehle für den Aufruf von &lt;tt&gt;latex, bibtex, dvips, kdvi, kghostview &lt;/tt&gt;
+folgendermaßen generieren:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;latex :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;latex %&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;li&gt;Save file before executing command&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;bibtex :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; bibtex $n:r.aux &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;li&gt;Save file before executing command&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dvips :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; dvips -o $n:r.ps $n:r.dvi &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;kdvi :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; kdvi $n:r.dvi &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : new window&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;kghostview :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; kghostview $n:r.ps &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : new window&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;latex complete :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;latex %; set n=%; bibtex $n:r.aux; latex %; latex %;&lt;/tt&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	Hierbei ist zu beachten, dass diesmal beim Aufruf des &lt;tt&gt;bibtex&lt;/tt&gt;-Befehls kein
+	&lt;tt&gt;&amp;amp;&lt;/tt&gt;-Zeichen verwendet werden kann.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;Tipps zu Emacs&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt; ist eine eierlegende Wollmilchsau. Leider ist die Bedienung bescheiden. 
+Für fast alle Aktionen 
+(selbst für das Beenden!!) ist es nötig zwei Tastaturkürzel hintereinander einzugeben. Trotzdem muß man
+ihn manchmal benutzen, weil man gerade nix anderes hat:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emacs ohne X-Window starten: &lt;tt&gt;&gt; emacs -nw&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Emacs beenden: &lt;tt&gt;Ctrl-x Ctrl-c&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei öffnen: &lt;tt&gt;Ctrl-x Ctrl-f&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei/Buffer schließen : &lt;tt&gt;Ctrl-x k&lt;/tt&gt; &lt;/li&gt;
+&lt;li&gt;Datei speichern unter: &lt;tt&gt;Ctrl-x Ctrl-w&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei speichern: &lt;tt&gt;Ctrl-x Ctrl-s&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Suchen: &lt;tt&gt;Ctrl-s&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Befehl abbrechen: &lt;tt&gt;Ctrl-g&lt;/tt&gt; (z.B. kann man, wenn man &lt;tt&gt;Ctrl-x Ctrl-f&lt;/tt&gt; zum Datei öffnen eingegeben hat 
+den Dialog mit &lt;tt&gt;Ctrl-g&lt;/tt&gt; abbrechen)&lt;/li&gt;
+&lt;li&gt;Hilfe: &lt;tt&gt;ESC-x help&lt;/tt&gt; (ja, man muß tatsächlich &lt;tt&gt;help&lt;/tt&gt; eingeben, kann es aber mit &lt;tt&gt;he TAB&lt;/tt&gt;
+abkürzen. Einen kürzeren Weg zur Hilfe kann man sich nun wirklich nicht vorstellen!)&lt;/li&gt;
+&lt;li&gt;Split-Screen der Hilfe schließen: &lt;tt&gt;q&lt;/tt&gt; (Tatsächlich nur ein Tastendruck. Wahnsinn!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Mehr Tastenkürzel gibt es bei &lt;a href=&#34;http://www.engr.uvic.ca/~dastone/emacs-keys.html&#34;&gt;Emacs keyboard shortcuts&lt;/a&gt;.
+Und wer immer noch nicht glaubt, dass Emacs wirklich umständlich und veraltet ist, der lese im folgenden
+die Kritik eines Emacs-Expertens:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://xahlee.org/emacs/emacs_kb_shortcuts_pain.html&#34;&gt;Why Emacs&#39;s Keyboard Shortcuts Are Painful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xahlee.org/emacs/modernization.html&#34;&gt;The Modernization of Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Eclipse&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Eclipse_(IDE)&#34;&gt;Eclipse&lt;/a&gt; als Editor zu bezeichen ist etwas untertrieben. Passender wäre vielleicht
+die Bezeichnung &#34;Emacs des 21. Jahrhunderts&#34;, denn Eclipse ist wie Emacs eine eierlegende Wollmilchsau, mit der man von ADA bis 
+XML alles programmieren kann. Im Grundzustand ist Eclipse zwar nach wie vor erstmal eine Java-Entwicklungsumgebung
+(und in diesem Bereich sicherlich der(!) Standard), aber inzwischen gibt es mehr als 1200 Plugins für Eclipse auf 
+&lt;a href=&#34;http://www.eclipseplugincentral.com/&#34;&gt;www.eclipseplugincentral.com&lt;/a&gt;, ein paar nützlichere davon sind hier aufgelistet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/cdt/&#34;&gt;CDT (C/C++ Development Tools) Project&lt;/a&gt; : eine C/C++ Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Debugger, Makefile Generator u.a. )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/photran/&#34;&gt;Photran&lt;/a&gt; : eine FORTRAN Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Interface to GDB... )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pydev.sourceforge.net/&#34;&gt;Pydev&lt;/a&gt; : eine Python Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Debugger, Interaktiver Pythonkonsole... )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://subclipse.tigris.org/&#34;&gt;Subclipse&lt;/a&gt; : Ein grafischer Subversion Client; erlaubt die Verwaltung von Eclipse Projekten
+mit Subversion und bietet direkten Zugriff auf SVN Repositories aus Eclipse heraus. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://directory.apache.org/studio/&#34;&gt;Apache Directory Studio&lt;/a&gt; : Ein grafischer LDAP Browser; erlaubt die Verwaltung 
+(Suchen, Editieren usw.) von Einträgen auf einem LDAP Server aus Eclipse heraus.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/dsdp/tm/&#34;&gt;Remote System Explorer (Target Management)&lt;/a&gt; : Erlaubt das Editieren von Dateien über 
+SSH/SFTP-Verbindungen. Laut &lt;a href=&#34;http://www.freshblurbs.com/best-sftp-plugin-eclipse&#34;&gt;freshblurbs&lt;/a&gt; kann man damit auch lokal Dateien
+editieren ohne(!) das man damit ein Projekt anlegen muss.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aptana.org/&#34;&gt;Aptana&lt;/a&gt; : Eine professionelle Webentwicklungsumgebung für HTML, CSS, Javascript. Arbeitet auch
+mit Firebug zusammen (siehe &lt;a href=&#34;http://www.syger.it/Topics/FirebugAndAptanaStudio.html&#34;&gt;FirebugAndAptanaStudio&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die Bedienung von Eclipse ist, wie es sich für ein Profi-Tool gehört, unübersichtlich und nicht 
+immer intuitiv (aber immer noch um Welten besser und moderner als die von Emacs oder vi). Daher wäre meine Beschreibung 
+von Eclipse nicht komplett ohne ein paar hilfreiche Tastaturkürzel und Einstellungen (sie beziehen sich auf die 
+Java-Entwicklungsumgebung) zu nennen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-1&lt;/tt&gt; : Quick Fix, gibt Vorschläge wie der Quellcode geschrieben oder korrigiert werden kann um fehlerfrei zu sein. Sehr cool!!&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Space&lt;/tt&gt; : Code Completion, z.B. Eingabe von &lt;tt&gt;syso ctrl-Space&lt;/tt&gt; gibt &lt;tt&gt;System.out.println()&lt;/tt&gt;.
+Man probiere auch &lt;tt&gt;for ctrl-space&lt;/tt&gt;, &lt;tt&gt;while ctrl-space&lt;/tt&gt; oder &lt;tt&gt;if ctrl-space&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;F3&lt;/tt&gt; : Springt zur Deklaration einer Klasse/Funktion/Variable.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-f&lt;/tt&gt; : Pretty Formating von selektiertem Quellcode&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-j&lt;/tt&gt; : Inkrementelle Suche wie in Firefox. Drückt man die Tastenkombination passiert zuerst nichts, aber sobald man die erste
+Taste drückt, springt der Cursor zum ersten Treffer. Vorwärts durch die Treffer springt man durch weiteres Drücken von &lt;tt&gt;Ctrl-j&lt;/tt&gt;,
+rückwärts durch &lt;tt&gt;Ctrl-Shift-j&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-f&lt;/tt&gt; : Suche, die Treffer werden dabei auch in der rechten Spalte neben deb Quellcodefenster farblich markiert. 
+Zum nächsten Treffer springt man bei geöffnetem Suchfenster mit &lt;tt&gt;Alt-n&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-o&lt;/tt&gt; : Ergänzt nötige bzw. löscht überflüssige Import-Statements.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-l&lt;/tt&gt; : Zeigt alle Tastaturkürzel an (Über das Menü zu finden unter &lt;tt&gt;Windows-&gt;Preferences-&gt;General-&gt;Keys&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;Kontextmenü &lt;tt&gt;Source-&gt;Generate Getters/Setters&lt;/tt&gt; oder &lt;tt&gt;Source-&gt;Generate Hashcode and equals()...&lt;/tt&gt; sind sehr nützlich
+um die entsprechenden Funktionen zu einer Klasse automatisch zu erzeugen.&lt;/li&gt;
+&lt;li&gt;Kontextmenü &lt;tt&gt;Refactor-&gt;Rename&lt;/tt&gt; erlaubt es eine Variable/Klasse umzubenennen und dabei jeden Aufruf derselben im gesamten
+Projekt (also über Dateigrenzen hinweg) gleichzeitig anzupassen. Sehr cool!!&lt;/li&gt;
+&lt;li&gt;Menüpunkt &lt;tt&gt;Windows-&gt;Show View-&gt;Javadoc&lt;/tt&gt; öffnet ein Fenster in dem Javadoc Beschreibungen zu jedem Element erscheinen,
+welches im Quellcode markiert und doppelt angeklickt wird (Alternative: Ein Element markieren und dann &lt;tt&gt;Shift-Alt-q j&lt;/tt&gt;
+drücken).&lt;/li&gt;
+&lt;li&gt;Um zu verhindern, dass die sog. &#34;Hovers&#34; (Erscheinen z.B. beim Überfahren eingeklappter Quellcodeteile mit der Maus)
+zu lange gezeigt werden (ein sehr nerviges Feature von Eclipse, leider nicht abschaltbar), sollte man im Menü 
+&lt;tt&gt;Windows-&gt;Preferences&lt;/tt&gt; unter &lt;tt&gt;General-&gt;Editors-&gt;TextEditors: When mouse moved into hover: Close hover&lt;/tt&gt; auswählen.
+Dann werden die &#34;Hovers&#34; praktisch immers sofort wieder geschlossen und stören nicht. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mehr nützliche Tastaturkürzel gibt es u.a. bei 
+&lt;a href=&#34;http://eclipse.dzone.com/news/effective-eclipse-shortcut-key&#34;&gt;Effective Eclipse: Shortcut keys&lt;/a&gt;. Interessant ist auch das
+&lt;a href=&#34;http://www.mousefeed.com/&#34;&gt;Mousefeed Plugin&lt;/a&gt;, dass innerhalb von Eclipse zu jeder Aktion mit der Maus ein 
+äquivalentes Tastaturkürzel anzeigt, so dass man die Tastaturkürzel schneller lernen kann.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KDE</title>
+      <link>/post/kde/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/kde/</guid>
+      <description>&lt;h6&gt;Killerfeature: FISH&lt;/h6&gt;
+&lt;p&gt;Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen
+über das &lt;a href=&#34;http://de.wikipedia.org/wiki/FISH_(Protokoll)&#34;&gt;FISH-Protokoll&lt;/a&gt;.
+Einfach unter Netzwerkbrowser &#34;Netzwerkordner hinzufügen&#34; auswählen und im folgenden Dialog
+ssh auswählen 
+&lt;br /&gt;
+&lt;img src=&#34;fish1.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH1&#34; /&gt; 
+&lt;br /&gt;
+und im folgenden Dialogfenster
+&lt;br /&gt;
+&lt;img src=&#34;fish2.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH2&#34; /&gt;
+&lt;br /&gt;
+die Daten des SSH-Servers eingeben. Aufpassen muß man nur, dass FISH anscheinend keine relativen
+Verzeichnisse wie &lt;tt&gt;~&lt;/tt&gt; mag. Also für das Homeverzeichnis auf dem SSH-Server immer 
+&lt;tt&gt;/home/[benutzername]&lt;/tt&gt; oder entsprechendes eingeben. 
+Dann kann man das angegebene Verzeichnis wie ein lokales Verzeichnis benutzen,
+&lt;br /&gt;
+&lt;img src=&#34;fish4.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH4&#34; /&gt;
+&lt;br /&gt;
+z.B. kann man Dateien auf dem fremden Server auswählen, aber lokal über KDE drucken, ohne dass man erst per 
+&lt;tt&gt;scp&lt;/tt&gt; die Datei auf den eigenen Rechner kopieren muß. Oder man editiert die Datei mit dem 
+bevorzugten Editor (z.B. Kate) lokal und ein Klick auf speichern speichert die Datei wieder auf dem entfernten Netzwerkverzeichnis, obwohl der Editor nativ gar kein SSH unterstützt (Reibungslos funktioniert das leider nur mit Programmen die den KDE-Dateiauswahldialog benutzen. GIMP z.B. benötigt eine lokale Kopie der Datei :-( ). Echt cool! Aber das coolste ist, dass das bei jedem Server funktioniert der SSH unterstützt, es werden keine weiteren Netzwerkprotokolle ala FTP, NFS oder SMB benötigt, welche aus Sicherheitsgründen meist geblockt sind. Daher ist die FISH-Integration in KDE eine echte
+Arbeitserleichterung für alle die häufig auf Servern unterwegs sind, die aus Sicherheitsgründen nur 
+SSH zulassen.
+&lt;br /&gt;
+P.S.: Das Feature ist so cool, dass Google vergleichbares in MAC OS X integriert hat (siehe
+&lt;a href=&#34;http://google-code-updates.blogspot.com/2007/01/macfuse-fuse-for-mac-os-x.html&#34;&gt;google-code-updates.blogspot.com&lt;/a&gt;).
+Die neueste Version von diesem sog. MacFUSE gibts &lt;a href=&#34;http://code.google.com/p/macfuse/&#34;&gt;hier&lt;/a&gt;. Eine grafische Benutzeroberfläche dazu gibts unter &lt;a href=&#34;http://www.macfusionapp.org/&#34;&gt;www.macfusionapp.org&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Autostart unter KDE&lt;/h6&gt;
+&lt;p&gt;Programme die beim Start von KDE automatisch ausgeführt werden sollen, müssen unter
+&lt;pre&gt;~/.kde/Autostart&lt;/pre&gt;
+liegen. Am einfachsten erzeugt man über das Kontextmenü unter &lt;tt&gt;Neu erstellen/Verknüpfung zu Programm&lt;/tt&gt;
+einen Link zu dem aufzurufenden Programm indem man in sich öffnenden Dialogfenter im Tab &lt;tt&gt;Programm&lt;/tt&gt;
+den Pfad zum entsprechenden Programm unter &lt;tt&gt;Befehl&lt;/tt&gt; eingibt. 
+&lt;br /&gt;
+Will man mehr Kontrolle über die 
+aufzurufenden Programme hilft &lt;tt&gt;kstart&lt;/tt&gt; (Hilfe zu dem Befehl gibt es mit &lt;tt&gt;kstart --help&lt;/tt&gt;). 
+Um z.B. ein Programm nur auf nur auf der fünften Arbeitsfläche zu öffnen, kann man statt dem einfachen Pfad 
+zum Programm den Befehl
+&lt;pre&gt;kstart --desktop 5 programmname&lt;/pre&gt;
+unter &lt;tt&gt;Befehl&lt;/tt&gt; eingeben. Daran sieht man auch, dass die Verküpfungen unter KDE die man über das Kontextmenü
+erzeugen kann mehr sind als nur symbolische Links, wie man sie von der Kommandozeile kennt. Stattdessen steht
+jede Verknüpfung für eine &lt;tt&gt;*.desktop&lt;/tt&gt;-Text-Datei, die von KDE je nach Inhalt unterschiedlich interpretiert 
+werden kann.
+&lt;br /&gt;
+Will man auch die Reihenfolge der gestarteten Programme kontrollieren muß man ein kleines Shellskript schreiben und
+als ausführbare Datei unter &lt;/tt&gt;~/.kde/Autostart&lt;/tt&gt; ablegen, z.B.:
+&lt;pre&gt;
+#!/bin/bash
+kstart --desktop 5 thunderbird
+sleep 3
+kstart --desktop 6 --activate programm
+&lt;/pre&gt;
+Diese Skript startet &lt;tt&gt;Thunderbird&lt;/tt&gt; auf Arbeitsfläche 5, und danach das Programm &lt;tt&gt;programm&lt;/tt&gt; auf 
+Arbeitsfläche 6 und springt auch von Thunderbird zu dem Programm auf Arbeitsfläche 6. Der Aufruf von &lt;tt&gt;sleep 3&lt;/tt&gt;
+garantiert dabei, dass das zweite Programm mit 3 Sekunden Verzögerung gestartet wird. Ohne &lt;tt&gt;sleep&lt;/tt&gt; erlaubt 
+Thunderbird seltsamerweise nicht, dass der Focus zum zweiten Programm auf Arbeitsfläche 6 springt.
+&lt;/p&gt;
+&lt;h6&gt;Weitere Tipps&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Verschieben von Fenstern:&lt;/em&gt;&lt;br /&gt;
+Manchmal passiert es, dass man ausversehen ein Fenster soweit
+nach oben verschoben hat, dass die Titelleiste nicht mehr
+sichtbar ist. Einfaches Anklicken und Ziehen des Fensters
+an der Titelleiste ist dann nicht mehr möglich. Hält man jedoch
+die Taste &lt;tt&gt;[[Alt]]&lt;/tt&gt; (nicht &lt;tt&gt;[[Alt Gr]]&lt;/tt&gt; ) gedrückt,
+so kann man das Fenster mit der linken Maustaste an einer beliebigen
+Stelle greifen und so das Fenster wieder nach unten verschieben.&lt;br /&gt;
+Tipp: Weitere Befehle findet man im KDE Control Module unter
+&#34;Window Behaviour/Actions&#34;. Diese Einstellungen erreicht man auch
+durch Klick auf die linke obere Ecke eines Fensters, wenn man im
+sich darauf öffnenden Menü &#34;Configure Window Behaviour...&#34; aufruft.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fenster in den Hintergrund klicken&lt;/em&gt;&lt;br /&gt;
+Jedem dürfte bekannt sein, dass man durch Klicken 
+mit der linken Maustaste auf die Fensterleiste
+ein Fenster aktivieren und in den Vordergrund holen kann. 
+Wie holt man jedoch Fenster in den Vordergrund die durch ein
+anderes Fenster komplett verdeckt sind? Ganz einfach unter KDE:&lt;br /&gt;
+Durch Anklicken der Fensterleiste des gerade aktiven Fensters mit der
+mittleren Maustaste wird das gerade aktive Fenster in den Hintergrund 
+geschickt und eventuell verdeckte Fenster kommen zum Vorschein.
+Wer das einmal ausprobiert hat, wird diese Funktion nicht mehr missen
+wollen.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Taskmanager unter KDE aufrufen:&lt;/em&gt;&lt;br /&gt;
+Das Programm &lt;tt&gt;kpm&lt;/tt&gt;, welches dem Taskmanager unter Windows gleicht,
+kan man unter KDE mit der Tastenkombination
+&lt;pre&gt;[[Ctrl]]-[[Esc]]&lt;/pre&gt;
+aufrufen. Durch Anklicken des Knopfes &#34;Kill&#34; (in dt. &#34;Beenden&#34;)
+kann man dann die markierten Prozesse beenden. Alternativ kann man
+&lt;tt&gt;kpm&lt;/tt&gt; auch über die Konsole mit
+&lt;pre&gt;&gt; kpm &amp;amp;&lt;/pre&gt;
+oder auch das komplette Systemüberwachungsprogramm (von dem &lt;tt&gt;kpm&lt;/tt&gt;
+nur ein Unterprogramm ist) mittels
+&lt;pre&gt;&gt; ksysguard &amp;amp;&lt;/pre&gt;
+aufrufen. Letzteres findet man auch über das Startmenü unter
+&#34;System/Überwachung/Systemüberwachung&#34;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;KDE-Taskleiste anzeigen:&lt;/em&gt;&lt;br /&gt;
+Manchmal passiert es unter KDE dass die Taskleiste sich nicht mehr einblendet, wenn
+man die Maus an den unteren Bildschirmrand bewegt. In diesem Fall kann man sie mit
+&lt;tt&gt;[[Alt]]-[[F1]]&lt;/tt&gt; wieder hervorholen. Wenn man so wie ich keine weiteren Icons auf 
+dem Bildschirm hat, kann &lt;tt&gt;[[Alt]]-[[F1]]&lt;/tt&gt; daher &#34;lebensrettend&#34; sein, denn oft bleibt die 
+Taskleiste auch nach dem Reboot verschwunden und das System ist praktisch unbedienbar.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weitere Tastenbefehle unter KDE:&lt;/em&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Esc]]&lt;/tt&gt; : Taskmanager&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Alt]]-[[Esc]]&lt;/tt&gt; : löscht Fenster in KDE (killt aber nicht
+den dazugehörigen Prozess)&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Alt]]-[[F2]]&lt;/tt&gt; : Analog zu &#34;Befehl ausführen&#34; unter Windows;
+öffnet ein einzeiliges Terminal in dem man den Befehl zum Starten eines
+Programmes eingeben kann&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Fx]]&lt;/tt&gt; : Umschalten auf den virtuellen Desktop Nummer &#34;x&#34;&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Alt]]-[[L]]&lt;/tt&gt; : Bildschirm sperren&lt;/li&gt;
+&lt;/ul&gt;
+Noch mehr Tastenbefehle findet man u.a. in der &lt;a href=&#34;http://linuxwiki.de/KDE&#34;&gt;Linuxwiki&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tastenbefehle für den X-Server:&lt;/em&gt;&lt;br /&gt;
+Die Auflösung des X-Servers zur Laufzeit (also ohne Neustart) kann mit den
+Tastenkombinationen
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Ziffernblock-Plus]]&lt;/pre&gt;
+bzw.
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Ziffernblock-Minus]]&lt;/pre&gt;
+geändert werden. Mit der Kombination
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Backspace]]&lt;/pre&gt;
+wird der X-Server &lt;em&gt;sofort&lt;/em&gt; beendet. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probleme mit dem Papierkorb (Trashcan):&lt;/em&gt;&lt;br /&gt;
+Es kann unter KDE passieren, dass der Papierkorb, obwohl er geleert wurde,
+noch Dateien enthält, welche jedoch auf dem Desktop nicht angezeigt werden
+(auch bei aktiviertem &#34;versteckte Dateien anzeigen&#34;).
+Diese Dateien muss man dann per Hand löschen. Man findet die Dateien im Papierkorb 
+im eigenen Homeverzeichnis unter
+&lt;pre&gt;.local/share/Trash/files&lt;/pre&gt;
+Mittel &lt;tt&gt;&gt; rm -rf *&lt;/tt&gt; kann man dann dort alle Dateien endgültig löschen und
+damit den Papierkorb wirklich leeren.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kompare:&lt;/em&gt;&lt;br /&gt;
+Diese Programm findet man unter Suse Linux im Paket &lt;tt&gt;kdesdk3&lt;/tt&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Konvertieren</title>
+      <link>/post/konvertieren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/konvertieren/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von PDF-Dateien in PS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Manche PDF-Dateien lassen sich nicht mit &lt;tt&gt;lpr&lt;/tt&gt; ausdrucken lassen.
+Am einfachsten ist es dann, diese Dateien mit
+&lt;pre&gt;&gt; acroread -toPostScript dateiname.pdf &lt;/pre&gt;
+in Postscriptdateien umzuwandeln. Mehr zu den Kommandozeilenparametern
+des Acrobat Reader unter Linux findet man mit
+&lt;pre&gt;&gt; acroread -help&lt;/pre&gt;
+oder
+&lt;pre&gt;&gt; acroread -helpall&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von (einseitigen) PS-Dateien in GIF-Dateien:&lt;/em&gt;&lt;br /&gt;
+Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten
+die ImageMagick-Tools. Sind diese installiert, so kann man eine einzelne
+PS-Datei z.B. mit folgendem Befehl in eine GIF-Datei umwandeln:
+&lt;pre&gt;&gt; convert -density 100x100 -rotate -90 -resize 768x576 datei.ps datei.gif&lt;/pre&gt;
+Die Optionen im einzelnen:
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;-density 100x100&lt;/tt&gt;: Die PS-Datei wird mit jeweils 100 dpi in x- und y-Richtung
+gerendert, bevor sie konvertiert wird.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-rotate -90&lt;/tt&gt;: Das Bild wird vor der Konvertierung um 90 Grad nach links rotiert.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-resize 768x576&lt;/tt&gt;: Das Bild wird von 100x100 dpi auf PAL-Auflösung von
+768x576 Pixel skaliert.&lt;/li&gt;
+&lt;/ul&gt;
+Will man mehrere PS-Dateien in GIF-Dateien umwandeln, so kann man dies mit
+&lt;pre&gt;&gt; mogrify -verbose -density 100x100 -rotate -90 -resize 768x576 -format gif *.ps&lt;/pre&gt;
+erledigen. Wichtig dabei ist die zusätzliche Option &lt;tt&gt;-format gif&lt;/tt&gt;. Ohne diese würde
+&lt;tt&gt;mogrify&lt;/tt&gt; die Orginal-PS-Dateien überschreiben. Mit der Option &lt;tt&gt;-verbose&lt;/tt&gt;
+schließlich gibt &lt;tt&gt;mogrify&lt;/tt&gt; genauer aus, wie die Konvertierung voranschreitet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von JPEG-Dateien in EPS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Am einfachsten gelingt das mit dem ImageMagick-Tool &lt;tt&gt;mogrify&lt;/tt&gt;:
+&lt;pre&gt;
+mogrify -format eps2 [name]*.jpeg
+&lt;/pre&gt;
+Dieser Befehl wandelt alle JPEG-Dateien in einem Verzeichnis,
+die mit dem Prefix &lt;tt&gt;[name]&lt;/tt&gt; beginnen, in EPS-Dateien um (genauer gesagt in
+EPS Version 2, welches intern nochmals komprimiert wird und daher wesentlich kompaktere
+Dateien erzeugt). &lt;br /&gt;
+Als Alternative wird oft &lt;a href=&#34;http://imgtops.sourceforge.net/&#34;&gt;&lt;tt&gt;imgtops&lt;/tt&gt;&lt;/a&gt;
+angegeben. Allerdings ist &lt;tt&gt;imgtops&lt;/tt&gt; 
+ein veraltetes Python-Skript aus dem Jahre 2003, welches auch nicht mehr gepflegt wird.
+Bei meinen Versuchen stellte sich heraus, dass  im Gegensatz zu 
+den ImageMagick-Tools keine validen EPS2-Dateien erzeugt. Fügt man die mit 
+&lt;tt&gt;imgtops&lt;/tt&gt; erzeugten Dateien über Latex in ein PDF ein, so werden auf einmal 
+Schriftarten falsch angezeigt. Auch sind die mit &lt;tt&gt;imgtops&lt;/tt&gt; erzeugten Dateien
+wesentlich größer als die durch &lt;tt&gt;convert&lt;/tt&gt; bzw. &lt;tt&gt;mogrify&lt;/tt&gt; generierten 
+EPS-Dateien. Darum Finger weg vom &lt;tt&gt;imgtops&lt;/tt&gt;, die ImageMagick-Tools machen es 
+besser und können zudem noch eine ganze Menge mehr.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von Farb- in Graustufen-EPS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Es gibt verwirrend viele Möglichkeiten mit den ImageMagick-Tools ein Farb- in ein 
+Graustufenbild umzuwandeln (siehe 
+&lt;a href=&#34;http://www.imagemagick.org/Usage/color/#grayscale&#34;&gt;Converting Color to Gray-Scale&lt;/a&gt;).
+Aber die einfachste Lösung ist die Benutzung der Option &lt;tt&gt;-type&lt;/tt&gt; wie bei 
+&lt;a href=&#34;http://fightpc.blogspot.com/2007/03/grayscale-with-imagemagick.html&#34;&gt;fightpc.blogspot.com&lt;/a&gt;
+beschrieben:
+&lt;pre&gt;
+&gt; convert color.eps -type grayscale -compress jpeg eps2:gray.eps
+&lt;/pre&gt;
+Zusätzlich ist hier durch Angabe von &lt;tt&gt;eps2:&lt;/tt&gt; noch sichergestellt, dass die generierte 
+EPS-Datei im EPS2-Format gespeichert wird, was es möglich macht über die Option &lt;tt&gt;-compress jpeg&lt;/tt&gt; 
+anzugeben, dass intern in der EPS-Datei das Bild JPEG-komprimiert gespeichert wird. Dies sollte man
+immer machen, denn die so erzeugten EPS-Dateien sind wesentlich platzsparender.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von (einseitigen) PS-Dateien in EPS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Auch dazu verwendet man am einfachsten das ImageMagick-Tool &lt;tt&gt;convert&lt;/tt&gt;:
+&lt;pre&gt;
+&gt; convert datei.ps datei.eps
+&lt;/pre&gt;
+So sollte es funktionieren, aber
+leider hat die mit SUSE 9.3 mitgelieferte Version der 
+Image-Magick-Tools eine Bug und man bekommt nur die folgende Fehlermeldung zu sehen:
+&lt;pre&gt;
+Unknown device: nodevice
+convert: Delegate failed `&#34;gs&#34; -q -dBATCH -dSAFER -dMaxBitmap=500000000 
+-dNOPAUSE -dAlignToPixels=0 -sDEVICE=&#34;nodevice&#34; -sOutputFile=&#34;%o&#34; -f&#34;%i&#34;&#39;.
+&lt;/pre&gt;
+Grund ist eine fehlerhafte Konfiguration von ImageMagick in Bezug auf Ghostview.
+PS,PDF und EPS-Dateien werden nämlich nicht von &lt;tt&gt;convert&lt;/tt&gt; selbst behandelt,
+stattdessen ruft es intern Ghostview auf und verwendet es zum Konvertieren der Dateien.
+Die Kommandozeile für den Ghostviewaufruf entnimmt &lt;tt&gt;convert&lt;/tt&gt; der Datei
+&lt;tt&gt;delegates.xml&lt;/tt&gt; (unter Suse 9.3 zu finden unter 
+&lt;tt&gt;/usr/lib/ImageMagick-6.1.8/config&lt;/tt&gt;). Seltsamerweise sind in dieser Datei
+sämliche Aufrufe für das Konvertieren von PS, PDF und EPS-Dateien ineinander
+fehlerhaft. Dort wo &lt;tt&gt;-sDEVICE=&#34;epswrite&#34;&lt;/tt&gt; bzw. &lt;tt&gt;-sDEVICE=&#34;pswrite&#34;&lt;/tt&gt; 
+oder &lt;tt&gt;-sDEVICE=&#34;pdfwrite&#34;&lt;/tt&gt; verwendet werden sollte, steht, wie aus obiger 
+Fehlermeldung bereits zu sehen, &lt;tt&gt;-sDEVICE=&#34;nodevice&#34;&lt;/tt&gt;. Ist man kein Administrator,
+kann man an dieser Situation auch nichts ändern, denn leider liest ImageMagick
+die Konfigurationsdateien in der falschen Reihenfolge
+(siehe &lt;a href=&#34;http://www.imagemagick.org/script/resources.php&#34;&gt;Resources-Seite&lt;/a&gt; der 
+Image-Magick-Tools), so dass man nicht durch eine eigene Datei &lt;tt&gt;delegates.xml&lt;/tt&gt; im lokalen
+Konfigurationsverzeichnis &lt;tt&gt;~/.magick&lt;/tt&gt; die fehlerhafte Datei im Verzeichnis
+&lt;tt&gt;/usr/lib/ImageMagick-6.1.8/config&lt;/tt&gt; verdecken kann. Hat man Administratorrechte, so
+sollte man sich an der neusten (und fehlerbereinigten) Version der Datei 
+&lt;a href=&#34;http://www.imagemagick.org/source/delegates.xml&#34;&gt;delegates.xml&lt;/a&gt; von oben bereits
+genannter Homepage orientieren und in der lokalen Datei sämtliche Einträge von 
+&lt;tt&gt;-sDEVICE=&#34;nodevice&#34;&lt;/tt&gt; durch die entsprechenden &lt;tt&gt;-sDEVICE=&#34;epswrite&#34;&lt;/tt&gt; bzw. 
+&lt;tt&gt;-sDEVICE=&#34;pswrite&#34;&lt;/tt&gt; oder &lt;tt&gt;-sDEVICE=&#34;pdfwrite&#34;&lt;/tt&gt; ersetzen. Nach dieser
+Prozedur funktioniert das Konvertieren von PS zu EPS-Dateien (und auch das von PDF in EPS-Dateien)
+wieder reibungslos. &lt;br /&gt;
+Unter Suse 9.1 gab es übrigens einen anderen Bug beim Konvertieren von PS nach EPS-Dateien.
+Zwar funktionierte hier der Aufruf von Ghostscript reibungslos, jedoch wurde die Bounding-Box-Werte
+im erzeugten EPS-File falsch gesetzt. Die richtigen Werte muß man unter Suse 9.1 durch eine
+Extraaufruf von Ghostscript herausbekommen und diese dann manuell an die entsprechende 
+Stelle in der EPS-Datei eintragen. Diese Prozedur ist 
+&lt;a href=&#34;http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=205102&#34;&gt;hier&lt;/a&gt; beschrieben.&lt;/li&gt;  
+&lt;/ul&gt;
+&lt;h5&gt;Erstellen von Filmen und Animationen&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Erstellen von GIF-Animationen mit &lt;tt&gt;gifsicle&lt;/tt&gt;:&lt;/em&gt;&lt;br /&gt;
+Das Einfügen von Videos in OpenOffice V1.x/Impress funktioniert unter
+Linux leider nicht. Als Workaround kann man jedoch GIF-Animationen verwenden,
+da diese als Bilder eingefügt werden können. Erstellen kann man diese
+mit dem &lt;tt&gt;gifsicle&lt;/tt&gt;-Befehl, z.B.:
+&lt;pre&gt;&gt; gifsicle --delay=4 --colors=256 --loopcount=forever *.gif &gt; anim.gif&lt;/pre&gt;
+Dieser Befehl erstellt aus allen GIF-Dateien in einem Verzeichnis eine
+GIF-Animation namens &lt;tt&gt;anim.gif&lt;/tt&gt;. Mithilfe der Option
+&lt;tt&gt;--delay=4&lt;/tt&gt; wird dabei die Anzeigedauer eines Bildes zu 4 Hunderstelsekunden
+(1/25 Sekunde) festgelegt, so dass die Animation mit einer
+Geschwindigkeit von 25 Bildern/s abgespielt wird. Die Option
+&lt;tt&gt;--loopcount=forever&lt;/tt&gt; gibt an, dass die Animation unendlich oft wiederholt
+werden soll und die Option &lt;tt&gt;--colors=256&lt;/tt&gt; sorgt für die Angleichung der
+Farbpaletten der Einzelbilder, so dass jedes Einzelbild dieselbe Farbpalette mit
+256 Farben hat.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Erstellen von Divx-Filmen aus PNG-Dateien mit &lt;tt&gt;mencoder&lt;/tt&gt;:&lt;/em&gt;&lt;br /&gt;
+Folgende Kommandozeile kann man zum Erstellen von Divx-Filmen mit dem &lt;tt&gt;mencoder&lt;/tt&gt;
+verwenden:
+&lt;pre&gt;
+&gt; mencoder mf://*.png -mf w=800:h=600:fps=5:type=png -ovc lavc -lavcopts vcodec=mpeg4 -oac copy -ffourcc DX50 -o film.avi
+&lt;/pre&gt;
+Dieser Befehl erstellt aus allen PNG-Dateien in einem Verzeichnis (&lt;tt&gt;mf://*.png&lt;/tt&gt;) einen 
+Film mit dem Namen &#34;film.avi&#34; (&lt;tt&gt;-o film.avi&lt;/tt&gt;) mit der Auflösung 800x600px und 
+einer Bildwiederholrate von 5 Bildern pro Sekunde (&lt;tt&gt;-mf w=800:h=600:fps=5:type=png&lt;/tt&gt;). 
+Zum Kodieren wird die &lt;tt&gt;libavcodec&lt;/tt&gt; des &lt;tt&gt;FFmpeg&lt;/tt&gt;-Systems verwendet (&lt;tt&gt;-ovc lavc&lt;/tt&gt;). 
+Von denen mit &lt;tt&gt;libavcodec&lt;/tt&gt; möglichen Videoformaten wird Divx ausgewählt 
+(&lt;tt&gt;-lavcopts vcodec=mpeg4&lt;/tt&gt;). Eventuell vorhandene Audiodaten (in PNG sind natürlich keine gespeichert!) 
+werden einfach kopiert ohne nochmal kodiert zu werden (&lt;tt&gt;-oac copy&lt;/tt&gt;). &lt;em&gt;Unbedingt&lt;/em&gt; 
+erforderlich ist auch die Option &lt;tt&gt;-ffourcc DX50&lt;/tt&gt;. Diese setzt die richtige Dateikennung 
+&lt;tt&gt;DX50&lt;/tt&gt; für den Divx-Film. Ohne diese kann der Divx-Film ansonsten nur vom &lt;tt&gt;mplayer&lt;/tt&gt;, 
+jedoch nicht(!) von sämtlichen anderen unter Windows verbreiteten Divx-Playern abgespielt werden.
+Mehr dazu und zur Kodierung mit dem MPlayer gibt es auf
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nasauber.de/linux_know_how/lang/mencoder.php&#34;&gt;nasauber.de: Filme mit mencoder rippen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://de.gentoo-wiki.com/MEncoder&#34;&gt;MEncoder - Gentoo Linux Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mplayerhq.hu/DOCS/HTML/en/mencoder.html&#34;&gt;Online documentation: Basic Usage of MEncoder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wichtige Bildauflösungen:&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;PAL: 768 x 576 Pixel (Verhältnis 4:3)&lt;/li&gt;
+&lt;li&gt;D1 (DVD-Auflösung): 720 x 576 Pixel (Verhältnis 5:4)&lt;/li&gt;
+&lt;li&gt;HD 720 : 1280 × 720 (Verhältnis 16:9)&lt;/li&gt;
+&lt;li&gt;HD 1080 : 1920 × 1080 (Verhältnis 16:9)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Verschiedenes zum Thema Dateiformat&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dateiformat einer Datei mit unbekannter Endung oder ohne Endung herausfinden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; file [datei]
+[datei]: HTML document text
+&lt;/pre&gt;
+Im diesem Beispiel sieht man, das man mit dem Kommando &lt;tt&gt;file&lt;/tt&gt; sehr einfach herausfinden kann, dass die Datei
+&lt;tt&gt;[datei]&lt;/tt&gt; eine HTML Datei ist. Das ganze funktioniert auch z.B. bei Verzeichnissen:
+&lt;pre&gt;
+&gt; file [verzeichnis]
+[verzeichnis]: directory
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, ob eine XML-Datei valide ist:&lt;/em&gt;&lt;br /&gt;
+Um zu sehen, ob eine XML-Datei valide ist, d.h. entsprechende einem Schema z.B. im XSD-Format vorliegt, benutzt man
+&lt;pre&gt;
+&gt; xmllint -noout Output.xml --schema ../schema/output_2.5.xsd
+&lt;/pre&gt;
+In diesem Beispiel wird getestet, ob die Datei &lt;tt&gt;Output.xml&lt;/tt&gt; dem Schema &lt;tt&gt;output_2.5.xsd&lt;/tt&gt; entspricht. Gibt das
+Kommando keine weiter Ausgabe zurück ist die Datei tatsächlich valide, ansonsten erscheinen Fehlermeldungen über die
+entsprechenden fehlerhaften Zeilen. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, ob ein Programm für 32 oder 64bit, dynamisch oder statisch gelinkt kompiliert wurde:&lt;/em&gt;&lt;br /&gt;
+Auch das gelingt mit dem &lt;tt&gt;file&lt;/tt&gt;-Kommando:
+&lt;pre&gt;
+&gt; file ssh
+ssh: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), for GNU/Linux 2.6.9,
+dynamically linked (uses shared libs), for GNU/Linux 2.6.9, not stripped
+&lt;/pre&gt;
+Detailliertere Informatione bekommt man in diesem Fall mit 
+&lt;pre&gt;
+&gt; readelf -h ssh
+ELF Header:
+  Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF32
+  Data:                              2&#39;s complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              EXEC (Executable file)
+  Machine:                           Intel 80386
+  Version:                           0x1
+  Entry point address:               0x80508d0
+  Start of program headers:          52 (bytes into file)
+  Start of section headers:          1960868 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               52 (bytes)
+  Size of program headers:           32 (bytes)
+  Number of program headers:         8
+  Size of section headers:           40 (bytes)
+  Number of section headers:         37
+  Section header string table index: 34
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>/post/shell/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/shell/</guid>
+      <description>&lt;h5&gt;Die Kommandozeile (bzw. die Shell oder das Terminal)&lt;/h5&gt;
+&lt;p&gt;Wenn hier die Rede von Shell ist ist immer die 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Bourne-again_shell&#34;&gt;bash&lt;/a&gt;-Shell 
+(Standard-Kommandozeileninterpreter unter Linux und Mac OS X) gemeint.
+Interessante Alternativen zur bash sind die &lt;a href=&#34;http://en.wikipedia.org/wiki/Zsh&#34;&gt;Z-Shell (zsh)&lt;/a&gt;
+(bietet unter anderm TAB-Completion nicht nur für Befehle sondern auch für Befehlsoptionen, siehe auch 
+&lt;a href=&#34;http://www.amazon.de/Zsh-magische-Shell-Sven-Guckes/dp/3937514597&#34;&gt;Guckes,Plenz: Zsh. Die magische Shell&lt;/a&gt;)
+und die &lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Windows Power Shell&lt;/a&gt; die einen 
+objektorientierten Ansatz verfolgt.&lt;/p&gt;
+&lt;p&gt;
+Wer auf der Suche nach den beliebtesten Bash-Tricks ist, dem sei
+&lt;a href=&#34;http://www.commandlinefu.com/commands/browse/sort-by-votes&#34;&gt;www.commandlinefu.com&lt;/a&gt; und
+&lt;a href=&#34;http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash&#34;&gt;
+what-is-your-single-most-favorite-command-line-trick-using-bash&lt;/a&gt;
+empfohlen. Wer erstmal nur einen guten und schnellen Überblick über den bash-Kommandozeileninterpreter sucht wird 
+bei
+&lt;a href=&#34;http://www.heise.de/ct/99/12/170/&#34;&gt;c&#39;t 12/99&lt;/a&gt; fündig.
+Dieser Artikel sei jedem als Ergänzung zu den folgenden Tipps
+empfohlen. 
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Einen symbolischen Link anlegen:&lt;/em&gt;
+&lt;pre&gt;
+&gt; ln -s [ZielName] [LinkName] 
+&lt;/pre&gt;
+wobei &lt;tt&gt;[Zielname]&lt;/tt&gt; das bereits existierende Verzeichnis/Datei ist und &lt;tt&gt;[LinkName]&lt;/tt&gt;
+der symbolische Name/Pfad der dafür angelegt werden soll. Solche symbolischen Links sind äußerst 
+nützlich. Hat z.B. wieder irgendein fauler Programmier absolute Pfade im (Installations-)Programm 
+hardcodiert, kann man mit Hilfe von symbolischen Links diese Pfade auf die gewünschten &#34;umbiegen&#34;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ins vorherige Verzeichnis zurückspringen:&lt;/em&gt;
+&lt;pre&gt;
+&gt; cd -
+&lt;/pre&gt;
+Dieser Befehl erlaubt es in das vorherige Verzeichnis zurückzuspringen, ohne vorher
+zehnmal &lt;tt&gt;cd ..&lt;/tt&gt; oder ähnliches aufzurufen. Er entspricht dem Kommando
+&lt;pre&gt;
+&gt; cd &#34;$OLDPWD&#34; &amp;amp;&amp;amp; pwd
+&lt;/pre&gt;
+der also in das vorherige Verzeichnis springt und nach dem Sprung den Namen
+diese Verzeichnisses ausgibt (siehe auch 
+&lt;a href=&#34;http://www.opengroup.org/onlinepubs/9699919799/utilities/cd.html&#34;&gt;www.opengroup.org&lt;/a&gt;).
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einen Prozess im Hintergrund starten, so dass er auch beim Schließen
+der Kommandozeile weiterläuft:&lt;/em&gt;
+&lt;pre&gt;&gt; ./command &amp;amp;&lt;/pre&gt;
+Achtung: Beim Schliessen der Kommandozeile per Fenster-Icon wird
+&lt;tt&gt;command&lt;/tt&gt; trotzdem beendet! Nur wenn das Terminal per
+&lt;pre&gt;&gt; exit&lt;/pre&gt; beendet wird läuft &lt;tt&gt;command&lt;/tt&gt; weiter.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einen Prozess nachträglich in den Hintergrund stellen:&lt;/em&gt;&lt;br /&gt;
+Hat man das &lt;tt&gt;&amp;amp;&lt;/tt&gt; vergessen um einen Prozess im Hintergrund zu starten, kann man den Prozess
+mit &lt;tt&gt;ctrl-z&lt;/tt&gt; pausieren und dann durch Eingabe von &lt;tt&gt;bg&lt;/tt&gt; in den Hintergrund schicken, z.B.
+&lt;pre&gt;
+&gt; ./skype
+[ctrl]-[z]
+[1]+  Stopped ./skype
+&gt; bg
+[1]+ ./skype &amp;amp;
+&lt;/pre&gt;
+Siehe dazu auch
+&lt;a href=&#34;http://www.netcosmos.de/linux/befehle/index.php?func=show&amp;amp;command=bg&#34;&gt;netcosmos.de&lt;/a&gt; und
+&lt;a href=&#34;http://www.hcidata.info/background-job.htm&#34;&gt;www.hcidata.info/background-job.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einen Prozess so starten, dass er auch nach einem Logout weiterläuft:&lt;/em&gt;
+&lt;pre&gt;&gt; nohup command &amp;amp;&lt;/pre&gt;
+Dies funktioniert auch mit parallelisierten Programmen, z.B. für ein
+mit MPI parallelisiertes Programm, welches in vier parallelen Prozessen
+laufen soll :
+&lt;pre&gt;&gt; nohup mpirun -np 4 mpicommand 2&gt;&amp;amp;1 &gt; output.log &amp;amp; &lt;/pre&gt;
+Aber Achtung: Wenn der Prozess z.B. mit &lt;tt&gt;|&lt;/tt&gt; Ausgaben umleitet,
+oder mit &lt;tt&gt;tee&lt;/tt&gt; Ausgaben in die
+Kommandozeile schreibt, funktioniert das anscheinend nicht; z.B.
+würde folgender Prozess beim Schließen des Terminals abgebrochen:
+&lt;pre&gt;&gt; nohup command 2&gt;&amp;amp;1 | tee output.log &amp;amp; &lt;/pre&gt;
+Siehe auch &lt;a href=&#34;http://www.lugbz.org/content/sections/workshops/bash-intro-2003-04-26/slide_nohup.html&#34;&gt;
+Pircher 2003&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umleiten der Ausgabe von STDERR(2) und STDOUT(1) in eine Datei:&lt;/em&gt;
+&lt;pre&gt;&gt; ./command 1&gt;command.log 2&gt;&amp;amp;1 &lt;/pre&gt;
+ACHTUNG: Die Reihenfolge der Umleitungen ist signifikant. Würde man
+&lt;tt&gt;2&gt;&amp;amp;1&lt;/tt&gt; vor &lt;tt&gt;1&gt;command.log&lt;/tt&gt; schreiben, so 
+leitet man nur STDOUT in die Datei &lt;tt&gt;command.log&lt;/tt&gt; um;
+STDERR wird jedoch nur auf den Kanal umgeleitet der vorher STDOUT war 
+(meist das Terminal), d.h. man sieht die Fehlermeldungen im Termial und alle anderen
+Ausgaben werden in die Datei umgeleitet (Siehe dazu auch die 
+&lt;a href=&#34;http://wwwcip.informatik.uni-erlangen.de/old/tree/CIP/Manuals/unix/shell/umlenkung.html&#34;&gt;
+Unix-Anleitung der Uni Erlangen&lt;/a&gt;).&lt;br /&gt;
+Will man die Ausgabe gleichzeitig noch in der Shell sehen, so kann
+muß man die Weiterleitung der Ausgabe mit dem Pipezeichen |
+mit dem T-Stück &#34;tee&#34; verzweigen:
+&lt;pre&gt;&gt; ./command 2&gt;&amp;amp;1 | tee command.log&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ausgehend vom aktuellen Verzeichnis alle Dateien mit der Endung &#34;suffix&#34;
+finden:&lt;/em&gt;
+&lt;pre&gt;&gt; find . -name &#34;*.suffix&#34;&lt;/pre&gt;
+Wichtig sind dabei die Anführungszeichen. Ohne sie kommt es zu seltsamen
+Fehlern, wenn das gesuchte Suchmuster das Jokerzeichen &lt;tt&gt;*&lt;/tt&gt; enthält.
+Möchte man dabei die Ausgabe von Fehlermeldungen wie &lt;tt&gt;find: permission denied&lt;/tt&gt;
+vermeiden, so kann man diese nach &lt;a href=&#34;http://de.wikipedia.org/wiki//dev/null&#34;&gt;/dev/null&lt;/a&gt;
+umleiten:
+&lt;pre&gt;&gt; find . -name &#34;*.suffix&#34; 2&gt;/dev/null&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ausgehend vom aktuellen Verzeichnis alle Dateien, die in den letzten 30 Tagen 
+modifiziert wurden, finden:&lt;/em&gt;
+&lt;pre&gt;&gt; find . -mtime -30 -ls&lt;/pre&gt;
+Wichtig ist dabei das Minuszeichen vor der &lt;tt&gt;30&lt;/tt&gt;. Vergisst man es werden nur die Dateien
+angezeigt, die genau vor 30 Tagen geändert wurden. Gibt man stattdessen &lt;tt&gt;+30&lt;/tt&gt; an, werden
+die Dateien gesucht, welche vor mehr als 30 Tagen geändert wurden. Die Option &lt;tt&gt;-ls&lt;/tt&gt; sorgt
+dafür, dass &lt;tt&gt;find&lt;/tt&gt; die Dateien im selben Format anzeigt wir der Befehl &lt;tt&gt;ls -dils&lt;/tt&gt;.
+Damit sieht man gleich das Änderungsdatum der gefundenen Dateien.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ausgehend vom aktuellen Verzeichnis rekursiv in allen Unterverzeichnissen bestimmte Dateien/Verzeichnisse loeschen:&lt;/em&gt;&lt;br /&gt;
+Will man z.B. alle &lt;tt&gt;.svn&lt;/tt&gt;-Verzeichnisse rekursiv löschen nutzt man &lt;tt&gt;find&lt;/tt&gt; um die Parameterliste fuer &lt;tt&gt;rm&lt;/tt&gt; zu erzeugen:
+&lt;pre&gt;&gt; rm -rf `find -name &#34;.svn&#34;`&lt;/pre&gt;
+Der obige Befehl funktioniert, da die Shell ein Kommando zwischen zwei 
+Backticks (`) durch die Ausgabe dieses Kommandos ersetzt (siehe auch 
+&lt;a href=&#34;http://www.heise.de/ct/99/12/170/&#34;&gt;c&#39;t 12/99&lt;/a&gt;).
+Aufpassen muß man jedoch: Auch Dateien namens &lt;tt&gt;.svn&lt;/tt&gt; werden durch obiges Kommando geloescht! 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Suchen eines Begriffes in allen Dateien des aktuellen Verzeichnisses und der
+Unterverzeichnisse:&lt;/em&gt;&lt;br /&gt;
+Lösung 1 (unter Suse Linux):&lt;br /&gt;
+&lt;pre&gt;
+&gt; grep -r &#34;Suchbegriff&#34;
+&lt;/pre&gt;
+Lösung 2: Die Option &lt;tt&gt;-r&lt;/tt&gt; für &lt;tt&gt;grep&lt;/tt&gt; ist nicht in allen Linux/*NIX-Distributionen
+vorhanden. Dann kann man folgendes verwenden: 
+&lt;pre&gt;&gt; find -exec grep &#34;Suchbegriff&#34; {} \; -print&lt;/pre&gt;
+Gefunden in &lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/3827321581/ref=ase_michaelkofler/302-7208934-0117615&#34;&gt;
+Kofler 2004&lt;/a&gt;. Achtung: wenn der Suchbegriff mit Sonderzeichen durchsetzt, muß man diese mit einem oder 
+mehreren(!) &#34;Backslashes escapen&#34;. Sucht man z.B. &lt;tt&gt;&#34;rm -f $*.f&#34;&lt;/tt&gt; so muß man als Suchbegriff 
+&lt;tt&gt;&#34;rm -f \\$\*.f&#34;&lt;/tt&gt; eingeben (Man beachte den doppelten(!) Backslash vor dem $-Zeichen).
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nach Größen sortierte Ausgabe aller Dateien und Verzeichnisse im aktuellen
+Verzeichnis:&lt;/em&gt;
+&lt;pre&gt;&gt; du --max-depth=1 -all -k | sort -n&lt;/pre&gt;
+Dabei steht &lt;tt&gt;--max-depth=1&lt;/tt&gt; dafür, dass nur die Unterverzeichnisse
+im aktuellen Verzeichnis aufgelistet werden und nicht auch noch die
+Unterverzeichnisse in den Unterverzeichnissen. Die Option &lt;tt&gt;-all&lt;/tt&gt; steht dafür,
+dass auch die Größen der Dateien im aktuellen Verzeichnis angezeigt werden und
+die Option &lt;tt&gt;-n&lt;/tt&gt; des &lt;tt&gt;sort&lt;/tt&gt;-Befehls sortiert die übergebene Liste
+numerisch.
+Die Option &lt;tt&gt;-k&lt;/tt&gt; gibt an,
+dass die Größenangabe in Kibibyte (=1024 Byte) sein soll und ist eine Abkürzung für
+&lt;tt&gt;-B 1K&lt;/tt&gt; Die Option &lt;tt&gt;-B 1KB&lt;/tt&gt; steht für Kilobyte (=1000Byte) und
+entsprechend steht &lt;tt&gt;-B 1M&lt;/tt&gt; für Mebibyte (=1024*1024=1048576 Byte) und
+&lt;tt&gt;-B 1MB&lt;/tt&gt; für Megabyte (=1000000 Byte) usw. für G, T, P, E, Z, Y.
+Zudem wird immer auf die nächstgrößere Zahl gerundet, d.h 4096 Byte entsprechen 4 Kibibyte
+aber aufgerundet sind das 5 Kilobyte. Wen das alles verwirrt, der kann auch &lt;tt&gt;-B 1&lt;/tt&gt; setzen
+und bekommt die Größen in Byte angezeigt oder mehr zum Thema Kibibyte und Mebibyte
+lesen und zwar beim &lt;a href=&#34;http://physics.nist.gov/cuu/Units/binary.html&#34;&gt;NIST
+(National Institut of Standards and Technology)&lt;/a&gt; oder in der
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Binary_prefix&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zwei unterschiedlich sortierte Dateien vergleichen:&lt;/em&gt;&lt;br /&gt;
+Um zwei Dateien (&lt;tt&gt;file1&lt;/tt&gt;, &lt;tt&gt;file2&lt;/tt&gt;) bequem zu vergleichen, die 
+ähnliche Inhalt haben, aber vielleicht auf unterschiedliche Weise sortiert 
+sind, hilft folgender Befehl:
+&lt;pre&gt;
+&gt; diff -rcs &amp;lt;(sort file1) &amp;lt;(sort file2) | kompare -o -
+&lt;/pre&gt;
+Zuerst werden die zwei Dateien sortiert und an &lt;tt&gt;diff&lt;/tt&gt; übergeben. Der Parameter
+&lt;tt&gt;-rcs&lt;/tt&gt; sorgt dafür, dass das Ausgabeformat von &lt;tt&gt;diff&lt;/tt&gt; vom graphischen
+Diff-Tool &lt;a href=&#34;http://en.wikipedia.org/wiki/Kompare&#34;&gt;Kompare&lt;/a&gt;
+verstanden werden kann. Mit &lt;tt&gt;| kompare -o -&lt;/tt&gt; wird die Ausgabe von &lt;tt&gt;diff&lt;/tt&gt;
+an &lt;tt&gt;kompare&lt;/tt&gt; weitergeleitet und &lt;tt&gt;kompare&lt;/tt&gt; gestartet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Befehlsabkürzungen (Aliase) und Funktionen:&lt;/em&gt;&lt;br /&gt;
+Für häufig benötigte lange Befehlszeilen schreibt man am besten Abkürzungen,
+sog. Aliase. Diese werden in der Datei &lt;tt&gt;.alias&lt;/tt&gt; im Homeverzeichnis angelegt.
+Meine .alias-Datei enthält z.B. folgende Zeile:
+&lt;pre&gt;alias platz=&#34;du --max-depth=1 -all -k | sort -n&#34;&lt;/pre&gt;
+Durch Eingabe von &lt;tt&gt;platz&lt;/tt&gt; kann ich mir damit also immer die Größe aller Dateien
+und Verzeichnisse (s. oben) anzeigen lassen. Durch Eingabe von
+&lt;tt&gt;alias&lt;/tt&gt;
+kann man sich alle (auch global) gesetzten Befehlsabkürzungen anzeigen lassen.
+Alias-Anweisungen mit Übergabe eines Arguments sind in der Bash-Shell jedoch nicht
+möglich, dafür gibt es Funktionen, welche man in der Datei &lt;tt&gt;.bashrc&lt;/tt&gt;
+definieren kann. Um z.B. eine Funktion der Art &lt;tt&gt;such begriff&lt;/tt&gt;
+zu definieren, die alle Dateien (auch die, die ev. in Unterverzeichnissen vom
+aktuellen Verzeichnis aus gesehen liegen) anzeigt, welche &#34;begriff&#34; enthalten,
+muss man folgende Zeile in die &lt;tt&gt;.bashrc&lt;/tt&gt; einfügen:
+&lt;pre&gt;such() { find -exec grep $1 {} \; -print; }&lt;/pre&gt;
+Wichtig dabei ist, dass man nach der ersten geschweiften Klammer, bzw. vor der
+letzten geschweifen Klammer immer ein Leerzeichen lassen muß, ansonsten funktioniert
+es nicht. &lt;tt&gt;$1&lt;/tt&gt; steht übrigens für das erste übergebene Argument nach dem
+Kommando selbst (s. auch Shellskript-Programmierung weiter unten). Ausführen kann man
+das Suchkommando jetzt mit
+&lt;pre&gt;such test&lt;/pre&gt;
+Das Ergebnis sind ist eine Liste aller Dateien auch in den Unterverzeichnissen,
+welche &#34;test&#34; enthalten. Zusätzlich wird auch die Zeile in der der Begriff vorkommt
+angezeigt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kommandos zu einem bestimmten Zeitpunkt ausführen lassen:&lt;/em&gt;&lt;br /&gt;
+Mithilfe der &lt;tt&gt;at&lt;/tt&gt;-Kommandos kann man Befehle zu einem vorbestimmten
+Zeitpunkt ausführen lassen. Dazu ist es nötig, dass der &lt;tt&gt;atd&lt;/tt&gt;-Dienst
+läuft (s. Linux/Administration). Läuft dieser Dienst, kann man, wenn man z.B.
+einen Befehl einen Befehl an einem bestimmten Datum zu einer bestimmten Zeit
+ausführen möchte, folgendes eingeben:
+&lt;pre&gt;&gt; at 05:00 30.08.05&lt;/pre&gt;
+Dies würde alle folgenden Befehle um fünf Uhr morgens am 30. August 2005
+starten (Mehr zur Datums- bzw. Zeitsyntax siehe &lt;tt&gt;man at&lt;/tt&gt;). Um einen
+Befehl in fünf Minuten auszuführen kann man aber auch folgendes eingeben:
+&lt;pre&gt;&gt; at now +5 minutes&lt;/pre&gt;
+Nach Eingabe des &lt;tt&gt;at&lt;/tt&gt;-Kommandos erscheint dann immer folgende Eingabezeile:
+&lt;pre&gt;at&gt;&lt;/pre&gt;
+Hier kann man nun interaktiv einen, bzw. mehrere Befehle hintereinander eingeben,
+welche dann in dieser Reihenfolge zum gegebenen Zeitpunkt gestartet werden. Abschliessend
+muß man die Tastenkombination &lt;tt&gt;Ctrl-d&lt;/tt&gt; (Nicht &lt;tt&gt;Ctrl-c&lt;/tt&gt;, das beendet
+&lt;tt&gt;at&lt;/tt&gt; ohne das es sich die eingegebenen Befehle merkt) drücken. Die Ausgabe
+des Befehls wird dann nach Ausführung als Email an username@computername.domainname
+geschickt (Dies kann man auch ändern, wenn gewünscht). Mit Hilfe von &lt;tt&gt;atq&lt;/tt&gt;
+kann man alle anstehenden Jobs (als Superuser sogar alle anstehenden Jobs aller
+Benutzer) ansehen:
+&lt;pre&gt;
+&gt; atq
+	5	2005-08-30	05:00	a	asmaier&lt;/pre&gt;
+Dabei steht die erste Zahl für die Jobnummer, darauf folgt das Datum und die
+Uhrzeit zu der der Job ausgeführt werden soll, dann folgt die Angabe der
+Warteschlange (Queue) in der der Befehl steht (Man kann nämlich mehrere Queues
+erzeugen, &lt;tt&gt;a&lt;/tt&gt; ist allerdings die Default-Queue) und abschließend der Name
+des Benutzers der den Job in Auftrag gegeben hat. Will man einen Job wieder löschen
+kann man dies folgendermaßen tun:
+&lt;pre&gt;atrm 5&lt;/pre&gt;
+Dabei steht die angegebene Nummer für die unter &lt;tt&gt;atq&lt;/tt&gt; angezeigte Jobnummer,
+welche man löschen will. Mehr zur Benutzung von &lt;tt&gt;at&lt;/tt&gt; findet man unter anderem in der
+&lt;a href=&#34;http://www.linuxfibel.de/weiteres.htm&#34;&gt;Linuxfibel&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alle laufenden Prozesse anzeigen (BSD Syntax, siehe auch &lt;tt&gt;man ps&lt;/tt&gt;):&lt;/em&gt;
+&lt;pre&gt;&gt; ps aux&lt;/pre&gt;
+Die Option &lt;tt&gt;a&lt;/tt&gt; zeigt alle Prozesse auch der anderen Benutzer (und nicht
+nur die Eigenen) an, die Option &lt;tt&gt;x&lt;/tt&gt; zeigt zusätzlich alle Prozesse
+an denen kein Terminal zugeordnet ist (z.B. Dienste bzw. Daemons oder
+X-Server-Prozesse) und die Option &lt;tt&gt;u&lt;/tt&gt; zeigt zusätzliche Informationsspalten
+wie die Benutzerkennung unter der der Prozeß läuft,
+aktueller Speicher- und Rechenzeitverbrauch, Startzeit des
+Prozesses und weitere an. Zusätzlich kann man noch die Option &lt;tt&gt;w&lt;/tt&gt; setzen;
+dann wird die Anzeige breiter. Setzt man &lt;tt&gt;w&lt;/tt&gt; zweimal, so wird wirklich
+alles angezeigt und auch lange Kommandozeilen für Prozessaufrufe
+nicht abgeschnitten. &lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige der CPU-intensivsten Prozesse:&lt;/em&gt;
+&lt;pre&gt;&gt; top&lt;/pre&gt;
+&lt;p&gt;Tastaturkürzel für &lt;tt&gt;top&lt;/tt&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prozess beenden: &lt;tt&gt;k&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Prozesse eines bestimmten Benutzers anzeigen: &lt;tt&gt;u&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Belastung der einzelnen CPUs getrennt anzeigen: &lt;tt&gt;1&lt;/tt&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller Umgebungsvariablen unter Linux:&lt;/em&gt;
+&lt;pre&gt;&gt; env&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller Dateien auf die ein Programm beim Start zugreift:&lt;/em&gt;
+&lt;pre&gt;&gt; strace [Programmname]&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller Benutzergruppen zu denen man gehört:&lt;/em&gt;
+&lt;pre&gt;&gt; groups&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige von Hard- und Softwareinformationen:&lt;/em&gt;&lt;br /&gt;
+Um welche Linuxversion es sich handelt erfährt man standardgemäß mittels
+&lt;pre&gt;&gt; lsb_release -a&lt;/pre&gt;
+Sollte dieser Befehl nicht funktionieren so erfährt man die Versionsnummer von
+SuSE in der Datei &lt;tt&gt;/etc/SuSE-release&lt;/tt&gt;, von Debian in &lt;tt&gt;/etc/debian-version&lt;/tt&gt; und von Solaris
+in &lt;tt&gt;/etc/release&lt;/tt&gt; (siehe auch die ausführliche Liste unter
+&lt;a href=&#34;http://www.kubieziel.de/blog/archives/785-Welche-Distribution-besitze-ich.html&#34;&gt;www.kubieziel.de&lt;/a&gt;).
+Informationen über den Prozessor und die Speicherausstattung findet man in Linux mit
+&lt;pre&gt;
+&gt; less /proc/cpuinfo
+&gt; less /proc/meminfo
+&lt;/pre&gt;
+Unter Solaris 10 hilft der Aufruf von
+&lt;pre&gt;&gt; prtdiag&lt;/pre&gt;
+weiter (siehe auch &lt;a href=&#34;http://www.lifeaftercoffee.com/2006/02/27/getting-hardware-information-in-solaris/&#34;&gt;
+www.lifeaftercoffee.com&lt;/a&gt;).
+Die MAC-Adresse bekommt man ohne(!) root-Rechte heraus indem man die Datei &lt;tt&gt;/var/log/boot.msg&lt;/tt&gt;
+betrachtet. Dort sucht man nach den Zeilen
+&lt;pre&gt;
+...
+Setting up network interfaces
+...
+eth0 configuration: eth-id-[MAC-Adresse]
+eth0 IP address: [IP-Adresse]
+...
+&lt;/pre&gt;
+wobei &lt;tt&gt;[MAC-Adresse]&lt;/tt&gt; die gesuchte MAC-Adresse darstellt und &lt;tt&gt;[IP-Adresse]&lt;/tt&gt; die IP-Adresse
+des Rechners ist. Klappt dieser Trick jedoch nicht, steht unter &lt;a href=&#34;admin.html#mac&#34;&gt;Administration&lt;/a&gt;
+wie man die MAC-Adresse als Root findet.&lt;br /&gt;
+Eine Liste aller zu mountenden Laufwerke findet man in der &lt;a href=&#34;http://de.wikipedia.org/wiki/Fstab&#34;&gt;/etc/fstab&lt;/a&gt;-Datei, 
+die Liste aller tatsächlich gemounteten Laufwerke steht in &lt;a href=&#34;http://en.wikipedia.org/wiki/Mtab&#34;&gt;/etc/mtab&lt;/a&gt;, wobei letztere Datei automatisch erzeugt wird
+und daher nicht per Hand editiert werden sollte.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige von Informationen wie (Alias-)Namen und IP Adressen von Internetresourcen:&lt;/em&gt;&lt;br /&gt;
+&lt;pre&gt;&gt; host www.google.de
+www.google.de is an alias for www.google.com.
+www.google.com is an alias for www.l.google.com.
+www.l.google.com has address 74.125.43.147
+www.l.google.com has address 74.125.43.99
+www.l.google.com has address 74.125.43.103
+www.l.google.com has address 74.125.43.104
+www.l.google.com has IPv6 address 2001:4860:a003::68
+&lt;/pre&gt;
+Auch &#34;reverse-lookup&#34;, d.h. die Ausgabe des Namens zu einer bestimmten Internetadresse ist möglich
+&lt;pre&gt;&gt; host 74.125.43.147
+147.43.125.74.in-addr.arpa domain name pointer bw-in-f147.google.com.
+&lt;/pre&gt;
+Wie die Ausgabe zu interpretieren ist wird ausführlich bei 
+&lt;a href=&#34;http://www.rickconner.net/spamweb/tools-nslookup-host.html&#34;&gt;www.rickconner.net&lt;/a&gt; beschrieben.
+Eine veraltete (aber unter Windows die einzig mögliche) Alternative zu &lt;tt&gt;host&lt;/tt&gt; ist
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Nslookup&#34;&gt;nslookup&lt;/a&gt;, welches jedoch nicht mehr benutzt werden sollte
+(siehe &lt;a href=&#34;http://homepages.tesco.net/~J.deBoynePollard/FGA/nslookup-flaws.html&#34;&gt;nslookup-flaws&lt;/a&gt;).
+Stattdessen sollte man, wenn man noch mehr Informationen habe möchte als &lt;tt&gt;host&lt;/tt&gt; anbietet, das Kommando 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Dig_(Programm)&#34;&gt;dig&lt;/a&gt; verwenden:
+&lt;pre&gt;&gt; dig www.google.de
+&lt;p&gt;; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.3.4 &amp;lt;&amp;lt;&amp;gt;&amp;gt; &lt;a href=&#34;http://www.google.de&#34;&gt;www.google.de&lt;/a&gt;
+;; global options:  printcmd
+;; Got answer:
+;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 42579
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 7, ADDITIONAL: 7&lt;/p&gt;
+&lt;p&gt;;; QUESTION SECTION:
+;www.google.de.                 IN      A&lt;/p&gt;
+&lt;p&gt;;; ANSWER SECTION:
+&lt;a href=&#34;http://www.google.de&#34;&gt;www.google.de&lt;/a&gt;.          72639   IN      CNAME   &lt;a href=&#34;http://www.google.com&#34;&gt;www.google.com&lt;/a&gt;.
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;;; AUTHORITY SECTION:
+l.google.com.           72822   IN      NS      f.l.google.com.
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;;; ADDITIONAL SECTION:
+a.l.google.com.         160307  IN      A       209.85.139.9
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;;; Query time: 0 msec
+;; SERVER: 10.156.33.53#53(10.156.33.53)
+;; WHEN: Mon May 11 18:17:32 2009
+;; MSG SIZE  rcvd: 367
+&lt;/pre&gt;
+Einen guten Überblick über &lt;tt&gt;host&lt;/tt&gt;, &lt;tt&gt;dig&lt;/tt&gt; und &lt;tt&gt;nslookup&lt;/tt&gt; findet man auch bei
+&lt;a href=&#34;http://www.tuaw.com/2007/01/29/monday-man-page-dig-host-and-nslookup/&#34;&gt;&lt;a href=&#34;http://www.tuaw.com&#34;&gt;www.tuaw.com&lt;/a&gt;&lt;/a&gt;.
+Weitere nützliche Tools zur Netzwerkanalyse werden bei
+&lt;a href=&#34;http://www.linux-user.de/ausgabe/2006/08/092-zubefehl/index.html&#34;&gt;&lt;a href=&#34;http://www.linux-user.de&#34;&gt;www.linux-user.de&lt;/a&gt;&lt;/a&gt;
+beschrieben.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller eingeloggten Benutzer auf einem Computer:&lt;/em&gt;
+&lt;pre&gt;&gt; finger
+...
+max64mu    Max Muster           *pts/20      -     Mon 17:20
+root       root                  pts/0    8:12  Nov  2 2008  jmb01.de
+root       root                 *pts/2    8:12     Wed 10:48 jmb01.de
+&lt;/pre&gt;
+Der &lt;a href=&#34;http://de.wikipedia.org/wiki/Finger_(Internetprotokoll)&#34;&gt;finger&lt;/a&gt;-Befehl gibt dabei die meisten
+Informationen zurueck, z.B. zeigt er im obigen Beispiel zwei Verbindungen des &lt;tt&gt;root&lt;/tt&gt;-Benutzers an, die bei
+Benutzung des &lt;a href=&#34;http://de.wikipedia.org/wiki/Who_(Unix)&#34;&gt;who&lt;/a&gt;-Kommandos
+&lt;pre&gt;&gt; who
+...
+max64mu  pts/20       2009-05-11 17:20
+&lt;/pre&gt;
+nicht aufgelistet werden. Allerdings wird der &lt;tt&gt;finger&lt;/tt&gt;-Dienst genau wegen seiner Geschwätzigkeit und der Möglichkeit
+ihn auch aus aus der Entfernung abzufragen oft als Sicherheitsrisiko gesehen und ist daher oft abgeschaltet. Dann bleibt
+nur die Benutzung von &lt;tt&gt;who&lt;/tt&gt;, bzw. &lt;tt&gt;w&lt;/tt&gt;, welches z.B, auch den zuletzt ausgeführten Befehl eines jeden Benutzers 
+anzeigt
+&lt;pre&gt;&gt; w
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+...
+max64mu  pts/20    17:20    0.00s  0.02s  0.00s w
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Laufende Veränderungen in einer (Log-)Datei betrachten:&lt;/em&gt;
+&lt;pre&gt;&gt; less +F logdatei&lt;/pre&gt;
+Dieses Kommando startet &lt;tt&gt;less&lt;/tt&gt; im sogenannten Tail-Modus, wobei &lt;tt&gt;less&lt;/tt&gt; automatisch
+Veränderungen am Ende der Datei anzeigt. Um vom Tail-Modus in den normalen Modus zu wechseln einfach &lt;tt&gt;Ctrl-c&lt;/tt&gt;
+drücken (siehe &lt;a href=&#34;http://linuxcommando.blogspot.com/2007/11/log-watching-using-tail-or-less.html&#34;&gt;linuxcommando.blogspot.com&lt;/a&gt;).
+Will man jedoch mehr als eine Datei beobachten reicht &lt;tt&gt;less&lt;/tt&gt; nicht aus, dann muß man 
+&lt;a href=&#34;http://www.ss64.com/bash/tail.html&#34;&gt;tail&lt;/a&gt; verwenden (siehe 
+&lt;a href=&#34;http://linuxcommando.blogspot.com/2007/11/tail-multiple-files.html&#34;&gt;linuxcommando.blogspot.com&lt;/a&gt;):
+&lt;pre&gt;&gt; tail -f logdatei1 logdatei2&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Änderungen an der &lt;tt&gt;.bashrc&lt;/tt&gt;-Konfigurationsdatei ohne Neustart der Shell wirksam werden lassen:&lt;/em&gt;
+&lt;pre&gt;&gt; source ~/.bashrc&lt;/pre&gt;
+Alternativ (aber vielleicht etwas verwirrend kann man auch)
+&lt;pre&gt;&gt; . ~/.bashrc&lt;/pre&gt;
+verwenden. Dies funktioniert sehr allgemein also z.B auch mit den Befehlen der &lt;tt&gt;.alias&lt;/tt&gt;-Datei
+&lt;pre&gt;&gt; source ~/.alias&lt;/pre&gt;
+Mehr zur Funktionsweise des &lt;tt&gt;source&lt;/tt&gt;-Kommandos steht unter
+&lt;a href=&#34;http://learnlinux.tsf.org.za/courses/build/shell-scripting/ch10s02.html&#34;&gt;learnlinux.tsf.org.za&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zeilenumbruch in &lt;tt&gt;less&lt;/tt&gt; abschalten:&lt;/em&gt;&lt;br /&gt;
+Entweder die Datei über die Kommandozeile mit
+&lt;pre&gt;&gt; less -S &lt;/pre&gt;
+aufrufen, oder bei der Anzeige der Datei &lt;tt&gt;-S&lt;/tt&gt; drücken. Mit der Cursortaste kann man dann nach links und 
+rechts navigieren.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeigen einer Liste aller zuletzt eingegebenen Befehle:&lt;/em&gt;
+&lt;pre&gt;&gt; history&lt;/pre&gt;
+Leider ist diese Liste dann nicht komplett, wenn man mehrere Shell-Fenster gleichzeitig geöffnet hat, denn standardmäßig
+werden immer nur die Befehle der zuletzt geschlossenen Shell fuer die Zukunft gespeichert. Befehle aus vorher geschlossenen
+Shells gehen verloren. Abhilfe bringt nach 
+&lt;a href=&#34;http://www.mynethome.de/2008/01/03/zaubern-mit-der-shell-bash-history/&#34;&gt;www.mynethome.de&lt;/a&gt; das Hinzufügen der
+Zeilen 
+&lt;pre&gt;
+shopt -s histappend
+PROMPT_COMMAND=&#39;history -a&#39;
+&lt;/pre&gt;
+zur &lt;tt&gt;.bashrc&lt;/tt&gt;. Mehr zu dieser Lösung und anderen fortgeschrittenen &lt;tt&gt;bash&lt;/tt&gt;-Themen findet man in 
+&lt;a href=&#34;http://www.ukuug.org/events/linux2003/papers/bash_tips/&#34;&gt;Myers: Power Shell Usage (2003)&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cursorsteuerung:&lt;/em&gt;&lt;br /&gt;
+Um bei langen Befehlszeilen den Cursor an den Anfang springen zu lassen
+drücke man &lt;tt&gt;Ctrl-a&lt;/tt&gt;, um wieder ans Ende zu gelangen &lt;tt&gt;Ctrl-e&lt;/tt&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shell-Skripte</title>
+      <link>/post/shell-skripte/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/shell-skripte/</guid>
+      <description>&lt;p&gt;Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte
+nötig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Eine Textdatei erzeugen mit Namen
+&lt;pre&gt; dateiname.sh&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Die erste Zeile der Textdatei muß lauten:
+&lt;pre&gt;#!/bin/sh&lt;/pre&gt;
+Im Anschluss an diese Zeile schreibt man das
+Shell-Skript. 
+Aber Achtung: Bei der Angabe von Dateinamen in Skripten sollte
+man immer den vollen Dateipfad angeben, sonst funktioniert das Skript nicht von
+jedem Verzeichnis aus. Dies ist z.B. nötig, wenn ein Skript als Icon im
+KDE-Panel gestartet werden soll.&lt;/li&gt;
+&lt;li&gt;Ausführen des Skripts
+	&lt;ul&gt;
+	&lt;li&gt;Ohne Executable-Bit wird das Skript mithilfe des &lt;tt&gt;sh&lt;/tt&gt;-Kommandos
+	gestartet:
+	&lt;pre&gt;&gt; sh dateiname.sh&lt;/pre&gt;&lt;/li&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;li&amp;gt;Man kann ein Skript auch direkt ausführen, wenn man mit
+&amp;lt;pre&amp;gt;&amp;gt; chmod u+x dateiname.sh&amp;lt;/pre&amp;gt;
+das Skript vorher ausführbar gemacht hat
+(Mehr zum &amp;lt;tt&amp;gt;chmod&amp;lt;/tt&amp;gt;-Befehl gibt es 
+&amp;lt;a href=&amp;quot;http://eva-marbach.net/handbuch/u-chmod.htm&amp;quot;&amp;gt;hier&amp;lt;/a&amp;gt;.).
+Danach kann man es direkt starten mittels
+&amp;lt;pre&amp;gt;&amp;gt; ./dateiname.sh&amp;lt;/pre&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/ol&gt;
+&lt;p&gt;Mehr zur Syntax der Shell-Skript-Programmierung gibt es z.B. auf den Seiten der 
+&lt;a href=&#34;http://www.chemie.fu-berlin.de/chemnet/general/topics/scripts_sh.html&#34;&gt;
+FU Berlin&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSH</title>
+      <link>/post/ssh/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/ssh/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):&lt;/em&gt;
+&lt;pre&gt;&gt; ssh -X -l username computername&lt;/pre&gt;
+Die Option &lt;tt&gt;-X&lt;/tt&gt; aktiviert dabei das X-Tunneling. Ein kleines &lt;tt&gt;-x&lt;/tt&gt;
+würde hingegen X-Tunneling explizit abschalten.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kopieren mit SCP:&lt;/em&gt;
+&lt;pre&gt;&gt; scp -r username@computername:pfad .&lt;/pre&gt;
+Das erste Argument von &lt;tt&gt;scp&lt;/tt&gt; ist immer die Quelldatei (bzw. Verzeichnis), 
+das zweite das Zielverzeichnis (hier &lt;tt&gt;.&lt;/tt&gt;, das aktuelle Verzeichnis). Die
+Option &lt;tt&gt;-r&lt;/tt&gt; erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese
+Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung.&lt;/li&gt;  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

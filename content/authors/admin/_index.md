@@ -1,11 +1,32 @@
 ---
-authors:
-- admin
+# Display name
+title: Andreas Maier
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Data Alchemist
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: null
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
 bio: My interests include machine learning, software development, physics and mathematics
+
+# Interests to show in About widget
+interests:
+- Machine Learning
+- Software Development
+- Physics, Mathematics
+
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Astrophysics
-    institution: Würzburg University, Germany
+    institution: Würzburg University, Germany    
     year: 2008
   - course: Dipl.Phys. in Physics
     institution: Würzburg University, Germany
@@ -13,16 +34,7 @@ education:
   - course: MSc in Physics
     institution: Rutgers University, New Jersey, USA
     year: 2002
-email: ""
-interests:
-- Machine Learning
-- Software Development
-- Physics, Mathematics
-name: Andreas Maier
-organizations:
-- name: null
-  url: ""
-role: Data Alchemist
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,10 +48,13 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=XpQSfCkAAAAJ
-superuser: true
-user_groups:
-- Researchers
-- Visitors
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 ---
 
 Mostly harmless.

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming | Andreas Maier</title>
+    <link>/tag/programming/</link>
+      <atom:link href="/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>programming</title>
+      <link>/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>Programming hint</title>
+      <link>/post/programming-hint/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/programming-hint/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Reset all local variables at the beginning of the loop (Except counters and similar of course). So you won&amp;rsquo;t mixup values from the old loop with the actual loop !!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python fuzzy string comparison</title>
+      <link>/post/python-fuzzy-string-comparison/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/python-fuzzy-string-comparison/</guid>
+      <description>&lt;h2 id=&#34;fuzzy-string-comparison&#34;&gt;Fuzzy string comparison&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; import difflib
+&amp;gt;&amp;gt;&amp;gt; s=difflib.SequenceMatcher(None, &amp;quot;abcd&amp;quot;,&amp;quot;bcde&amp;quot;)
+# Return a measure of the sequences’ similarity as a float in the range [0, 1].
+# This is 1.0 if the sequences are identical, and 0.0 if they have nothing in common.
+&amp;gt;&amp;gt;&amp;gt; print s.ratio()
+0.75
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison&#34;&gt;http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/library/difflib.html&#34;&gt;http://docs.python.org/library/difflib.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

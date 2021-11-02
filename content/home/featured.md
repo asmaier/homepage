@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
@@ -25,6 +28,10 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  
+  archive:
+    enable: true
+    link: stream/
 
 design:
   # Choose a view for the listings:

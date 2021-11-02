@@ -4,13 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Data
-    url: '#about'
-    weight: 10
-  - name: Stream
+
+  - name: Posts
     url: '/stream'
     weight: 20
-  - name: Lake
+  - name: Tags
     url: '/lake'
     weight: 30
   - name: Projects
@@ -22,3 +20,6 @@ main:
   - name: Archive
     url: '/archive'
     weight: 60
+  - name: About
+    url: '/about'
+    weight: 70  

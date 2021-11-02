@@ -4,7 +4,7 @@
 widget: pages
 
 # Activate this widget? true/false
-active: false
+active: true
 
 
 # This file represents a page section.
@@ -34,6 +34,9 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive:
+    enable: true
+    link: stream/
 
 design:
   # Choose a view for the listings:

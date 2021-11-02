@@ -15,10 +15,10 @@ content:
   page_type: post
 design:
   background: {}
-  view: 2
+  view: 1
 headless: false
 subtitle: ""
-title: Data Stream
+title: Posts
 weight: 90
 widget: pages
 ---

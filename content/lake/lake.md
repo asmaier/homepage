@@ -8,7 +8,7 @@ design:
   font_size_min: 0.7
 headless: true
 subtitle: ""
-title: Data Lake
+title: Tags
 weight: 120
 widget: tag_cloud
 ---

@@ -1,12 +1,18 @@
+/*
+inspired by 
+https://jdheyburn.co.uk/blog/
+https://nodogmablog.bryanhogan.net/
+https://github.com/luizdepra/hugo-coder/
+*/
 .date {
     display: inline-block;
-    width: 10rem;
     text-align: right;
     margin-right: 1rem;
 }
 .view-list-item {
     margin-bottom: 0rem;
     white-space: nowrap;
+    overflow: hidden;
 }
 .view-list-item a {
     font-family: "Lora", sans-serif;

@@ -23,6 +23,7 @@ The following very interesting article states that 12% of all woman actually hav
 
 I wish you a colorful christmas!﻿
 > theneurosphere.com
-> ## [Account Temporary On Hold](http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/)
+> ## [THE MYSTERY OF TETRACHROMACY: 12% OF WOMEN OF THE WORLD CAN SEE MORE COLOURS THEN OTHERS | THE NEUROSPHERE](http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/)
 >
+>Some women see yellow, green, blue and pink - reflected on the kind of pebble path that most people perceive as gray in an interview with the BBC.
 

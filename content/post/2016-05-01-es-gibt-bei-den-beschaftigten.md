@@ -25,16 +25,22 @@ Das so eine simples Ticketverwaltungssystem 1,3 Millionen Euro kostet und natür
 > rbb24.de
 > ## [Entschuldigung, es ist ein Fehler aufgetreten](https://www.rbb-online.de/politik/beitrag/2015/08/ordnungsamt-online-in-berlin-lichtenberg-freigeschaltet.html)
 >
->Bis Do, 18.11., jeweils So–Do, ca. 22–0:30 Uhr
-wird die U 2  geteilt und fährt S+U Pankow <> U Gleisdreieck (unterer Bahnsteig) 
-sowie U Ruhleben <> U Gleisdreieck (oberer Bahnsteig) <> U Kottbusser Tor! 
+>Bis 11. August
 
-Bitte steigen Sie am Bahnhof U Gleisdreieck zwischen den beiden Linienteilen um.
+Einschränkungen jeweils sonntags bis donnerstags ab 22 Uhr. 
 
-----
+...
 
-Von So, 21.11. bis Do, 9.12., jeweils So–Do, ca. 22:30 Uhr bis ca. 0:30 Uhr
-Zwischen U Senefelderplatz und U Stadtmitte kein Zugverkehr.
+Die U1 verkehrt zwischen Warschauer Straße und Gleisdreieck, die U3 zwischen Krumme Lanke und Gleisdreieck.
 
-Ein Ersatzverkehr wird eingerichtet.
+..
+
+Umfahrung:
+Zwischen den Bahnhöfen Gleisdreieck und Wittenbergplatz kann die U2 genutzt werden.
+
+Zwischen Wittenbergplatz und Uhlandstraße stehen die Buslinien M19 und M29 zur Verfügung.
+
+...
+
+Von 13. November bis 8. Dezember 2022 finden die gleichen Einschränkungen erneut statt. Ausgenommen sind alle Brücken- und Feiertage.
 

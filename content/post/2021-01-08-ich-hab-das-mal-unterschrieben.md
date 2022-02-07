@@ -20,8 +20,9 @@ projects: []
 slug: []
 ---
 Ich hab das mal unterschrieben und denke als Berliner solltet ihr das auch tun. Die Berliner Regierung ist offenbar mal wieder unfähig vernünftige Entscheidungen zu treffen. Da wünscht man sich fast den Söder her.
+> [![](https://assets.change.org/photos/8/to/cu/eWtOcUhtTbTSuZy-1600x900-noPad.jpg?1609971621)](http://chng.it/nfjndtK2js)
 > change.org
-> ## [Attention Required! | Cloudflare](http://chng.it/nfjndtK2js)
+> ## [Diese Kampagne braucht dich jetzt](http://chng.it/nfjndtK2js)
 >
->This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+>Kein Präsenzunterricht in Berlin, solange Covid-19 nicht unter Kontrolle ist
 

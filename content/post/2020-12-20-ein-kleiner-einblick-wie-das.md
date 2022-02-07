@@ -27,7 +27,7 @@ empfohlen.
 Für alle die aber schon gegen völlig abgestumpft sind gegen russische oder auch die tägliche US-amerikanische Propaganda und mal etwas ganz Neues probieren wollen, empfehle ich gerne chinesische Propaganda von Radio China International: http://german.cri.cn/ . Besonders absurd finde ich ja, dass auf der Webseite Google zur Suche genutzt wird, wo doch gerade Google in China komplett gesperrt ist (https://de.wikipedia.org/wiki/Gesperrte_Websites_in_der_Volksrepublik_China)
 > [![](https://cdn.netzpolitik.org/wp-upload/2020/12/putin.jpg)](https://netzpolitik.org/2020/russische-desinformation-das-netzwerk-gefaelschter-auslandsmedien/)
 > netzpolitik.org
-> ## [Russische Desinformation: Das Netzwerk gefälschter Auslandsmedien](https://netzpolitik.org/2020/russische-desinformation-das-netzwerk-gefaelschter-auslandsmedien/)
+> ## [Russische Desinformation - Das Netzwerk gefälschter Auslandsmedien](https://netzpolitik.org/2020/russische-desinformation-das-netzwerk-gefaelschter-auslandsmedien/)
 >
 >Seit Jahren verbreiten vermeintliche Nachrichtenportale aus Europa russische Propaganda. netzpolitik.org und WELT haben jetzt ein Netzwerk enttarnt, das Lügen in russischen Medien glaubwürdiger machen soll. Es gibt Verbindungen zum Geheimdienst.
 

@@ -5,9 +5,9 @@
     <link>/tag/old_website/</link>
       <atom:link href="/tag/old_website/index.xml" rel="self" type="application/rss+xml" />
     <description>old_website</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>old_website</title>
       <link>/tag/old_website/</link>
     </image>
@@ -2387,9 +2387,7 @@ groupnames = [result[0] for result in results]
 #results = db.retrieveAll(result,{&#34;indent&#34;:&#34;yes&#34;})
 
 
-&lt;/pre&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -2700,7 +2698,7 @@ Eine veraltete (aber unter Windows die einzig mögliche) Alternative zu &lt;tt&g
 Stattdessen sollte man, wenn man noch mehr Informationen habe möchte als &lt;tt&gt;host&lt;/tt&gt; anbietet, das Kommando 
 &lt;a href=&#34;http://de.wikipedia.org/wiki/Dig_(Programm)&#34;&gt;dig&lt;/a&gt; verwenden:
 &lt;pre&gt;&gt; dig www.google.de
-&lt;p&gt;; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.3.4 &amp;lt;&amp;lt;&amp;gt;&amp;gt; &lt;a href=&#34;http://www.google.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.de&lt;/a&gt;
+&lt;p&gt;; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.3.4 &amp;lt;&amp;lt;&amp;gt;&amp;gt; &lt;a href=&#34;https://www.google.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.de&lt;/a&gt;
 ;; global options:  printcmd
 ;; Got answer:
 ;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 42579
@@ -2708,7 +2706,7 @@ Stattdessen sollte man, wenn man noch mehr Informationen habe möchte als &lt;tt
 &lt;p&gt;;; QUESTION SECTION:
 ;www.google.de.                 IN      A&lt;/p&gt;
 &lt;p&gt;;; ANSWER SECTION:
-&lt;a href=&#34;http://www.google.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.de&lt;/a&gt;.          72639   IN      CNAME   &lt;a href=&#34;http://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.com&lt;/a&gt;.
+&lt;a href=&#34;https://www.google.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.de&lt;/a&gt;.          72639   IN      CNAME   &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.com&lt;/a&gt;.
 &amp;hellip;&lt;/p&gt;
 &lt;p&gt;;; AUTHORITY SECTION:
 l.google.com.           72822   IN      NS      f.l.google.com.
@@ -2722,9 +2720,9 @@ a.l.google.com.         160307  IN      A       209.85.139.9
 ;; MSG SIZE  rcvd: 367
 &lt;/pre&gt;
 Einen guten Überblick über &lt;tt&gt;host&lt;/tt&gt;, &lt;tt&gt;dig&lt;/tt&gt; und &lt;tt&gt;nslookup&lt;/tt&gt; findet man auch bei
-&lt;a href=&#34;http://www.tuaw.com/2007/01/29/monday-man-page-dig-host-and-nslookup/&#34;&gt;&lt;a href=&#34;http://www.tuaw.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.tuaw.com&lt;/a&gt;&lt;/a&gt;.
+&lt;a href=&#34;http://www.tuaw.com/2007/01/29/monday-man-page-dig-host-and-nslookup/&#34;&gt;&lt;a href=&#34;https://www.tuaw.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.tuaw.com&lt;/a&gt;&lt;/a&gt;.
 Weitere nützliche Tools zur Netzwerkanalyse werden bei
-&lt;a href=&#34;http://www.linux-user.de/ausgabe/2006/08/092-zubefehl/index.html&#34;&gt;&lt;a href=&#34;http://www.linux-user.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.linux-user.de&lt;/a&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.linux-user.de/ausgabe/2006/08/092-zubefehl/index.html&#34;&gt;&lt;a href=&#34;https://www.linux-user.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.linux-user.de&lt;/a&gt;&lt;/a&gt;
 beschrieben.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Anzeige aller eingeloggten Benutzer auf einem Computer:&lt;/em&gt;

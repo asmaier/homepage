@@ -1,0 +1,108 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/tutorial/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+title: Das Blog # Website name
+baseURL: '' # Website URL
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## ADVANCED
+############################
+publishDir: docs
+enableGitInfo: false
+summaryLength: 30
+paginate: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  event: '/talk/:slug/'
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  _merge: deep
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
+minify:
+  _merge: deep
+
+cascade:
+  # Configure all page content
+  - _target:
+      path: /**
+    # Show the page's date?
+    show_date: true
+    # Show estimated reading time?
+    reading_time: false
+    # Show social sharing links?
+    share: false
+    # Show author profile (photo and bio) under the content?
+    # Edit your author profiles in the `content/authors/` folder
+    # Then reference their folder names with the `authors` front matter option above
+    profile: false
+    # Allow users to comment on the page?
+    # Requires commenting to be configured in `params.yaml`
+    commentable: false
+    # Allow visitors to make improvements to the page?
+    # Requires a repository to be configured in `params.yaml`
+    editable: false
+    # Show a link to the next article in the series?
+    pager: true
+    # Show recommendations for related content?
+    show_related: true
+    # Show breadcrumb navigation?
+    show_breadcrumb: false
+    # Hide the navigation bar?
+    # Often used together with `show_breadcrumb`
+    header:
+      navbar:
+        enable: true  
+
+
+
+
+
+
+
+
+
+
+      

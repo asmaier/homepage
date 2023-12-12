@@ -1,23 +1,20 @@
 ---
 title: '"Mit Framing könne man als ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-28
-output: pdf_document
+lastmod: 2019-02-28T22:35:50+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-28T22:35:50+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Mit Framing könne man als Organisation zwar am eigenen Image feilen, doch auch nur dann, wenn der Frame erkennbar zur Wirklichkeit passt, so Schemer. »Die Leute merken das sonst.«"
 
@@ -27,4 +24,5 @@ Ich denke das gilt im Großen und Ganzen auch für andere Sprachmodifikationen, 
 > ## [Psychologie: Wie mächtig Framing wirklich ist](https://www.spektrum.de/news/wie-maechtig-framing-wirklich-ist/1627094)
 >
 >Was man unter Framing versteht – und wie es wirklich wirkt
+
 

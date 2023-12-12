@@ -1,23 +1,20 @@
 ---
 title: 'This article shows the amazing ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2012-02-10
-output: pdf_document
+lastmod: 2012-02-10T14:16:34+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2012-02-10T14:16:34+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 This article shows the amazing possibility how our feelings are can be controlled by bacteria and parasites. Combine this with the knowledge of http://en.wikipedia.org/wiki/Fecal_bacteriotherapy
 and you will see where the journey will go. Maybe in the future people will try to get bacteria/parasites from famous/successful people and try to implant them in themselves? 
@@ -27,4 +24,5 @@ For further reference see http://en.wikipedia.org/wiki/Parasites_Lost.
 > ## [How Your Cat Is Making You Crazy](http://www.theatlantic.com/magazine/archive/2012/03/how-your-cat-is-making-you-crazy/8873/)
 >
 >Jaroslav Flegr is no kook. And yet, for years, he suspected his mind had been taken over by parasites that had invaded his brain. So the prolific biologist took his science-fiction hunch into the lab. What he&rsquo;s now discovering will startle you. Could tiny organisms carried by house cats be creeping into our brains, causing everything from car wrecks to schizophrenia?
+
 

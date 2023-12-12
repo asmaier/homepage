@@ -1,23 +1,20 @@
 ---
 title: 'Erwischt! Statt Weihnachten in die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-12-23
-output: pdf_document
+lastmod: 2021-12-23T23:12:58+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-12-23T23:12:58+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Erwischt! Statt Weihnachten in die Kirche zu gehen hängt ihr lieber auf Facebook rum. Aber da habe ich eine Überraschung für euch Heiden und Möchtegern-Atheisten: eine kleine Predigt! Diese ist fast 500 Jahre alt, aber trotzdem passend für unsere Zeit und von niemand geringerem als Martin Luther persönlich:
 
@@ -37,4 +34,5 @@ https://jochenteuffel.files.wordpress.com/2020/01/luther-ob-man-vor-dem-sterben-
 > jochenteuffel.files.wordpress.com
 > ## [Luther Ob Man Vor Dem Sterben Fliehen Mc3B6Ge Insel 1](https://jochenteuffel.files.wordpress.com/2020/01/luther-ob-man-vor-dem-sterben-fliehen-mc3b6ge-insel-1.pdf)
 >
+
 

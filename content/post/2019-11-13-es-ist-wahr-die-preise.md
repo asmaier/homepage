@@ -1,23 +1,20 @@
 ---
 title: '"„Es ist wahr, die Preise ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-11-13
-output: pdf_document
+lastmod: 2019-11-13T11:06:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-11-13T11:06:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "„Es ist wahr, die Preise und Miethen fallen ungefähr seit 1769“, als der König angefangen habe, die Häuser zu bauen „und dadurch mehr Wohnungen zu verschaffen“"
 
@@ -31,4 +28,5 @@ Offenbar ist der Berliner Senat heute nicht so unabhängig wie der Preußenköni
 > ## [Friedrich II. hat das Berliner Mietenproblem damals gelöst ](https://www.morgenpost.de/kultur/article227524783/Friedrich-II-hat-das-Berliner-Mietenproblem-damals-geloest.html)
 >
 >Im 18. Jahrhundert betrugt der Zustrom nach Berlin ein Vielfaches des heutigen. Trotzdem sanken die Wohnpreise, ganz ohne Mietendeckel. Wie das möglich war. 
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Schmerzmittel im Amateur- und Leistungssport: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-06-14
-output: pdf_document
+lastmod: 2020-06-14T17:39:01+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-06-14T17:39:01+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Schmerzmittel im Amateur- und Leistungssport: Das ist ein Thema, dass viel zu lange ignoriert wurde. Von Trainern, Ärzten, Eltern, Sportlern und Fans. Dabei ist das Problem wirklich weit verbreitet und es gibt praktisch kein Bewusstsein für die unglaublich vielen Probleme, die das mit sich bringt. Selbst ich kenne Geschichten aus erster Hand von Amateursportlern, die, statt sich richtig vorzubereiten, vor dem Halbmarathon einfach Schmerzmittel nehmen und sich dann über einen Ermüdungsbruch wundern, den sie beim Laufen gar nicht gemerkt haben. Und wie oft raunen Leute über den heroischen Leistungssportler, der ja mit Schlüsselbeinbruch noch weitergespielt hat usw. . Der ist kein harter Kerl! Das ist ein Junkie!
 
@@ -27,4 +24,5 @@ Was vielen nicht klar ist: Schmerzen sind gut! Sie sind ein wichtiges Signal. Si
 > ## [PILLENKICK – Schmerzmittelmissbrauch im Fußball](https://correctiv.org/top-stories/2020/06/08/pillenkick/)
 >
 >Der Fußball hat ein erhebliches Problem mit Schmerzmitteln. Unsere Recherche offenbart ein System, in dem Gesundheit nicht viel zählt.
+
 

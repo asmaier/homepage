@@ -1,23 +1,20 @@
 ---
 title: 'Da die Corona-Quarantäne sich so ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-26
-output: pdf_document
+lastmod: 2020-04-26T21:58:18+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-26T21:58:18+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Da die Corona-Quarantäne sich so gut auf Klima und Umwelt auswirkt, wäre es dann nicht gut viele der Maßnahmen zum Schutz des Klimas einfach beizubehalten? Weniger Flugreisen, mehr Homeoffice, mehr Online-Kurse, mehr Remote-Meetings etc. ...
 
@@ -27,4 +24,5 @@ Sehr gespannt bin ich auch, ob sich die Idee eines grünen Wiederaufbaus der Wir
 > ## [Klimawandel: Dax-Unternehmen erwärmen die Erde um 4,9 Grad](https://www.rnd.de/wirtschaft/klimawandel-dax-unternehmen-erwarmen-die-erde-um-49-grad-JQWVXGCFIVA3FJC4MOUXER5UJY.html)
 >
 >Den CO₂-Ausstoß eines Unternehmens zu erfassen ist schwer – ihn leicht verständlich darzustellen ist noch schwerer. Ein Frankfurter Start-up setzt auf eine sehr einfache Kennzahl: die X-Grad-Kompatibilität. Die stimmt in vielen Fällen eher pessimistisch.
+
 

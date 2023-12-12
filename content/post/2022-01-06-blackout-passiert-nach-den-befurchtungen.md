@@ -1,23 +1,20 @@
 ---
 title: '"Blackout: Passiert nach den Befürchtungen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-06
-output: pdf_document
+lastmod: 2022-01-06T15:56:28+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-06T15:56:28+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Blackout: Passiert nach den Befürchtungen vieler unweigerlich, wenn alle Menschen ihre E-Autos gleichzeitig laden würden. Theoretisch richtig, gilt aber auch für Föns, Kaffeemaschinen oder Backöfen."
 
@@ -37,4 +34,5 @@ https://www.heise.de/meinung/Kommentar-Das-Bullshit-Bingo-der-Verkehrswende-6316
 > ## [Kommentar: Das Bullshit-Bingo der Verkehrswende](https://www.heise.de/meinung/Kommentar-Das-Bullshit-Bingo-der-Verkehrswende-6316848.html)
 >
 >Ein paar Schlüsselbegriffe, die in jeder Debatte früher oder später auftauchen – und was dahintersteckt. 
+
 

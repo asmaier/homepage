@@ -1,23 +1,20 @@
 ---
 title: '"Ich will keine Einkaufstipps, ich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-23
-output: pdf_document
+lastmod: 2020-09-23T11:21:10+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-23T11:21:10+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Ich will keine Einkaufstipps, ich will keine Life-Hacks, und ich will schon gar keine Empfehlungen für nachhaltige Produkte. Das wird die drohende Umweltkatastrophe nicht aufhalten. Ich will wirklich die Umwelt retten, nicht nur selbst das Gefühl haben, "halt irgendwas getan zu haben". Gute Vorsätze und ein Biojoghurt reichen nicht."
 
@@ -33,4 +30,5 @@ Die Österreicherin hat einfach nur recht!
 > ## [Warum Ihr Bio-Einkauf nicht die Welt rettet](https://www.derstandard.at/story/2000120111584/warum-ihr-bio-einkauf-nicht-die-welt-rettet)
 >
 >Individuelle Konsumentscheidungen werden den Planeten nicht retten. Das können nur viel schärfere Gesetze zum Umweltschutz
+
 

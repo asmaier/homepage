@@ -1,23 +1,20 @@
 ---
 title: 'Heute gab es die ersten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-10
-output: pdf_document
+lastmod: 2020-04-10T00:07:28+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-10T00:07:28+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Heute gab es die ersten Ergebnisse der Studie, welche stichprobenartig die Infektionsrate der Bevölkerung mit Corona in Gangelt, Kreis Heinsberg untersucht hat (https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0). Bisher wurden ca. 500 zufällig ausgewählte Personen von 12.529 untersucht. Das Ergebnis: 15% waren bereits bzw. sind gerade mit Corona infiziert. 0,37% sind daran gestorben. 
 
@@ -115,4 +112,5 @@ Dieser Pressetext ist auch über das Internet verfügbar unter der Internet-Adre
 Allgemeiner Hinweis zum Datenschutz
 &nbsp;
 &nbsp;
+
 

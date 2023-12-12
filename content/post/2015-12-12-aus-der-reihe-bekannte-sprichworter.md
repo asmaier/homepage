@@ -1,23 +1,20 @@
 ---
 title: 'Aus der Reihe: Bekannte Sprichwörter ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-12-12
-output: pdf_document
+lastmod: 2015-12-12T21:56:48+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-12-12T21:56:48+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Aus der Reihe: Bekannte Sprichwörter berühmter Deutscher:
 
@@ -26,4 +23,5 @@ Aus der Reihe: Bekannte Sprichwörter berühmter Deutscher:
 > de.wikipedia.org
 > ## [August Engelhardt – Wikipedia](https://de.wikipedia.org/wiki/August_Engelhardt)
 >
+
 

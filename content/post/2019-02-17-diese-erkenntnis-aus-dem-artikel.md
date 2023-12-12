@@ -1,23 +1,20 @@
 ---
 title: 'Diese Erkenntnis aus dem Artikel ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-17
-output: pdf_document
+lastmod: 2019-02-17T22:39:42+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-17T22:39:42+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Diese Erkenntnis aus dem Artikel ist nicht neu, z.B. gibt es da das großartige Buch
 
@@ -37,4 +34,5 @@ Jeder sollte darüber lesen.
 > ## [Elizabeth Anderson: "Die moderne Firma ist eine Diktatur"](https://www.zeit.de/arbeit/2019-02/elizabeth-anderson-unternehmenskultur-egalitarismus-diktatur)
 >
 >Wir leben in einer Demokratie und verlassen sie jeden Tag, wenn wir ins Büro gehen: Die Philosophin Elizabeth Anderson prangert die Arbeitswelt als Tyrannei an. 
+
 

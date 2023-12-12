@@ -1,23 +1,20 @@
 ---
 title: '"Ein Ortsbeirat in Hessen hat ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-09
-output: pdf_document
+lastmod: 2019-09-09T15:07:09+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-09T15:07:09+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Ein Ortsbeirat in Hessen hat den NPD-Politiker Stefan Jagsch zum Ortsvorsteher gewählt. Begründung: Er sei der Einzige, der E-Mails verschicken könne."
 
@@ -27,4 +24,5 @@ Da fehlen einem die Worte. Wenn Nazis tatsächlich die einzigen sind, die Emails
 > ## [NPD-Ortsvorsteher: Bundespolitiker fordern Absetzung von NPD-Funktionär ](https://www.zeit.de/politik/deutschland/2019-09/hessen-npd-stefan-jagsch-wahl-ortsvorsteher-erklaerung)
 >
 >Ein Ortsbeirat in Hessen hat den NPD-Politiker Stefan Jagsch einstimmig zum Ortsvorsteher gewählt. Begründung: Er sei der Einzige, der E-Mails verschicken könne.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Weltweit ist die Baubranche für ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-07-30
-output: pdf_document
+lastmod: 2021-07-30T23:08:49+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-07-30T23:08:49+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Weltweit ist die Baubranche für die meisten CO2-Emissionen verantwortlich."
 
@@ -37,4 +34,5 @@ Also fragt mal an in euerer Gemeinde oder Stadt, ob bei geplanten Neu- und Umbau
 > ## [„Im Idealfall sollte gar nicht neu gebaut werden“](https://www.jetzt.de/umwelt/architects-for-future-luisa-ropelato-klimaschonend-bauen-bauen-in-der-zukunft)
 >
 >Luisa Ropelato von Architects for Future darüber, wie wir alle klimaschonender wohnen können.
+
 

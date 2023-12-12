@@ -1,23 +1,20 @@
 ---
 title: 'Ich bin ziemlich sicher, dass ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-08
-output: pdf_document
+lastmod: 2020-10-08T11:28:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-08T11:28:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich bin ziemlich sicher, dass auch in Deutschland fast alle Gesundheitsämter und das Robert-Koch-Institut Excel einsetzen. 
 
@@ -27,4 +24,5 @@ Dort wo das nicht der Fall ist, wird vermutlich noch gefaxt und Zettel per Hand 
 > ## [Why you should never use Microsoft Excel to count coronavirus cases](https://theconversation.com/why-you-should-never-use-microsoft-excel-to-count-coronavirus-cases-147681)
 >
 >There are any more sophisticated programs available for managing health data. Why did Public Health England use Microsoft Excel?
+
 

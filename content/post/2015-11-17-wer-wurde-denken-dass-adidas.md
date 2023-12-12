@@ -1,23 +1,20 @@
 ---
 title: 'Wer würde denken, dass Adidas ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-11-17
-output: pdf_document
+lastmod: 2015-11-17T21:07:48+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-11-17T21:07:48+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer würde denken, dass Adidas Deos gar nicht von Adidas sind, sondern zu https://www.coty.com/brands/adidas aus den USA gehören?
 
@@ -26,4 +23,5 @@ Wer würde denken, dass Adidas Deos gar nicht von Adidas sind, sondern zu https:
 > ## [Welche Kosmetikmarken gehören zu welchem Konzern? | Beautyjagd](http://beautyjagd.de/2012/06/03/welche-kosmetikmarken-gehoren-zu-welchem-konzern/)
 >
 >Naturkosmetik, Beauty Trends und mehr
+
 

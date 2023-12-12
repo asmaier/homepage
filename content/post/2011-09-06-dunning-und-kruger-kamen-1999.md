@@ -1,23 +1,20 @@
 ---
 title: 'Dunning und Kruger kamen 1999 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-09-06
-output: pdf_document
+lastmod: 2011-09-06T23:25:53+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-09-06T23:25:53+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dunning und Kruger kamen 1999 zum Resultat, dass weniger kompetente Personen
 - dazu neigen, ihre eigenen Fähigkeiten zu überschätzen
@@ -28,4 +25,5 @@ Der Effekt ist in der amerikanischen Gesellschaft am meisten ausgeprägt und in 
 > de.wikipedia.org
 > ## [Dunning-Kruger-Effekt – Wikipedia](http://de.wikipedia.org/wiki/Dunning-Kruger-Effekt)
 >
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Endlich mal ein Wahlversprechen für ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-08-26
-output: pdf_document
+lastmod: 2017-08-26T13:44:57+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-08-26T13:44:57+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Endlich mal ein Wahlversprechen für alle Deutschen:
 
@@ -28,4 +25,5 @@ https://www.die-partei.de/regierungsprogramm/
 > die-partei.de
 > ## [Die PARTEI](https://www.die-partei.de/regierungsprogramm/)
 >
+
 

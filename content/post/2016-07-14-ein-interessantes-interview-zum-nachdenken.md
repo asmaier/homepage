@@ -1,23 +1,20 @@
 ---
 title: 'Ein interessantes Interview zum Nachdenken: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-07-14
-output: pdf_document
+lastmod: 2016-07-14T20:52:11+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-07-14T20:52:11+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein interessantes Interview zum Nachdenken:
 
@@ -31,4 +28,5 @@ Ein interessantes Interview zum Nachdenken:
 > ## [«Diese Männer denken: Deutsche Frauen sind Schlampen»](http://bazonline.ch/ausland/europa/Diese-Maenner-denken-Deutsche-Frauen-sind-Schlampen/story/22916308)
 >
 >Bassam Tibi, Syrer und Schüler Theodor W. Adornos, ist ein Kenner des Islams. Worüber er spricht, will in Deutschland niemand hören: Judenhass der Araber, Sexismus und deutscher Extremismus.
+
 

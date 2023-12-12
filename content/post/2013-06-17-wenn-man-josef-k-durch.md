@@ -1,23 +1,20 @@
 ---
 title: 'Wenn man Josef K. durch ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-06-17
-output: pdf_document
+lastmod: 2013-06-17T10:53:32+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-06-17T10:53:32+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wenn man Josef K. durch Gustl M. ersetzt, ist es geradezu aktuell:
 
@@ -31,4 +28,5 @@ Wenn man Josef K. durch Gustl M. ersetzt, ist es geradezu aktuell:
 > ## [HipHop fürs Abitur: Schüler schreibt Rap-Song über Kafka](http://www.spiegel.de/schulspiegel/abi/hiphop-fuers-abitur-schueler-schreibt-rap-song-ueber-kafka-a-905283.html)
 >
 >Die Abi-Pflichtlektüre "Der Proceß" war ihm zu langweilig, und so dichtete der Mannheimer Schüler Tobias Stoll, 18, die Inhaltsanalyse in einen Rap-Song um. Sein Deutschlehrer urteilte: eine Eins plus.
+
 

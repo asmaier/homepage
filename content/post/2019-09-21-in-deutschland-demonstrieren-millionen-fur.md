@@ -1,23 +1,20 @@
 ---
 title: 'In Deutschland demonstrieren Millionen für ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-21
-output: pdf_document
+lastmod: 2019-09-21T17:52:17+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-21T17:52:17+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 In Deutschland demonstrieren Millionen für eine bessere Klimapolitik. In Russland ist es einer!
 
@@ -30,4 +27,5 @@ https://www.youtube.com/watch?v=cyGmFp3Di7E
 > ## [Klimaschutz: "Die Regierung hat Angst vor einer ökologischen Revolution"](https://www.zeit.de/campus/2019-09/klimaschutz-russland-streik-greta-thunberg-aktivismus-angst)
 >
 >Erst vor einem halben Jahr hat Arshak Makichyan zum ersten Mal vom Klimawandel gehört. Seitdem streikt er jeden Freitag in Moskau – oft allein. 
+
 

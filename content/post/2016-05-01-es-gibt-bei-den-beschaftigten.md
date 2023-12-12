@@ -1,23 +1,20 @@
 ---
 title: '"Es gibt bei den Beschäftigten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-05-01
-output: pdf_document
+lastmod: 2016-05-01T22:41:21+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-05-01T22:41:21+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Es gibt bei den Beschäftigten durchaus Bedenken, dass Mehrarbeit entsteht" . Deswegen kann man wohl bis heute auf https://ordnungsamt.berlin.de nichts für Friedrichshain-Kreuzberg angeben. 
 Das so eine simples Ticketverwaltungssystem 1,3 Millionen Euro kostet und natürlich von einer Firma in Wien umgesetzt wurde (als ob es nicht 3000 Startups in Berlin gäbe, die sowas für ein Butterbrot machen würden), zeigt mal wieder die völlige Inkompetenz der selbsternannten IT-Hauptstadt Deutschlands.
@@ -43,4 +40,5 @@ Zwischen Wittenbergplatz und Uhlandstraße stehen die Buslinien M19 und M29 zur 
 ...
 
 Von 13. November bis 8. Dezember 2022 finden die gleichen Einschränkungen erneut statt. Ausgenommen sind alle Brücken- und Feiertage.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die Motorradfahrer die sich jetzt ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-06-26
-output: pdf_document
+lastmod: 2020-06-26T16:50:06+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-06-26T16:50:06+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Motorradfahrer die sich jetzt darüber aufregen sollten sich mal klarmachen: Eine Lärmgrenze von 95 Dezibel Standgeräusch ist noch viel zu hoch. Schaut man mal unter https://de.wikipedia.org/wiki/Lautst%C3%A4rke sieht man das bei über 85 Dezibel Dauerbelastung Hörschäden drohen.  
 
@@ -29,4 +26,5 @@ Ich jedenfalls freue mich schon auf flüsterleise Elektromotorräder, die die He
 > ## [Lärmfahrverbot in Österreich: Auch legale Serien-Motorräder sind betroffen](https://www.motorradonline.de/ratgeber/laermfahrverbot-oesterreich-tirol-betroffene-modelle/)
 >
 >Seit 10. Juni gilt in Tirol auf einigen Strecken ein Fahrverbot für Motorräder mit einem Standgeräusch über 95 dB(A). MOTORRAD hat bei den Herstellern nachgefragt, welche aktuellen Modelle betroffen sind.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '1. Overall, educationally, the United ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2012-08-31
-output: pdf_document
+lastmod: 2012-08-31T10:55:02+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2012-08-31T10:55:02+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 1. Overall, educationally, the United States ranks 19th among 34 industrialized nations.
 2. Out of those 34 countries, the United States ranks 14th in reading, 17th in science and 25th in math.
@@ -42,4 +39,5 @@ slug: []
 
 From Paul Kindlon, a professor of humanities at Moscow University Touro.
 > http://www.themoscowtimes.com/opinion/article/a-letter-to-russian-college-students/467371.html
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Wow, Google Ideas is really ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-02-05
-output: pdf_document
+lastmod: 2015-02-05T18:29:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-02-05T18:29:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wow, Google Ideas is really evil: 
 
@@ -33,4 +30,5 @@ The topics on their web page (http://www.google.com/ideas/) are:
 
 That sound suspiciously like they are supporting aggressive undercover actions against foreign countries. States should not do this, but companies even less. What is Google thinking? Do they want to take over the world?
 > http://english.al-akhbar.com/content/stratforleaks-google-ideas-director-involved-regime-change
+
 

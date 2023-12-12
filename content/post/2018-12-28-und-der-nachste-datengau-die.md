@@ -1,23 +1,20 @@
 ---
 title: 'Und der nächste #DatenGAU: Die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-12-28
-output: pdf_document
+lastmod: 2018-12-28T22:38:22+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-12-28T22:38:22+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Und der nächste #DatenGAU: Die digitale Gesundheitsakte in Deutschland. Offenbar sind deutsche IT-Firmen nicht in der Lage selbst minimalste Sicherheitsstandards zum Schutz unserer privaten Gesundheitsdaten umzusetzen. 
 
@@ -27,4 +24,5 @@ Meines Erachtens nach ist der fahrlässige Umgang mit Gesundheitsdaten nichts an
 > ## [Krankenkassen-App beim 35C3: Das Problem mit den Gesundheitsdaten](https://www.faz.net/aktuell/feuilleton/debatten/problem-mit-den-gesundheitsdaten-krankenkassen-app-vivy-beim-35c3-15962807-p2.html?printPagedArticle=true#pageIndex_1)
 >
 >Mit Brute Force kommt man ziemlich weit: Auf dem Chaos Communication Congress erläutert Martin Tschirsich, wie sicher die im Herbst eingeführte Krankenkassen-App Vivy ist – und wie der Anbieter auf Bedenken reagiert hat.
+
 

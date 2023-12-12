@@ -1,23 +1,20 @@
 ---
 title: 'Hat schon mal jemand so ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-22
-output: pdf_document
+lastmod: 2019-02-22T23:15:28+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-22T23:15:28+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Hat schon mal jemand so ein Berlkönig-Auto ausprobiert? Komischerweise gibt es die nur in Ostberlin. Mir ist auch unklar wieso die BVG dabei auf Dieselfahrzeuge setzt. Als ob es davon nicht schon genug gibt. Und wieso macht die BVG jetzt ein steuerfinanziertes Konkurrenzangebot zu Taxis?
 
@@ -33,4 +30,5 @@ P.S.: In der USA mit ihrem notorisch schlechtem ÖPNV gibt es als Konkurrenz zu 
 > ## [Auto gegen Auto – Ridesharing und seine Kritiker](https://www.heise.de/newsticker/meldung/Auto-gegen-Auto-Ridesharing-und-seine-Kritiker-4296837.html)
 >
 >Zu Bus und Bahn gesellen sich in vielen Städten neue Angebote im öffentlichen Personennahverkehr. Was und wer steckt hinter der neuen Mobilitätswelle?
+
 

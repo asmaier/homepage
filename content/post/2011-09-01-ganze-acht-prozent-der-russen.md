@@ -1,23 +1,20 @@
 ---
 title: '"Ganze acht Prozent der Russen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-09-01
-output: pdf_document
+lastmod: 2011-09-01T01:33:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-09-01T01:33:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Ganze acht Prozent der Russen haben demnach Vorbehalte gegenüber Deutschen - kaum jemals in der Geschichte hat ein mit solcher Brutalität überfallenes Volk seinen Invasoren so gnädig vergeben und noch zu Lebzeiten der Opfer die Wiederannäherung gesucht."
 
@@ -27,4 +24,5 @@ Das musste einfach mal gesagt werden!
 > ## [(S+) Der schwere Weg der Versöhnung](http://www.spiegel.de/spiegel/print/d-78954519.html)
 >
 >Trotz allem - kaum einem Volk fühlen sich die Russen heute so nah wie dem deutschen.
+
 

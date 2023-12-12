@@ -1,23 +1,20 @@
 ---
 title: 'Shit for Science: How to ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2012-04-21
-output: pdf_document
+lastmod: 2012-04-21T17:31:56+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2012-04-21T17:31:56+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Shit for Science: 
 
@@ -33,4 +30,5 @@ All participants in the current study are expected to provide a stool sample, an
 > ## [Wie die Darmflora denkt und uns lenkt](http://www.zeit.de/2012/17/M-Darm)
 >
 >Myriaden Mikroben helfen bei der Verdauung und unterstützen das Immunsystem. Forscher haben eine kühne Vermutung: Die Darmflora beeinflusst vielleicht auch das Verhalten.
+
 

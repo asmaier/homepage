@@ -1,23 +1,20 @@
 ---
 title: 'Berlin: Problem -> Sexy ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-12-16
-output: pdf_document
+lastmod: 2013-12-16T12:50:30+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-12-16T12:50:30+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Berlin:
 Problem -> Sexy
@@ -26,4 +23,5 @@ Problem -> Sexy
 > ## [Fehler 404](http://binmitdabei.com/2687)
 >
 >Inhalt konnte nicht gefunden werden!
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Videokonferenzsoftware im Test: "Durchgefallen sind ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-02-19
-output: pdf_document
+lastmod: 2021-02-19T21:55:30+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-02-19T21:55:30+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Videokonferenzsoftware im Test:
 
@@ -46,4 +43,5 @@ P.S.: Das PDF der Berliner Datenschutzbeauftragten mit noch mehr Infos gibt es u
 > ## [Viel Rot: Berliner Datenschutzbeauftragte aktualisiert Videokonferenz-Liste](https://www.heise.de/news/Viel-Rot-Berliner-Datenschutzbeauftragte-aktualisiert-Videokonferenz-Liste-5060322.html)
 >
 >Laut einem erneuten Test der gängigen Videokonferenzsysteme durch die Berliner Datenschutzbehörde bestehen nach wie vor zahlreiche Mängel.
+
 

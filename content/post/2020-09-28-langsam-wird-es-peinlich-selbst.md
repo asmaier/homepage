@@ -1,23 +1,20 @@
 ---
 title: 'Langsam wird es peinlich. Selbst ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-28
-output: pdf_document
+lastmod: 2020-09-28T21:43:07+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-28T21:43:07+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Langsam wird es peinlich. Selbst China will jetzt den Verkauf von Verbrennern spätestens 2035 verbieten und setzt sich damit strengere Umweltziele als Deutschland. Das heißt, Elektroautos werden die nächsten 15 Jahre furchtbar wichtig werden in China. Das haben die deutschen Hersteller natürlich nicht kommen sehen, genau so wie die Wehrmacht im Dezember 1941 vom Winter in Russland überrascht wurde:
 
@@ -33,4 +30,5 @@ Wer im Jahr 2020 zum ersten Mal einen Markt für Elektroautos sieht, der braucht
 > ## [China "rettet" die Autobauer – Keine neuen Verbrenner mehr nach 2035?](https://www.heise.de/news/China-rettet-die-Autobauer-Keine-neuen-Verbrenner-mehr-nach-2035-4913526.html)
 >
 >China und Kalifornien fahren an der Spitze der Elektromobilität. Auch in Deutschland wird der Ruf lauter, ab 2035 keine Verbrenner mehr neu zuzulassen.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die selbsternannte Digital-Hauptstadt mal wieder. ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-29
-output: pdf_document
+lastmod: 2019-10-29T17:08:32+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-29T17:08:32+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die selbsternannte Digital-Hauptstadt mal wieder. 
 
@@ -29,4 +26,5 @@ Nun, dass was die Experten nicht geschafft haben, hat der Trojaner jetzt geschaf
 > ## [IT-Katastrophe am Berliner Kammergericht kam mit Ansage](https://www.tagesspiegel.de/berlin/experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage/25163810.html)
 >
 >Ein Virus legt das IT-System am Kammergericht lahm. Fachleute sahen schon vor zwei Jahren ein Sicherheitsrisiko – die Software war hoffnungslos veraltet.
+
 

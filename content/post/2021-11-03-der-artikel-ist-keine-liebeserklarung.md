@@ -1,23 +1,20 @@
 ---
 title: 'Der Artikel ist keine Liebeserklärung, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-03
-output: pdf_document
+lastmod: 2021-11-03T21:49:56+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-03T21:49:56+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der Artikel ist keine Liebeserklärung, sondern eine gute Analyse der Situation:
 
@@ -35,4 +32,5 @@ Dafür habe ich jetzt einen Turnverein für unseren Sohn gefunden. Die warten ab
 > ## [Sascha Lobo über Berlin: Liebeserklärung an den »failed state«](https://www.spiegel.de/netzwelt/netzpolitik/berlin-liebeserklaerung-an-den-failed-state-kolumne-a-11e7f7fd-fd59-486a-9958-da19db476188)
 >
 >Warum Berlin so dysfunktional ist? Die Stadt wurde nicht einfach nur kaputtgespart. Es liegt auch an der Niemandsverantwortung, der bürokratischen Entsprechung des Niemandslands.
+
 

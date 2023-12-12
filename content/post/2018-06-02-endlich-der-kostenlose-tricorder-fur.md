@@ -1,23 +1,20 @@
 ---
 title: 'Endlich, der kostenlose Tricorder für ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-06-02
-output: pdf_document
+lastmod: 2018-06-02T22:51:55+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-06-02T22:51:55+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Endlich, der kostenlose Tricorder für alle!
 > [![](https://phyphox.org/wp-content/uploads/2019/06/DSC02490_logo_2161.jpg)](http://phyphox.org/de/home-de/)
@@ -30,4 +27,5 @@ Funktionen
 Sensoren
 Phyphox ermöglicht es dir, mit den Sensoren deines Smartphones zu experimentieren. Ermittle z.B. mit dem Beschleunigungssensor die Frequenz eines Pendels oder miss den Dopplereffekt mit dem Mikrofon des Handys.
 Datenexport
+
 

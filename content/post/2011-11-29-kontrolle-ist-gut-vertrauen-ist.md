@@ -1,23 +1,21 @@
 ---
 title: 'Kontrolle ist gut, Vertrauen ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-11-29
-output: pdf_document
+lastmod: 2011-11-29T22:34:26+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-11-29T22:34:26+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Kontrolle ist gut, Vertrauen ist besser!
+
 

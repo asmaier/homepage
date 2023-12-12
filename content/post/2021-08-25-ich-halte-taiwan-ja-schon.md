@@ -1,23 +1,20 @@
 ---
 title: 'Ich halte Taiwan ja schon ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-08-25
-output: pdf_document
+lastmod: 2021-08-25T10:28:47+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-08-25T10:28:47+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich halte Taiwan ja schon lange für das bessere China. Von der jungen Demokratie in Taiwan könnten wir uns einiges abschauen, insbesondere was Digitalisierung der Behörden angeht. 
 
@@ -31,4 +28,5 @@ P.S.: Man kann auch mit dem Klima nicht verhandeln. Auch die Klimaerwärmung kan
 >
 
 This video from Vox takes a look at how Taiwan avoided a Covid-19 outbreak for more than a year (and kept total deaths to just 7
+
 

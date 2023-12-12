@@ -1,23 +1,20 @@
 ---
 title: 'Ein interessanter Artikel mit einigen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-05-07
-output: pdf_document
+lastmod: 2018-05-07T17:41:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-05-07T17:41:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein interessanter Artikel mit einigen Interessanten Erkenntnissen:
 
@@ -29,4 +26,5 @@ Ein interessanter Artikel mit einigen Interessanten Erkenntnissen:
 > ## [Müdigkeit: Risiko Schlafmangel](https://www.spektrum.de/news/was-bei-schlafmangel-im-gehirn-passiert/1560834)
 >
 >Schlafentzug und seine gefährlichen Folgen
+
 

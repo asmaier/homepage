@@ -1,23 +1,20 @@
 ---
 title: 'Nur noch bis heute könnt ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-08-23
-output: pdf_document
+lastmod: 2015-08-23T12:41:55+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-08-23T12:41:55+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nur noch bis heute könnt ihr eure Favoriten für den Publikumspreis wählen. Wie wärs z.B. mit
 
@@ -28,4 +25,5 @@ Nur noch bis heute könnt ihr eure Favoriten für den Publikumspreis wählen. Wi
 > ## [3166 Preisträger](https://www.land-der-ideen.de/ausgezeichnete-orte/preistraeger)
 >
 >Sehen Sie hier die Preisträger der Wettbewerbe "Ausgezeichnete Orte im Land der Ideen" und "365 Orte".
+
 

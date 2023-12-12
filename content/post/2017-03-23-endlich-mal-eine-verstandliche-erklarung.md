@@ -1,23 +1,20 @@
 ---
 title: 'Endlich mal eine verständliche Erklärung, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-03-23
-output: pdf_document
+lastmod: 2017-03-23T11:28:12+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-03-23T11:28:12+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Endlich mal eine verständliche Erklärung, was ein Zeitkristall sein soll:
 
@@ -30,4 +27,5 @@ Wird ein Quantensystem hingegen zeitlich periodisch getrieben, so besitzt es ein
 > ## [Seite nicht gefunden | pro-physik.de](http://www.pro-physik.de/details/news/10482759/Zeitlich_kristalline_Ordnung_beobachtet.html)
 >
 >Die von Ihnen aufgerufene Seite existiert nicht oder wurde gelöscht.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Der Einschätzung führender Militärstrategen der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-11-28
-output: pdf_document
+lastmod: 2016-11-28T00:36:15+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-11-28T00:36:15+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der Einschätzung führender Militärstrategen der USA und der Nato, dass mehr oder weniger eigenständige Killer-Roboter prinzipiell mit dem Kriegsvölkerrecht zu vereinbaren seien, "
 
@@ -27,4 +24,5 @@ Ich würde eher sagen, dass ist die Einschätzung führender Idioten der USA und
 > ## [FIfFKon16: Autonome Waffensysteme erlauben fehlerhaftes Töten](https://www.heise.de/newsticker/meldung/FIfFKon16-Autonome-Waffensysteme-erlauben-fehlerhaftes-Toeten-3505805.html)
 >
 >Der Informatiker Hans-Jörg Kreowski warnt massiv vor selbständigen Killer-Robotern: Maschinen mit Entscheidungsverfahren über Tod und Leben auszustatten, sei "völlig pervers" und ethisch nicht vertretbar.
+
 

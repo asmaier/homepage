@@ -1,23 +1,20 @@
 ---
 title: 'Gute Nachrichten: "Den großen Nahrungsmittelkonzernen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-23
-output: pdf_document
+lastmod: 2019-02-23T21:31:41+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-23T21:31:41+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Gute Nachrichten:
 
@@ -29,4 +26,5 @@ Weiter so! Den Bio-Bauern gehört die Zukunft!
 > ## [Aktienkurs bricht ein: Kraft Heinz muss Milliarden auf seine Marken abschreiben](https://www.faz.net/aktuell/finanzen/kraft-heinz-schreibt-fuer-seine-marken-viele-milliarden-ab-16054577.html)
 >
 >Der Lebensmittelkonzern Kraft Heinz ist wegen veränderter Verbrauchergewohnheiten tief in die roten Zahlen gerutscht. Die amerikanische Börsenaufsicht stößt zudem auf Ungereimtheiten. Anleger erleben einen Kursrutsch.
+
 

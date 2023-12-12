@@ -1,23 +1,20 @@
 ---
 title: '“In hardly any other country ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-08-26
-output: pdf_document
+lastmod: 2016-08-26T18:06:42+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-08-26T18:06:42+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 “In hardly any other country does social origin influence one’s income as much as in Germany,”
 
@@ -28,4 +25,5 @@ slug: []
 > ## [Bloomberg - Are you a robot?](https://www.bloomberg.com/news/articles/2016-08-23/how-to-stay-rich-in-europe-inherit-money-for-700-years)
 >
 >To continue, please click the box below to let us know you're not a robot.
+
 

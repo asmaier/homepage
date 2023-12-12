@@ -1,23 +1,20 @@
 ---
 title: 'Vater und Sohns liebstes neues ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-02-19
-output: pdf_document
+lastmod: 2017-02-19T16:55:58+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-02-19T16:55:58+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Vater und Sohns liebstes neues Spielzeug: Kinetic Sand! 
 
@@ -27,4 +24,5 @@ Gibt es hier bei Amazon: https://www.amazon.de/dp/B00FFD3P4A/?tag=maierandi-21&t
 > ## [Kinetic Sand - The First Sand That Breathes Motion!](https://www.youtube.com/watch?v=50_-zqsgDA4)
 >
 >Kinetic Sand offers a magical and mesmerizing experience, giving a moment of relaxation for both young and old. Kinetic Sand is 98% pure sand and 2% magic.Wo...
+
 

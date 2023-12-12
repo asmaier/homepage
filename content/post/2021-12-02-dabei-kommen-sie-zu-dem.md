@@ -1,23 +1,20 @@
 ---
 title: '"Dabei kommen sie zu dem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-12-02
-output: pdf_document
+lastmod: 2021-12-02T15:33:18+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-12-02T15:33:18+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Dabei kommen sie zu dem Ergebnis, dass es tatsächlich maßgeblich die Ungeimpften sind, die die Infektionsdynamik in Deutschland vorantreiben."
 
@@ -27,4 +24,5 @@ Nein, doch, ooh!
 > ## [Simulationsstudie : Drei Viertel aller Infektionen gehen von Ungeimpften aus](https://www.spektrum.de/news/simulation-drei-viertel-aller-infektionen-gehen-von-ungeimpften-aus/1955194)
 >
 >Ungeimpfte treiben die Infektionsausbreitung überproportional stark voran
+
 

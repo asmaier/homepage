@@ -1,23 +1,20 @@
 ---
 title: 'Auf den ersten Blick ein ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-04-06
-output: pdf_document
+lastmod: 2019-04-06T22:18:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-04-06T22:18:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Auf den ersten Blick ein hochinteressanter Artikel. Jedoch kamen mir auf einmal Zweifel. Hamburg ist genau wie Berlin ein Stadtstaat. Die Verwaltungsstrukturen sind in Hamburg und Berlin recht ähnlich. So wie der Autor hier Berlin kritisiert, müsste er eigentlich auch Hamburg kritisieren. Und tatsächlich schreibt der Bürgermeister des Berliner Bezirks Treptow einen vergleichbaren Artikel in dem er auch den Vergleich mit Hamburg nicht scheut. 
 https://www.oliver-igel.de/meldungen/zur-hassliebe-zwischen-bezirken-und-senat-in-berlin-ein-weiterer-anstoss-zu-veraenderungen-in-der-hauptstadtverwaltung/
@@ -28,4 +25,5 @@ Daher empfehle ich euch den Artikel des Bezirksbürgermeisters zu lesen.
 > ## [Berlin ist organisatorisch auf dem Stand von 1920](https://www.tagesspiegel.de/berlin/stadtmanagement-berlin-ist-organisatorisch-auf-dem-stand-von-1920/24169092.html)
 >
 >Strukturen von vor 100 Jahren verhindern die Entwicklung und Umsetzung nachhaltiger Leitbilder für die Stadt von morgen. Ein Gastbeitrag.
+
 

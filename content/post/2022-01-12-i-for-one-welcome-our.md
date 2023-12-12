@@ -1,23 +1,20 @@
 ---
 title: '"I, for one, welcome our ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-12
-output: pdf_document
+lastmod: 2022-01-12T11:23:10+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-12T11:23:10+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "I, for one, welcome our new robot overlords!" 
 
@@ -27,4 +24,5 @@ slug: []
 > ## [Ameca Humanoid Robot AI Platform](https://www.youtube.com/watch?v=IPukuYb9xWw)
 >
 >First look at Ameca , most advanced humanoid robot from @Engineered Arts Designed as a platform for AI and human robot interaction (HRI) . Will be on show at...
+
 

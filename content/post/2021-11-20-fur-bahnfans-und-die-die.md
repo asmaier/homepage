@@ -1,23 +1,20 @@
 ---
 title: 'Für Bahnfans und die die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-20
-output: pdf_document
+lastmod: 2021-11-20T22:52:58+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-20T22:52:58+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Für Bahnfans und die die es werden wollen gibt es in der 3sat Mediathek jetzt einen interessanten Film. Hier werden die Eisenbahnen Deutschland, Österreich und der Schweiz miteinander verglichen. Um es kurz zu machen: Deutschland kann sehr viel von Österreich und der Schweiz lernen. 
 Ähnlich wie Deutschland ca. 30 Jahre hinter den Niederlanden liegt, wenn es um den Ausbau des Radverkehrs geht, liegt Deutschland auch mindestens 30 Jahre hinter der Schweiz, wenn es um den Ausbau des Zugverkehrs geht.
@@ -33,4 +30,5 @@ Schweiz: 440 Euro
 > ## [Bitte umsteigen! – Der grosse Bahnvergleich](https://www.3sat.de/gesellschaft/politik-und-gesellschaft/bitte-umsteigen-102.html)
 >
 >Ein Bahntester und eine Klimaaktivistin reisen durchs 3sat-Land: Wo gelingt es, den Verkehr auf die Schiene zu verlagern? Wer hat Lösungen... und setzt sie auch um? Wer geht voran?
+
 

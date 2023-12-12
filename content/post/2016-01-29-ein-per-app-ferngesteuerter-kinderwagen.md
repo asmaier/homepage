@@ -1,23 +1,20 @@
 ---
 title: 'Ein per App ferngesteuerter Kinderwagen! ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-01-29
-output: pdf_document
+lastmod: 2016-01-29T15:02:55+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-01-29T15:02:55+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein per App ferngesteuerter Kinderwagen!
 
@@ -27,4 +24,5 @@ Was kann da schon schiefgehen?﻿
 > ## [Smartbe Intelligent Stroller](https://www.indiegogo.com/projects/smartbe-intelligent-stroller)
 >
 >The first intelligent baby stroller, Multifunctional and Self-Propelled to make Parenting easier. | Check out 'Smartbe Intelligent Stroller' on Indiegogo.
+
 

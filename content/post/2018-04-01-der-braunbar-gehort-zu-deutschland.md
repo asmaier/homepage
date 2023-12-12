@@ -1,23 +1,20 @@
 ---
 title: '"Der Braunbär gehört zu Deutschland ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-04-01
-output: pdf_document
+lastmod: 2018-04-01T16:38:58+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-04-01T16:38:58+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der Braunbär gehört zu Deutschland wie Wolf, Wisent und Elch. Nicht umsonst ist er auf vielen Wappen und Flaggen zu finden"
 
@@ -27,4 +24,5 @@ Das wird man doch noch mal sagen dürfen!
 > ## [Seehofer](https://www.tagesschau.de/inland/seehofer-braunbaer-101.html)
 >
 >Seehofer
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Vor Gericht sagt Axel Springer ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-10-03
-output: pdf_document
+lastmod: 2015-10-03T12:48:39+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-10-03T12:48:39+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Vor Gericht sagt Axel Springer ausnahmsweise die Wahrheit: 
 
@@ -29,4 +26,5 @@ Dem ist nichts hinzuzufügen.
 > ## [Adblock Plus: Axel Springer sieht Journalismus nur als Vehikel für Werbung - Golem.de](http://www.golem.de/news/adblock-plus-axel-springer-sieht-journalismus-nur-als-vehikel-fuer-werbung-1509-116587.html)
 >
 >Der Werbeblocker Adblock Plus hat einen weiteren Prozess gegen Medien gewonnen. In dem Verfahren vertrat der Verlag Axel Springer eine sehr ehrliche Auffassung, wozu ihm
+
 

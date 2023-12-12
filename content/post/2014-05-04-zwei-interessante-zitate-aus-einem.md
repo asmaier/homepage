@@ -1,23 +1,20 @@
 ---
 title: 'Zwei interessante Zitate aus einem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-05-04
-output: pdf_document
+lastmod: 2014-05-04T15:19:12+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-05-04T15:19:12+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Zwei interessante Zitate aus einem lesenswerten Artikel:
 
@@ -31,4 +28,5 @@ Was soll man sich dabei denken?
 > ## [Russland-Forscher über die Ukrainekrise: „Wir schlittern in einen Krieg“](http://www.taz.de/Russland-Forscher-ueber-die-Ukrainekrise/!137733/)
 >
 >Nicht Putin habe die Ukrainekrise ausgelöst, sondern der Wunsch der USA, die Ukraine in die Nato zu holen, meint der Russlandforscher Stephen Cohen.
+
 

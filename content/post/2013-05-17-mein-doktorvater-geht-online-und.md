@@ -1,23 +1,20 @@
 ---
 title: 'Mein Doktorvater geht online und ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-05-17
-output: pdf_document
+lastmod: 2013-05-17T12:49:44+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-05-17T12:49:44+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mein Doktorvater geht online und hat möchte eine Online-Vorlesung anbieten:
 
@@ -29,4 +26,5 @@ Bitte "voted" für ihn. Die Vorlesung die er anbieten möchte ist wirklich nütz
 > ## [MOOC Production Fellowship](https://moocfellowship.org/submissions/order-of-magnitude-physics-from-atomic-nuclei-to-the-universe)
 >
 >This autumn everyone can be a student. We make online learning interactive, scalable and social. Join the MOOC revolution!
+
 

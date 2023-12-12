@@ -1,23 +1,20 @@
 ---
 title: 'Lessons Learned From Big Data ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-03-14
-output: pdf_document
+lastmod: 2016-03-14T17:04:34+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-03-14T17:04:34+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Lessons Learned From Big Data Movies
 
@@ -29,4 +26,5 @@ Lessons Learned From Big Data Movies
 > ## [Blog](https://infocus.emc.com/william_schmarzo/my-favorite-big-data-movies/)
 >
 >Product & Technology Blog
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Herr Drosten teilt wieder ein ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-20
-output: pdf_document
+lastmod: 2020-03-20T23:22:42+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-20T23:22:42+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Herr Drosten teilt wieder ein paar interessante Gedanken:
 
@@ -31,4 +28,5 @@ Das wäre dann praktisch ein Bio-Impfstoff direkt "gemolken" von jungen wieder g
 > ## [Christian Drosten: "Wir müssen jetzt die Fälle senken. Sonst schaffen wir es nicht"](https://www.zeit.de/wissen/gesundheit/2020-03/christian-drosten-coronavirus-pandemie-deutschland-virologe-charite)
 >
 >Der Virologe Christian Drosten leitet Deutschland durch die Pandemie. Ein Gespräch über Ausgangssperren, die Dauer der Krise – und wie sie unser Leben verändert.
+
 

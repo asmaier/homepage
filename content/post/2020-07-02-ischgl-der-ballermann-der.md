@@ -1,23 +1,20 @@
 ---
 title: 'Ischgl - Der Ballermann der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-07-02
-output: pdf_document
+lastmod: 2020-07-02T22:38:34+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-07-02T22:38:34+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ischgl - Der Ballermann der Alpen hat sich dieses Jahr besonders gelohnt:
 
@@ -31,4 +28,5 @@ Ergeben sich daraus nicht gar Schadensersatzansprüche von Deutschland gegen Isc
 > ## [Ischgl: Antikörper-Test enthüllt Ausmaß der Infektionen - wissenschaft.de](https://www.wissenschaft.de/gesundheit-medizin/ischgl-antikoerper-test-enthuellt-ausmass-der-infektionen/)
 >
 >Der Tiroler Skiort Ischgl hat im Frühjahr 2020 traurige Berühmtheit erlangt, denn dort steckten sich besonders viele Touristen aus aller Welt mit Covid-19
+
 

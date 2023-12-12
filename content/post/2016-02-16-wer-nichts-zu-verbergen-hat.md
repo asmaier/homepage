@@ -1,23 +1,20 @@
 ---
 title: '"Wer nichts zu verbergen hat, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-02-16
-output: pdf_document
+lastmod: 2016-02-16T16:23:30+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-02-16T16:23:30+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Wer nichts zu verbergen hat, hat auch nichts zu befürchten." 
 Außer er wird von einem fehlerhaften Algorithmus zum Terroristen abgestempelt und dann per Drone liquidiert. Schöne neue Welt!
@@ -32,4 +29,5 @@ In the years that have followed, thousands of innocent people in Pakistan may ha
 > ## [The NSA’s SKYNET program may be killing thousands of innocent people](http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/)
 >
 >"Ridiculously optimistic" machine learning algorithm is "completely bullshit," says expert.
+
 

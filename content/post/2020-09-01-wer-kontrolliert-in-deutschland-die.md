@@ -1,23 +1,20 @@
 ---
 title: 'Wer kontrolliert in Deutschland die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-01
-output: pdf_document
+lastmod: 2020-09-01T19:26:30+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-01T19:26:30+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer kontrolliert in Deutschland die Kontrolleure? Niemand, wie sich herausstellt. Die Bafin-Mitarbeiter haben am meisten selbst mit Wirecard-Aktien spekuliert. Das ist für mich ein noch größerer Skandal als Wirecard selbst. Schließlich kann man davon ausgehen, dass die Bafin-Mitarbeiter ihr Insiderwissen nicht nur zur Spekulation mit Wirecard-Aktien mißbraucht haben. 
 
@@ -31,4 +28,5 @@ War man in Deutschland nur wieder total naiv oder einfach zu inkompetent um dies
 > ## [Fall Wirecard: Bundesregierung will Aktiengeschäfte von Bafin-Mitarbeitern einschränken](https://www.faz.net/aktuell/wirtschaft/wirecard-bundesregierung-will-aktiengeschaefte-von-bafin-mitarbeitern-einschraenken-16932591.html)
 >
 >Mit keiner Aktie haben Bafin-Mitarbeiter in den vergangenen anderthalb Jahren so viel gehandelt wie mit der von Wirecard. Die Bundesregierung prüft nach Informationen der F.A.Z. nun eine Verschärfung der Regeln für Bafin-Mitarbeiter. 
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Dem gemeinen Deutschen wird ja ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-28
-output: pdf_document
+lastmod: 2019-06-28T13:34:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-28T13:34:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dem gemeinen Deutschen wird ja oft eine eher miese Grundstimmung vorgeworfen, ganz im Gegensatz z.B. zu den ewig optimistischen Amerikanern. Aber wenn es darum geht FakeNews zu erkennen, dann ist gerade diese Eigenschaft der Deutschen von Vorteil! 
 
@@ -27,4 +24,5 @@ Also lasst euch eure schlechte Stimmung nicht vermiesen! ;-)
 > ## [Manipulierbarkeit: Schlechte Stimmung fördert kritisches Denken](https://www.spektrum.de/news/schlechte-stimmung-foerdert-kritisches-denken/1637748)
 >
 >Bei guter Laune lassen wir uns leichter einen Bären aufbinden
+
 

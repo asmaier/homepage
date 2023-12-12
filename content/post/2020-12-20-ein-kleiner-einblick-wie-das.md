@@ -1,23 +1,20 @@
 ---
 title: 'Ein kleiner Einblick wie das ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-12-20
-output: pdf_document
+lastmod: 2020-12-20T22:23:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-12-20T22:23:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein kleiner Einblick wie das mit dem FakeNews so funktioniert. Zusätzlich zu offensichtlichen Fakeseiten wie "Abendlich Hamburg" kommen aber noch locker abertausende TwitterBots (https://www.zeit.de/2019/21/russland-trolle-twitter-europawahl-daten-manipulation/komplettansicht), vermeintlich private Blogs (https://www.psiram.com/de/index.php/Swiss_Policy_Research), Myriaden von YouTube-Channels, Facebook-Seiten etc. . 
 
@@ -30,4 +27,5 @@ Für alle die aber schon gegen völlig abgestumpft sind gegen russische oder auc
 > ## [Russische Desinformation - Das Netzwerk gefälschter Auslandsmedien](https://netzpolitik.org/2020/russische-desinformation-das-netzwerk-gefaelschter-auslandsmedien/)
 >
 >Seit Jahren verbreiten vermeintliche Nachrichtenportale aus Europa russische Propaganda. netzpolitik.org und WELT haben jetzt ein Netzwerk enttarnt, das Lügen in russischen Medien glaubwürdiger machen soll. Es gibt Verbindungen zum Geheimdienst.
+
 

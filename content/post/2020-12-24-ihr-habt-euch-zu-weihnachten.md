@@ -1,23 +1,20 @@
 ---
 title: 'Ihr habt euch zu Weihnachten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-12-24
-output: pdf_document
+lastmod: 2020-12-24T13:04:10+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-12-24T13:04:10+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ihr habt euch zu Weihnachten einen riesigen 4K Fernseher gegönnt und stellt fest, dass das Fernsehprogramm davon auch nicht besser wird? 
 
@@ -31,4 +28,5 @@ Frohe Weihnachten!
 > ## [Space Station Fisheye Fly-Through 4K (Ultra HD)](https://www.youtube.com/watch?v=DhmdyQdu96M)
 >
 >Join us for a fly-through of the International Space Station. Produced by Harmonic exclusively for NASA TV UHD, the footage was shot in Ultra High Definition...
+
 

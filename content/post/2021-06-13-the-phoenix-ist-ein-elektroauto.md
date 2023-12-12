@@ -1,23 +1,20 @@
 ---
 title: '"The Phoenix ist ein Elektroauto ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-06-13
-output: pdf_document
+lastmod: 2021-06-13T20:45:54+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-06-13T20:45:54+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "The Phoenix ist ein Elektroauto aus 90 % recyceltem Material und wurde von IT Asset Partners Inc. (ITAP) im Laufe von 35 Tagen für nur 13.000 USD gebaut. ... Das Fahrzeug hält mit 999,5 Meilen (1608,5 km) den Weltrekord für die größte von einem Elektrofahrzeug zurückgelegte Entfernung mit einer einzigen Ladung."
 
@@ -31,4 +28,5 @@ Ich denke das Ganze zeigt das Potential, welches in Elektroautos steckt sehr gut
 > ## [The Phoenix - Guinness World Record Title!](https://www.youtube.com/watch?v=LAP8O5Fd6J0)
 >
 >People can say it's impossible.. Until it's done. : )Please Sign Petition To WhiteHouse for Eric Lundgren Below - THANK YOU: https://petitions.whitehouse.gov...
+
 

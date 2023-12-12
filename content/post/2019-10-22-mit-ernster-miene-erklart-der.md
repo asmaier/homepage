@@ -1,23 +1,20 @@
 ---
 title: '"Mit ernster Miene erklärt der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-22
-output: pdf_document
+lastmod: 2019-10-22T14:07:01+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-22T14:07:01+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Mit ernster Miene erklärt der Moderator, wie man einen Kühlschrank länger als vier Stunden ohne Strom kalt halten kann; wo man sein Smartphone auflädt, wenn man keine Akkupacks hat – "bitte nicht im Auto bei geschlossenem Garagentor!" – und wie man überhaupt ein Garagentor ohne Strom öffnen kann."
 
@@ -29,4 +26,5 @@ Tja, wenn man Solarpanels auf dem Dach hat, wäre das alles kein Problem. Aber i
 > ## [Stromversorgung vorsorglich gekappt: Mittelalter im Silicon Valley](https://www.derstandard.at/story/2000110004886/stromvorsorgliche-gekappt-mittelalter-im-silicon-valley)
 >
 >Nahe dem Silicon Valley steigt die Gefahr von Waldbränden. Vielerorts wurde vorsorglich der Strom abgestellt. Dort, wo die Zukunft gemacht wird, sollte man die Frage nach der Zukunftsfähigkeit der Infrastruktur stellen
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Das schreibt die Capital: "Gott ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-01-31
-output: pdf_document
+lastmod: 2020-01-31T18:33:16+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-01-31T18:33:16+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das schreibt die Capital:
 
@@ -29,4 +26,5 @@ Selbst die großen Energiekonzerne setzen inzwischen voll auf erneuerbare Energi
 > ## [Energiewende – Mythen reloaded - Capital.de](https://www.capital.de/wirtschaft-politik/energiewende-mythen-reloaded?article_onepage=true)
 >
 >Der Ruf der deutschen Energiewende hat stark gelitten. Nach Ansicht von Claudia Kemfert handelt es sich bei den meisten Argumenten der Gegner um Mythen. Hier räumt sie mit den gängigsten Märchen auf
+
 

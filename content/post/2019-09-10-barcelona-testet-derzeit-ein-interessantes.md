@@ -1,23 +1,20 @@
 ---
 title: 'Barcelona testet derzeit ein interessantes ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-10
-output: pdf_document
+lastmod: 2019-09-10T22:54:47+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-10T22:54:47+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Barcelona testet derzeit ein interessantes Konzept:
 
@@ -35,4 +32,5 @@ Das ist laut Oliver Schwedes (Fachgebietsleiter für Integrierte Verkehrsplanung
 > ## [Business Insider](https://www.businessinsider.de/barcelona-verbannt-das-auto-mit-einem-genialen-konzept-aus-innenstaedten-2018-4)
 >
 >Versucht, euer gewünschtes Thema mit unserer Suche zu finden.
+
 

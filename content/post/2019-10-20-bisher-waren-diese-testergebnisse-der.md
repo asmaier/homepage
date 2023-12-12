@@ -1,23 +1,20 @@
 ---
 title: '"Bisher waren diese Testergebnisse der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-20
-output: pdf_document
+lastmod: 2019-10-20T21:31:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-20T21:31:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Bisher waren diese Testergebnisse der Öffentlichkeit unbekannt. Nicht einmal der Verkehrsausschuss im Deutschen Bundestag kennt die Ergebnisse. "Nach wie vor verweigern Verkehrsminister Scheuer und sein Kraftfahrt-Bundesamt eine transparente Aufklärung des Abgasskandals. Die Abgastests des Kraftfahrt-Bundesamtes gleichen einem Geheimmanöver", sagt der grüne Bundestagsabgeordnete Stephan Kühn dem rbb. "Vor mehr als zwei Jahren hat das Ministerium den letzten Zwischenbericht seiner Untersuchungskommission vorgelegt, seitdem herrscht Funkstille.""
 
@@ -44,4 +41,5 @@ Von So, 21.11. bis Do, 9.12., jeweils So–Do, ca. 22:30 Uhr bis ca. 0:30 Uhr
 Zwischen U Senefelderplatz und U Stadtmitte kein Zugverkehr.
 
 Ein Ersatzverkehr wird eingerichtet.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Es gibt ja viele, die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-15
-output: pdf_document
+lastmod: 2019-09-15T15:27:21+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-15T15:27:21+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es gibt ja viele, die mich für verrückt erklären, wenn ich vorschlage Politiker statt durch Wahlen sie lieber durch Los aus der Bevölkerung zu bestimmen (so wie im antiken Athen). Aber es gibt inzwischen erste Schritte von Staaten in diese Richtung.
 
@@ -36,4 +33,5 @@ Ich bin sehr gespannt, wie sich das in der Mongolei entwickelt.
 > ## [Deliberative Democracy in Mongolia](https://www.youtube.com/watch?v=mzjiRUqq_MM)
 >
 >Gombojavyn Zandanshatar, Mongolia's Minister of Foreign Affairs and Trade from 2009 to 2012, and currently a member of the Mongolian parliament, was a Visiti...
+
 

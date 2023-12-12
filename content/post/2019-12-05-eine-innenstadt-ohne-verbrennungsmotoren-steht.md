@@ -1,23 +1,20 @@
 ---
 title: '"Eine Innenstadt ohne Verbrennungsmotoren steht ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-12-05
-output: pdf_document
+lastmod: 2019-12-05T21:20:51+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-12-05T21:20:51+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Eine Innenstadt ohne Verbrennungsmotoren steht auch auf ihrer Maßnahmenliste, ebenso Solarpflicht für Neubauten, der ausschließliche Kauf von Elektrowagen für öffentliche Fuhrparks oder die energetische Sanierung öffentlicher Gebäude, um die Stadt zum Vorbild im Klimaschutz zu machen."
 
@@ -29,4 +26,5 @@ Die F-,A-,C-Parteien sind einfach völlig unwählbare Dinosaurier geworden.
 > ## [Berlin: Michael Müller will Verbrennungsmotoren verbannen](https://www.morgenpost.de/berlin/article227812649/Mueller-will-Verbrennungsmotoren-aus-der-City-verbannen.html)
 >
 >Noch fehlen konkrete Ideen, welche Maßnahmen Berlin bei anerkannter Klimanotlage ergreifen will. Michael Müller hat einen Vorschlag.
+
 

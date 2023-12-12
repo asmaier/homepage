@@ -1,23 +1,20 @@
 ---
 title: '"Auch fast sechzig Jahre nach ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-18
-output: pdf_document
+lastmod: 2021-05-18T12:37:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-18T12:37:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Auch fast sechzig Jahre nach Erfindung des Computers und dreißig Jahre nach Gründung des World Wide Webs spielt die Informatik in deutschen Schulen kaum eine Rolle."
 
@@ -29,4 +26,5 @@ Offenbar hat sich seitdem wenig geändert. Wobei ich eigentlich nicht der Meinun
 > ## [GI: Informatik spielt in deutschen Schulen kaum eine Rolle](https://www.heise.de/news/GI-Informatik-spielt-in-deutschen-Schulen-keine-Rolle-5988207.html)
 >
 >Die Landkarte der Informatikbildung präsentiert sich für die Gesellschaft für Informatik als Flickenteppich. Auch würde zu oberflächlich gelehrt.
+
 

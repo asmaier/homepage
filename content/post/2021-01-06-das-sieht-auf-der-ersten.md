@@ -1,23 +1,20 @@
 ---
 title: 'Das sieht auf der ersten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-01-06
-output: pdf_document
+lastmod: 2021-01-06T23:13:48+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-01-06T23:13:48+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das sieht auf der ersten Blick so aus, als gäbe es bald einen ICE-Anschluß für Berlin-Zehlendorf. Tatsächlich ist es nur ein Testzug (eine Art ICE mit Dieselantrieb!) der auf den Gleisen der 2018 stillgelegten Gleisen  der Goerzbahn (https://de.wikipedia.org/wiki/Zehlendorfer_Eisenbahn) durch Zehlendorf fahren soll. Gut das sie das ankündigen, denn kein Auto-/Fahrrad- und Fußgänger rechnet an diesen Gleisen damit, dass dort ein Zug kommt. 
 
@@ -29,4 +26,5 @@ https://www.morgenpost.de/bezirke/steglitz-zehlendorf/article231271240/ICE-Testz
 > ## [Deutsche Bahn: ICE fährt auf Trasse der alten Goerzbahn in Berlin](https://www.morgenpost.de/bezirke/steglitz-zehlendorf/article231271240/ICE-Testzug-faehrt-erstmals-auf-Trasse-der-alten-Goerzbahn.html)
 >
 >Die Deutsche Bahn testet im Februar ihren ICE-Testzug  Advanced TrainLab auf der Trasse der alten Goerzbahn zwischen dem Bahnhof Schönow und Lichterfelde West.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Aus einer neuen Studie ergibt ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-20
-output: pdf_document
+lastmod: 2021-09-20T23:40:03+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-20T23:40:03+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Aus einer neuen Studie ergibt sich, dass einzig und allein Gambia auf dem Weg ist, die Pariser Verträge zu erfüllen. Alle andere Staaten versprechen und tun zu wenig! 
 
@@ -39,4 +36,5 @@ https://climateactiontracker.org/media/images/CAT_2021-09_RatingsSummary-1-Overa
 > climateactiontracker.org
 > ## [Cat 2021 09 Ratingssummary 1 Overall.Width 1000](https://climateactiontracker.org/media/images/CAT_2021-09_RatingsSummary-1-Overall.width-1000.png)
 >
+
 

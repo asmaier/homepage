@@ -1,23 +1,20 @@
 ---
 title: 'Europa kommt sehr spät auf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-01-25
-output: pdf_document
+lastmod: 2018-01-25T11:56:15+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-01-25T11:56:15+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Europa kommt sehr spät auf dieser Idee :
 
@@ -28,4 +25,5 @@ Und wenn man ihn nicht von den Chinesen kopiert (die haben nämlich schon lange 
 > ## [Seite nicht gefunden | pro-physik.de](http://www.pro-physik.de/details/physiknews/10818800/Europas_Weg_zum_High-Performer.html)
 >
 >Die von Ihnen aufgerufene Seite existiert nicht oder wurde gelöscht.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die Schweiz und Singapur führen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-08-26
-output: pdf_document
+lastmod: 2016-08-26T17:31:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-08-26T17:31:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Schweiz und Singapur führen das Rennen an:
 
@@ -29,4 +26,5 @@ http://www.heise.de/newsticker/meldung/Durch-Singapur-fahren-die-ersten-Roboter-
 > ## [Schweiz: Autonome Busse fahren auf Sittens Straßen](http://www.heise.de/newsticker/meldung/Schweiz-Autonome-Busse-fahren-auf-Sittens-Strassen-3247865.html)
 >
 >Auf Schweizer Straßen rollen fahrerlose Busse im öffentlichen Nahverkehr. Das Pilotprojekt mit zwei Postbus-Shuttles im Linieneinsatz ist das erste seiner Art.
+
 

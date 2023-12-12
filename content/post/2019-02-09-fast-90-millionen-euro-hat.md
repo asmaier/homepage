@@ -1,23 +1,20 @@
 ---
 title: '"Fast 90 Millionen Euro hat ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-09
-output: pdf_document
+lastmod: 2019-02-09T20:34:17+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-09T20:34:17+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Fast 90 Millionen Euro hat die Tabakindustrie allein 2016 für Außenwerbung in Deutschland ausgegeben."
 
@@ -29,4 +26,5 @@ Und mal so nebenbei: Selbst in Russland sind Tabak- und Alkoholwerbung verboten!
 > ## [Inland - Aktuelle Nachrichten](https://www.tagesschau.de/inland/tabakwerbung-115.html)
 >
 >Inland - Aktuelle Nachrichten
+
 

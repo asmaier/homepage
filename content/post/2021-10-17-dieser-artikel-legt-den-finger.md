@@ -1,23 +1,20 @@
 ---
 title: 'Dieser Artikel legt den Finger ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-10-17
-output: pdf_document
+lastmod: 2021-10-17T21:36:15+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-10-17T21:36:15+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dieser Artikel legt den Finger in die Wunde. Aber noch interessanter finde ich einen Kommentar eines Lesers:
 
@@ -31,4 +28,5 @@ Damit ergibt der Brexit endlich Sinn. Die UK wollen weiterhin Geld für die Sche
 > ## [Opinion | The City of London Is Hiding the World’s Stolen Money](https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html)
 >
 >Together with its territories overseas, Britain is instrumental in a global game of deceit.
+
 

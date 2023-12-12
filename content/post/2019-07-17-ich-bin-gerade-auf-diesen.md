@@ -1,23 +1,20 @@
 ---
 title: 'Ich bin gerade auf diesen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-07-17
-output: pdf_document
+lastmod: 2019-07-17T20:27:14+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-07-17T20:27:14+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich bin gerade auf diesen Wikipediaartikel gestoßen.
 
@@ -34,4 +31,5 @@ Das nur als Antwort darauf, falls irgendso ein Schlauberger den Lithium-Abbau f�
 > de.wikipedia.org
 > ## [Ölkatastrophe in Westsibirien – Wikipedia](https://de.wikipedia.org/wiki/%C3%96lkatastrophe_in_Westsibirien)
 >
+
 

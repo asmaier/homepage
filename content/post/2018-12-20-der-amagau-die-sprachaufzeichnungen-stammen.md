@@ -1,23 +1,20 @@
 ---
 title: 'Der #AmaGAU! "Die Sprachaufzeichnungen stammen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-12-20
-output: pdf_document
+lastmod: 2018-12-20T20:21:34+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-12-20T20:21:34+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der #AmaGAU!
 
@@ -27,4 +24,5 @@ Der #AmaGAU!
 > ## [Amazon gibt intime Alexa-Sprachdateien preis](https://www.heise.de/newsticker/meldung/Amazon-gibt-intime-Sprachdateien-preis-4254716.html)
 >
 >Durch einen Fehler von Amazon.de fielen rund 1700 Alexa-Sprachaufzeichnungen in die Hände eines Unbefugten.
+
 

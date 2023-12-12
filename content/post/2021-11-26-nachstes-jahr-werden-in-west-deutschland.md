@@ -1,23 +1,20 @@
 ---
 title: 'Nächstes Jahr werden in West-Deutschland ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-26
-output: pdf_document
+lastmod: 2021-11-26T00:02:09+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-26T00:02:09+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nächstes Jahr werden in West-Deutschland die letzten Atomkraftwerke abgeschaltet. Die Atomkraftwerke in Ostdeutschland wurden aber bereits 1990 abgeschaltet und das aus gutem Grund. Dies war nur ein Fakt aus diesem  interessanten Film, der einige Themen beleuchtet hat, die ich so noch gar nicht gehört hatte oder schon wieder vergessen. 
 
@@ -27,4 +24,5 @@ Schwerter zu Pflugscharen!
 > ## [Die sieben geheimen Atompläne der DDR](https://www.zdf.de/dokumentation/zdfinfo-doku/die-sieben-geheimen-atomplaene--der-ddr-100.html)
 >
 >Nach dem Zweiten Weltkrieg liefern sich Ost und West einen Wettlauf um die Nukleartechnik.Welche geheimen Pläne verfolgt die DDR in der Atomforschung?
+
 

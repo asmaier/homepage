@@ -1,23 +1,20 @@
 ---
 title: '"Wie Sie wissen, arbeiten wir ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-05-14
-output: pdf_document
+lastmod: 2014-05-14T21:31:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-05-14T21:31:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Wie Sie wissen, arbeiten wir seit Jahren mit dem FSB und der Abteilung K des Innenministeriums zusammen, indem wir die Informationen von Tausenden unserer Nutzer in Gestalt von IP-Adressen und Handynummern reibungslos weiterleiten. Wir sind besorgt über die Perspektive einer Destabilisierung im politischen und wirtschaftlichen Leben Russlands und sind bereit, weiterhin an der Seite der Behörden alles zu unternehmen, um eine Verbreitung von Gewalt und Chaos zu verhindern."
 
@@ -27,4 +24,5 @@ slug: []
 > ## [Russischer Facebook-Rivale Vkontakte: Geheimdienst liest mit](http://www.sueddeutsche.de/digital/russischer-facebook-rivale-vkontakte-geheimdienst-fsb-liest-mit-1.1635311)
 >
 >Das soziale Netzwerk Vkontakte ist in Russland um einiges beliebter als Facebook. Nun hat Vkontakte-Gründer Durow ein Problem.
+
 

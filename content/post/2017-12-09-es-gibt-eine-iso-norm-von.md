@@ -1,23 +1,20 @@
 ---
 title: 'Es gibt eine ISO-Norm von ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-12-09
-output: pdf_document
+lastmod: 2017-12-09T16:03:07+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-12-09T16:03:07+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es gibt eine ISO-Norm von 1991 für Schuhgrößen; Mondopoint. Es könnte simpler nicht sein: Die Schuhgröße von 280/110 beispielsweise entspricht einer Fußlänge von 280 mm und einer Fußbreite von 110 mm.
 
@@ -25,4 +22,5 @@ Warum werden Schuhgrößen im Jahr 2017 immer noch in Fantansieeinheiten angegeb
 > de.wikipedia.org
 > ## [Mondopoint – Wikipedia](https://de.wikipedia.org/wiki/Mondopoint)
 >
+
 

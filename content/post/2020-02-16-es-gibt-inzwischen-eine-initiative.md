@@ -1,23 +1,20 @@
 ---
 title: 'Es gibt inzwischen eine Initiative ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-02-16
-output: pdf_document
+lastmod: 2020-02-16T16:40:00+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-02-16T16:40:00+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es gibt inzwischen eine Initiative in der EU mehr Züge  und vor allem mehr Nachtzüge zwischen den Metropolen einzurichten. Das ganze kann man nur begrüßen. Besonders wer mal Züge ins europäische Ausland gebucht hat, weiß, dass das bei weitem nicht so einfach ist wie Flugtickets zu buchen. 
 
@@ -49,4 +46,5 @@ has pointed out five areas of priority, where improvements are needed to get
 cross-border long-distance trains in shape to provide alternatives to flights.
 International night trains are identified as a “low-hanging fruit” which can
 turn the tide in favor of climate friendly transportation.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Rezos Finale! Pflichtvideo! Unbedingt anschauen. ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-19
-output: pdf_document
+lastmod: 2021-09-19T20:06:22+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-19T20:06:22+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Rezos Finale! Pflichtvideo! Unbedingt anschauen. 
 
@@ -29,4 +26,5 @@ Deswegen solltet ihr auch nicht die SPD oder den Scholz wählen. Ich traue ihnen
 > ## [Zerstörung FINALE: Korruption](https://www.youtube.com/watch?v=3Ya7pEDndgE)
 >
 >► Quellen: https://docs.google.com/document/d/1oS9_sbV1rECMrp5SemZWse1iGOc0iqdrYVM20gJrZ0w/edit?usp=sharing► FOLGT MIRTwitch: https://www.twitch.tv/rezoTik T...
+
 

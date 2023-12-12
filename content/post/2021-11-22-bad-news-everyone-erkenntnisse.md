@@ -1,23 +1,20 @@
 ---
 title: 'Bad News everyone! """ Erkenntnisse, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-22
-output: pdf_document
+lastmod: 2021-11-22T16:58:59+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-22T16:58:59+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Bad News everyone!
 
@@ -34,4 +31,5 @@ Erkenntnisse, die man aus den Kurven ableiten kann, sind:
 > ## [Modellsimulation: Kommende Maßnahmen entscheiden über Hunderttausende Menschenleben | MDR.DE](https://www.mdr.de/wissen/covid-vierte-welle-modellsimulation-szenarien-tote-100.html)
 >
 >Eine komplexe Modellsimulation zeigt: Ohne neue Einschränkungen würden in Deutschland im Laufe der vierten Welle mindestens 200.000 Menschen mehr sterben als bei einer Notbremse wie im Frühjahr.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Glückwunsch an die Lobbyisten der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-04-19
-output: pdf_document
+lastmod: 2017-04-19T11:12:56+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-04-19T11:12:56+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Glückwunsch an die Lobbyisten der Autoindustrie. Das habt ihr fein gemacht. 
 
@@ -27,4 +24,5 @@ Glückwunsch an die Lobbyisten der Autoindustrie. Das habt ihr fein gemacht.
 > ## [Zukunftstechnik hat es schwer bei der Bahn](http://www.n-tv.de/wirtschaft/Zukunftstechnik-hat-es-schwer-bei-der-Bahn-article19796841.html)
 >
 >Langsam aber unaufhaltsam treiben Politik und Autoindustrie die Entwicklung elektrischer und autonomer Fahrzeuge voran - auf der Straße. Bei der Bahn tut sich in Deutschland dagegen fast nichts. Einige raufen sich die Haare, andere freuen sich darüber.
+
 

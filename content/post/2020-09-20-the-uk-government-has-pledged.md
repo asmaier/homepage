@@ -1,23 +1,20 @@
 ---
 title: '"The UK government has pledged ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-20
-output: pdf_document
+lastmod: 2020-09-20T22:26:48+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-20T22:26:48+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "The UK government has pledged to close all coal-fired power stations by 2025."
 
@@ -32,4 +29,5 @@ So sieht aktiver Klimaschutz aus.
 > ## [Analysis: UK carbon emissions in 2017 fell to levels last seen in 1890 - Carbon Brief](https://www.carbonbrief.org/analysis-uk-carbon-emissions-in-2017-fell-to-levels-last-seen-in-1890)
 >
 >Carbon Brief analysis shows the UK’s CO2 emissions from fossil fuels fell by 2.6% in 2017, driven by a 19% decline in coal use.
+
 

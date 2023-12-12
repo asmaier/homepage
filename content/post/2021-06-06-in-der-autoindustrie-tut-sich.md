@@ -1,23 +1,20 @@
 ---
 title: 'In der Autoindustrie tut sich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-06-06
-output: pdf_document
+lastmod: 2021-06-06T22:10:13+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-06-06T22:10:13+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 In der Autoindustrie tut sich gerade einiges. Mit dem Rimac Venera gibt es jetzt ein erstes rein elektrisches Hypersportauto, welches die viertel Meile schneller schafft als ein Bugatti Chiron. Und zwar einfach mal so an einem Sonntag morgen, gefahren vom Chef der Firma persönlich, nicht von einem Testpiloten. Das heißt einiges. 
 
@@ -29,4 +26,5 @@ Die Zeiten der Verbrennungsmotoren dürften damit endgültig vorbei sein. Jetzt 
 > ## [Rimac Boss Drag Races C_Two Prototype Vs Porsche Taycan Turbo S](https://www.motor1.com/news/503496/rimac-ctwo-taycan-drag-race/)
 >
 >Mate Rimac got behind the wheel of a pre-production C_Two to test its accelerating, managing to complete the quarter-mile in just under nine seconds.
+
 

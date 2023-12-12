@@ -1,23 +1,20 @@
 ---
 title: '"Bei dem Journalismus-Imitat in meinem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-02-19
-output: pdf_document
+lastmod: 2015-02-19T13:30:56+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-02-19T13:30:56+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Bei dem Journalismus-Imitat in meinem Ressort wird nicht nach Relevanz entschieden, sondern nach Geld. Rein kommen die Themen, für die Anzeigen geschaltet werden. Die Daumenregel: Für jede viertelseitige Anzeige (Kosten damals: rund 20.000 Euro zuzüglich Mehrwertsteuer) erscheint eine Seite über dieses Thema." 
 
@@ -27,4 +24,5 @@ Lügenpresse?
 > ## [SZ-Leaks: Schleichwerbung für Steuerhinterziehung](https://heisersstimme.wordpress.com/2015/02/16/sz-leaks-schleichwerbung-fur-steuerhinterziehung/)
 >
 >Offshore-Leaks, Lux-Leaks und jetzt Swiss-Leaks: Die Süddeutsche Zeitung ist das Sturmgeschütz des Finanzamts. Die Redaktion veröffentlicht regelmäßig Informationen aus internen Bankunterlagen, an …
+
 

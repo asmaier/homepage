@@ -1,23 +1,20 @@
 ---
 title: 'Es ist nicht wirklich beeindruckend ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-12-06
-output: pdf_document
+lastmod: 2015-12-06T21:25:02+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-12-06T21:25:02+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es ist nicht wirklich beeindruckend was diese Image-Recognition APIs so abliefern. MetaMind scheint zwar ziemlich präzise, aber das muss Zufall sein. Sie beherrschen laut ihrer Webseite nämlich auch nur 1000 Kategorien.
 > [![](https://venturebeat.com/wp-content/uploads/2015/05/ImageIdentify-Mushroom.png?w=1200&strip=all)](http://venturebeat.com/2015/05/16/how-stephen-wolframs-image-recognition-tool-performs-against-5-alternatives/)
@@ -25,4 +22,5 @@ Es ist nicht wirklich beeindruckend was diese Image-Recognition APIs so abliefer
 > ## [How Stephen Wolfram’s image-recognition tool performs against 5 alternatives](http://venturebeat.com/2015/05/16/how-stephen-wolframs-image-recognition-tool-performs-against-5-alternatives/)
 >
 >To get a feel for the power of the new Wolfram technology, I put it up against other image-recognition systems.
+
 

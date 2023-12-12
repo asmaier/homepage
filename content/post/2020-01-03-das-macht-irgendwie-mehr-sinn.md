@@ -1,23 +1,20 @@
 ---
 title: 'Das macht irgendwie mehr Sinn ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-01-03
-output: pdf_document
+lastmod: 2020-01-03T13:59:56+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-01-03T13:59:56+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das macht irgendwie mehr Sinn auf dem Meer Wasserstoff zu nutzen statt Diesel zu verbrennen. Man ist ja geradezu umgeben von Treibstoff. 
 
@@ -27,4 +24,5 @@ Neu ist die Idee übrigens nicht. Deutsche U-Boote nutzen schon seit langem Wass
 > ## [The Energy Observer is a boat that makes its fuel out of seawater | Engadget](https://www.engadget.com/2019/10/08/energy-observer-solar-hydrogen-power-boat/)
 >
 >Energy Observer is a vessel powered only by energy that it generates itself, be it the onboard solar panels, wind turbines or a hydrogen fuel cell.
+
 

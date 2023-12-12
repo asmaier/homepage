@@ -1,23 +1,20 @@
 ---
 title: 'Wann haben Wissenschaftler das letzte ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-08
-output: pdf_document
+lastmod: 2021-09-08T10:34:10+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-08T10:34:10+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wann haben Wissenschaftler das letzte Mal rebelliert? Nun, eigentlich fallen mir da nur die https://de.wikipedia.org/wiki/G%C3%B6ttinger_Achtzehn ein.
 
@@ -31,4 +28,5 @@ Ihr könnt also davon ausgehen, dass die Klimakrise von den Wissenschaftlern als
 > ## ["Scientist Rebllion" leakt Entwurf zum Weltklimabericht](https://www.tagesschau.de/inland/gesellschaft/scientist-rebellion-101.html)
 >
 >Der dritte Teil des Weltklimaberichts wird erst in einem halben Jahr veröffentlicht. Die Gruppe "Scientist Rebellion" hat nun einen Entwurf geleakt - was die Wissenschaftsaktivisten fordern, erklären sie im tagesschau.de-Interview.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Also wenn man sich das ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-26
-output: pdf_document
+lastmod: 2020-09-26T23:09:52+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-26T23:09:52+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Also wenn man sich das anschaut und mit Berlin vergleicht, kriegt man Tränen in den Augen. So sollten Fahrradwege aussehen! Sie haben sogar Fahrradwege zum Flughafen. Und erst die Fahrradparkhäuser! So etwas gibt es in Berlin garnicht. Alles was Berlin bisher für den Radverkehr macht wirkt dagegen total lächerlich, rückschrittlich und geradezu peinlich. Sorry, aber das ist so.  
 
@@ -32,4 +29,5 @@ Natürlich gilt es nicht nur für Berlin, die meisten Städte in Deutschland sin
 > ## [Eindhoven, nominee best cycling city in NL, 2014 [313]](https://www.youtube.com/watch?v=NWHFLiPIMEo)
 >
 >Eindhoven is one of the 5 nominees to become best cycling city in the Netherlands in 2014. A portrait. More info: http://bicycledutch.wordpress.com/2014/03/0...
+
 

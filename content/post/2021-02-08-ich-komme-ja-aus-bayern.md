@@ -1,23 +1,20 @@
 ---
 title: 'Ich komme ja aus Bayern ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-02-08
-output: pdf_document
+lastmod: 2021-02-08T22:36:05+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-02-08T22:36:05+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich komme ja aus Bayern und dort wird bei der kleinsten Flocke im letzten Dorf von der Gemeinde sofort der riesige Unimog-Schneeschieber aus der Garage geholt und der fängt früh um 6 Uhr oder so damit an alle Straßen zu räumen und Streusplit in großen Mengen zu verteilen.  
 
@@ -30,4 +27,5 @@ Die Berliner Straßenreinigung #BSR hat ihren Spitznamen "Bei Schnee ratlos" jed
 P.S.: In Brandenburg sieht es nicht besser aus. Auch dort gibt es offenbar keinen Winterdienst z.B. auf Bundesstraßen. 
 
 P.P.S.: Und nein, Fahrradwege und Fußwege werden natürlich in Berlin auch nicht geräumt. Nicht das jemand denkt, dass liege jetzt an der neuen autofeindlichen Politik Berlins oder so...
+
 

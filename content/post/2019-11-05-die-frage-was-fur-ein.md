@@ -1,23 +1,20 @@
 ---
 title: '"Die Frage, was für ein ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-11-05
-output: pdf_document
+lastmod: 2019-11-05T21:15:21+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-11-05T21:15:21+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Frage, was für ein Land ein ehrgeiziger und fairer Beitrag ist, steht seit Jahrzehnten im Mittelpunkt der Klimadebatte", sagt Niklas Höhne vom NewClimate Institute in Köln. "Aber es spielt eigentlich keine Rolle mehr, welche Perspektive man einnimmt: Die meisten Beiträge der Länder sind in keiner einzigen Perspektive fair. Alle müssen massiv nachlegen."
 
@@ -29,4 +26,5 @@ Greta hat einfach nur Recht.
 > ## [Zwei Drittel aller Klimaschutzpläne ungenügend](https://www.sueddeutsche.de/wissen/klimawandel-ipcc-klimaschutzplaene-1.4669309)
 >
 >Die Zusagen der Staaten reichen laut einem neuen Report bei weitem nicht aus, um die Erderwärmung auch nur zu bremsen. Mehr als 11 000 Wissenschaftler aus 153 Ländern warnen vor einem "Klima-Notfall".
+
 

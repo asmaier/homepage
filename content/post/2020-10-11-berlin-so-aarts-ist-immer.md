@@ -1,23 +1,20 @@
 ---
 title: '"Berlin, so Aarts, ist immer ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-11
-output: pdf_document
+lastmod: 2020-10-11T12:53:24+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-11T12:53:24+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Berlin, so Aarts, ist immer noch voller Autos. „Leider! Es gibt nur wenige öffentliche Orte, an denen man das Leben genießen kann. Orte, an denen Kinder unbeschwert auf die Straße gehen und dort auch spielen können. In Berlin ist das Auto noch immer die Nummer eins. Dafür ist alles bestens organisiert. An zweiter Stelle kommen die öffentlichen Verkehrsmittel, dann die Fußgänger und an vierter Stelle erst die Radfahrer. Das ist das System. Und das passt so gar nicht zu dem, was wir verfolgen sollten.“ Eltern müssten ihre Kinder ständig warnen. „Achtung! Bleib stehen! Lauf nicht dahin! Deshalb bringt man die Kinder lieber mit dem Auto zur Schule, was das Problem ja noch weiter verstärkt.“"
 
@@ -33,4 +30,5 @@ Und dabei wäre es dringend notwendig sämtliche Schulen zu sanieren (vielleicht
 > ## [Stadtplaner: „Berlin ist noch zu retten. Aber wann fangen wir endlich mal damit an?“](https://www.berliner-zeitung.de/mensch-metropole/berlin-ist-noch-zu-retten-aber-wann-fangen-wir-endlich-damit-mal-an-li.110111)
 >
 >Er hat Rotterdam in eine beispielhafte Metropole verwandelt und schwärmt von Mailand, das Grau durch Grün ersetzt: ein Gespräch mit Stadtentwickler Martin Aarts über mutlose Politiker, die Notwendigkeit der Verkehrswende und die Gefahr einer Londonisierung.
+
 

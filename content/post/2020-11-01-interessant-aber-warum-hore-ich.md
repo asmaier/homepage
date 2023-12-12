@@ -1,23 +1,20 @@
 ---
 title: 'Interessant. Aber warum höre ich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-11-01
-output: pdf_document
+lastmod: 2020-11-01T11:20:18+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-11-01T11:20:18+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 https://www.srf.ch/news/panorama/labortest-schutzmasken-im-haertetest-die-meisten-filtern-ungenuegend
 
@@ -31,4 +28,5 @@ Offenbar sind seit neuestem Fernsehsender für Verbrauchertests zuständig. Das 
 > ## [Labortest - Schutzmasken im Härtetest: Die meisten filtern ungenügend](https://www.srf.ch/news/panorama/labortest-schutzmasken-im-haertetest-die-meisten-filtern-ungenuegend)
 >
 >Das Labor Testex hat Masken unter die Lupe genommen. Keine der Stoffmasken und nur ein Teil der Hygienemasken besteht.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Für alle, die wie ich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-01-17
-output: pdf_document
+lastmod: 2015-01-17T22:29:57+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-01-17T22:29:57+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Für alle, die wie ich leider in einem Großraumbüro arbeiten müssen, kann ich folgende Noise-Canceling Kopfhörer empfehlen (Bose Quiet Comfort 25) : 
 
@@ -29,4 +26,5 @@ Sie sind das Geld echt wert. Ich kann mir nicht mehr vorstellen ohne sie zu arbe
 > ## [Why We (Still) Believe in Private Offices](http://blog.stackoverflow.com/2015/01/why-we-still-believe-in-private-offices/)
 >
 >There was a time where it seemed like we barely even needed to talk about this: Joel had won the argument, the Internet agreed that private offices were the future, and only incompetent management (or a tight budget) was still putting developers in cubicle farms. A glorious future lay before us. The original Fog Creek…
+
 

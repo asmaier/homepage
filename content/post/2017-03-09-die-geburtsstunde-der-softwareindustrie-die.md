@@ -1,23 +1,20 @@
 ---
 title: 'Die Geburtsstunde der Softwareindustrie: "Die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-03-09
-output: pdf_document
+lastmod: 2017-03-09T14:00:10+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-03-09T14:00:10+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Geburtsstunde der Softwareindustrie:
 
@@ -30,4 +27,5 @@ http://onlinelibrary.wiley.com/doi/10.1002/phbl.19470030305/abstract
 > ## [Attention Required! | Cloudflare](http://onlinelibrary.wiley.com/doi/10.1002/phbl.19470030305/abstract)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

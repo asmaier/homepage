@@ -1,23 +1,20 @@
 ---
 title: 'Basil Fawlty: Is there something ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2012-07-01
-output: pdf_document
+lastmod: 2012-07-01T12:52:06+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2012-07-01T12:52:06+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Basil Fawlty: Is there something wrong?
 
@@ -33,4 +30,5 @@ Basil: Yes you did, you invaded Poland!
 > ## [A Point of View: Donât mention the war?](http://www.bbc.co.uk/news/magazine-18645370)
 >
 >It's time to stop invoking Hitler and the Nazis in arguments about everything from censorship to birth control, says Adam Gopnik.
+
 

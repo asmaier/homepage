@@ -1,23 +1,20 @@
 ---
 title: '"Auf Lauters Vorschlag hin fügten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-11-09
-output: pdf_document
+lastmod: 2019-11-09T20:56:15+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-11-09T20:56:15+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Auf Lauters Vorschlag hin fügten sie mitten in die Regelung der „ständigen Ausreise“ den Absatz ein, der später Grundlage für den Mauerfall sein würde:
 
@@ -29,4 +26,5 @@ Gerhard Lauter ist also der unfreiwillige Held, der den Mauerfall herbeigeführt
 > de.wikipedia.org
 > ## [Gerhard Lauter – Wikipedia](https://de.wikipedia.org/wiki/Gerhard_Lauter)
 >
+
 

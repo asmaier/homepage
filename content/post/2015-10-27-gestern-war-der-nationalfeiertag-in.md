@@ -1,23 +1,20 @@
 ---
 title: 'Gestern war der Nationalfeiertag in ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-10-27
-output: pdf_document
+lastmod: 2015-10-27T10:07:51+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-10-27T10:07:51+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Gestern war der Nationalfeiertag in Österreich. Die feiern da im Prinzip den Abzug der Alliierten am 25.10.1955. 
 Deutschland dagegen kann das nach wie vor nicht feiern. Nur die Russen sind bisher komplett abgezogen. Alle anderen USA, GB, FR, ... sind noch da (insgesamt ca. 50000 Soldaten):  
@@ -31,4 +28,5 @@ https://de.wikipedia.org/wiki/Nuklearwaffen_in_Deutschland
 > de.wikipedia.org
 > ## [Ausländische Militärbasen in Deutschland – Wikipedia](https://de.wikipedia.org/wiki/Ausl%C3%A4ndische_Milit%C3%A4rbasen_in_Deutschland#Anzahl_der_Soldaten_ausl.C3.A4ndischer_Streitkr.C3.A4fte.5B2.5D)
 >
+
 

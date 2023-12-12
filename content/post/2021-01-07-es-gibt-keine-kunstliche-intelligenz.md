@@ -1,23 +1,20 @@
 ---
 title: 'Es gibt keine "künstliche Intelligenz". ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-01-07
-output: pdf_document
+lastmod: 2021-01-07T18:17:47+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-01-07T18:17:47+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es gibt keine "künstliche Intelligenz". Der Begriff ist genauso falsch wie wenn man Motoren als "künstliche Sportlichkeit" bezeichnen würde.
 
@@ -27,4 +24,5 @@ Nichtsdestotrotz möchte ich aber trotzdem folgenden Artikel empfehlen. Das Mixe
 > ## [Künstliche Intelligenz: Was 2020 war und 2021 wird](https://mixed.de/kuenstliche-intelligenz-was-2020-war-und-2021-wird/)
 >
 >2020 ist der Beginn einer neuen Dekade für Künstliche Intelligenz und das Jahr, in dem KI beginnt, ihr Potenzial zu realisieren.
+
 

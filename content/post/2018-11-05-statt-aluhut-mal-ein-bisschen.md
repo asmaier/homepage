@@ -1,23 +1,20 @@
 ---
 title: 'Statt Aluhut mal ein bisschen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-11-05
-output: pdf_document
+lastmod: 2018-11-05T11:12:10+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-11-05T11:12:10+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Statt Aluhut mal ein bisschen Luxus zu Weihnachten ;-)
 
@@ -28,4 +25,5 @@ Da sind 85 Euro schon gerechtfertigt!
 > biber.de
 > ## [Strahlenschutzhalter für Smartphones](https://www.biber.de/artikel/1/353198/strahlenschutzhalter-fuer-smartphones/)
 >
+
 

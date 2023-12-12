@@ -1,23 +1,20 @@
 ---
 title: 'Gestern kam ich aus dem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-07-24
-output: pdf_document
+lastmod: 2021-07-24T18:21:47+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-07-24T18:21:47+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Gestern kam ich aus dem Urlaub in Griechenland zurück. Um aus diesem Risikogebiet nach Deutschland einzureisen muß man unter https://www.einreiseanmeldung.de/ eine digitale Einreiseanmeldung ausfüllen.
 
@@ -40,4 +37,5 @@ Wer zur Hölle denkt sich so einen Schwachsinn aus? Und wieso glaubt unser Regie
 > ## [CovPass-App: Digitale COVID-Zertifikate der EU einfach nachweisen](https://www.digitaler-impfnachweis-app.de/)
 >
 >Verwalten Sie Ihre digitalen COVID-Zertifikate der EU ganz einfach mit dem Smartphone.
+
 

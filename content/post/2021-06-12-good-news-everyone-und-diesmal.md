@@ -1,23 +1,20 @@
 ---
 title: 'Good news everyone! Und diesmal ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-06-12
-output: pdf_document
+lastmod: 2021-06-12T15:04:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-06-12T15:04:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Good news everyone!
 
@@ -27,4 +24,5 @@ Und diesmal ist es kein Zitat aus Futurama, sondern ein Newsaggregator ala Googl
 > ## [Good News](https://goodnews.eu/)
 >
 >Wir sammeln täglich (Montag - Freitag) die besten Good News und wichtigsten lösungsorientierten Nachrichten der deutschsprachigen Medien und stellen sie Euch kostenlos zur Verfügung.
+
 

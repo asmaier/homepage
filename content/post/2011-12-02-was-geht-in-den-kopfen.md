@@ -1,23 +1,20 @@
 ---
 title: 'Was geht in den Köpfen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-12-02
-output: pdf_document
+lastmod: 2011-12-02T22:23:48+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-12-02T22:23:48+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Was geht in den Köpfen von Menschen vor, die derartige Waffen entwickeln?
 
@@ -31,4 +28,5 @@ Und der Grund diese wahnsinnige Entwicklung einzustellen war nicht, dass sie wah
 > de.wikipedia.org
 > ## [Pluto (Marschflugkörper) – Wikipedia](http://de.wikipedia.org/wiki/Pluto_(Marschflugkörper))
 >
+
 

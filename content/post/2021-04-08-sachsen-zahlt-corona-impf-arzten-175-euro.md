@@ -1,23 +1,20 @@
 ---
 title: 'Sachsen zahlt Corona-Impf-Ärzten 175 Euro ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-04-08
-output: pdf_document
+lastmod: 2021-04-08T11:27:10+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-04-08T11:27:10+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Sachsen zahlt Corona-Impf-Ärzten 175 Euro Stundenlohn: https://www.mdr.de/nachrichten/sachsen/hohe-impfhonorare-aerzte-kritik-interview-kugler-100.html
 
@@ -27,4 +24,5 @@ Beides ist eigentlich absurd. Ersteres ist absurd hoch und letzteres absurd nied
 > praktischarzt.de
 > ## [403 Forbidden](https://www.praktischarzt.de/arzt/hausarzt-gehalt/)
 >
+
 

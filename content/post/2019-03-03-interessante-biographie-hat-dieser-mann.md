@@ -1,23 +1,20 @@
 ---
 title: 'Interessante Biographie hat dieser Mann: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-03
-output: pdf_document
+lastmod: 2019-03-03T22:46:23+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-03T22:46:23+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Interessante Biographie hat dieser Mann:
 
@@ -32,4 +29,5 @@ Einfach mal reinlesen.
 > en.wikipedia.org
 > ## [Edward Bernays - Wikipedia](https://en.wikipedia.org/wiki/Edward_Bernays)
 >
+
 

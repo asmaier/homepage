@@ -1,23 +1,20 @@
 ---
 title: 'Das wäre in Deutschland leider ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-06
-output: pdf_document
+lastmod: 2019-10-06T21:17:40+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-06T21:17:40+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das wäre in Deutschland leider völlig undenkbar und zeigt mal wieder, wie weit wir beim Nichtraucherschutz hintendran sind. 
 
@@ -33,4 +30,5 @@ Wer im 21. Jhd noch raucht (egal ob mit E oder ohne), ist in etwa so klug wie di
 > ## [In Melbournes Haupteinkaufsviertel darf nicht mehr geraucht werden](https://www.spiegel.de/panorama/gesellschaft/melbourne-rauchverbot-in-haupteinkaufsviertel-a-1289971.html)
 >
 >Wer in Melbournes wichtigster Einkaufsgegend mit einer Zigarette erwischt wird, muss zahlen.
+
 

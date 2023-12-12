@@ -1,23 +1,20 @@
 ---
 title: 'Nun, bei dieser Überschrift muß ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-02-11
-output: pdf_document
+lastmod: 2020-02-11T16:46:55+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-02-11T16:46:55+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nun, bei dieser Überschrift muß ich doch widersprechen. Langweilig wird es in Berlin nicht, es gibt einfach Missstände wohin man schaut, man hat immer etwas worüber man sich aufregen kann. Häßlichste Stadt dachte ich lange Zeit könnte stimmen. Aber nachdem ich ein paar Tage in Mannheim verbringen durfte, glaube ich, dass es durchaus noch häßlichere Städte als Berlin geben kann. 
 
@@ -38,4 +35,5 @@ Und an dieser Stelle hat WeiWei einfach recht. VW hat nicht die Eier, wie Google
 > ## [„Berlin ist die hässlichste, langweiligste Stadt, die es gibt“](https://www.berliner-zeitung.de/mensch-metropole/berlin-ist-die-haesslichste-langweiligste-stadt-die-es-gibt-li.75855)
 >
 >Der Künstler über schwache Deutsche, faule  UdK-Studenten  und darüber, was passiert, wenn China eine Erkältung hat.
+
 

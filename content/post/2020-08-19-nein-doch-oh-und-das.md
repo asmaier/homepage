@@ -1,23 +1,20 @@
 ---
 title: 'Nein! Doch! Oh! Und das ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-08-19
-output: pdf_document
+lastmod: 2020-08-19T10:39:46+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-08-19T10:39:46+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nein! Doch! Oh!
 
@@ -29,4 +26,5 @@ Soll man da noch Mitleid haben mit der Automobilbranche? Ich glaube sie braucht 
 > ## [Audi](https://www.tagesschau.de/investigativ/swr/audi-abgasskandal-109.html)
 >
 >Audi
+
 

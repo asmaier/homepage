@@ -1,23 +1,20 @@
 ---
 title: '"Der Eröffnungstermin hängt wesentlich davon ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-06-19
-output: pdf_document
+lastmod: 2017-06-19T12:13:55+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-06-19T12:13:55+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der Eröffnungstermin hängt wesentlich davon ab, ob es gelingt, mit den fünf entscheidenden Baufirmen - Bosch, Caverion, Siemens, T-Systems und ROM - verbindliche vertragliche Regelungen über die Restbauleistungen und Termine zu treffen"
 
@@ -30,4 +27,5 @@ https://www.berlinonline.de/aktuell/4899146-4015970-burkert-rechnet-nicht-mit-be
 > ## [Home â BerlinOnline Stadtportal GmbH & Co. KG](https://www.berlinonline.de/aktuell/4899146-4015970-burkert-rechnet-nicht-mit-bereroeffnung-.html)
 >
 >BerlinOnline ist Ihr Partner fÃ¼r regionale Online-Werbung und nachhaltige InternetlÃ¶sungen
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Die Virusausbreitung lässt sich gut ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-12
-output: pdf_document
+lastmod: 2021-05-12T11:03:25+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-12T11:03:25+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Virusausbreitung lässt sich gut berechnen, wenn man annimmt, dass die Menschen ihr Verhalten nicht ändern. Das Verhalten ändert sich aber bekanntlich aus vielen Gründen."
 
@@ -27,4 +24,5 @@ Ich würde noch hinzufügen, dass das RKI keineswegs eine Organisation mit Exper
 > ## [Weshalb sich die Corona-Experten so oft irren](https://www.t-online.de/nachrichten/deutschland/id_90013072/falsche-prognosen-weshalb-sich-die-corona-experten-so-oft-irren.html)
 >
 >Horror-Inzidenzen nach Ostern, überfüllte Intensivstationen, noch mehr Tote: Nichts davon ist eingetreten. Doch woran lag das? Haben die Experten falsch gerechnet – oder war das Verhalten der Menschen einfach nicht vorhersehbar?
+
 

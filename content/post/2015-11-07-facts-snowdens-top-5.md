@@ -1,23 +1,20 @@
 ---
 title: '""" Facts. Snowden’s top 5 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-11-07
-output: pdf_document
+lastmod: 2015-11-07T23:14:55+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-11-07T23:14:55+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 """
 Facts. Snowden’s top 5 secure programs
@@ -36,4 +33,5 @@ Operative system for the person who really cares about their security. Qubes spl
 > fokus.dn.se
 > ## [fokus.dn.se/edward-snowden-english](http://fokus.dn.se/edward-snowden-english)
 >
+
 

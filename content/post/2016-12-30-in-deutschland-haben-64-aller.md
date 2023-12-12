@@ -1,23 +1,20 @@
 ---
 title: 'In Deutschland haben 64% aller ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-12-30
-output: pdf_document
+lastmod: 2016-12-30T12:21:36+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-12-30T12:21:36+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 In Deutschland haben 64% aller Milliardäre ihr Vermögen geerbt. Soviel zum Thema "Harte Arbeit lohnt sich." 
 
@@ -27,4 +24,5 @@ Interessant ist auch, dass die Studie https://piie.com/publications/wp/wp16-1.pd
 > ## [The World's Map of Billionaires](https://howmuch.net/articles/billionaires-map)
 >
 >This Map Shows Where the World’s Billionaires Got Their Money
+
 

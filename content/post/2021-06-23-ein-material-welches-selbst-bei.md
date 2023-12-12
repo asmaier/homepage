@@ -1,23 +1,20 @@
 ---
 title: 'Ein Material, welches selbst bei ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-06-23
-output: pdf_document
+lastmod: 2021-06-23T09:28:52+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-06-23T09:28:52+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein Material, welches selbst bei bedecktem Himmel Strom erzeugen kann und dazu noch aus Biomüll hergestellt werden kann, klingt geradezu unglaublich. Und doch hat ein Erfinder von den Philippinen gerade dafür einen Preis gewonnen.
 
@@ -33,4 +30,5 @@ Sie wurden bereits 1978 in Israel entwickelt. Warum hören wir erst jetzt davon?
 > ## [Solar ohne Sonne: Student gelingt Durchbruch bei Photovoltaik](https://efahrer.chip.de/news/funktioniert-an-wolkigen-tagen-diese-solaranlage-wird-aus-biomuell-hergestellt_105027)
 >
 >Ein philippinischer Student baut für einen Wettbewerb eine Solaranlage. Der Clou: Nicht nur wurde sie zum Großteil aus Biomüll hergestellt, sie benötigt...
+
 

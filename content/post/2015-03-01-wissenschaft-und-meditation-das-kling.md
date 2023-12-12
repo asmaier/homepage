@@ -1,23 +1,21 @@
 ---
 title: 'Wissenschaft und Meditation. Das kling ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-03-01
-output: pdf_document
+lastmod: 2015-03-01T17:27:46+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-03-01T17:27:46+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wissenschaft und Meditation. Das kling interessant.
+
 

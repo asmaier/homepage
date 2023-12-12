@@ -1,23 +1,20 @@
 ---
 title: '"Jeder Einzelne kann viel tun: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-12-01
-output: pdf_document
+lastmod: 2019-12-01T22:19:11+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-12-01T22:19:11+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Jeder Einzelne kann viel tun: Man kann von heute auf morgen beschließen, weniger zu fliegen und stattdessen umweltfreundliche Reiseformen zu nutzen. Oder man kann die Ernährung umstellen, sich ein Elektroauto zulegen oder ein Fahrrad."
 
@@ -27,4 +24,5 @@ slug: []
 > ## [Klimaforscher Schellnhuber: "Wir verbrennen das Buch des Lebens"](https://www.derstandard.at/story/2000111534109/klimaforscher-schellnhuber-wir-verbrennen-das-buch-des-lebens)
 >
 >Das aktuelle Dilemma hinsichtlich der Klimakrise besteht darin, dass wir an zwei Fronten das Falsche tun, sagt der deutsche Klimaforscher Hans Joachim Schellnhuber
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Auszüge aus dem Merkblatt zur ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2012-01-25
-output: pdf_document
+lastmod: 2012-01-25T21:24:59+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2012-01-25T21:24:59+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Auszüge aus dem Merkblatt zur Einführung des „Elektronischer Aufenthaltstitel (eAT)”
 
@@ -41,4 +38,5 @@ Mit der Einführung des eAT werden mit Blick auf die erhöhten Produktionskost
 Das heisst, dafür das der eAT nutzlos und umständlich ist, muss man auch noch mehr bezahlen. 
 
 Herzlich Willkommen in Deutschland!
+
 

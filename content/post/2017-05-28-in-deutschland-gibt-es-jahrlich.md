@@ -1,23 +1,20 @@
 ---
 title: '"In Deutschland gibt es jährlich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-05-28
-output: pdf_document
+lastmod: 2017-05-28T15:35:17+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-05-28T15:35:17+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "In Deutschland gibt es jährlich 110.000 tabakbedingte Todesfälle..." . 
 
@@ -27,4 +24,5 @@ Eine ordentliche Leistung, und weltweit unter den Top10, aber leider immer noch 
 > ## [Täglich versterben über 300 Deutsche vorzeitig an den Folgen des Rauchens](http://www.heilpraxisnet.de/naturheilpraxis/taeglich-sterben-ueber-300-deutsche-vorzeitig-an-den-folgen-des-rauchens-20170527278751)
 >
 >300 Tote pro Tag: Jeder siebte Deutsche stirbt vorzeitig am Rauchen Rauchen schadet der Gesundheit; das weiß eigentlich jeder. Wie
+
 

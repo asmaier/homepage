@@ -1,23 +1,20 @@
 ---
 title: '"Es macht nachdenklich, dass ein ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-28
-output: pdf_document
+lastmod: 2022-01-28T17:06:44+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-28T17:06:44+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Es macht nachdenklich, dass ein Unternehmen angesichts steigender Nachfrage das Angebot limitiert. Das ist ein ziemlich seltenes Verhalten auf dem Markt."
 
@@ -38,4 +35,5 @@ P.S.: Gäbe es Nord-Stream 2 könnten wir Deutschen noch mehr Gas zu sehr guten 
 > ## [Attention Required! | Cloudflare](https://www.wiwo.de/unternehmen/energie/energieknappheit-wer-ist-wirklich-schuld-an-der-gaskrise-ein-daten-und-faktencheck/28005328-all.html)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

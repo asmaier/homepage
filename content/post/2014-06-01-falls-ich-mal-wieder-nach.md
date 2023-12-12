@@ -1,23 +1,20 @@
 ---
 title: 'Falls ich mal wieder nach ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-06-01
-output: pdf_document
+lastmod: 2014-06-01T22:57:11+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-06-01T22:57:11+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Falls ich mal wieder nach Mallorca komme, werde ich sicher die BOND Safari (http://www.bond-safari.com/) ausprobieren. Dieses mal habe ich leider zu spät davon gehört. Die Erfahrungsberichte sind aber vielversprechend (http://www.mallebz.net/ballermann-news/1-ballermann-aktuell/1949-mini-ein-mann-u-boot-ist-der-knaller.html).  
 
@@ -27,4 +24,5 @@ Und wen es interessiert (oder sich selbst ein solches Mini-Uboot für 15000 Euro
 > ## [BOND Safari - underwater scooters Mallorca](http://vimeo.com/60966654)
 >
 >Films shot at our diving site in Cala Egos, Mallorca
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Angesichts der gerade auftretenden Coronainfektionszahlen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-25
-output: pdf_document
+lastmod: 2020-10-25T22:38:43+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-25T22:38:43+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Angesichts der gerade auftretenden Coronainfektionszahlen ist es unverantwortlich, die Kindergärten, Schulen und Universitäten weiter offen zu halten. Hier mal zwei Studien aus Wien und Oxford, die belegen, dass die Schulschließungen in vielen Ländern den größten Beitrag zur Eindämmung der Infektionszahlen geleistet haben:
 
@@ -32,4 +29,5 @@ Alle Eltern wissen doch ganz genau, dass die Kinder sich dort doch ganz leicht m
 > ## [Corona und Schulen: Regelunterricht geht vorerst weiter](https://www.tagesschau.de/investigativ/kmk-schule-wieler-101.html)
 >
 >Die Kultusminister setzen den Regelunterricht an Schulen vorerst fort - trotz wachsender Bedenken von Fachleuten und Verbänden. Das RKI bedauerte, dass sich die Länder weiter nicht an alle Empfehlungen des Instituts halten. Von P. Gensing und A. Reisin.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Warum nur eine einmalige Zahlung? ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-08-15
-output: pdf_document
+lastmod: 2021-08-15T21:27:35+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-08-15T21:27:35+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Warum nur eine einmalige Zahlung?
 Deutschland braucht dauerhaft eine ordentliche Vermögenssteuer.
@@ -38,4 +35,5 @@ P.S.: Selbst Vermögende in Deutschland fordern schon lange eine Vermögenssteue
 > ## [Oxfam: Jeff Bezos sollte Corona-Impfungen finanzieren anstatt ins All zu reisen](https://www.heise.de/news/Oxfam-Jeff-Bezos-sollte-Corona-Impfungen-finanzieren-anstatt-ins-All-zu-reisen-6163530.html)
 >
 >Die Hilfsorganisation Oxfam meint, mit einer Sonderabgabe für Superreiche könnten alle Menschen der Welt mit einer Corona-Impfung versorgt werden.
+
 

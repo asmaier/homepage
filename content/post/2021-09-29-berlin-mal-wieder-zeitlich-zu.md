@@ -1,23 +1,20 @@
 ---
 title: 'Berlin mal wieder: "zeitlich zu ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-29
-output: pdf_document
+lastmod: 2021-09-29T10:34:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-29T10:34:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Berlin mal wieder:
 
@@ -38,4 +35,5 @@ Dieser Forderung nach Rücktritt der Verantwortlichen will ich mich hier anschli
 > ## [Wahlen in Berlin: ein Bericht](https://verfassungsblog.de/wahlen-in-berlin-ein-bericht/)
 >
 >Eine Sache möchte ich gleich vorausschicken: Es geht mir nicht darum, die Legitimität der Bundestagswahl oder der Berliner Wahlen und Abstimmung vom vergangenen Sonntag in Frage zu stellen; ich möchte lediglich einige gravierende Missstände aufzeigen, die sich in
+
 

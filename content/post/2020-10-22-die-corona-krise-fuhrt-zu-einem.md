@@ -1,23 +1,20 @@
 ---
 title: 'Die Corona-Krise führt zu einem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-22
-output: pdf_document
+lastmod: 2020-10-22T22:19:50+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-22T22:19:50+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Corona-Krise führt zu einem starken wirtschaftlichen Einbruch und viele kämpfen um ihre Existenz. Es gibt aber ein kleines gallisches Dorf von Corona-Gewinnern. Die haben im Schnitt seit April ihr Vermögen um 33% erhöht. Wer könnte das sein?
 
@@ -31,4 +28,5 @@ https://www.themoscowtimes.com/2020/10/09/russias-billionaires-grow-richer-but-f
 > ## [Russia’s Billionaires Grow Richer, But Fall Behind International Peers - The Moscow Times](https://www.themoscowtimes.com/2020/10/09/russias-billionaires-grow-richer-but-fall-behind-international-peers-a71688)
 >
 >The coronavirus pandemic has benefitted the world’s richest, but Russia is slipping down the ultra-wealthy league tables.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die GDL hätte meine volle ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-05-21
-output: pdf_document
+lastmod: 2015-05-21T09:53:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-05-21T09:53:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die GDL hätte meine volle Unterstützung wenn sie streiken würden wie die spanischen Eisenbahner:
 
@@ -29,4 +26,5 @@ So geht streiken heute! ;-)
 > ## [DB im GdL-Streik: „Bewusst eine Sackgasse herbeiführen“](http://arbeitsunrecht.de/deutsche-bahn-im-gdl-streik_bewusst-eine-sackgasse-herbeifuehren/)
 >
 >Polizei- und Geheimdienstmethoden gegen streikbereite Gewerkschaften wie die GDL | Strategische Beratung durch Zürcher Union Busting Institut
+
 

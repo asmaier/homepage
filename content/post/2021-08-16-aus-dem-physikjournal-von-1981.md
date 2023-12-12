@@ -1,23 +1,20 @@
 ---
 title: 'Aus dem PhysikJournal von 1981(!) ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-08-16
-output: pdf_document
+lastmod: 2021-08-16T10:38:54+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-08-16T10:38:54+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Aus dem PhysikJournal von 1981(!) zum Thema Klimawandel durch CO2:
 
@@ -31,4 +28,5 @@ Niemand kann sagen, dass Thema sei ganz plötzlich auf der Tagesordnung. Die Wis
 > ## [Attention Required! | Cloudflare](https://onlinelibrary.wiley.com/doi/epdf/10.1002/phbl.19810370714)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

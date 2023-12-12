@@ -1,23 +1,20 @@
 ---
 title: 'Was gibts neues zu Corona? ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-16
-output: pdf_document
+lastmod: 2020-04-16T22:15:59+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-16T22:15:59+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Was gibts neues zu Corona? Ich teile hier einfach mal, welche Zahlen ich mir hier jeden Tag so angeschaut habe:
 
@@ -43,4 +40,5 @@ Das heißt für mich vor allem, dass man Lockerungen am Besten zuerst in anderen
 > ## [Zehn Tage nach Schulöffnung schnellen die Patientenzahlen hoch](https://www.tagesspiegel.de/wissen/alarmierende-covid-19-modellrechnungen-zehn-tage-nach-schuloeffnung-schnellen-die-patientenzahlen-hoch/25741744.html)
 >
 >Was passiert, wenn verschiedene Maßnahmen in der Coronakrise getroffen oder aufgehoben werden? Ein Modell der TU Berlin simuliert, wie sich dann Covid-19 in der Bevölkerung ausbreitet.
+
 

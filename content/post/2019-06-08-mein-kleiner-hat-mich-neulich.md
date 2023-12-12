@@ -1,23 +1,20 @@
 ---
 title: 'Mein Kleiner hat mich neulich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-08
-output: pdf_document
+lastmod: 2019-06-08T22:46:02+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-08T22:46:02+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mein Kleiner hat mich neulich gefragt, warum Fahrräder nicht umfallen. Nun als (Ex-)Physiker habe ich ihm gesagt, das liegt an der Drehung der Räder. Ein einzelnes Rad fällt nicht sofort um, wenn man es mit Schwung dreht (wg. Drehmomenterhaltung). Leider ist diese einfache Erklärung für Fahrräder mit zwei Rädern aber falsch. Hier die richtige Erklärung für alle neugierigen Kinder und Erwachsene:
 
@@ -32,4 +29,5 @@ Erfunden, bzw. herausgefunden haben das natürlich die Holländer ;-)
 > ## [Why bicycles do not fall: Arend Schwab at TEDxDelft](https://www.youtube.com/watch?v=2Y4mbT3ozcA)
 >
 >An assistant professor in theoretical and applied mechanics who is into bicyles : Meet TEDx Delft -- 2012 performer, Arend Schwab from Delft University of Te...
+
 

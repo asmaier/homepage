@@ -1,23 +1,20 @@
 ---
 title: '"Unionsfraktionsvize Carsten Linnemann zum Beispiel ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-11-29
-output: pdf_document
+lastmod: 2019-11-29T10:31:28+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-11-29T10:31:28+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Unionsfraktionsvize Carsten Linnemann zum Beispiel weiß es offenbar besser als die Expertenkommission der Weltbank und andere führende Ökonomen und warnt vor "teuren und ineffektiven nationalen Alleingängen".
 ...
@@ -29,4 +26,5 @@ Langsam steht Deutschland allein da in Europa mit seiner Weigerung eine effektiv
 > ## [Klimawandel: Wir schützen die Profiteure der Katastrophe](https://www.spiegel.de/wissenschaft/mensch/klimawandel-wir-schuetzen-die-profiteure-der-katastrophe-a-1264618.html)
 >
 >Eine CO2-Steuer ist eine einfache und elegante Möglichkeit, effektive Klimapolitik zu machen - mit dem Markt als Mechanismus. Warum also haben ausgerechnet CDU und FDP etwas dagegen?
+
 

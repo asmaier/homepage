@@ -1,23 +1,20 @@
 ---
 title: '"Gleichzeitig forderten die Staats- und ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-31
-output: pdf_document
+lastmod: 2021-05-31T10:11:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-31T10:11:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Gleichzeitig forderten die Staats- und Regierungschefs alle Fluglinien aus den Mitgliedsstaaten auf, das osteuropäische Land nicht mehr zu überfliegen. "
 
@@ -32,4 +29,5 @@ BASF, Commerzbank, DB Schenker, Henkel, Knauf, Bosch, Siemens, Zeiss um nur mal 
 > ## [Attention Required! | Cloudflare](https://www.wiwo.de/technologie/forschung/sanktionen-gegen-weissrussland-animation-zeigt-flugbeschraenkungen-ueber-belarus-sind-wirkungslos/27237820.html)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

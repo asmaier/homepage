@@ -1,23 +1,20 @@
 ---
 title: 'Nein, doch, oh! Subventionen und ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-08-27
-output: pdf_document
+lastmod: 2020-08-27T16:00:01+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-08-27T16:00:01+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nein, doch, oh!
 
@@ -29,4 +26,5 @@ Womöglich würde eine höhere CO2-Steuer sich in Deutschland auch so auswirken 
 > ## [Unerwartete E-Auto-Nachfrage: BMW und VW ändern Strategie](https://www.heise.de/hintergrund/Unerwartete-E-Auto-Nachfrage-BMW-und-VW-aendern-Strategie-4879938.html)
 >
 >BMW i3 und VW e-Golf sind gefragter als je zuvor. Nun erhöhen beide Hersteller die Produktionszahlen.
+
 

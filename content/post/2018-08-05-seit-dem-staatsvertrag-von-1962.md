@@ -1,23 +1,20 @@
 ---
 title: '"Seit dem Staatsvertrag von 1962 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-08-05
-output: pdf_document
+lastmod: 2018-08-05T12:55:09+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-08-05T12:55:09+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Seit dem Staatsvertrag von 1962 gehört Büsingen politisch zu Deutschland, wirtschaftlich aber zur Schweiz"
 
@@ -34,4 +31,5 @@ https://de.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein#Sonderregelungen
 > de.wikipedia.org
 > ## [Büsingen am Hochrhein – Wikipedia](https://de.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein#Sonderregelungen)
 >
+
 

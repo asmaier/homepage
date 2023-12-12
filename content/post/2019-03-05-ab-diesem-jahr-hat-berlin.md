@@ -1,23 +1,20 @@
 ---
 title: 'Ab diesem Jahr hat Berlin ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-05
-output: pdf_document
+lastmod: 2019-03-05T17:41:15+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-05T17:41:15+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ab diesem Jahr hat Berlin einen Feiertag mehr, den internationalen Frauentag am 8. März. Aber viele fragen sich, wenn es jetzt einen Feiertag für die Frauen gibt, sollte es dann nicht auch einen für die Männer geben? 
 
@@ -30,4 +27,5 @@ Man darf gespannt sein, ob wir daher aus Gleichberechtigungsgründen in Berlin b
 > de.wikipedia.org
 > ## [Internationaler Männertag – Wikipedia](https://de.wikipedia.org/wiki/Internationaler_M%C3%A4nnertag)
 >
+
 

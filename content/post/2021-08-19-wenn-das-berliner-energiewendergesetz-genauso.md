@@ -1,23 +1,20 @@
 ---
 title: 'Wenn das Berliner Energiewendergesetz genauso ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-08-19
-output: pdf_document
+lastmod: 2021-08-19T16:48:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-08-19T16:48:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wenn das Berliner Energiewendergesetz genauso schnell umgesetzt wird wie das Berliner Mobilitätsgesetz, dann wird jahrelang genau gar nichts passieren.
 
@@ -35,4 +32,5 @@ Berliner Gesetze sind leider das Papier nicht wert auf das sie geschrieben werde
 > ## [Berliner Energiewendegesetz für Klimaschutz](https://www.heise.de/news/Berliner-Energiewendegesetz-fuer-Klimaschutz-6169239.html)
 >
 >Das Berliner Abgeordnetenhaus beschließt am 19. August 2021 ein Energiewendegesetz mit ambitionierten Klimaschutzvorgaben für das Bundesland Berlin. 
+
 

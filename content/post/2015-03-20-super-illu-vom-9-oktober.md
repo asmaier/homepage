@@ -1,23 +1,20 @@
 ---
 title: 'Super Illu vom 9. Oktober ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-03-20
-output: pdf_document
+lastmod: 2015-03-20T18:20:08+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-03-20T18:20:08+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Super Illu vom 9. Oktober 2014 Umfrage :
 Die Mehrheit der Ostdeutschen sagt in folgenden Punkten geht es ihnen besser als in der DDR:
@@ -50,4 +47,5 @@ Die ganze Rede gibt es hier: http://www.gregorgysi.de/reden/einzelansicht/zuruec
 > ## [Gregor Gysi: Einheit von Freiheit, Demokratie, sozialer Sicherheit und Gerechtigkeit herstellen](https://www.youtube.com/watch?v=rcaDr6T8_MY&t=387)
 >
 >07.11.2014 - Es ist eine historische Leistung aller Beteiligten in der DDR, dass es zu keinem Zeitpunkt damals Gewalt gab. Die DDR war eine Diktatur, sie war...
+
 

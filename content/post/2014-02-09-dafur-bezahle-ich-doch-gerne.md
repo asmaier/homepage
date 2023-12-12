@@ -1,23 +1,20 @@
 ---
 title: 'Dafür bezahle ich doch gerne ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-02-09
-output: pdf_document
+lastmod: 2014-02-09T18:57:58+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-02-09T18:57:58+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dafür bezahle ich doch gerne GEZ Gebühren!
 > russland.ru
@@ -26,4 +23,5 @@ Dafür bezahle ich doch gerne GEZ Gebühren!
 >The server encountered an internal error or
 misconfiguration and was unable to complete
 your request.
+
 

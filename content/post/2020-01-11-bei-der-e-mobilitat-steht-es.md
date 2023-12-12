@@ -1,23 +1,20 @@
 ---
 title: 'Bei der E-Mobilität steht es ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-01-11
-output: pdf_document
+lastmod: 2020-01-11T23:22:15+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-01-11T23:22:15+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Bei der E-Mobilität steht es im Spiel Norwegen gegen Deutschland 50:1 . 
 
@@ -27,4 +24,5 @@ In Norwegen sind 50% aller Neuwagen elektrisch, in Deutschland 1 %.
 > ## [Norwegen: Fast die Hälfte der neuen Autos fährt elektrisch](https://www.heise.de/newsticker/meldung/Norwegen-Fast-die-Haelfte-der-neuen-Autos-faehrt-elektrisch-4628039.html)
 >
 >Der Absatz von E-Autos ist 2019 in dem skandinavischen Land um knapp 31 Prozent gegenüber dem Vorjahr auf 60.316 gestiegen. Ein US-Modell war am beliebtesten.
+
 

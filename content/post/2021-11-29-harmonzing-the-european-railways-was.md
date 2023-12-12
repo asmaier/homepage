@@ -1,23 +1,20 @@
 ---
 title: '"Harmonzing the european railways" Was ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-29
-output: pdf_document
+lastmod: 2021-11-29T21:40:13+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-29T21:40:13+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Harmonzing the european railways" Was für eine schöne Idee des Künstlers. Aber wer mal für die Bahn gearbeitet hat, weiß, dass es vermutlich leichter ist auf dem Mond zu landen, als die Eisenbahnen Europas unter einen Hut zu bringen. 150 Jahre haben die Eisenbahnen der Länder (teilweise aus militärischen Gründen) eifersüchtig jeden Bahnkilometer im eigenen Land möglichst inkompatibel zum Nachbarland gestaltet. 
 
@@ -28,4 +25,5 @@ Ich glaube ja, bevor in Europa die Zugsysteme harmonisiert sind, haben die USA d
 > metropa.eu
 > ## [metropa – metropa](https://www.metropa.eu/)
 >
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Dabei hätte der Konzern wohl ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-16
-output: pdf_document
+lastmod: 2022-01-16T11:43:43+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-16T11:43:43+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Dabei hätte der Konzern wohl gern 18.000 weitere Verbindungen gestrichen, bei Lufthansa ist von „sinnlosen“ Flügen die Rede, die dennoch abheben sollen."
 
@@ -29,4 +26,5 @@ Ich wünsche euch baldmöglichst eine saftige Kerosin- und CO2 Steuer. Mal sehen
 > ## [Umkämpfte Start-Zeitfenster: Sinnlose Flüge? Lieber leer fliegen als nicht fliegen](https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-fuehrt-18-000-sinnlose-fluege-fuer-startslot-rechte-durch-17704976.html)
 >
 >Lufthansa will trotz eingebrochener Buchungen im Winter bis zu 18.000 Flüge durchführen, um Rechte an Startslots nicht zu verlieren. Für März sind schon schärfere EU-Regeln verkündet.
+
 

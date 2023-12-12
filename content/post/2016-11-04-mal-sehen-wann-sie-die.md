@@ -1,23 +1,20 @@
 ---
 title: 'Mal sehen, wann sie die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-11-04
-output: pdf_document
+lastmod: 2016-11-04T16:03:54+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-11-04T16:03:54+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mal sehen, wann sie die Station der Nazis auf dem Mond entdecken ;-)
 
@@ -29,4 +26,5 @@ Hier gibt es mehr Informationen und Bilder:
 > ## [Meteorologie: Geheime Wetterstation der Nazis in der Arktis wiederentdeckt](http://www.spektrum.de/news/geheime-wetterstation-der-nazis-in-der-arktis-wiederentdeckt/1427141)
 >
 >Drittes Reich betrieb taktische Wetterstation auf Alexandraland
+
 

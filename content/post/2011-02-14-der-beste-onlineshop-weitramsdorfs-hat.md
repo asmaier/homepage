@@ -1,26 +1,24 @@
 ---
 title: 'Der beste Onlineshop Weitramsdorfs hat ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-02-14
-output: pdf_document
+lastmod: 2011-02-14T22:04:14+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-02-14T22:04:14+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der beste Onlineshop Weitramsdorfs hat eröffnet!
 > drehpunkt-fischer.de
 > ## [www.drehpunkt-fischer.de/](http://www.drehpunkt-fischer.de/)
 >
+
 

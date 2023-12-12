@@ -1,23 +1,20 @@
 ---
 title: 'Der Artikel verdient es geteilt ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-08
-output: pdf_document
+lastmod: 2020-04-08T16:09:50+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-08T16:09:50+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der Artikel verdient es geteilt zu werden. Einer der wenigen Lichtblicke im Dunkel der Nachrichtenlage. 
 
@@ -27,4 +24,5 @@ Der Artikel verdient es geteilt zu werden. Einer der wenigen Lichtblicke im Dunk
 > ## [Bei den Corona-Zahlen stehen alle im Dunkeln](https://www.derstandard.at/story/2000116399653/bei-den-corona-zahlen-stehen-alle-im-dunkeln)
 >
 >Daten zu Corona-Infektionen, Todesfällen und Ausbreitung sind durchwegs unzuverlässig. Das stürzt die Politik in ein Dilemma, denn sie muss auf Basis solcher Zahlen handeln
+
 

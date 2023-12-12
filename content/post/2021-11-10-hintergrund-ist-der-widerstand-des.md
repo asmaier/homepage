@@ -1,23 +1,20 @@
 ---
 title: '"Hintergrund ist der Widerstand des ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-10
-output: pdf_document
+lastmod: 2021-11-10T15:52:09+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-10T15:52:09+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Hintergrund ist der Widerstand des noch geschäftsführenden Verkehrsministers Andreas Scheuer (CSU)."
 
@@ -27,4 +24,5 @@ Besser ohne Kommentar.
 > ## [Deutschland unterzeichnet Beschluss zu Ende von Kfz-Verbrennungsantrieben nicht](https://www.heise.de/hintergrund/Deutschland-unterzeichnet-Beschluss-zu-Ende-von-Kfz-Verbrennungsantrieben-nicht-6263388.html)
 >
 >Weil er synthetische Kraftstoffe ignoriere, erteilt Verkehrsminister Andreas Scheuer (CSU) dem Vorstoß zum Ende von Verbrenner-Kfz auf der COP26 eine Absage. 
+
 

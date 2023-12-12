@@ -1,23 +1,20 @@
 ---
 title: 'ROFL! :-)) It generates great ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-04-28
-output: pdf_document
+lastmod: 2015-04-28T14:30:29+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-04-28T14:30:29+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 ROFL! :-))
 
@@ -30,4 +27,5 @@ It generates great startups like:
 > ## [Startup Generator](http://tiffzhang.com/startup/index.html)
 >
 >Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.
+
 

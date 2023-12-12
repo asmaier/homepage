@@ -1,23 +1,20 @@
 ---
 title: 'Traurige Nachricht für diesen Planeten: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-07-26
-output: pdf_document
+lastmod: 2021-07-26T22:06:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-07-26T22:06:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Traurige Nachricht für diesen Planeten: Steven Weinberg ist gestorben. 
 
@@ -33,4 +30,5 @@ https://www.scottaaronson.com/blog/?p=5566
 > ## [Steven Weinberg (1933-2021): a personal view](https://www.scottaaronson.com/blog/?p=5566)
 >
 >Steven Weinberg was, perhaps, the last truly towering figure of 20th-century physics. In 1967, he wrote a 3-page paper saying in effect that as far as he could see, two of the four fundamental forc…
+
 

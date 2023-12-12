@@ -1,23 +1,20 @@
 ---
 title: 'Wie bitte, Putin macht die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-12-08
-output: pdf_document
+lastmod: 2011-12-08T12:12:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-12-08T12:12:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wie bitte, Putin macht die USA für die Proteste in Russland verantwortlich?
 
@@ -27,4 +24,5 @@ Lieber Putin, nicht die USA ist verantwortlich für die Proteste, sondern deine 
 > ## [Erreur 404 - Page non trouvée - Les Observateurs - France 24](http://observers.france24.com/content/20111206-russia-election-fraud-caught-video-ballot-stuffing-erasable-ink-putin-protests)
 >
 >Le contenu auquel vous tentez d'accéder n'existe pas ou n'est plus disponible.
+
 

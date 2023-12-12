@@ -1,23 +1,20 @@
 ---
 title: 'Da soll mal einer sagen, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-05-31
-output: pdf_document
+lastmod: 2013-05-31T16:15:52+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-05-31T16:15:52+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Da soll mal einer sagen, Doktorarbeiten werden nicht gelesen! Diese hier scheint lesenswert, zumindest die Zitate daraus machen Lust auf mehr:
 
@@ -32,4 +29,5 @@ Ergebnis: Summa cum laude!
 > ## [DER SPIEGEL - Fehler 404](http://www.spiegel.de/kultur/tv/ndr-mitarbeiterin-anna-terschueren-klagt-ard-und-zdf-in-dissertation-an-a-902943.htmlscheint)
 >
 >Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Ist das wirklich eine Drohung? ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-08-09
-output: pdf_document
+lastmod: 2019-08-09T10:56:20+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-08-09T10:56:20+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ist das wirklich eine Drohung? Am Ende des Artikels verweist Standard passend auf einen anderen Artikel mit der Überschrift:
 
@@ -32,4 +29,5 @@ Vielleicht sollte unsere Regierung mal diese Gegendrohung versuchen ;-)
 > ## [USA drohen mit Truppenabzug aus Deutschland](https://www.derstandard.de/story/2000107227169/usa-drohen-mit-truppenabzug-aus-deutschland)
 >
 >Kurz vor Trumps Europa-Reise drängt die US-Regierung Deutschland zu höheren Verteidigungsausgaben und überlegt, ihre Truppen nach Polen zu verlegen
+
 

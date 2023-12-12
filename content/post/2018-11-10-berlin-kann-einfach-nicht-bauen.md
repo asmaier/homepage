@@ -1,23 +1,20 @@
 ---
 title: 'Berlin kann einfach nicht bauen. ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-11-10
-output: pdf_document
+lastmod: 2018-11-10T17:35:36+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-11-10T17:35:36+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Berlin kann einfach nicht bauen. Da wird ein Radweg auf 450m mit Pollern geschützt, was grundsätzlich eine gute Idee ist. Aber:
 
@@ -45,4 +42,5 @@ Von So, 21.11. bis Do, 9.12., jeweils So–Do, ca. 22:30 Uhr bis ca. 0:30 Uhr
 Zwischen U Senefelderplatz und U Stadtmitte kein Zugverkehr.
 
 Ein Ersatzverkehr wird eingerichtet.
+
 

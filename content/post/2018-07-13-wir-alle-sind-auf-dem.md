@@ -1,23 +1,20 @@
 ---
 title: 'Wir alle sind auf dem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-07-13
-output: pdf_document
+lastmod: 2018-07-13T21:49:39+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-07-13T21:49:39+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wir alle sind auf dem Raumschiff Erde unterwegs durchs All. Das bedeutet wir alle sind Astronauten!
 
@@ -27,4 +24,5 @@ https://vimeo.com/55073825
 > ## [OVERVIEW](https://vimeo.com/55073825)
 >
 >Buy the feature film PLANETARY: http://www.vimeo.com/ondemand/planetary For more info about PLANETARY and Planetary Collective visit http://www.weareplanetary.com.  On…
+
 

@@ -1,23 +1,21 @@
 ---
 title: 'Japans Probleme zeigen eindeutig: Die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-03-13
-output: pdf_document
+lastmod: 2011-03-13T16:43:05+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-03-13T16:43:05+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Japans Probleme zeigen eindeutig: Die Natur hat versagt und nicht die Atomindustrie! Darum bin gegen Laufzeitverlängerung und für die sofortige Abschaltung der Natur!
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Endlich sind wir Bayern nicht ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-12-29
-output: pdf_document
+lastmod: 2021-12-29T21:24:06+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-12-29T21:24:06+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Endlich sind wir Bayern nicht mehr die Deppen der Nation. Die Blödemie in Sachsen wird bald die Grenze zur Herdenstupidität überschreiten: https://www.der-postillon.com/2021/12/herdenstupiditaet.html 
 
@@ -28,4 +25,5 @@ Jahrzehnte nach der Wiedervereinigung erstmals wieder zurück. Die Frage ist jet
 > ## [Sachsen kurz vor Erreichen von Herdenstupidität](https://www.der-postillon.com/2021/12/herdenstupiditaet.html)
 >
 >Bautzen, Freital, Leipzig (dpo) - Wissenschaftler sehen zahlreiche Anzeichen dafür, dass Sachsen schon bald Herdenstupidität erreicht haben könnte. Zu
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Heute feiert Russland zum 75ten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-05-09
-output: pdf_document
+lastmod: 2020-05-09T22:50:02+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-05-09T22:50:02+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Heute feiert Russland zum 75ten Mal den Tag des Sieges (ein Tag später als Westeuropa wegen der anderen Zeitzone). In Anbetracht dessen habe ich es mir angetan und https://de.wikipedia.org/wiki/Komm_und_sieh geschaut, von manchen als wenn nicht der grausamste, dann doch als der realistischste Antikriegsfilm (am Set wurde mit echter Munition geschossen) aller Zeiten bezeichnet. 
 
@@ -29,4 +26,5 @@ Alles in allem fällt es mir schwer diesen Film in wenige Worte zu fassen. Kommt
 > ## [Иди и смотри (FullHD, военный, реж. Элем Климов, 1985 г.)](https://www.youtube.com/watch?v=UkkJZweYaLI)
 >
 >Смотрите наши фильмы на сайте https://кино-мосфильм.рфПодпишитесь на наш канал и страницы в социальных сетях!Facebook: https://www.facebook.com/MosfilmOffici...
+
 

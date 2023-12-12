@@ -1,23 +1,20 @@
 ---
 title: 'Na, schaut ihr auch alle ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-06-27
-output: pdf_document
+lastmod: 2021-06-27T20:51:10+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-06-27T20:51:10+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Na, schaut ihr auch alle Fußball-EM? Dann habt ihr bestimmt verpasst, dass es in Deutschland zum ersten Mal einen Bürgerrat zum Thema Klima gab. 
 
@@ -54,4 +51,5 @@ https://buergerrat-klima.de/wieso-ein-buergerrat-klima/die-ergebnisse
 > buergerrat-klima.de
 > ## [Bürgerrat Klima](https://buergerrat-klima.de/wieso-ein-buergerrat-klima/die-ergebnisse)
 >
+
 

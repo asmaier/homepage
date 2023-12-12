@@ -1,23 +1,20 @@
 ---
 title: 'Das wäre auch mal was ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-02-26
-output: pdf_document
+lastmod: 2017-02-26T23:40:42+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-02-26T23:40:42+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das wäre auch mal was für Berlin:
 
@@ -26,4 +23,5 @@ Das wäre auch mal was für Berlin:
 > en.wikipedia.org
 > ## [Smoking in Costa Rica - Wikipedia](https://en.wikipedia.org/wiki/Smoking_in_Costa_Rica)
 >
+
 

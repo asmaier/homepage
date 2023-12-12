@@ -1,23 +1,20 @@
 ---
 title: 'Schöner Talk über das Problem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-12-29
-output: pdf_document
+lastmod: 2017-12-29T22:50:22+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-12-29T22:50:22+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Schöner Talk über das Problem unserer Zeit und sicher mit eine der Ursachen für unsere Wutbürger. 
 
@@ -31,4 +28,5 @@ https://www.heise.de/tp/news/ExxonMobil-Spain-beschaeftigt-einen-Angestellten-19
 > ## [Taxation](https://media.ccc.de/v/34c3-9047-taxation)
 >
 >Taxation, the most "boring" #34c3 talk, but hey it's the economy stupid, and you pay for it! We will a provide a quick overview of the in...
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'This and only this explains ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-08-22
-output: pdf_document
+lastmod: 2018-08-22T16:56:51+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-08-22T16:56:51+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 This and only this explains Bitcoin!
 > [![](https://i.ytimg.com/vi/uNOLQGk7QLk/maxresdefault.jpg)](https://www.youtube.com/watch?v=uNOLQGk7QLk)
@@ -25,4 +22,5 @@ This and only this explains Bitcoin!
 > ## [BAHFest East 2018 - Jerry Wang: Decrypting crypto](https://www.youtube.com/watch?v=uNOLQGk7QLk)
 >
 >Jerry Wang proposes the very "logical" reason for the Blockchain-Backed Currency frenzy.BAHFest is the Festival of Bad Ad Hoc Hypotheses, a celebration of we...
+
 

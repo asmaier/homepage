@@ -1,23 +1,20 @@
 ---
 title: 'Wenn selbst das Handelsblatt die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-07
-output: pdf_document
+lastmod: 2019-09-07T17:44:49+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-07T17:44:49+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wenn selbst das Handelsblatt die deutsche Automobilindustrie kritisiert, weiß man das etwas gewaltig schiefläuft. 
 
@@ -31,4 +28,5 @@ Und das, obwohl die EU speziell den deutschen Autokonzernen mit einer Reihe von 
 > ## [Klimaziele: Der SUV-Wahnsinn – Warum die Autoindustrie sehenden Auges in eine Falle tappt](https://www.handelsblatt.com/unternehmen/industrie/auto-von-morgen/klimaziele-der-suv-wahnsinn-warum-die-autoindustrie-sehend-in-eine-falle-tappt/24976708.html)
 >
 >Kein Fahrzeugsegment wächst so schnell wie das der SUVs. Dabei gelten sie als besonders umweltschädlich. Die Konzerne müssen umdenken – sonst drohen Strafen.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Ich war am Wochenende im ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-11-25
-output: pdf_document
+lastmod: 2018-11-25T20:33:33+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-11-25T20:33:33+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich war am Wochenende im (West-)Alliierten-Museum in Berlin. Es war überraschend interessant. Zwei Dinge sind mir besonders in Erinnerung geblieben:
 
@@ -29,4 +26,5 @@ Vielleicht sollten wir die Russen einladen mal wieder Berlin zu blockieren. Dann
 > de.wikipedia.org
 > ## [AlliiertenMuseum – Wikipedia](https://de.wikipedia.org/wiki/AlliiertenMuseum)
 >
+
 

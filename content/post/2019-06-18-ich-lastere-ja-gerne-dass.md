@@ -1,23 +1,20 @@
 ---
 title: 'Ich lästere ja gerne, dass ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-18
-output: pdf_document
+lastmod: 2019-06-18T11:48:36+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-18T11:48:36+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich lästere ja gerne, dass die Startups in Berlin nix können außer Pizza und Klamotten liefern. Hier habe ich aber mal ein interessanteres gefunden: 
 https://ptscientists.com/about/history/
@@ -31,4 +28,5 @@ Allerdings habe ich gerade in ihre Timeline geschaut. Und da steht tatsächlich,
 > ## [Our History – PTS](https://ptscientists.com/about/history/)
 >
 >Our History   PTS was originally founded back in late 2008 to compete in the Google Lunar XPRIZE. With a cry of âhell yeah, itâs rocket science!â Robert Boehme began […]
+
 

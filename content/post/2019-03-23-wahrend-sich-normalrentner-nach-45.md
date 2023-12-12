@@ -1,23 +1,20 @@
 ---
 title: '"Während sich Normalrentner nach 45 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-23
-output: pdf_document
+lastmod: 2019-03-23T20:42:32+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-23T20:42:32+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Während sich Normalrentner nach 45 Beitragsjahren mit maximal 48 Prozent ihres letzten Einkommens zufrieden geben müssen, bekommen pensionierte Beamte gut 71 Prozent ihres letzten Bruttogehalts."
 
@@ -35,4 +32,5 @@ BRD = Beamten Republik Deutschland!
 > ## [Beamtenpension: Fünf Jahre Arbeit, 1.573 Euro Pension](https://www.zeit.de/wirtschaft/2016-06/beamtenpension-rentenreform-altersarmut-ruhestand/komplettansicht)
 >
 >Alle reden über Rentenreformen – aber warum packt keiner die Pensionen der Beamten an? Deren Altersbezüge sind hoch. Nur sie selber streiten das gern ab. 
+
 

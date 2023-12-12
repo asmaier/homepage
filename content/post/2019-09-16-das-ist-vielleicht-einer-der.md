@@ -1,23 +1,20 @@
 ---
 title: 'Das ist vielleicht einer der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-16
-output: pdf_document
+lastmod: 2019-09-16T20:29:47+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-16T20:29:47+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das ist vielleicht einer der besten populärwissenschaftlichen Artikel zum Thema Meßprozess in der Quantenmechanik:
 
@@ -31,4 +28,5 @@ Das heißt nichts anderes, als das die Welt quantenmechanisch ist und bleibt. Au
 > ## [The Universe Is Always Looking](https://www.theatlantic.com/science/archive/2018/10/beyond-weird-decoherence-quantum-weirdness-schrodingers-cat/573448/)
 >
 >The one thing you probably understand about quantum physics is actually a poor metaphor for the modern state of the field.
+
 

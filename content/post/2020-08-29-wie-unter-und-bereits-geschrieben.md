@@ -1,23 +1,20 @@
 ---
 title: 'Wie unter und bereits geschrieben ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-08-29
-output: pdf_document
+lastmod: 2020-08-29T22:17:09+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-08-29T22:17:09+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wie unter https://www.facebook.com/andreas.maier.754918/posts/3231312733581070 und https://www.facebook.com/andreas.maier.754918/posts/3254237237955286 bereits geschrieben ist mir schon lange aufgefallen, dass bei seltsamen Vorkommnissen Russland und seine Geheimdienste oft eine unrühmliche Rolle spielen. Aber inzwischen fällt das nicht nur mir auf, es steht auch in der Wikipedia: 
 
@@ -29,4 +26,5 @@ Und ich wäre auch überhaupt nicht überrascht, wenn Russland die covidioten un
 > de.wikipedia.org
 > ## [Einheit 29155 – Wikipedia](https://de.wikipedia.org/wiki/Einheit_29155)
 >
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die Antworten der Parteien auf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-03
-output: pdf_document
+lastmod: 2021-09-03T10:27:31+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-03T10:27:31+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Antworten der Parteien auf die Wahlprüfsteine der wissenschaftlichen Verbände sind durchaus interessant. Besonders auffällig ist dabei die AfD, die auf viele Fragen überhaupt keine Antworten gibt. Z.B. beantworten sie die Frage danach, wie man den Einfluß von Verschwörungsmythen limitieren könnte, überhaupt nicht.    Vermutlich weil sie die Hauptprofiteure dieser Mythen sind und ihre Verbreitung aktiv fördern.
 
@@ -27,4 +24,5 @@ Interessant aber finde ich auch, dass die AfD als einzige Partei für den Wieder
 > ## [Wahlprüfsteine zur Bundestagswahl 2021](https://wissenschaft-verbindet.de/gemeinsame-aktivitaeten/wahlpruefsteine/2021)
 >
 >Im Vorfeld der Bundestagswahl haben die großen mathematisch-naturwissenschaftlichen Fachgesellschaften allen im deutschen Bundestag vertretenen Parteien sogenannte „Wahlprüfsteine“ vorgelegt. Diese gemeinsame Aktion soll dokumentieren, welche grundlegenden wissenschaftspolitischen Vorstellungen die jeweiligen Parteien haben.
+
 

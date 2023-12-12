@@ -1,23 +1,20 @@
 ---
 title: 'Nach dem Jahr-2000-Problem und dem ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-01-09
-output: pdf_document
+lastmod: 2018-01-09T14:17:08+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-01-09T14:17:08+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nach dem Jahr-2000-Problem und dem Jahr-2038-Problem kommt das Jahr-4813-Problem:
 
@@ -27,4 +24,5 @@ Nach dem Jahr-2000-Problem und dem Jahr-2038-Problem kommt das Jahr-4813-Problem
 > ## [Freistetters Formelwelt: Die Mathematik der Schaltjahre](http://www.spektrum.de/kolumne/die-mathematik-der-schaltjahre/1529809)
 >
 >Warum wir alle vier Jahre den Kalender ergänzen müssen
+
 

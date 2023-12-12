@@ -1,23 +1,20 @@
 ---
 title: 'Drosten ist inzwischen optimistisch: "Deutschland ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-20
-output: pdf_document
+lastmod: 2022-01-20T00:08:58+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-20T00:08:58+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Drosten ist inzwischen optimistisch:
 
@@ -36,4 +33,5 @@ Das Virus kann es halt nicht jedem recht machen.
 > ## [Oxfam-Bericht: Vermögen der zehn Reichsten verdoppelt sich während der Pandemie](https://www.zeit.de/wirtschaft/2022-01/oxfam-corona-pandemie-reichtum-armut-steuerreform)
 >
 >Die Corona-Pandemie hat laut Oxfam 160 Millionen Menschen zusätzlich in die Armut gestürzt und Ungleichheiten vertieft. Die Organisation fordert weltweite Steuerreformen.
+
 

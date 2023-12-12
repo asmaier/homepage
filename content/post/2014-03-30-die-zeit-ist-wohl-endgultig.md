@@ -1,23 +1,20 @@
 ---
 title: '"Die Zeit" ist wohl endgültig ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-03-30
-output: pdf_document
+lastmod: 2014-03-30T23:34:09+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-03-30T23:34:09+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Zeit" ist wohl endgültig zum Sprachrohr der NSA verkommen. Aber wenigstens sind sie ehrlich, unter Quelle zu diesem "neutralen" Artikel steht die NSA in einer Reihe mit anderen Nachrichtenagenturen. http://www.zeit.de/politik/ausland/2014-03/ukraine-putin-ban/komplettansicht
 
@@ -27,4 +24,5 @@ P.S.: Der alte Titel (hier in Facebook noch zu sehen) war: "Ukraine: Putin zeigt
 > ## [Ukraine: Nato wappnet sich für russischen Einmarsch](http://www.zeit.de/politik/ausland/2014-03/ukraine-putin-ban/komplettansicht)
 >
 >Russlands Präsident schließt eine Rückgabe der Krim aus, versichert aber, er plane keine weiteren Militäraktionen in der Ukraine. Die Nato verstärkt dennoch ihre Truppen.
+
 

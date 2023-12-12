@@ -1,23 +1,20 @@
 ---
 title: 'Man sollte das Video in ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-22
-output: pdf_document
+lastmod: 2020-03-22T22:49:53+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-22T22:49:53+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Man sollte das Video in ganzer Länge zitieren. Denn Quasching hat mit jedem Satz recht. Ein ganz starkes Video. Ich bringe hier ein paar Appetizer, aber ihr solltet es auf jeden Fall ganz anschauen. 
 
@@ -37,4 +34,5 @@ Treffer, versenkt!
 > ## [Was kollabiert noch alles nach Corona?](https://www.youtube.com/watch?v=6V-C5q4VxEI)
 >
 >Bei der Coronakrise erleben wir, was Kippunkte bedeuten. Wir legen unsere gesamte Gesellschaft lahm, um einen Kollaps des Gesundheitssystems mit hunderttause...
+
 

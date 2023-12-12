@@ -1,23 +1,20 @@
 ---
 title: 'Für alle die lieber das ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-03-19
-output: pdf_document
+lastmod: 2014-03-19T21:36:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-03-19T21:36:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Für alle die lieber das Original lesen, statt auf Gerüchte aus den Medien zu hören: Hier ist die Rede Putins zur Krim im Wortlaut http://www.nachdenkseiten.de/?p=21129#h01
 
@@ -33,4 +30,5 @@ Putins Rede
 Was interessiert mich die Krim?
 Verfassungsbeschwerden und Organstreitverfahren gegen Europäischen Stabilitätsmechanismus und Fiskalpakt erfolglos
 Mindes ...
+
 

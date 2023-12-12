@@ -1,23 +1,20 @@
 ---
 title: 'Gute Nachrichten, der Mann ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-02-29
-output: pdf_document
+lastmod: 2020-02-29T22:08:24+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-02-29T22:08:24+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Gute Nachrichten, der Mann ist gesund und die Krankheit war überhaupt nicht schlimm.
 Typisch deutsch an der Geschichte erscheint aber, dass er trotz nachgewiesener Genesung aus rein bürokratischen Gründen länger im Krankenhaus bleiben musste und immer noch nicht wieder zurück an den Arbeitsplatz darf.
@@ -26,4 +23,5 @@ Typisch deutsch an der Geschichte erscheint aber, dass er trotz nachgewiesener G
 > ## [Coronavirus in Bayern: Erster bayerischer Corona-Patient ist wieder ganz gesund - Exklusivinterview | BR.de](https://www.br.de/radio/bayern1/coronavirus-in-bayern-100.html)
 >
 >Der erste Corona-Patient in Bayern hat exklusiv mit BAYERN 1 Ã¼ber die Krankheit, seine Genesung, die Isolierung und den schwierigen Umgang der Medien mit dem Virus gesprochen.
+
 

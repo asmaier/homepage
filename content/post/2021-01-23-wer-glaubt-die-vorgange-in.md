@@ -1,23 +1,20 @@
 ---
 title: 'Wer glaubt die Vorgänge in ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-01-23
-output: pdf_document
+lastmod: 2021-01-23T23:09:18+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-01-23T23:09:18+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer glaubt die Vorgänge in Russland könnten uns egal sein, der täuscht sich. Ich zitiere hier mal aus einem Review des Buches "Putin's People: How the KGB Took Back Russia and Then Took On the West":
 
@@ -33,4 +30,5 @@ Daran sieht man, wie heuchlerisch es ist, wenn gerade Russland vom Westen verlan
 > ## [A KGB Man to the End](https://www.theatlantic.com/magazine/archive/2020/09/catherine-belton-putins-people/614212/)
 >
 >The origins of Putin’s worldview—and the rise of Russia’s new ruling class
+
 

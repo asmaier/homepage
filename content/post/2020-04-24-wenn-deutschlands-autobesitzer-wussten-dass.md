@@ -1,23 +1,20 @@
 ---
 title: '"Wenn Deutschlands Autobesitzer wüssten, dass ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-24
-output: pdf_document
+lastmod: 2020-04-24T15:55:53+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-24T15:55:53+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Wenn Deutschlands Autobesitzer wüssten, dass ihr Fahrzeug doppelt so viel Geld im Monat verschlingt, als sie annehmen – würden dann mehr von ihnen auf alternative Verkehrsmittel umsteigen?"
 
@@ -32,4 +29,5 @@ Und aus der Studie selbst:
 > ## [Autobesitz: Doppelt so teuer, wie Sie denken](https://www.spektrum.de/news/doppelt-so-teuer-wie-sie-denken/1726254)
 >
 >Eine Studie zeigt, wie sich Deutsche bei der Kostenabschätzung systematisch um hunderte Euro vertun  
+
 

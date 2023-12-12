@@ -1,23 +1,20 @@
 ---
 title: 'Mehr Fortschritt wagen! Das ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-24
-output: pdf_document
+lastmod: 2021-11-24T21:56:23+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-24T21:56:23+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mehr Fortschritt wagen! Das ist definitiv ein gutes Motto. Es wäre schön, wenn die neue Regierung es tatsächlich schafft einige der jetzt im Koalitionsvertrag versprochenen Vorhaben umzusetzen. 
 
@@ -29,4 +26,5 @@ Trotzdem macht der Koalitionsvertrag Hoffnung. Es hätte viel schlimmer kommen k
 > ## [Ampel-Parteien stellen Koalitionsvertrag vor](https://www.tagesschau.de/inland/innenpolitik/ampel-koalitionsvertrag-103.html)
 >
 >"Mehr Fortschritt wagen" - so das Ziel von SPD, Grünen und FDP. In ihrem Koalitionsvertrag wollen sie unter anderem den Kohleausstieg auf 2030 vorziehen, jährlich 400.000 neue Wohnungen bauen und den Mindestlohn auf zwölf Euro pro Stunde erhöhen.
+
 

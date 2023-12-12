@@ -1,23 +1,20 @@
 ---
 title: 'Wunder die Corona vollbringt: Die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-05-18
-output: pdf_document
+lastmod: 2020-05-18T15:09:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-05-18T15:09:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wunder die Corona vollbringt: Die CSU(!) fordert höhere Fleischpreise:
 
@@ -27,4 +24,5 @@ Wunder die Corona vollbringt: Die CSU(!) fordert höhere Fleischpreise:
 > ## [Coronavirus in Schlachthof: Heil will "aufräumen"](https://www.sueddeutsche.de/politik/coronavirus-schlachthof-fleisch-industrie-1.4911167)
 >
 >Nach zahlreichen Corona-Infektionen will Arbeitsminister Hubertus Heil in der Fleischbranche "aufräumen". Grünen-Chef Habeck fordert höhere Fleischpreise.
+
 

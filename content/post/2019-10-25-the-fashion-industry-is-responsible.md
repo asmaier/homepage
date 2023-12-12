@@ -1,23 +1,20 @@
 ---
 title: '"The fashion industry is responsible ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-25
-output: pdf_document
+lastmod: 2019-10-25T23:13:25+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-25T23:13:25+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "The fashion industry is responsible for 10% of humanity's carbon emissions."
 
@@ -36,4 +33,5 @@ Fast Fashion ist ungefähr so gesund für unseren Planeten wie Fast Food für un
 > ## [Business Insider](https://www.businessinsider.de/fast-fashion-environmental-impact-pollution-emissions-waste-water-2019-10)
 >
 >Versucht, euer gewünschtes Thema mit unserer Suche zu finden.
+
 

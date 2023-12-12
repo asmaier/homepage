@@ -1,23 +1,20 @@
 ---
 title: 'Da klickt man sorglos durch ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-14
-output: pdf_document
+lastmod: 2020-03-14T23:08:29+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-14T23:08:29+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Da klickt man sorglos durch eine Sammlung von wunderschön handcolorierten Fotos aus Russland (https://klimbim2014.wordpress.com/) und plötzlich stoße ich völlig überraschend auf untiges Bild. Es zeigt niemanden anders als den damals zukünftigen und letzten Zaren Russlands Nikolaus II in Coburg 1894. 
 
@@ -29,4 +26,5 @@ Wer hätte gedacht, dass Coburg nicht nur für das englische Königshaus, sonder
 > ## [Coburg 1894](https://klimbim2014.wordpress.com/2020/02/25/coburg-1894/)
 >
 >Visit the post for more.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Intelligenztest: Eines der Zitate unten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-06
-output: pdf_document
+lastmod: 2020-09-06T13:26:37+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-06T13:26:37+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Intelligenztest: Eines der Zitate unten passt nicht in die Reihe. Finde es!
 
@@ -35,4 +32,5 @@ Intelligenztest: Eines der Zitate unten passt nicht in die Reihe. Finde es!
 > ## [So flaniert es sich in Mitte](https://www.rbb24.de/panorama/beitrag/2020/09/berlin-friedrichstrasse-autofrei.html)
 >
 >Die Friedrichstraße ist den Rest des Jahres für Autos gesperrt – zumindest zwischen Französischer und Leipziger Straße. Mehr Platz für Radfahrer und Fußgänger sollen die Einkaufsmeile beleben. Franziska Ritter hat das Ergebnis getestet.
+
 

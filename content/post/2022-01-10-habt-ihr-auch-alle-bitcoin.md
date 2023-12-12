@@ -1,23 +1,20 @@
 ---
 title: 'Habt ihr auch alle Bitcoin? ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-10
-output: pdf_document
+lastmod: 2022-01-10T22:56:20+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-10T22:56:20+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Habt ihr auch alle Bitcoin? Ich schon lange nicht mehr. Bitcoin spielt leider keine positive Rolle auf unserem Planeten. Im Gegenteil, es verbraucht nutzlos Unmengen Energie und wird hauptsächlich zur Steuervermeidung, Spekulation und Geldwäsche genutzt. Und neue Verbrechensformen wie Ransomware sind durch Bitcoin erst im großen Maßstab ermöglicht worden. Daran will ich mich einfach nicht beteiligen, auch wenn man damit eventuell hohe Gewinne erzielen kann. Aber hohe Gewinne erzielt man auch z.B. beim Drogenverkauf oder im Waffenhandel. Nur weil etwas hohe Gewinne erlaubt, macht es die Sache nicht gut. Und Bitcoin ist leider ebenfalls nicht gut. 
 
@@ -27,4 +24,5 @@ Das Projekt ist noch nicht ganz fertig, aber im Gegensatz zu Bitcoin, kann man d
 > ## [GNU Taler](https://taler.net/de/features.html)
 >
 >Taxable Anonymous Libre Electronic Reserves
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Der Schweizer Experte für Gesundheitsrisiken ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-01-25
-output: pdf_document
+lastmod: 2019-01-25T10:29:14+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-01-25T10:29:14+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der Schweizer Experte für Gesundheitsrisiken durch Luftschadstoffe, Nino Künzli, hat die Initiative deutscher Lungenfachärzte gegen Grenzwerte kritisiert. Keiner der 112 Unterzeichnenden hätte Expertise auf dem Gebiet, sagte er im Dlf. Das Positionspapier sei daher „unwissenschaftlich“."
 
@@ -31,4 +28,5 @@ Möge jeder selbst seine Schlüsse daraus ziehen.
 > ## [Lungenfachärzte gegen Feinstaubgrenzwerte - Gesundheitsexperte: "Das sind alles Laien"](https://www.deutschlandfunk.de/lungenfachaerzte-gegen-feinstaubgrenzwerte.676.de.html?dram:article_id=439257)
 >
 >Der Schweizer Experte für Gesundheitsrisiken durch Luftschadstoffe, Nino Künzli, hat die Initiative deutscher Lungenfachärzte gegen Grenzwerte kritisiert. Keiner der 112 Unterzeichnenden hätte Expertise auf dem Gebiet, sagte er im Dlf. Das Positionspapier sei daher "unwissenschaftlich".
+
 

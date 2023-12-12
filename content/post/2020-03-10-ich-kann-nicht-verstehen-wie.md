@@ -1,23 +1,20 @@
 ---
 title: 'Ich kann nicht verstehen wie ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-10
-output: pdf_document
+lastmod: 2020-03-10T12:05:32+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-10T12:05:32+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich kann nicht verstehen wie gerade die Grünen dem zustimmen können. Jedenfalls tragen solche Personalentscheidungen nicht dazu bei, dass Vertrauen der Bürger in den Staat zu erhöhen. Vielleicht sollte man vor dem Verfassungsgericht dagegen klagen. Moment...
 > [![](https://www.nachdenkseiten.de/wp-content/uploads/2020/03/200309_titel.jpeg)](https://www.nachdenkseiten.de/?p=59130)
@@ -31,4 +28,5 @@ Dieser Beitrag ist auch als Audio-Podcast verfügbar.
 
 
 Am 6. Mai 2020 endet die Amtsperiode des jetzigen Präsidenten Andreas Voßkuhle. Sein Nachfolger soll Stephan Harbarth werden. So haben es für d ...
+
 

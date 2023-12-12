@@ -1,23 +1,20 @@
 ---
 title: 'Interesting graph showing that life ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-07-02
-output: pdf_document
+lastmod: 2015-07-02T15:52:54+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-07-02T15:52:54+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Interesting graph showing that life expectancy for older people didn't change as much as it did for kids. Kids really have a much much saver life nowadays.﻿
 
@@ -27,4 +24,5 @@ http://ourworldindata.org/VisualHistoryOf/Health/Static_Images/Total-Life-Expect
 > ## [404 Not Found](http://ourworldindata.org/VisualHistoryOf/Health/Static_Images/Total-Life-Expectancy-in-the-UK-by-age_Max-Roser.png)
 >
 >Search articles and charts on Our World in Data.
+
 

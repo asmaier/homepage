@@ -1,23 +1,20 @@
 ---
 title: 'Aus dem sehr guten Artikel: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2012-03-01
-output: pdf_document
+lastmod: 2012-03-01T15:15:30+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2012-03-01T15:15:30+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Aus dem sehr guten Artikel:
 
@@ -36,4 +33,5 @@ Bei den Inhabern politischer Ämter darf man getrost ein gewisses Naturtalent f�
 > ## [Selbstbetrug: Doppelte Buchführung](http://www.spektrum.de/alias/selbstbetrug/doppelte-buchfuehrung/1143504)
 >
 >Immer wieder geraten Politiker mit zweifelhaften Praktiken in die Schlagzeilen. Doch keiner von ihnen wähnt sich im moralischen Abseits. Ein Fall von ...
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die App von Xayn ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-12-12
-output: pdf_document
+lastmod: 2020-12-12T21:10:27+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-12-12T21:10:27+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die App von Xayn ist ein Schritt in die richtige Richtung. In Zukunft werden wir alle unsere eigenen künstlichen Software-Bots oder Software-Agenten auf unseren Computern und Mobilgeräten haben. Diese lernen von unserem Verhalten und können dann in unserem Auftrag blitzschnell das Internet nach dem suchen, was wir benötigen bzw. was wir dem Bot antrainiert haben. 
 
@@ -27,4 +24,5 @@ Der Vorteil daran ist, dass unsere Daten unsere privaten Geräte nicht mehr verl
 > ## [Xayn aus Berlin: Diese Suchmaschine trainiert jeder selbst](https://www.spiegel.de/netzwelt/web/xayn-aus-berlin-diese-suchmaschine-trainiert-jeder-selbst-a-7d95865f-7314-4edc-a1d8-318db6892347)
 >
 >Xayn soll eine privatsphärefreundliche Alternative zu Google sein. Die künstliche Intelligenz der deutschen Suchmaschine wird nach dem Tinder-Prinzip individuell geschult. Unsere Autorin hat sie ausprobiert.
+
 

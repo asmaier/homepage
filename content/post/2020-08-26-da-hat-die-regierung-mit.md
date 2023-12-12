@@ -1,23 +1,20 @@
 ---
 title: 'Da hat die Regierung mit ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-08-26
-output: pdf_document
+lastmod: 2020-08-26T11:08:52+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-08-26T11:08:52+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Da hat die Regierung mit der Corona-App einmal datenschutzrechtlich etwas richtig gemacht und jetzt kommt dieser Skandal:
 
@@ -36,4 +33,5 @@ Vielleicht sollte man eine Three-Strikes-Regel einführen. Wer drei Gesetze einb
 > ## [Registermodernisierung: Innenministerium will trotz besserer Alternative zentrale Personenkennziffer einführen](https://netzpolitik.org/2020/registermodernisierung-innenministerium-will-trotz-besserer-alternative-zentrale-personenkennziffer-einfuehren/)
 >
 >Horst Seehofer will die Steuer-ID als universelle Personenkennziffer einführen. Weil das Vorhaben technisch die Zusammenführung aller Daten der Bürger:innen ermöglicht, könnte es verfassungswidrig sein. Wir veröffentlichen und analysieren den Referentenentwurf des Registermodernisierungsgesetzes.
+
 

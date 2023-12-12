@@ -1,23 +1,20 @@
 ---
 title: 'Sollte das tatsächlich eingetreten worden ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-21
-output: pdf_document
+lastmod: 2020-04-21T13:43:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-21T13:43:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Sollte das tatsächlich eingetreten worden gewesen (Futur 3, siehe https://www.der-postillon.com/2012/08/neue-zeitform-futur-iii-eingefuhrt-um.html ) wird vermutlich der Eröffnungstermin des BER am  31. Oktober künftig ein Feiertag in Berlin sein.
 
@@ -27,4 +24,5 @@ Wahnsinn!
 > ## [Kaum zu glauben: Flughafen BER ist jetzt fertig](https://www.berliner-zeitung.de/mensch-metropole/kaum-zu-glauben-flughafen-ber-ist-jetzt-fertig-li.81714)
 >
 >Die letzte TÜV-Bescheinigung für den neuen Hauptstadt-Airport ist da. Die Coronakrise wird die Inbetriebnahme im Herbst 2020 erleichtern.
+
 

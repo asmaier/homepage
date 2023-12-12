@@ -1,23 +1,20 @@
 ---
 title: 'Interessante Statistik. Zeigt auch, dass ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-04-09
-output: pdf_document
+lastmod: 2021-04-09T15:55:18+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-04-09T15:55:18+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Interessante Statistik. Zeigt auch, dass wir auf Sputnik V wohl noch lange warten müssen. Es wird einfach zuwenig davon produziert. AstraZeneca wird übrigens hauptsächlich in Indien produziert, wie man in der verlinkten Dokumentation sieht. 
 
@@ -29,4 +26,5 @@ https://www.statista.com/chart/24492/total-covid-19-vaccine-production-by-countr
 > ## [Infographic: The Countries Dominating Covid-19 Vaccine Production](https://www.statista.com/chart/24492/total-covid-19-vaccine-production-by-country/)
 >
 >This chart shows the total number of Covid-19 vaccine doses produced by country.
+
 

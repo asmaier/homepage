@@ -1,23 +1,20 @@
 ---
 title: 'Das neueste Lieblingsbuch von Bill ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-02-15
-output: pdf_document
+lastmod: 2018-02-15T16:54:06+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-02-15T16:54:06+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das neueste Lieblingsbuch von Bill Gates: https://quartzy.qz.com/1204932/steven-pinkers-book-enlightenment-now-is-an-argument-against-cynicism/
 
@@ -28,4 +25,5 @@ der Zyniker in mir sagt: Wenn man Milliardär ist, dann wird die Welt natürlich
 > ## [My new favorite book of all time](https://www.gatesnotes.com/Books/Enlightenment-Now)
 >
 >Steven Pinker’s new book makes a powerful case for why the world is getting better.
+
 

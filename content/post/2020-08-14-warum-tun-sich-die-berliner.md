@@ -1,23 +1,20 @@
 ---
 title: 'Warum tun sich die Berliner ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-08-14
-output: pdf_document
+lastmod: 2020-08-14T12:11:14+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-08-14T12:11:14+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Warum tun sich die Berliner nur so schwer damit einfach mal eine richtige Fußgängerzone einzuführen? Für immer! Und nicht nur für 5 Monate. Dann könnte man die Straße auch ganz anders gestalten. 
 https://www.heise.de/news/Berliner-Friedrichstrasse-ab-29-August-autofrei-4870050.html
@@ -28,4 +25,5 @@ https://www.swr.de/wissen/zulaut/pontevedra-autofreie-city-kein-laerm-100.html
 > ## [Berliner Friedrichstraße ab 29. August autofrei](https://www.heise.de/news/Berliner-Friedrichstrasse-ab-29-August-autofrei-4870050.html)
 >
 >Zwischen Französischer Straße und Leipziger Straße wird die Friedrichstraße in Berlin bis Ende Januar für fünf Monate für Autos gesperrt.
+
 

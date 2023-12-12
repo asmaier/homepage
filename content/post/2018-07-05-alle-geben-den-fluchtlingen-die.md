@@ -1,23 +1,20 @@
 ---
 title: 'Alle geben den Flüchtlingen die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-07-05
-output: pdf_document
+lastmod: 2018-07-05T21:17:18+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-07-05T21:17:18+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Alle geben den Flüchtlingen die Schuld, dass es mit dem Land bergab geht, aber die wahre Ursache für das Gefühl der Ohnmacht und des abgehängt sein von der wirtschaftlichen Entwicklung ist das hier: 
 
@@ -33,4 +30,5 @@ Die Schwere zwischen arm und reich wächst seit Jahren immer schneller. Und niem
 > ## [Vorstandsgehälter](https://www.tagesschau.de/inland/gehalt-vorstand-mitarbeiter-101.html)
 >
 >Vorstandsgehälter
+
 

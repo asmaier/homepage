@@ -1,23 +1,20 @@
 ---
 title: '"Bei den Erwachsenen, die Homöopathie ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-12-01
-output: pdf_document
+lastmod: 2021-12-01T16:00:42+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-12-01T16:00:42+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Bei den Erwachsenen, die Homöopathie bejahen, sind lediglich rund 47 Prozent bereit, sich impfen zu lassen! Die Neigung zu Homöopathie und Pseudomedizin bringt nicht nur oft ein grundsätzliches Misstrauen gegen die »böse Schulmedizin« mit sich; sie sorgt auch für eine falsche Risikobewertung beim Abwägen zwischen Impfung und Erkrankung."
 "Heißt konkret für die Homöopathie, aber auch für die Anthroposophie: Aberkennung des Status eines Arzneimittels, raus aus der Apothekenpflicht, raus aus der Kassenerstattung."
@@ -31,4 +28,5 @@ https://www.spektrum.de/kolumne/grams-sprechstunde-wer-globuli-saet-wird-impfgeg
 > ## [Grams' Sprechstunde: Wer Globuli sät, wird Impfgegnerschaft ernten](https://www.spektrum.de/kolumne/grams-sprechstunde-wer-globuli-saet-wird-impfgegnerschaft-ernten/1953463)
 >
 >Von den Gemeinsamkeiten der Impfverweigerung, Esoterik und Homöopathie
+
 

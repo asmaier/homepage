@@ -1,23 +1,20 @@
 ---
 title: 'Zitate: "Sämtliche Verträge und Vereinbarungen, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-07-02
-output: pdf_document
+lastmod: 2013-07-02T16:02:03+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-07-02T16:02:03+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Zitate:
 "Sämtliche Verträge und Vereinbarungen, sämtliche Gesetze und Verfassungsänderungen, die Grundlage für die Fortführung der alliierten Kontrollen waren und sind, wurden weder geändert, noch gekündigt, sondern gelten bis heute unverändert fort, so die deutsch-alliierte Verwaltungsvereinbarung zum G 10 Gesetz von 1968.
@@ -38,4 +35,5 @@ Es steht also im Prinzip im Grundgesetz, dass die Alliierten in Deutschland sovi
 > ## [Attention Required! | Cloudflare](http://www.badische-zeitung.de/deutschland-1/historiker-josef-foschepoth-ueber-den-systematischen-bruch-des-postgeheimnisses-in-der-bundesrepubli--68953735.html)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

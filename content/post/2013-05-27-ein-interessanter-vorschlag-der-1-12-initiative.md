@@ -1,23 +1,20 @@
 ---
 title: 'Ein interessanter Vorschlag der „1:12-Initiative“: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-05-27
-output: pdf_document
+lastmod: 2013-05-27T21:05:28+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-05-27T21:05:28+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein interessanter Vorschlag der „1:12-Initiative“:
 
@@ -34,4 +31,5 @@ Genial! Welche Partei in Deutschland bringt das in den Bundestag?
 > ## [Volksabstimmung in der Schweiz: Topverdiener werden nervös](http://www.taz.de/!116682/)
 >
 >Die Initiative „1:12“ kämpft für gerechtere Löhne. Manager sollen pro Monat nur so viel verdienen wie ihre am schlechtesten bezahlten Mitarbeiter im Jahr.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Soviele gute Ideen auf einmal ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-08
-output: pdf_document
+lastmod: 2020-09-08T11:00:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-08T11:00:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Soviele gute Ideen auf einmal ist man aus Berlin gar nicht gewohnt: Bravo für diesen mutigen Entwurf! 
 
@@ -35,4 +32,5 @@ https://www.tagesspiegel.de/berlin/guenther-fuer-null-emissionszone-im-inneren-s
 > ## [Berliner Senat will Paket für mehr Klimaschutz beschließen](https://www.tagesspiegel.de/berlin/guenther-fuer-null-emissionszone-im-inneren-s-bahn-ring-berliner-senat-will-paket-fuer-mehr-klimaschutz-beschliessen/26164958.html)
 >
 >Am Dienstag will der Senat ein Klima-Maßnahmenpaket beschließen. 2030 könnte das Aus für Diesel und Benziner in der Innenstadt kommen.
+
 

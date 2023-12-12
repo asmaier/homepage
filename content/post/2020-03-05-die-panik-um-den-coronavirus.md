@@ -1,23 +1,20 @@
 ---
 title: 'Die Panik um den Coronavirus ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-05
-output: pdf_document
+lastmod: 2020-03-05T18:45:01+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-05T18:45:01+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Panik um den Coronavirus ist ja schon am abnehmen, daher wird es Zeit nochmal ein bisschen Öl ins Feuer zu kippen:
 
@@ -31,4 +28,5 @@ Also es macht Sinn sich doppelt soviel Sorgen um den Coronavirus zu machen wie u
 > ## [Experte erwartet 60 bis 70 Prozent Infizierte in Deutschland](https://www.sueddeutsche.de/gesundheit/krankheiten-experte-erwartet-60-bis-70-prozent-infizierte-in-deutschland-dpa.urn-newsml-dpa-com-20090101-200228-99-108884)
 >
 >In Deutschland werden sich nach Ansicht eines Experten viele Menschen mit dem neuen Coronavirus anstecken. "Es werden sich wahrscheinlich 60 bis 70 Prozent...
+
 

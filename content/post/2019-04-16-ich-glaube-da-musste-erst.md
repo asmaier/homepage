@@ -1,23 +1,20 @@
 ---
 title: 'Ich glaube da müsste erst ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-04-16
-output: pdf_document
+lastmod: 2019-04-16T22:57:13+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-04-16T22:57:13+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich glaube da müsste erst die Hölle zufrieren bevor so etwas in Deutschland passiert:
 
@@ -33,4 +30,5 @@ In Deutschland wird es ja schon als Skandal angesehen, wenn  alkoholfreies Bier 
 > ## [Lösungskolumne: Der grüne Fußballverein Forest Green Rovers](https://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/forest-green-rovers-fussball-nachhaltigkeit-gruen-oeko-bio-vegan-sport-ernaehrung-umwelt-87124)
 >
 >Klimaneutraler Fußball ohne Bratwurst im Stadion und Kunstdünger für den Rasen? Kann das funktionieren? Ein britischer Profi-Club feiert mit diesem Konzept gerade Erfolge – und könnte bald zum Vorbild werden.
+
 

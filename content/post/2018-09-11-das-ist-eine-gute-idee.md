@@ -1,23 +1,20 @@
 ---
 title: 'Das ist eine gute Idee ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-09-11
-output: pdf_document
+lastmod: 2018-09-11T17:32:43+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-09-11T17:32:43+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das ist eine gute Idee mit Symbolwirkung.
 Wie wäre es, wenn die Bundesregierung jetzt auch nur noch E-Firmenwagen von der Steuer absetzen lässt? Dann sind die Straßen im nu voll mit Elektroautos.
@@ -30,4 +27,5 @@ https://de.wikipedia.org/wiki/Firmenwagen#Kritik_an_der_steuerlichen_Behandlung_
 > ## [Chefsache Elektromobilität: VW-Chef will E-Dienstwagen für Manager einführen](https://www.heise.de/newsticker/meldung/Chefsache-Elektromobilitaet-VW-Chef-will-E-Dienstwagen-fuer-Manager-einfuehren-4153099.html)
 >
 >Neue CO2-Grenzwerte fordern die Autobauer heraus, und noch sind zu wenig E-Autos auf den Straßen. VW-Manager sollen nun Botschafter der E-Mobilität werden.
+
 

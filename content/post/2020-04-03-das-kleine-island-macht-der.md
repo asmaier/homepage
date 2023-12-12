@@ -1,23 +1,20 @@
 ---
 title: 'Das kleine Island macht der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-03
-output: pdf_document
+lastmod: 2020-04-03T22:39:36+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-03T22:39:36+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das kleine Island macht der Welt vor, wie man gute Statistik über die Coronapandemie macht:
 
@@ -31,4 +28,5 @@ Unser Robert-Koch-Institut dagegen veröffentlicht nur die Fallzahlen auf der We
 > ## [Data](https://www.covid.is/data)
 >
 >Latest updates on confirmed infections, the number of people in quarantine or isolation, and more.
+
 

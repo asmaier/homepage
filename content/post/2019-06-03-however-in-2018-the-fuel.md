@@ -1,23 +1,20 @@
 ---
 title: '"However in 2018 the fuel ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-03
-output: pdf_document
+lastmod: 2019-06-03T15:41:02+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-03T15:41:02+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "However in 2018 the fuel made up just 5% of Britain’s electricity generation, a big decline from about 40% in 2012"
 
@@ -31,4 +28,5 @@ Den Engländern ist 2025 für den Kohleausstieg nicht schnell genug! Und wir red
 > ## [Great Britain records two weeks of coal-free electricity generation](https://www.theguardian.com/business/2019/may/31/great-britain-records-two-weeks-of-coal-free-electricity-generation)
 >
 >England, Scotland and Wales went for two weeks without coal at 3.12pm on Friday
+
 

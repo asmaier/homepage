@@ -1,23 +1,20 @@
 ---
 title: 'Berlin hat beschlossen im Jahr ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-20
-output: pdf_document
+lastmod: 2019-06-20T11:13:39+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-20T11:13:39+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Berlin hat beschlossen im Jahr 2020 eine Gesetz zu beschließen, dass rückwirkend zum 18. Juni 2019 sämtliche Mietpreiserhöhungen verbietet. Warum? Nun, offenbar hatten sie da noch Gesetzesvorlagen aus der Vergangenheit in der Schublade liegen. Was vielleicht wenig bekannt ist:
 
@@ -48,4 +45,5 @@ Oder man könnte einfach den Neubau fördern, damit das Angebot steigt. Aber all
 > ## [Mietendeckel in Berlin: Die wichtigsten Fragen und Antworten ](https://www.morgenpost.de/berlin/article226230165/Mietendeckel-in-Berlin-Fragen-und-Antworten-Was-Sie-jetzt-wissen-muessen.html)
 >
 >Anfang 2020 soll der Mietenstopp in Berlin rückwirkend in Kraft treten. Fragen und Antworten zum Mietendeckel in Berlin.
+
 

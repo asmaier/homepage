@@ -1,23 +1,20 @@
 ---
 title: 'Das kann ich aus persönlicher ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-07-28
-output: pdf_document
+lastmod: 2021-07-28T15:56:56+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-07-28T15:56:56+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das kann ich aus persönlicher Erfahrung nur bestätigen. Im Übrigen hat die russische Hausverwaltung noch einen Trick, damit auch die Leute mit Wasserboiler kein warmes Wasser bekommen. Sie reduzieren den Wasserdruck soweit, dass der Boiler nicht mehr anspringt. So sieht das 21. Jhd. in Russland aus. 
 
@@ -27,4 +24,5 @@ Putin wir das ganze sicher bald als russischen Beitrag zum Klimaschutz verkaufen
 > ## [Russland dreht Bürgern das warme Wasser ab](https://www.augsburger-allgemeine.de/panorama/Ein-Land-duscht-kalt-Russland-dreht-Buergern-das-warme-Wasser-ab-id60072306.html)
 >
 >Es ist ein Relikt aus Sowjetzeiten: Jahr für Jahr gibt es in russischen Haushalten wegen Wartungsarbeiten tagelang kein warmes Wasser. Da ist Kreativität gefragt.
+
 

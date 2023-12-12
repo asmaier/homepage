@@ -1,23 +1,20 @@
 ---
 title: 'Nicht nur die Bundesregierung, auch ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-08-28
-output: pdf_document
+lastmod: 2018-08-28T20:42:36+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-08-28T20:42:36+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nicht nur die Bundesregierung, auch die deutschen Großkonzerne gehören immer noch zu Internetausdruckern. Für alle mal zum Mitschreiben:
 
@@ -38,4 +35,5 @@ Korrupte IT-Analphabeten! In die Rente mit euch! Schämt euch, dass Länder wie 
 > ## [Bundesregierung kommt bei Open Data und Open Source nicht voran](https://www.heise.de/newsticker/meldung/Bundesregierung-kommt-bei-Open-Data-und-Open-Source-nicht-voran-4145803.html)
 >
 >Bund und Länder tun sich weiter schwer mit der digitalen Offenheit: Mit der Reform des halbgaren Open-Data-Gesetzes wird es in dieser Legislatur nichts mehr.
+
 

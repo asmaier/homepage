@@ -1,23 +1,20 @@
 ---
 title: 'Mostly nonsense, but some interesting ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-05-04
-output: pdf_document
+lastmod: 2014-05-04T16:57:48+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-05-04T16:57:48+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mostly nonsense, but some interesting correlations:
 
@@ -28,4 +25,5 @@ Mostly nonsense, but some interesting correlations:
 > ## [20 ways to slice Europe - Funny](http://9gag.com/gag/ay5ZRBq)
 >
 >21,565 points • 2,180 comments
+
 

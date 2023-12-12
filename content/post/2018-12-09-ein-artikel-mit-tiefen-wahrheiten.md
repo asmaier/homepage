@@ -1,23 +1,20 @@
 ---
 title: 'Ein Artikel mit tiefen Wahrheiten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-12-09
-output: pdf_document
+lastmod: 2018-12-09T17:52:28+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-12-09T17:52:28+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein Artikel mit tiefen Wahrheiten über Berlin:
 
@@ -35,4 +32,5 @@ Trotz alledem prophezeie ich Berlin eine goldene Zukunft, die anfängt kurz nach
 > ## [Berlin ist halt doch ein bisschen wie Afrika](https://www.nzz.ch/feuilleton/berlin-ist-halt-doch-ein-bisschen-wie-afrika-ld.1439780)
 >
 >Die deutsche Hauptstadt kann einem schon einmal vorkommen wie ein Entwicklungsland. Für Neuzugezogene wirkt das wie ein Kulturschock. Für einen Journalisten ist die Stadt aber ein Paradies: Missstände, wohin das Auge reicht. Über das Ankommen im Berliner Sumpf und ein Leben in der Stadt der Toleranz.
+
 

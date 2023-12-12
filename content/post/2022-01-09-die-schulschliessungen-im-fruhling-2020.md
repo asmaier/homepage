@@ -1,23 +1,20 @@
 ---
 title: '"Die Schulschliessungen im Frühling 2020 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-09
-output: pdf_document
+lastmod: 2022-01-09T22:02:19+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-09T22:02:19+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Schulschliessungen im Frühling 2020 wirkten sich einerseits negativ auf Gesundheit und Wohlbefinden vieler Jugendlicher aus. Andererseits hatte das Homeschooling auch positive Effekte: Da sie am Morgen länger schlafen konnten, verbesserten sich Gesundheit und Lebensqualität zahlreicher Jugendlicher. Die Studienautoren der Universität Zürich plädieren deshalb für spätere Schulstartzeiten."
 
@@ -31,4 +28,5 @@ https://www.media.uzh.ch/de/medienmitteilungen/2022/Jugendlichenschlaf.html
 > media.uzh.ch
 > ## [Schulschliessungen führten bei Jugendlichen zu mehr Schlaf und besserer Lebensqualität](https://www.media.uzh.ch/de/medienmitteilungen/2022/Jugendlichenschlaf.html)
 >
+
 

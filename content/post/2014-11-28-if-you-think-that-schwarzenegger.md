@@ -1,23 +1,20 @@
 ---
 title: 'If you think that Schwarzenegger ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-11-28
-output: pdf_document
+lastmod: 2014-11-28T17:56:20+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-11-28T17:56:20+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 If you think that Schwarzenegger could never survive the explosion of the nuclear bomb at the end of the movie Predator, think again:  
 
@@ -29,4 +26,5 @@ Why is there no movie about this bad ass guy?
 > en.wikipedia.org
 > ## [Tsutomu Yamaguchi - Wikipedia](http://en.wikipedia.org/wiki/Tsutomu_Yamaguchi)
 >
+
 

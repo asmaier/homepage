@@ -1,23 +1,20 @@
 ---
 title: 'Wer wirklich alles wissen möchte ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-02-03
-output: pdf_document
+lastmod: 2022-02-03T18:09:30+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-02-03T18:09:30+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer wirklich alles wissen möchte über die deutsch-russischen Gasbeziehungen, dem kann ich den PDF-Artikel von Andreas Metz vom Ostausschuss empfehlen: https://www.ost-ausschuss.de/sites/default/files/pm_pdf/Special%2050%20Jahre%20R%C3%B6hren%20gegen%20Gas.pdf
 
@@ -34,4 +31,5 @@ Aber was man bei diesem Streit auch oft vergisst: Außer Gas werden noch erhebli
 > ## [50 Jahre Röhren gegen Erdgas | Ost-Ausschuss der Deutschen Wirtschaft](https://www.ost-ausschuss.de/de/50-jahre-roehren-gegen-erdgas)
 >
 >Am 6. Juli 1970, also fast genau vor 50 Jahren, wurde in Mülheim an der Ruhr das erste Pipeline-Rohr aus deutscher Produktion für das erste deutsch-sowjetische Erdgas-Röhrengeschäft ausgeliefert. Aus Anlass dieses Jubiläums haben wir die Geschichte der Erdgas-Röhrengeschäfte in einem 15-seitigen Sonderbeitrag nachgezeichnet, der im neuen Jahrbuch 2020 des OAOEV enthalten ist. Der Beitrag zeigt, dass die derzeitigen US-Sanktionen gegen Nord Stream 2 nur ein neues Kapitel in einer langen deutsch-amerikanischen Sanktions-Geschichte sind. Anfang der 1980er Jahre drohten US-Sanktionen beispielsweise das Jamal-Projekt, eine bis heute genutzte Verbindungspipeline durch Belarus und Polen, zu verhindern. Viele Argumente, die bereits in den 1950er bis 1980er Jahren in der Diskussion waren, sind weiterhin aktuell.
+
 

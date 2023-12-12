@@ -1,23 +1,20 @@
 ---
 title: 'Die WM ist vorbei. Danke ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-07-15
-output: pdf_document
+lastmod: 2018-07-15T20:21:41+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-07-15T20:21:41+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die WM ist vorbei. Danke dafür, Russland! 
 
@@ -57,4 +54,5 @@ Aufgrund all dieser Hinweise bin ich der Meinung, dass die Beweislast inzwischen
 > ## [Syrien-Reise: BND soll AfD-Auslandskontakte ins Visier nehmen](https://www.handelsblatt.com/politik/deutschland/syrien-reise-bnd-soll-afd-auslandskontakte-ins-visier-nehmen/21051546.html)
 >
 >Die Syrien-Reise von AfD-Politikern könnte ein Nachspiel haben. Ein CDU-Politiker bringt den BND ins Spiel - auch wegen anderer Auslandskontakte der Partei.
+
 

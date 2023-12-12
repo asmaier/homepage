@@ -1,23 +1,20 @@
 ---
 title: 'RT Deutsch wurde das Senden ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-02-05
-output: pdf_document
+lastmod: 2022-02-05T23:58:27+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-02-05T23:58:27+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 RT Deutsch wurde das Senden in Deutschland wegen zu großer Staatsnähe verboten und Russland verbietet daraufhin die deutsche Welle in Russland. Sofort wird daraufhin von einigen argumentiert, dass ja die Deutsche Welle ebenfalls staatsnah sein, da der Sender aus deutschen Steuergeldern finanziert wird. Und daher sei es ungerecht, dass RT Deutsch in Deutschland jetzt nicht senden darf und es sei gerechtfertigt das Russland jetzt die Büros der deutschen Welle schließt.
 
@@ -33,4 +30,5 @@ Die russische Reaktion dagegen kann man nur als kindisch und völlig willkürlic
 > ## [Deutsche Welle - Der Dinosaurier unter den Sendern](https://www.cicero.de/fluechtlingsprogramm-deutsche-welle-dinosaurier-unter-den-rundfunksendern/60460)
 >
 >Die Deutsche Welle und die ARD wollen angesichts des Flüchtlingszuzugs enger zusammenarbeiten. Beobachter halten das für verfassungswidrig. Sie kritisieren schon lange eine zu große Staatsnähe des Senders
+
 

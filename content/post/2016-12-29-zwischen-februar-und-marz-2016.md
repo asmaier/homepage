@@ -1,23 +1,20 @@
 ---
 title: '"Zwischen Februar und März 2016 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-12-29
-output: pdf_document
+lastmod: 2016-12-29T12:41:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-12-29T12:41:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Zwischen Februar und März 2016 sei Amri von einem »geheimen Informanten des Verfassungsschutzes« von Dortmund nach Berlin gefahren worden und soll diesem genau erzählt haben, was er plane."
 
@@ -31,4 +28,5 @@ Nach dem NSU-Skandal zeigt sich hier mal wieder, dass die größte Terrorvereini
 > ## [V-Mann als Chauffeur](https://www.jungewelt.de/m/artikel/299768.v-mann-als-chauffeur.html)
 >
 >Attentäter Amri soll »geheimem Informanten« Terrorpläne offenbart haben • Foto: Daniele Bennati/EPA/dpa-Bildfunk
+
 

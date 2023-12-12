@@ -1,23 +1,20 @@
 ---
 title: 'Computus bedeutet im allgemeinsten Sinne ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-12-08
-output: pdf_document
+lastmod: 2011-12-08T15:03:52+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-12-08T15:03:52+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Computus bedeutet im allgemeinsten Sinne Rechnen mit Zeit.[1]
 
@@ -27,4 +24,5 @@ Im engeren Sinne wird mit Computus oder Computistik das mittelalterliche Rechenv
 > de.wikipedia.org
 > ## [Computus – Wikipedia](http://de.wikipedia.org/wiki/Computus)
 >
+
 

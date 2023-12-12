@@ -1,23 +1,20 @@
 ---
 title: 'Ich bin zunehmend enttäuscht vom ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-12-24
-output: pdf_document
+lastmod: 2013-12-24T13:05:10+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-12-24T13:05:10+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich bin zunehmend enttäuscht vom Postillion. Das ist ja keine Satire mehr, das ist die Wahrheit!
 > [![](https://4.bp.blogspot.com/-cLnqkL-iD0U/UrWmW4S6J5I/AAAAAAAAXv0/Pzyjh-jiHiU/w1200-h630-p-k-no-nu/Chodo.jpg)](http://www.der-postillon.com/2013/12/edward-snowden-nicht-reich-und.html)
@@ -25,4 +22,5 @@ Ich bin zunehmend enttäuscht vom Postillion. Das ist ja keine Satire mehr, das 
 > ## [Edward Snowden nicht reich und kriminell genug, um Asyl in Deutschland zu bekommen](http://www.der-postillon.com/2013/12/edward-snowden-nicht-reich-und.html)
 >
 >Nun ist endlich klar, warum Edward Snowden bislang noch kein Asylangebot seitens der Bundesregierung vorliegt. Offenbar ist der von den USA gejagte Whistleblower einfach nicht kriminell und reich genug, um Anspruch...
+
 

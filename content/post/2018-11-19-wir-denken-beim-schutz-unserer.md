@@ -1,23 +1,20 @@
 ---
 title: '„Wir denken beim Schutz unserer ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-11-19
-output: pdf_document
+lastmod: 2018-11-19T15:53:33+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-11-19T15:53:33+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 „Wir denken beim Schutz unserer Heimat über Generationen hinaus“, heißt es im bayerischen Koalitionsvertrag. „Wir sind überzeugt, dass Bayern kein geeigneter Standort für ein Atomendlager ist.“
 
@@ -31,4 +28,5 @@ So schlau sind die Bayern!
 > ## [Die weiße Landkarte bekommt Flecken](https://www.heise.de/tr/blog/artikel/Die-weisse-Landkarte-bekommt-Flecken-4221367.html)
 >
 >Eigentlich sollte nach dem Abschlussbericht der Endlagerkommission ein Konsens darüber herrschen, auf welche Weise ein Endlager gesucht wird. Doch die ersten Bundesländer scheren schon aus.  
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Falls ihr euch gerne mal ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-07-30
-output: pdf_document
+lastmod: 2016-07-30T18:41:56+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-07-30T18:41:56+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Falls ihr euch gerne mal bei euren Vegetarier/Veganerfreunden unbeliebt machen wollt: Die reine Fleischdiät ist gesund, solange das Fleisch genug Fett enthält!
 
@@ -46,4 +43,5 @@ occurred from the prolonged use of the exclusive meat diet.
 > de.wikipedia.org
 > ## [Kaninchenhunger – Wikipedia](https://de.wikipedia.org/wiki/Kaninchenhunger)
 >
+
 

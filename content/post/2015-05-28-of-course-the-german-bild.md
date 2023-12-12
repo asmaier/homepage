@@ -1,23 +1,20 @@
 ---
 title: 'Of course the German "Bild" ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-05-28
-output: pdf_document
+lastmod: 2015-05-28T12:49:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-05-28T12:49:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Of course the German "Bild" was the worst when it came to fact checking:
 
@@ -31,4 +28,5 @@ But there is hope:
 > ## [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
 >
 >“Slim by Chocolate!” the headlines blared. A team of German researchers had found that people on a low-carb diet lost weight 10 percent faster if they ate a chocolate bar every day. It made the front page of Bild, Europe’s largest daily newspaper, just beneath their update about the Germanwings crash. From there, it…
+
 

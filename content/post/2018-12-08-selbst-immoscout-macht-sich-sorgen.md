@@ -1,23 +1,20 @@
 ---
 title: 'Selbst Immoscout macht sich Sorgen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-12-08
-output: pdf_document
+lastmod: 2018-12-08T21:37:47+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-12-08T21:37:47+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Selbst Immoscout macht sich Sorgen über den deutschen Wohnungsmarkt. 
 
@@ -32,4 +29,5 @@ Vergleicht das auch mal mit eurem Gehaltsanstieg seit 2007.
 > ## [Alle suchen Wohnraum: 10 Schlüssel-Forderungen für den Wohnungsmarkt](https://www.immobilienscout24.de/lp/zukunft-wohnen/)
 >
 >Alle suchen Wohnraum – aber wie kann der Wohnungsmarkt transparenter, fairer und leichter zugänglich werden? Wir von ImmobilienScout24 sagen: Lasst endlich die Vernunft einziehen! 
+
 

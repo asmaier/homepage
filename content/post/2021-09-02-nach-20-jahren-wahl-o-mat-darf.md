@@ -1,23 +1,20 @@
 ---
 title: 'Nach 20 Jahren Wahl-O-Mat darf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-02
-output: pdf_document
+lastmod: 2021-09-02T14:52:37+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-02T14:52:37+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nach 20 Jahren Wahl-O-Mat darf man jetzt endlich die eigene Meinung mit wirklich allen Parteien vergleichen und ist nicht auf 8 Parteien limitiert wie in der Vergangenheit.
 
@@ -27,4 +24,5 @@ Jetzt wo ich drüber nachdenke, fände ich es auch interessant, dass man statt P
 > wahl-o-mat.de
 > ## [Wahl-O-Mat](https://www.wahl-o-mat.de/bundestagswahl2021)
 >
+
 

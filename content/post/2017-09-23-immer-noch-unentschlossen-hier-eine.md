@@ -1,23 +1,20 @@
 ---
 title: 'Immer noch unentschlossen? Hier eine ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-09-23
-output: pdf_document
+lastmod: 2017-09-23T22:42:25+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-09-23T22:42:25+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Immer noch unentschlossen? Hier eine Liste von interessanten Kleinparteien:
 
@@ -30,4 +27,5 @@ https://de.wikipedia.org/wiki/Piratenpartei_Deutschland
 > de.wikipedia.org
 > ## [Demokratie in Bewegung – Wikipedia](https://de.wikipedia.org/wiki/Demokratie_in_Bewegung)
 >
+
 

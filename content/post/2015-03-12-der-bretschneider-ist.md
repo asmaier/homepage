@@ -1,23 +1,21 @@
 ---
 title: 'Der Bretschneider ( ) ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-03-12
-output: pdf_document
+lastmod: 2015-03-12T17:02:24+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-03-12T17:02:24+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der Bretschneider ( http://de.wikipedia.org/wiki/Bretschneider_(Element) ) ist seit November 2014 das Turn-Element mit der höchsten Schwierigkeit H.
+
 

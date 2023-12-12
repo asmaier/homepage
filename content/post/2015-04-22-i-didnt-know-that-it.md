@@ -1,23 +1,20 @@
 ---
 title: 'I didnt know that it ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-04-22
-output: pdf_document
+lastmod: 2015-04-22T18:20:13+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-04-22T18:20:13+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 I didn't know that it is possible, but there is already a whole list of planets orbiting other stars than our sun detected by direct imaging: https://en.wikipedia.org/wiki/List_of_directly_imaged_exoplanets
 
@@ -26,4 +23,5 @@ This is amazing!
 > mpia.de
 > ## [An image of a whole planetary system](http://www.mpia.de/news/science/2015-05-hr8799)
 >
+
 

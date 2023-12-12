@@ -1,23 +1,20 @@
 ---
 title: 'Ich bin überrascht. Nicht über ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-09-06
-output: pdf_document
+lastmod: 2018-09-06T21:58:56+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-09-06T21:58:56+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich bin überrascht. 
 
@@ -39,4 +36,5 @@ Genauso gehört es gemacht, liebe Journalisten! Für jede Statistik und Vorhersa
 > ## [DeutschlandTrend: Mehrheit für Beobachtung der AfD](https://www.tagesschau.de/inland/deutschlandtrend-1361.html)
 >
 >Im ARD-DeutschlandTrend stellen die Bürger der deutschen Flüchtlingspolitik kein gutes Zeugnis aus. Bei der Frage, ob der Verfassungsschutz die AfD beobachten sollte, gibt es eine klare Mehrheit. Von Ellen Ehni.
+
 

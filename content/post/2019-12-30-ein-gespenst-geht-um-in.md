@@ -1,23 +1,20 @@
 ---
 title: 'Ein Gespenst geht um in ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-12-30
-output: pdf_document
+lastmod: 2019-12-30T15:51:01+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-12-30T15:51:01+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein Gespenst geht um in Deutschland: Nein es ist nicht der Kommunismus, sondern die Idee eines Tempolimits auf der Autobahn. Wie können sie nur? Man wird ja nochmal Gas geben dürfen, sagen da besorgte Bürger!
 
@@ -35,4 +32,5 @@ Ich glaube es gäbe in Deutschland keinen schnelleren Weg um umweltfreundliche A
 > ## [Zoff um Tempolimit auf deutschen Autobahnen](https://www.heise.de/newsticker/meldung/Zoff-um-Tempolimit-auf-deutschen-Autobahnen-4623695.html)
 >
 >Sollte es auf Autobahnen eine Geschwindigkeitsbegrenzung von 130 Kilometern pro Stunde geben? Es gibt neuen Zwist ums Tempolimit.
+
 

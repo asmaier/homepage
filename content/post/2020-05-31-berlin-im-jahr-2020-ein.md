@@ -1,23 +1,20 @@
 ---
 title: 'Berlin im Jahr 2020: "ein ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-05-31
-output: pdf_document
+lastmod: 2020-05-31T22:20:03+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-05-31T22:20:03+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Berlin im Jahr 2020:
 
@@ -34,4 +31,5 @@ https://community.beck.de/2020/01/18/keine-wohnung-fuer-mieter-mit-tuerkisch-kli
 > ## [Keine Wohnung für Mieter mit türkisch klingenden Namen ? - Vermieter muss "Schmerzensgeld" zahlen](https://community.beck.de/2020/01/18/keine-wohnung-fuer-mieter-mit-tuerkisch-klingenden-namen-vermieter-muss-schmerzensgeld-zahlen)
 >
 >"Die Beklagte vermietet in Berlin ca. 110.000 Wohnungen".
+
 

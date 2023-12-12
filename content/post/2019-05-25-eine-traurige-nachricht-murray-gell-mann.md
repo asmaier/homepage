@@ -1,23 +1,20 @@
 ---
 title: 'Eine traurige Nachricht: Murray Gell-Mann ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-05-25
-output: pdf_document
+lastmod: 2019-05-25T23:15:49+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-05-25T23:15:49+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Eine traurige Nachricht: Murray Gell-Mann ist gestern gestorben. Murray Gell-Mann war vielleicht nach Wolfgang Pauli und Albert Einstein der größte Physiker des 20ten Jahrhunderts. Ich kann jedem nur empfehlen sein Buch zu lesen: 
 
@@ -47,4 +44,5 @@ RIP
 > ## [Murray Gell-Mann: 1929-2019](https://motls.blogspot.com/2019/05/murray-gell-mann-1929-2019.html)
 >
 >Sadly, as reported by The New York Times  and many others , Murray Gell-Mann  died at home yesterday, May 24th, at age of 89.7. He was clear...
+
 

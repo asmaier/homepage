@@ -1,23 +1,20 @@
 ---
 title: 'Die Ironie der Geschichte ist, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-12-15
-output: pdf_document
+lastmod: 2020-12-15T18:23:20+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-12-15T18:23:20+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Ironie der Geschichte ist, dass all das nur möglich war, weil der russische Staat wie verrückt Daten über alle Bürger speichert. Und gleichzeitig die allgemein verbreitete Korruption dazu führt, dass all diese Datensätze an jeden verkauft werden, unter anderem auch an Journalisten. Das führt dann dazu, dass solche Fälle wie der versuchte Mord an Nawalny fast lückenlos aufgeklärt werden können. Nur dummerweise war hier der Staat selbst der Täter. Durch die blinde Datensammelwut und die ausufernde Korruption hat sich der russische Staat selbst ins Bein geschossen. 
 
@@ -29,4 +26,5 @@ Das Video ist auf jeden Fall sehr spannend und lehrreich. Und englische Untertit
 > ## [Дело раскрыто. Я знаю всех, кто пытался меня убить](https://www.youtube.com/watch?v=smhi6jts97I)
 >
 >Лица, которые мы вам покажем, — секретный отряд убийц. Да-да, это как в кино, только реальная жизнь. Вернее, это круче, чем любое кино.Дело о попытке моего у...
+
 

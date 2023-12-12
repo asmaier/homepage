@@ -1,23 +1,20 @@
 ---
 title: '"wie wäre es, wenn wir ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-12-15
-output: pdf_document
+lastmod: 2019-12-15T20:52:01+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-12-15T20:52:01+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "wie wäre es, wenn wir endlich eine E-Quittung bekämen? Nicht nur von Payback und Rewe, mit deren E-Bon das Ausdrucken des Kassenzettels unnötig wird. Wie wäre es mit einer Lösung von unserer Regierung selbst? Eine kleine App etwa, die Quittungen per Kamera, NFC oder E-Mail einsammelt und uns zur Verfügung stellt. Ordentlich formatiert, in einem offenen Format, mit performanten und flexiblen Schnittstellen. Damit könnten wir nicht nur Milliarden Bons einsparen, sondern unser Ausgaben direkt in ELSTER importieren, unsere Einkäufe organisieren oder die Reisekostenabrechnung automatisieren."
 
@@ -29,4 +26,5 @@ Man kann dem Heise-Kommentator jedenfalls nur beipflichten. Es wird echt Zeit, d
 > ## [Kommentar: Bonpflicht? Ja, bitte! Aber mit moderner Technik für Steuerehrlichkeit](https://www.heise.de/newsticker/meldung/Kommentar-Bonpflicht-Ja-bitte-Aber-mit-moderner-Technik-fuer-Steuerehrlichkeit-4614339.html)
 >
 >Ein kleiner Shitstorm – und schon ist die Bundesregierung auf dem Rückzug. Es wäre Zeit für etwas Digitalkompetenz – und Konsequenz, sagt Torsten Kleinz.
+
 

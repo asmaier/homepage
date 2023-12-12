@@ -1,23 +1,20 @@
 ---
 title: 'Wer es noch nicht gewusst ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-11-16
-output: pdf_document
+lastmod: 2017-11-16T22:25:04+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-11-16T22:25:04+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer es noch nicht gewusst hat. Nicht China, Russland oder die USA sind Weltmacht sondern:
 
@@ -35,5 +32,6 @@ Chef der Deutschland-Filiale von BlackRock ist niemand anders als der allseits b
 > ## [BlackRock – Wikipedia](https://de.wikipedia.org/wiki/BlackRock)
 >
 >
+
 
 

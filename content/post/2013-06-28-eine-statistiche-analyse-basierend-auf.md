@@ -1,23 +1,20 @@
 ---
 title: 'Eine statistiche Analyse basierend auf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-06-28
-output: pdf_document
+lastmod: 2013-06-28T17:20:53+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-06-28T17:20:53+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Eine statistiche Analyse basierend auf 21 Eigenschaften von 250 Sprachen ergibt:
 
@@ -28,4 +25,5 @@ Grüße an alle die Sonderlinge, die sie beherrschen!
 > ## [404 Not Found](http://idibon.com/the-weirdest-languages/)
 >
 >The requested URL was not found on this server.
+
 

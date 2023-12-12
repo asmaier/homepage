@@ -1,23 +1,20 @@
 ---
 title: 'Mein Beileid an die japanischen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-07-30
-output: pdf_document
+lastmod: 2018-07-30T10:28:14+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-07-30T10:28:14+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mein Beileid an die japanischen Programmierer, die sich damit herumschlagen dürfen:
 
@@ -27,4 +24,5 @@ https://www.heise.de/newsticker/meldung/Japan-hat-2019-ein-2YK-Problem-4121000.h
 > ## [Japan hat 2019 ein "Y2K-Problem"](https://www.heise.de/newsticker/meldung/Japan-hat-2019-ein-2YK-Problem-4121000.html)
 >
 >Wenn nächstes Jahr der japanische Kaiser abdankt, führt das in der IT-Welt zu Problemen. Experten sprechen sogar von "Japans Y2K".
+
 

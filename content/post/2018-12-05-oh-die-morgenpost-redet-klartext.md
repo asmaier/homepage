@@ -1,23 +1,20 @@
 ---
 title: 'Oh, die Morgenpost redet Klartext ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-12-05
-output: pdf_document
+lastmod: 2018-12-05T12:50:17+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-12-05T12:50:17+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Oh, die Morgenpost redet Klartext über Berlin:
 
@@ -31,4 +28,5 @@ Einen Vorschlag zur Verbesserung hätte ich gleich parat: Die Straße des 17. Ju
 > ## [Berlin-Kritik von Boris Palmer: Grünen-Politiker hat an diesen Stellen recht](https://www.morgenpost.de/politik/article215942133/Berlin-Schelte-von-Boris-Palmer-Warum-er-ein-bisschen-recht-hat.htmlDas)
 >
 >Boris Palmer hat in seiner Berlin-Schelte einen Nerv getroffen, weil in Berlin einiges schief läuft. Doch er hat Wichtiges vergessen.
+
 

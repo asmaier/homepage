@@ -1,23 +1,20 @@
 ---
 title: '""" ... Schließlich gibt es ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-08-24
-output: pdf_document
+lastmod: 2016-08-24T10:28:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-08-24T10:28:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 """
 ...
@@ -34,4 +31,5 @@ Beziehungen spielen zweifellos auch im Westen eine wichtige Rolle, besonders in 
 > ## [Freundschaft auf Russisch](http://www.dekoder.org/de/article/freundschaft-russland-korruption-trompenaars)
 >
 >Freunde sind das wichtigste Kapital, Prinzipien dagegen sind Zügel, die sich kaum jemand leisten kann, sagt Ostap Karmodi. Eine schonungslose Kritik an der russischen Gesellschaft – in aller Freundschaft. / Quelle: Reed
+
 

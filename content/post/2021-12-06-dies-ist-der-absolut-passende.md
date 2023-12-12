@@ -1,23 +1,20 @@
 ---
 title: 'Dies ist der absolut passende ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-12-06
-output: pdf_document
+lastmod: 2021-12-06T20:07:23+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-12-06T20:07:23+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dies ist der absolut passende Kommentar dazu von einem Leser unter dem Artikel:
 
@@ -30,4 +27,5 @@ Ein Zitat zum an die Wand hängen.
 > ## [AfD Bayern: Interner Chat zeigt Radikalität](https://www.br.de/nachrichten/bayern/afd-bayern-interner-chat-zeigt-radikalitaet,SqEpXK5)
 >
 >Umsturzpläne, Verachtung, Androhung von Gewalt – ein geschlossener Telegram-Chat der AfD Bayern zeigt radikale Positionen gegen Staat und demokratische Institutionen. Beteiligt sind Spitzenpolitiker der Partei. Exklusive Recherchen des BR.
+
 

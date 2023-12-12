@@ -1,23 +1,20 @@
 ---
 title: '"Ein Fahrradparkhaus zu bauen, ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-12-29
-output: pdf_document
+lastmod: 2020-12-29T22:03:26+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-12-29T22:03:26+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Ein Fahrradparkhaus zu bauen, ist offenbar komplizierter als einen Großflughafen. Seit mehr als zehn Jahren wird diskutiert, werden immer wieder neue Standorte genannt. Passiert ist – nichts. Gar nichts."
 
@@ -33,4 +30,5 @@ Dem ist wirklich nichts hinzuzufügen, außer vielleicht: "Mittlerweile haben mi
 > ## [Berlin hat kein Fahrradparkhaus, aber viele schlechte Ständer](https://www.tagesspiegel.de/berlin/von-felgenknickern-und-kreuzberger-buegeln-berlin-hat-kein-fahrradparkhaus-aber-viele-schlechte-staender/26751326.html)
 >
 >Das Mobilitätsgesetz fordert 100.000 sichere Fahrradständer in Berlin. Niemand weiß, wie viele es gibt. Ein Streifzug zu den dümmsten Ständern der Stadt. 
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Dennoch verschwenden immer mehr Länder ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-04-14
-output: pdf_document
+lastmod: 2021-04-14T10:10:03+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-04-14T10:10:03+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Dennoch verschwenden immer mehr Länder ohne korrektes Ausschreibungsverfahren Steuergelder auf das digitale Heilsversprechen. Mecklenburg-Vorpommern will die Installation sogar zur Voraussetzung der Teilhabe am öffentlichen Leben machen.
 
@@ -32,4 +29,5 @@ Man kann dem CCC nur zustimmen, dass die dubiosen Geschäfte um die Luca-App ges
 > ## [CCC | Luca-App: CCC fordert Bundesnotbremse](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
 >
 >Zweifelhaftes Geschäftsmodell, mangelhafte Software, Unregelmäßigkeiten bei der Auftragsvergabe: Der Chaos Computer Club (CCC) fordert das sofortige Ende der staatlichen Alimentierung von Smudos Steuer-Millionengrab “Luca-App”.
+
 

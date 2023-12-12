@@ -1,23 +1,20 @@
 ---
 title: 'Auf die Gefahr hin euch ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-02-08
-output: pdf_document
+lastmod: 2020-02-08T23:49:18+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-02-08T23:49:18+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Auf die Gefahr hin euch alle zu überfordern hier ein Interview mit einem der tiefsten Denker unserer Zeit: Jürgen Schmidhuber. 
 
@@ -32,4 +29,5 @@ Und ich glaube es ist nicht zuviel versprochen wenn ich sage: Alle seine Antwort
 > youtube.com
 > ## [Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs | Lex Fridman Podcast #11](https://www.youtube.com/watch?v=3FIo6evmweo)
 >
+
 

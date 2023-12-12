@@ -1,23 +1,20 @@
 ---
 title: 'Das Video ist wirklich sehr ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-04-14
-output: pdf_document
+lastmod: 2019-04-14T20:58:31+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-04-14T20:58:31+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das Video ist wirklich sehr anschaulich und stellt die wesentlichen Ideen gut dar. Ich kann es jedem empfehlen.
 
@@ -32,4 +29,5 @@ Nur falls sich jemand fragt, was wohl als nächstes kommt. Das Problem mit dem S
 > ## [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
 >
 >At the heart of the Milky Way, there's a supermassive black hole that feeds off a spinning disk of hot gas, sucking up anything that ventures too close -- ev...
+
 

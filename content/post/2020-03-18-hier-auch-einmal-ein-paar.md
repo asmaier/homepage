@@ -1,23 +1,20 @@
 ---
 title: 'Hier auch einmal ein paar ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-18
-output: pdf_document
+lastmod: 2020-03-18T23:12:46+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-18T23:12:46+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Hier auch einmal ein paar gute Nachrichten:
 
@@ -31,4 +28,5 @@ Und dank Corona-Virus wird im Jahr 2020 der CO2-Ausstoß wohl weiter sinken. Man
 > ## [Umweltbundesamt: Treibhausgas-Emissionen sind 2019 um 6,3 Prozent gesunken](https://www.heise.de/newsticker/meldung/Umweltbundesamt-Treibhausgas-Emissionen-sind-2019-um-6-3-Prozent-gesunken-4683746.html)
 >
 >Im Verkehrssektor lag der Ausstoß mit 163,5 Millionen Tonnen CO₂ auf einem höheren Niveau als im Vorjahr. Umweltschützer fordern erhöhte Einsparanstrengungen.
+
 

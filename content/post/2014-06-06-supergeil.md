@@ -1,23 +1,20 @@
 ---
 title: 'Supergeil! ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-06-06
-output: pdf_document
+lastmod: 2014-06-06T17:24:39+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-06-06T17:24:39+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Supergeil!
 > [![](https://i.ytimg.com/vi/a-aInwhZBo8/maxresdefault.jpg)](https://www.youtube.com/watch?v=a-aInwhZBo8)
@@ -25,4 +22,5 @@ Supergeil!
 > ## [Apple WWDC 2014: Everything is Awesome Super-Cut](https://www.youtube.com/watch?v=a-aInwhZBo8)
 >
 >A super-cut of adjectives from Apple's WWDC 2014 Keynote.
+
 

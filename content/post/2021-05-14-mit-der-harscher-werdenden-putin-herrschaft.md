@@ -1,23 +1,20 @@
 ---
 title: '"Mit der harscher werdenden Putin-Herrschaft ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-14
-output: pdf_document
+lastmod: 2021-05-14T18:23:47+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-14T18:23:47+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Mit der harscher werdenden Putin-Herrschaft nimmt der Strom der Exilanten zu. Vor allem Intellektuelle und Kulturschaffende kommen nach Berlin – ein Braindrain zum Schaden Russlands."
 
@@ -27,4 +24,5 @@ Es ist traurig zu sehen, dass die 20er Jahre des 21. Jahrhunderts für viele Rus
 > ## [Der Ostbahnhof Europas: Berlin als Zentrum russischer Exilanten](https://www.nzz.ch/international/ostbahnhof-europas-berlin-wird-wieder-zentrum-russischer-exilanten-ld.1623666)
 >
 >Seit 100 Jahren ist die deutsche Hauptstadt Ziel russischer Flüchtlinge. Mit der harscher werdenden Putin-Herrschaft nimmt der Strom der Exilanten zu. Vor allem Intellektuelle und Kulturschaffende kommen nach Berlin – ein Braindrain zum Schaden Russlands.
+
 

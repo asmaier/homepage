@@ -1,23 +1,20 @@
 ---
 title: 'Der deutsche Autopapst hat es ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-11-23
-output: pdf_document
+lastmod: 2020-11-23T14:13:55+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-11-23T14:13:55+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der deutsche Autopapst hat es inzwischen auch erkannt. 
 
@@ -40,4 +37,5 @@ Wir subventionieren den Diesel immer noch mit 10 Milliarden Euro pro Jahr!! Wahn
 > ## [Das Zeitalter des Diesels ist vorbei, sagt Autoexperte Dudenhöffer](https://www.businessinsider.de/wirtschaft/mobility/das-zeitalter-des-diesels-ist-vorbei-sagt-autoexperte-dudenhoeffer-a/)
 >
 >Der Anteil neuzugelassener Diesel-Autos sinkt seit einigen Jahren. Strengere CO2-Vorgaben der EU dürften den Trend beschleunigen.
+
 

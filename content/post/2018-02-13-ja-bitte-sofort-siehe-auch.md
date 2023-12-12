@@ -1,23 +1,20 @@
 ---
 title: 'Ja, bitte sofort! Siehe auch: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-02-13
-output: pdf_document
+lastmod: 2018-02-13T17:43:08+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-02-13T17:43:08+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ja, bitte sofort!
 Siehe auch: https://de.wikipedia.org/wiki/Personennahverkehr_in_Hasselt
@@ -26,4 +23,5 @@ Siehe auch: https://de.wikipedia.org/wiki/Personennahverkehr_in_Hasselt
 > ## [Fahrverbote: Bundesregierung schlägt kostenlosen ÖPNV vor - Golem.de](https://www.golem.de/news/fahrverbote-bundesregierung-schlaegt-kostenlosen-oepnv-vor-1802-132747.html)
 >
 >Um Fahrverbote in deutschen Innenstädten zu vermeiden, erwägt die Bundesregierung ungewöhnliche Schritte. Fünf Modellstädte sind für einen Test im Gespräch.
+
 

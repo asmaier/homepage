@@ -1,23 +1,20 @@
 ---
 title: 'Wir brauchen nicht nur eine ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-01
-output: pdf_document
+lastmod: 2019-09-01T15:13:40+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-01T15:13:40+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wir brauchen nicht nur eine Fleischsteuer, sondern auch eine Erhöhung der Alkohol- und der Tabaksteuern:
 
@@ -34,4 +31,5 @@ P.S.: Wer der deutschen Allgemeinheit auf legale Weise maximal schaden will, der
 > ## [Alkohol, Zigaretten, Cannabis: Deutschland bleibt Hochkonsumland](https://www.spiegel.de/gesundheit/diagnose/alkohol-zigaretten-cannabis-deutschland-bleibt-hochkonsumland-a-1283227.html)
 >
 >Der "Suchtsurvey" untersucht, welche und wie viele Suchtmittel Menschen in Deutschland zu sich nehmen. Das aktuelle Ergebnis: Schmerzmittel und Cannabis werden stärker konsumiert - und im Vergleich betrinken sich die Deutschen häufig.
+
 

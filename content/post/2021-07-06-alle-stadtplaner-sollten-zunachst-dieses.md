@@ -1,23 +1,20 @@
 ---
 title: 'Alle Stadtplaner sollten zunächst dieses ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-07-06
-output: pdf_document
+lastmod: 2021-07-06T19:19:46+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-07-06T19:19:46+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Alle Stadtplaner sollten zunächst dieses Video sehen und dann eine verpflichtende Weiterbildung in den Niederlanden machen. Es ist wirklich erstaunlich wieviel  gute Lösungen sie für ihre Städte finden. Warum kopieren wir das nicht einfach? Sind wir wirklich soviel blöder wie die Niederländer? 
 
@@ -27,4 +24,5 @@ P.S.: Motorräder sollten in der Stadt verboten werden solange sie über 85 dB L
 > ## [Cities Aren't Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
 >
 >Urban noise is a common problem, and the vast majority of it is created by motor vehicles. Noise is far too often dismissed as a minor nuisance, rather than ...
+
 

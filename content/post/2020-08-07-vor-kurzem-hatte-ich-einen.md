@@ -1,23 +1,20 @@
 ---
 title: 'Vor kurzem hatte ich einen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-08-07
-output: pdf_document
+lastmod: 2020-08-07T23:47:57+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-08-07T23:47:57+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Vor kurzem hatte ich einen Artikel über die Russland-Verbindungen des gesuchten Wirecard-Chefs geteilt (https://www.facebook.com/andreas.maier.754918/posts/3231312733581070). Und schon passieren weitere unschöne Dinge, die normalerweise nur Ex-Freunden von Putin passieren: https://www.faz.net/aktuell/wirtschaft/ehemaliger-wirecard-asienchef-in-manila-gestorben-16892502.html
 
@@ -29,4 +26,5 @@ Die Sache stinkt zum Himmel. Vermutlich werden bald Haftbefehle gegen die Hinter
 > ## [Medienberichte: Ehemaliger Wirecard-Asienchef gestorben](https://www.faz.net/aktuell/wirtschaft/ehemaliger-wirecard-asienchef-in-manila-gestorben-16892502.html)
 >
 >Die Aufarbeitung des Wirecard-Skandals wird von einem Todesfall überschattet. Medienberichten zufolge ist der frühere Asienchef des Unternehmens im Alter von 44 Jahren in Manila gestorben.
+
 

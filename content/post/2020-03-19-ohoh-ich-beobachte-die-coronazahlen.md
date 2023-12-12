@@ -1,23 +1,20 @@
 ---
 title: 'Ohoh, ich beobachte die Coronazahlen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-19
-output: pdf_document
+lastmod: 2020-03-19T18:00:54+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-19T18:00:54+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ohoh, ich beobachte die Coronazahlen in Deutschland auf https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (Die sind die schnellsten und haben die besten Zahlen, besser als das RKI) . 
 
@@ -31,4 +28,5 @@ P.S.: In Italien scheint die Ausgangssperre inzwischen ein bisschen zu wirken. D
 > ## [Corona Zahlen aktuell: Karte fÃ¼r Deutschland + weltweit](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
 >
 >So breitet sich das Coronavirus aus - in den deutschen BundeslÃ¤ndern, Europa und weltweit. Aktuelle Zahlen der bestÃ¤tigten Infektionen, der geheilten Patienten und der TodesfÃ¤lle auf einer interaktiven Karte.
+
 

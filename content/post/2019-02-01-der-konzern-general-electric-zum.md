@@ -1,23 +1,20 @@
 ---
 title: '"Der Konzern General Electric zum ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-01
-output: pdf_document
+lastmod: 2019-02-01T22:59:39+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-01T22:59:39+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der Konzern General Electric zum Beispiel bezahlt seinen Mitarbeitern Prämien, wenn sie mit dem Rauchen aufhören. Der Düngerhersteller Scotts Mirace-Gro stellt grundsätzlich erst gar keine Raucher ein, um die Krankenkosten niedrig zu halten. So ähnlich könnte es auch funktionieren, wenn es um die Wurst geht."
 
@@ -27,4 +24,5 @@ Das würde in Deutschland sicher kein Betriebsrat mitmachen. Aber warum eigentli
 > ## [Darf eine Firma ihre Mitarbeiter zum Fleischverzicht zwingen?](https://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/darf-eine-firma-ihre-mitarbeiter-zum-fleischverzicht-zwingen-86349)
 >
 >Ein US-Unternehmen hat Braten und Burger aus den Kantinen verbannt und lässt die Angestellten auch keine Fleischgerichte mehr abrechnen. Geht das zu weit – oder noch lange nicht weit genug?
+
 

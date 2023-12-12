@@ -1,23 +1,20 @@
 ---
 title: 'Wer mal lesen möchte, wie ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-10-27
-output: pdf_document
+lastmod: 2013-10-27T21:51:39+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-10-27T21:51:39+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer mal lesen möchte, wie Lobbyisten so vorgehen und wie stolz sie darauf sind, wichtige Gesetze zu verzögern lese hier (unter Kommentare):
 
@@ -29,4 +26,5 @@ Der Beschluss im Plenum des Bundesrates war nur die formelle Folge aus den Aussc
 Hier sieht man, wie eine Minderheit (IVD hat laut Wikipedia genau 6000 Mitglieder), Einfluß auf unsere Gesetzgebung nimmt. Sie schreiben jedes Ausschussmitglied (37 Parlamentarier) an und beeinflussen so deren Meinung. Wegen solcher Lobbyverbände werden die Mieter in Deutschland weiterhin Maklergebühren für nichts zahlen, obwohl in anderen Ländern das Bestellerprinzip absolut normal ist: http://en.wikipedia.org/wiki/Buyer%27s_agent
 Vielen Dank!
 > http://blog.ivd.net/2013/05/bestellerprinzip-ist-fur-diese-legislaturperiode-vom-tisch
+
 

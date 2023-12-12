@@ -1,23 +1,20 @@
 ---
 title: '"Dass 16 Unzen ein Pfund ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-22
-output: pdf_document
+lastmod: 2021-09-22T18:03:15+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-22T18:03:15+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Dass 16 Unzen ein Pfund ergeben und 2,2 Pfund wiederum einem Kilogramm entsprechen sowie 14 Pfund einem Stein (stone), dürften die wenigsten jüngeren Leute wissen."
 
@@ -29,4 +26,5 @@ Die spinnen, die Briten! Kilogramm ist nicht EU-typisch. Das ist eine weltweit g
 > ## [Nach Brexit: Briten wiegen wieder in Pfund und Unzen](https://www.berliner-zeitung.de/news/nach-brexit-briten-wiegen-wieder-in-pfund-und-unzen-li.183588)
 >
 >Auch der traditionelle Eichnachweis von Biergläsern, die Crown Stamp, kehrt zurück. Nicht mehr verwendet werden müssen EU-typische Maßeinheiten wie Kilogramm.
+
 

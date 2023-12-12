@@ -1,23 +1,20 @@
 ---
 title: '"Die Verteilung der Nettovermögen – ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-11-26
-output: pdf_document
+lastmod: 2020-11-26T21:55:49+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-11-26T21:55:49+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Verteilung der Nettovermögen – also des Vermögens nach Abzug der Schulden – ist in Deutschland weit ungleicher als bisher angenommen. Den obersten zehn Prozent der Bevölkerung gehören nicht etwa wie bisher geschätzt 59 Prozent der Vermögen. Sie besitzen rund zwei Drittel."
 
@@ -37,4 +34,5 @@ Und hören wir etwa in den Nachrichten etwas, dass die Regierung etwas gegen die
 > ## [Vermögensverteilung: Das obere Prozent](https://www.zeit.de/wirtschaft/2020-07/vermoegensverteilung-deutschland-diw-studie-ungleichheit)
 >
 >Bisher waren die Vermögen der reichsten Deutschen eine Blackbox. Forscher haben sie nun geöffnet. Ihre Daten zeigen: Die Vermögen sind ungleicher verteilt als gedacht.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Telemediengesetz (TMG) §13, Absatz 4: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-07-29
-output: pdf_document
+lastmod: 2014-07-29T17:10:06+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-07-29T17:10:06+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Telemediengesetz (TMG) §13, Absatz 4:
 
@@ -32,4 +29,5 @@ Beim Durchsetzen dieses "Recht auf Vergessen" hilft http://justdelete.me/ . Man 
 > ## [Just Delete Me | A directory of direct links to delete your account from web services.](http://justdelete.me/)
 >
 >A directory of direct links to delete your account from web services.
+
 

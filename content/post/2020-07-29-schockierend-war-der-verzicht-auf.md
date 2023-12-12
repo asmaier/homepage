@@ -1,23 +1,20 @@
 ---
 title: '"Schockierend war der Verzicht auf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-07-29
-output: pdf_document
+lastmod: 2020-07-29T18:29:46+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-07-29T18:29:46+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Schockierend war der Verzicht auf Notbremsungen zur Minderung von Unfallfolgen. Notbremsungen waren zwar grundsätzlich vorgesehen, aber nur zur Vermeidung von Unfällen, nicht zur Minderung der Folgen nicht mehr vermeidbarer Unfälle. Das überließ der Computer den menschlichen Bedienern am Steuer. Diese im Programmcode zum Ausdruck gebrachte Geringschätzung Dritter wurde der Fußgängerin zum Verhängnis."
 
@@ -27,4 +24,5 @@ Uber-raschung! Wer hätte gedacht das eine durch und durch unethische Firma auch
 > ## [Was Uber von seinem tödlichen selbstfahrenden Auto gelernt hat ](https://www.heise.de/news/Was-Uber-von-seinem-toedlichen-selbstfahrenden-Auto-gelernt-hat-4857256.html)
 >
 >2018 fuhr ein autonomes Uber-Auto eine Fußgängerin zu Tode. Die Liste der Fehler schockiert. Uber gelobt, sich gebessert zu haben. Behörden lassen sich Zeit.
+
 

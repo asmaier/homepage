@@ -1,23 +1,20 @@
 ---
 title: 'Ich bin für diese Neuordnung ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-29
-output: pdf_document
+lastmod: 2019-03-29T10:45:59+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-29T10:45:59+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich bin für diese Neuordnung der Zeitzonen.
 
@@ -30,4 +27,5 @@ http://blog.poormansmath.net/the-time-it-takes-to-change-the-time/
 > ## [Neue Zeitzonen für Europa gemäß der Chronobiologie](https://www.heise.de/newsticker/meldung/Neue-Zeitzonen-fuer-Europa-gemaess-der-Chronobiologie-4354908.html)
 >
 >Schlafforscher Till Roenneberg hält die Sommerzeit für eine Katastrophe und schlägt eine Neuordnung der europäischen Zeitzonen vor.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Liebe Tesla und Musk Fan-Girls ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-04-03
-output: pdf_document
+lastmod: 2021-04-03T19:45:40+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-04-03T19:45:40+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Liebe Tesla und Musk Fan-Girls and Boys, Ihr müsst jetzt mal ganz stark sein: Elon Musk ist nicht der Gründer von Tesla! Der Gründer von Tesla ist: 
 
@@ -35,4 +32,5 @@ Der war nämlich auch Sohn deutscher Auswanderer. Zumindest klärt das für mich
 > en.wikipedia.org
 > ## [Martin Eberhard - Wikipedia](https://en.wikipedia.org/wiki/Martin_Eberhard)
 >
+
 

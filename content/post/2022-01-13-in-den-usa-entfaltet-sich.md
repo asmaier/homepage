@@ -1,23 +1,20 @@
 ---
 title: 'In den USA entfaltet sich ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-13
-output: pdf_document
+lastmod: 2022-01-13T21:46:31+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-13T21:46:31+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 In den USA entfaltet sich gerade ein Skandal um den Ursprung von Covid: Offenbar haben einige führende US-Wissenschaftler bereits sehr früh geglaubt, das Covid durch einen Laborunfall in Wuhan verbreitet wurde. Allerdings haben sie das nicht öffentlich gesagt, um die Öffentlichkeit nicht zu beunruhigen und die internationale Harmonie zu gefährden:  "Scientists believed Covid leaked from Wuhan lab - but feared debate could hurt ‘international harmony’"
 
@@ -37,4 +34,5 @@ Das Jahr 2022 startet jedenfalls schonmal spannend.
 > ## [Lab Leak 2.0](https://bprice.substack.com/p/lab-leak-20)
 >
 >“If a $1000 PhD side project could kill millions of people, we must end viral [gain-of-function research], or it may end us.”
+
 

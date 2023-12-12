@@ -1,23 +1,20 @@
 ---
 title: 'Wer sich wunderte, warum alle ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-04-05
-output: pdf_document
+lastmod: 2019-04-05T23:25:18+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-04-05T23:25:18+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wer sich wunderte, warum alle Ärzte in Deutschland am Mittwoch immer geschlossen haben, das liegt daran, dass sie bisher nur 20 Stunden die Woche Sprechstunden anbieten mussten. 
 
@@ -31,4 +28,5 @@ https://asmaier.blogspot.com/2016/11/krank-am-wochenende-in-berlin-lieber.html
 > ## [Bundestag](https://www.tagesschau.de/inland/spahn-arzttermin-103.html)
 >
 >Bundestag
+
 

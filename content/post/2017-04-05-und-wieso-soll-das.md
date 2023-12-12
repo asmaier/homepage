@@ -1,23 +1,20 @@
 ---
 title: '""" Und wieso soll das ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-04-05
-output: pdf_document
+lastmod: 2017-04-05T15:59:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-04-05T15:59:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 """
 Und wieso soll das keine Bedrohung für uns Menschen sein?
@@ -32,4 +29,5 @@ Am meisten Angst haben müssen wir eher vor denen, die so ähnlich sind wie wir 
 > ## [Künstliche Intelligenz: ](http://www.wiwo.de/unternehmen/mittelstand/hannovermesse/kuenstliche-intelligenz-roboter-muessen-steuern-zahlen/12896382.html)
 >
 >Computer besiegen den Menschen nun auch beim Strategiespiel Go. Der Informatiker Jürgen Schmidhuber erklärt, wann die Maschinen uns überholen.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Lesst euch dieses Programm des ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-10-06
-output: pdf_document
+lastmod: 2021-10-06T22:19:20+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-10-06T22:19:20+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Lesst euch dieses Programm des CCC mal durch. Man merkt das hier Profis am Werk sind. Es ist wirklich schade, dass man den CCC nicht in den Bundestag wählen kann. Ich stimme jedem Punkt zu, den sie da schreiben. Ein Punkt ist mir besonders aufgefallen:
 
@@ -30,4 +27,5 @@ Es ist absurd, wenn das derzeit möglich ist. Da bedeutet, dass der Staat (also 
 > ## [CCC | CCC veröffentlicht Formulierungshilfe für Digitales im neuen Regierungsprogramm](https://www.ccc.de/de/updates/2021/ccc-formulierungshilfe-regierungsprogramm)
 >
 >Endlich ein solides Regierungsprogramm für unsere digitalisierte Welt, wer wünscht sich das nicht? Wir machen hiermit einen Vorschlag. Kürzer konnten wir es leider nicht hinbekommen, denn es hat sich ja einiges aufgestaut.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Kevin Kühnert will BMW enteignen! ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-05-05
-output: pdf_document
+lastmod: 2019-05-05T14:08:11+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-05-05T14:08:11+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Kevin Kühnert will BMW enteignen! Wieviel DDR steckt in der SPD?" titelt die Bild und natürlich wird er sofort stark kritisiert. 
 
@@ -29,4 +26,5 @@ Wenn jedem Unternehmen mit einem Lobbyisten in Berlin oder Brüssel (siehe https
 > ## [Jungsozialist Kevin Kühnert: In Hamburg durchgefallen](https://www.faz.net/aktuell/feuilleton/kevin-kuehnert-die-enteignung-der-konzerne-und-die-rolle-der-zeit-im-umstrittenen-interview-16170511.html)
 >
 >Wer hat im Interview zwischen dem Juso-Vorsitzenden Kevin Kühnert und der „Zeit“ die Enteignungen ins Spiel gebracht? Es war wie eine Abiturprüfung - hier zwei unerschütterliche Routiniers, dort ein gewitzter Prüfling.
+
 

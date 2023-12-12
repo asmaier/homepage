@@ -1,23 +1,20 @@
 ---
 title: 'Zitat: "Wenn diese Internetdienstleister es ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-10-01
-output: pdf_document
+lastmod: 2011-10-01T19:28:48+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-10-01T19:28:48+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Zitat: "Wenn diese Internetdienstleister es nicht schleunigst lernen, uns in ihren Communitys als Bürger zu behandeln statt als Gemüse, werden etliche Regierungen auf der Welt in naher Zukunft Machtworte sprechen." 
 
@@ -28,4 +25,5 @@ Aber in Deutschland ist eh alles schon zu spät: Jeder Bürger ist nummeriert, u
 > ## [Google und Facebook werden irgendwann verstaatlicht](http://www.zeit.de/2011/40/Jon-Callas-ueber-Facebook)
 >
 >Die großen Betreiber von Internetdiensten werden zu Grundversorgern. Sie behandeln ihre Nutzer aber so schlecht, dass sie damit eine strenge Regulierung provozieren.
+
 

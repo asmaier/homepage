@@ -1,23 +1,20 @@
 ---
 title: 'Wenn das wahr ist, wäre ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-22
-output: pdf_document
+lastmod: 2019-09-22T10:55:28+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-22T10:55:28+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wenn das wahr ist, wäre es tatsächlich ein Meilenstein. Allerdings  ist es im Moment eher ein Gerücht, da das Paper zurückgezogen wurde. Auch stimme ich der Kritik am Ende des Artikels zu, wo es heißt:
 
@@ -31,4 +28,5 @@ https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or
 > ## [Google Claims 'Quantum Supremacy,' Marking a Major Milestone in Computing](https://fortune.com/2019/09/20/google-claims-quantum-supremacy/)
 >
 >In a new scientific paper, Google researchers claim for the first time to have demonstrated "quantum supremacy," where a quantum computer outperforms a traditional one.
+
 

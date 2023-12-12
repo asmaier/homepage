@@ -1,23 +1,20 @@
 ---
 title: 'Ich dachte ich mach mal ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2022-01-23
-output: pdf_document
+lastmod: 2022-01-23T17:03:07+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2022-01-23T17:03:07+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich dachte ich mach mal Car-Sharing wie die ganzen Hipster hier in Berlin: 
 
@@ -30,4 +27,5 @@ Also irgendwie wird das so nix mit der Verkehrsrevolution liebe CarSharing-Anbie
 Als Nutzer habe ich mit der App fast nur Nachteile gegenüber einem simplen Telefonanruf. Selbst ein WhatsAppChat (Igitt) wäre oft schneller als eine App. Und das gilt für Taxi-Apps, Lieferservice-Apps und CarSharingApps gleichermaßen.
 
 Es ist eigentlich ein Wunder, dass soviel in Deutschland trotzdem diese Apps nutzen. Ich behaupte, dass liegt daran, dass die Deutschen gar nicht so technikfeindlich sind wie man ihnen nachsagt. Der Grund warum viele "moderne, digitale Dienstleitungen" in Deutschland nicht so angenommen werden liegt meines Erachtens viel mehr bei den Anbietern selbst, die den Kunden nach Strich und Faden ausquetschen und mit bürokratischen und technischen Hindernissen gängeln, statt sich mal zu überlegen, wie sie ihre Dienstleitung kundenfreundlicher anbieten könnten.
+
 

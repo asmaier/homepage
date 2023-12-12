@@ -1,23 +1,20 @@
 ---
 title: 'Die von der WHO anerkannten ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-10-21
-output: pdf_document
+lastmod: 2021-10-21T21:38:30+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-10-21T21:38:30+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die von der WHO anerkannten Impfstoffe sind übrigens hier gelistet:
 https://covid19.trackvaccines.org/agency/who/
@@ -30,4 +27,5 @@ P.S.: Covid ist nichtmal das größte Gesundheitsproblem das sie in Russland hab
 > ## [Corona-Pandemie in Russland: Dramatische Todeszahlen, die Impfkampagne lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f)
 >
 >Die Impfkampagne in Russland lahmt, die Zahl der Coronatoten steigt. Und das Vertrauen in die zugelassenen russischen Impfstoffe schwindet. Für viele ist Serbien deshalb der Impfort ihrer Wahl.
+
 

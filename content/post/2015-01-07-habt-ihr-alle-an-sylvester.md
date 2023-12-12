@@ -1,23 +1,20 @@
 ---
 title: 'Habt ihr alle an Sylvester ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-01-07
-output: pdf_document
+lastmod: 2015-01-07T10:32:56+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-01-07T10:32:56+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Habt ihr alle an Sylvester kräftig auf unsere Flotte angestoßen? 
 
@@ -28,4 +25,5 @@ Habt ihr alle an Sylvester kräftig auf unsere Flotte angestoßen?
 > de.wikipedia.org
 > ## [Schaumweinsteuer – Wikipedia](http://de.wikipedia.org/wiki/Schaumweinsteuer)
 >
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Der genaue Zeitplan für den ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-15
-output: pdf_document
+lastmod: 2021-09-15T17:34:55+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-15T17:34:55+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der genaue Zeitplan für den Betrieb wird noch zusammengebastelt, laut der Autoren der Artikel könnte man Ende 2026 mit vollem Deuterium-Tritium Experimenten rechnen. Das wäre dann deutlich vor ITER, wo selbiges 2035 geplant ist"
 
@@ -31,4 +28,5 @@ https://scilogs.spektrum.de/formbar/sparc-ein-zuendfunke-fuer-die-fusionsforschu
 > ## [SPARC – ein Zündfunke für die Fusionsforschung?](https://scilogs.spektrum.de/formbar/sparc-ein-zuendfunke-fuer-die-fusionsforschung/)
 >
 >Überblick über das SPARC-Projekt, ein kompakter Hochfeld-Tokamak, der auf neuartigen Supraleitern basiert.
+
 

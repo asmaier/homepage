@@ -1,23 +1,20 @@
 ---
 title: 'Nach meinem letzten Post zum ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-06-16
-output: pdf_document
+lastmod: 2020-06-16T21:30:23+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-06-16T21:30:23+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nach meinem letzten Post zum Thema Fußball passend dazu der ultimative Artikel zum Thema Bier. Der Artikel unten dürfte der ausführlichste populärwissenschaftliche Artikel zum Thema sein.  Wenn ihr den gelesen habt könnt ihr in Zukunft mit Sprüchen angeben wie z.B.:
 
@@ -42,4 +39,5 @@ Na dann, Prost!
 > ## [Brauereien: Was den Geschmack von Bier bestimmt](https://www.spektrum.de/news/wie-koennen-brauereien-aus-so-wenigen-zutaten-so-viele-biersorten-herstellen/1656728)
 >
 >Hopfen, Hefe und Hirn beeinflussen das Getränk - und sogar Musik
+
 

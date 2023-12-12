@@ -1,23 +1,20 @@
 ---
 title: 'Nur mal so zur Erinnerung: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-20
-output: pdf_document
+lastmod: 2021-09-20T15:47:55+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-20T15:47:55+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nur mal so zur Erinnerung:
 
@@ -30,4 +27,5 @@ Interessant daran ist, dass sowohl von Finck als auch Conle ihre Milliarden der 
 > ## [Illegale Parteispenden: Frauke Petry erhebt Korruptionsvorwürfe gegen AfD-Spitze](https://www.faz.net/aktuell/politik/inland/frauke-petry-erhebt-korruptionsvorwuerfe-gegen-afd-spitze-17391539.html)
 >
 >AfD-Spitzenpolitiker sollen illegale Parteispenden angenommen haben – diese Vorwürfe macht ihnen die ehemalige Parteichefin Frauke Petry. Sie beschuldigt unter anderem den Bundessprecher Jörg Meuthen schwer.
+
 

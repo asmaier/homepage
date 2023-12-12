@@ -1,23 +1,20 @@
 ---
 title: 'Russlands Experten weisen darauf hin, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-09-26
-output: pdf_document
+lastmod: 2013-09-26T10:56:31+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-09-26T10:56:31+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Russlands Experten weisen darauf hin, dass die Wahl in Deutschland den Wahlstandards des Europarates und der OSZE nicht voll und ganz entspricht. Nach Auffassung von Politologen bedarf die Wahlgesetzgebung der Bundesrepublik Deutschland einer ernst zu nehmenden Vervollständigung.
 
@@ -28,4 +25,5 @@ Die Wähler erfahren, für wessen Geld die Wahlkampagne dieser oder jener Partei
 
 Da kann man den Russlands Experten nur recht geben.
 > http://german.ruvr.ru/2013_09_23/Russlands-Experten-uber-die-Wahl-in-Deutschland-3128/
+
 

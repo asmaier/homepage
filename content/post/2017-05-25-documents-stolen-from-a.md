@@ -1,23 +1,20 @@
 ---
 title: '""" Documents stolen from a ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-05-25
-output: pdf_document
+lastmod: 2017-05-25T20:16:13+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-05-25T20:16:13+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 """
 Documents stolen from a prominent journalist and critic of the Russian government were manipulated and then released as a “leak” to discredit domestic and foreign critics of the government. We call this technique “tainted leaks.”
@@ -31,4 +28,5 @@ https://citizenlab.org/2017/05/tainted-leaks-disinformation-phish/
 > ## [Tainted Leaks: Disinformation and Phishing With a Russian Nexus - The Citizen Lab](https://citizenlab.org/2017/05/tainted-leaks-disinformation-phish/)
 >
 >Documents stolen from a prominent journalist and critic of the Russian government were manipulated and then released as a “leak” to discredit domestic and foreign critics of the government. We call this technique “tainted leaks.”
+
 

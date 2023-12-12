@@ -1,23 +1,20 @@
 ---
 title: 'Geiles Video! Der Beweis dafür, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-09-27
-output: pdf_document
+lastmod: 2017-09-27T14:14:18+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-09-27T14:14:18+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Geiles Video! Der Beweis dafür, dass Schallwellen nicht nur schön klingen sondern auch gut aussehen können!
 > [![](https://i.ytimg.com/vi/Q3oItpVa9fs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q3oItpVa9fs)
@@ -25,4 +22,5 @@ Geiles Video! Der Beweis dafür, dass Schallwellen nicht nur schön klingen sond
 > ## [CYMATICS: Science Vs. Music - Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 >
 >► NEW VIDEO Automatica: http://nigelstanford.com/y/Cytext-Automatica► Album, Apple Music, CDs & 4k Video: http://nigelstanford.com/y/Cytext-Cymatics► Spotify...
+
 

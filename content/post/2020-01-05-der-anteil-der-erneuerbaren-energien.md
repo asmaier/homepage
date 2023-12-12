@@ -1,23 +1,20 @@
 ---
 title: 'Der Anteil der erneuerbaren Energien ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-01-05
-output: pdf_document
+lastmod: 2020-01-05T14:30:24+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-01-05T14:30:24+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der Anteil der erneuerbaren Energien an der Nettostromerzeugung lag in Deutschland 2019 bei 46%!
 
@@ -31,4 +28,5 @@ Interessant dabei ist auch, das Deutschland dabei ein großer Stromexporteur ist
 > energy-charts.info
 > ## [Energy Charts](https://www.energy-charts.de/energy_pie_de.htm?year=2019)
 >
+
 

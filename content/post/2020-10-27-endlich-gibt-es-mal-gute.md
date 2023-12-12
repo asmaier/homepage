@@ -1,23 +1,20 @@
 ---
 title: 'Endlich gibt es mal gute ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-27
-output: pdf_document
+lastmod: 2020-10-27T11:47:38+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-27T11:47:38+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Endlich gibt es mal gute Nachrichten aus Berlin. Die Karl-Marx-Straße wurde (zumindest auf einer Teilstrecke von knapp einem Kilometer) fahrradfreundlich umgebaut. Zwei Autospuren sind jetzt zu den wahrscheinlich breitesten Fahrradwegen Berlins geworden:
 
@@ -36,4 +33,5 @@ Trotzdem ist es ein Schritt in die richtige Richtung. Ein Kilometer ist geschaff
 > ## [Eröffnung der neu gestalteten Karl Marx Allee](https://www.youtube.com/watch?v=VHwN3vsGLCY)
 >
 >Die neue Karl-Marx-Allee schafft mehr Platz für Menschen und Natur in der Stadt. Begleiten Sie uns auf einem Flug über den neu gestalteten Straßenabschnitt z...
+
 

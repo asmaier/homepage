@@ -1,23 +1,20 @@
 ---
 title: 'Russland hat mit dem Einsatz ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-09-02
-output: pdf_document
+lastmod: 2020-09-02T22:26:52+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-09-02T22:26:52+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Russland hat mit dem Einsatz von Nowitschok gegen Nawalny nicht nur gezeigt, was für ein menschenverachtendes Regime da immer noch an der Macht ist. Sie haben auch erneut gegen die https://de.wikipedia.org/wiki/Chemiewaffenkonvention verstoßen und steht damit in einer Reihe mit Syrien und Nordkorea. 
 
@@ -29,4 +26,5 @@ Ceterum censeo, Putinism esse delendam.
 > ## [Bundesregierung: Nawalny mit Nervenkampfstoff vergiftet](https://www.tagesschau.de/inland/nawalny-nervengift-101.html)
 >
 >Der russische Kreml-Kritiker Nawalny ist nach neuen Erkenntnissen "zweifelsfrei" mit einem chemischen Nervenkampfstoff vergiftet worden. Das ergab die toxikologische Untersuchung eines Bundeswehr-Labors.
+
 

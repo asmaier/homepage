@@ -1,23 +1,20 @@
 ---
 title: 'Nachricht aus dem Jahr 2020: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-03-01
-output: pdf_document
+lastmod: 2018-03-01T11:06:57+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-03-01T11:06:57+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nachricht aus dem Jahr 2020:
 
@@ -31,4 +28,5 @@ Im April 2020 wurde bekannt, dass die der nationalistische russiche Hackergruppe
 > ## [China schafft digitales Punktesystem für den "besseren" Menschen](https://www.heise.de/newsticker/meldung/China-schafft-digitales-Punktesystem-fuer-den-besseren-Menschen-3983746.html)
 >
 >Ein digitales Punktekonto soll flächendeckend in China eingeführt werden und gute von schlechten Bürgern unterscheiden. Die soziale Bewertung des Einzelnen hat jedoch weitreichende Konsequenzen für sein Leben. Viele Chinesen finden es trotzdem gut.
+
 

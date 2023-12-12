@@ -1,23 +1,20 @@
 ---
 title: 'Dieses Interview ist voller brisanter ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-23
-output: pdf_document
+lastmod: 2021-05-23T14:42:51+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-23T14:42:51+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dieses Interview ist voller brisanter Informationen:
 
@@ -38,4 +35,5 @@ Das alles sollte nicht notwendig sein, wenn China an einen natürlichen Ursprung
 > ## [Ursprung des Virus: «Die Labortheorie ist vielerorts ein Tabu»](https://www.persoenlich.com/gesellschaft/die-labortheorie-ist-vielerorts-ein-tabu)
 >
 >NZZ-Redaktor Marcel Gyr ist der Theorie nachgegangen, dass Sars-CoV-2 aus einem Labor in Wuhan entwichen sei. Im Interview spricht er über Verschwörungstheorien, die Sicht der Wissenschaft und was es bräuchte, um die Wahrheit herauszufinden.
+
 

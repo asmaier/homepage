@@ -1,23 +1,20 @@
 ---
 title: 'Es lohnt sich ab und ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-11-19
-output: pdf_document
+lastmod: 2015-11-19T23:12:26+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-11-19T23:12:26+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es lohnt sich ab und zu die eigenen Datenschutzeinstellungen bei Google zu überprüfen:
 
@@ -44,4 +41,5 @@ kann man zu guter Letzt auch die Einstellung für die Werbung ändern, die einem
 > accounts.google.com
 > ## [Anmelden – Google Konten](https://www.google.com/settings/accounthistory)
 >
+
 

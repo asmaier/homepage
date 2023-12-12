@@ -1,23 +1,20 @@
 ---
 title: 'Dieser Satz macht den Artikel ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-06-26
-output: pdf_document
+lastmod: 2018-06-26T13:19:46+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-06-26T13:19:46+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dieser Satz macht den Artikel lesenswert:
 
@@ -27,4 +24,5 @@ Dieser Satz macht den Artikel lesenswert:
 > ## [Gastbeitrag: Warum wir eine neue Sammlungsbewegung brauchen - WELT](https://www.welt.de/debatte/kommentare/article178121522/Gastbeitrag-Warum-wir-eine-neue-Sammlungsbewegung-brauchen.html)
 >
 >Es ist an der Zeit, dass der Unmut wieder eine progressive Stimme bekommt – und letztlich auch die Macht , Politik und Wirtschaft in Deutschland zu verändern. Ein Gastbeitrag der Linke-Fraktionschefin im Bundestag.
+
 

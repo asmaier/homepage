@@ -1,23 +1,20 @@
 ---
 title: 'Vergleicht man das sowjetisch-amerikanische "Mondrennen" ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-16
-output: pdf_document
+lastmod: 2019-06-16T16:38:17+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-16T16:38:17+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Vergleicht man das sowjetisch-amerikanische "Mondrennen" und das deutsch-amerikanische "Atomrennen" so gibt es tatsächlich eine Gemeinsamkeit, wie in untiger faszinierender Geschichte zum deutschen Atomprojekt schön herausgearbeitet:
 
@@ -28,4 +25,5 @@ Es ist nämlich tatsächlich so, dass in beiden Fällen die Amerikaner deswegen 
 > ## [Attention Required! | Cloudflare](https://physicstoday.scitation.org/doi/10.1063/PT.3.4202)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

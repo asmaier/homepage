@@ -1,23 +1,20 @@
 ---
 title: '"VW war auch der offizielle ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-04-03
-output: pdf_document
+lastmod: 2019-04-03T13:50:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-04-03T13:50:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "VW war auch der offizielle Sponsor der Veranstaltung."
 
@@ -28,4 +25,5 @@ Greta sollte die Ehrung zurückgeben. Der Veranstalter sollte sich nicht mit Gre
 > ## [„Goldene Kamera“: Fremdscham-Moment nach Ehrung von Greta Thunberg](https://www.merkur.de/politik/goldenen-kamera-greta-thunberg-wird-geehrt-dann-folgt-ein-fremdschaem-moment-zr-12048885.html)
 >
 >Bei der Goldenen Kamera wurde Greta Thunberg für ihren Einsatz für den Klimaschutz geehrt. Kurz darauf erhielt eine Schauspielerin einen SUV als Geschenk. Darüber regten sich viele Zuschauer auf.
+
 

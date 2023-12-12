@@ -1,23 +1,20 @@
 ---
 title: 'The Boston Consulting Group: Collateral ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-12-14
-output: pdf_document
+lastmod: 2011-12-14T22:23:51+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-12-14T22:23:51+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 The Boston Consulting Group:
 
@@ -44,4 +41,5 @@ Also wer Vermögen über 100000 Euro hat tut vielleicht gut daran es jetzt auszu
 > ## [Global Management Consulting | Strategy Consultants | BCG](http://www.bcg.de/documents/file87307.pdf)
 >
 >BCG is a global consulting firm that partners with leaders in business and society to tackle their most important challenges. Learn more about BCG.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Die Zukunft auf Japanisch. ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-12-19
-output: pdf_document
+lastmod: 2016-12-19T16:24:21+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-12-19T16:24:21+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Zukunft auf Japanisch.
 > [![](https://i.ytimg.com/vi/nkcKaNqfykg/maxresdefault.jpg)](https://www.youtube.com/watch?v=nkcKaNqfykg)
@@ -25,4 +22,5 @@ Die Zukunft auf Japanisch.
 > ## [Gatebox - Promotion Movie "OKAERI"_english](https://www.youtube.com/watch?v=nkcKaNqfykg)
 >
 >■Official site ( http://gatebox.ai/ )By subscribing to the email magazine through our website, you will receive the latest information about Gatebox without ...
+
 

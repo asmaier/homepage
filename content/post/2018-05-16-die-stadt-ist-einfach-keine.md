@@ -1,23 +1,20 @@
 ---
 title: '"Die Stadt ist einfach keine ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-05-16
-output: pdf_document
+lastmod: 2018-05-16T11:04:44+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-05-16T11:04:44+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Stadt ist einfach keine artgerechte Haltung für Menschen!"
 
@@ -27,4 +24,5 @@ Die meisten Berliner leiden nur leider schon am Stockholmsyndrom und finden die 
 > ## [Verlasst die Städte!](https://sz-magazin.sueddeutsche.de/charlotte-roche-jetzt-koennte-es-kurz-wehtun/verlasst-die-staedte-85686)
 >
 >Kolumne von Charlotte Roche: Die Großstadt macht den Menschen krank, größenwahnsinnig und kriminell.
+
 

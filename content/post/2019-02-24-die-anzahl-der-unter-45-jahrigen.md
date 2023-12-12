@@ -1,23 +1,20 @@
 ---
 title: 'Die Anzahl der unter 45-jährigen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-24
-output: pdf_document
+lastmod: 2019-02-24T22:16:14+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-24T22:16:14+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Anzahl der unter 45-jährigen Wähler betrug bei der letzten Bundestagswahl 2017 nur noch 35%. Im Jahr 2002 waren es noch 46%. Das liegt nicht nur daran, dass es aufgrund der Bevölkerungsentwicklung immer mehr Alte gibt. Es liegt auch daran, dass die Wahlbeteiligung bei den Jungen nochmal bis zu 15% niedriger ist, als die der Alten. 
 
@@ -25,4 +22,5 @@ Das ist ziemlich furchtbar und erklärt die verkrusteten Wahlergebnisse. Wir mü
 > demografie-portal.de
 > ## [Demografieportal  -  Startseite - Seite nicht gefunden](https://www.demografie-portal.de/SharedDocs/Informieren/DE/ZahlenFakten/Wahlbeteiligung_Alter.html)
 >
+
 

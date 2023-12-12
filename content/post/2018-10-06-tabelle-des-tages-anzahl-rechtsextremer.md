@@ -1,23 +1,20 @@
 ---
 title: 'Tabelle des Tages: Anzahl rechtsextremer ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-10-06
-output: pdf_document
+lastmod: 2018-10-06T20:57:59+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-10-06T20:57:59+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Tabelle des Tages:
 
@@ -48,4 +45,5 @@ Thüringen hat pro Kopf fast 6mal soviele rechtsextreme Demonstranten erlebt wie
 > ## [Rechtsextreme Demos: Nicht nur Sachsen hat ein Problem](https://interaktiv.morgenpost.de/rechte-demos/)
 >
 >Alle reden Ã¼ber Chemnitz, aber wie sieht es im Rest des Landes aus? Eine interaktive Karte.
+
 

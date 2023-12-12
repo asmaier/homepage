@@ -1,23 +1,20 @@
 ---
 title: 'Nun ist die Katze aus ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-03-28
-output: pdf_document
+lastmod: 2014-03-28T09:43:17+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-03-28T09:43:17+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nun ist die Katze aus dem Sack:
 
@@ -32,4 +29,5 @@ Fragt sich nur welche Vorteile Europa davon hat?
 > ## [Schiefergas: Obama sagt EU-Spitzen Energiedeal zu](http://derstandard.at/1395363329295/Schiefergas-Obama-sagt-EU-Spitzen-Energiedeal-zu)
 >
 >USA und EU rücken in der Krise mit Russland enger zusammen. Präsident Obama sichert den Partnern die Lieferung von Schiefergas zu
+
 

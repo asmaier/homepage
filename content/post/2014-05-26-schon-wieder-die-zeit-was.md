@@ -1,23 +1,20 @@
 ---
 title: 'Schon wieder die ZEIT. Was ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-05-26
-output: pdf_document
+lastmod: 2014-05-26T22:22:26+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-05-26T22:22:26+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Schon wieder die ZEIT. Was ist den mit denen los? So was hätte ich eher von Axel-Springer erwartet:
 
@@ -31,4 +28,5 @@ Also schnell noch anschauen, bevor sie endgültig verboten wird.
 > ## [Leitartikler und Machteliten](http://www.heise.de/tp/artikel/41/41841/1.html)
 >
 >Herausgeber der ZEIT beschwert sich beim ZDF - Satire-Sendung "Die Anstalt" erhält Unterlassungserklärungen
+
 

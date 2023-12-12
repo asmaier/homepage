@@ -1,23 +1,20 @@
 ---
 title: 'Wie cool ist das denn? ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-03-21
-output: pdf_document
+lastmod: 2017-03-21T12:06:28+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-03-21T12:06:28+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Wie cool ist das denn?
 
@@ -30,4 +27,5 @@ Vor mir sehe ich eine hübsch verzierte Computergrafik-Sitzbank. Jensen, der off
 > ## [Ein Besuch  im Virtual-Reality-Center The Void](https://www.heise.de/ct/ausgabe/2015-26-Ein-Besuch-im-Virtual-Reality-Center-The-Void-3015429.html)
 >
 >Das US-Unternehmen The Void will überall auf der Welt futuristische Virtual-Reality-Center aufmachen. In denen soll man Computerspielwelten buchstäblich anfassen können. c’t hat zwei frühe VR-Spiele-Prototypen im The-Void-Büro in Utah ausprobiert … bis zum Herzrasen.
+
 

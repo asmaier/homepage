@@ -1,23 +1,20 @@
 ---
 title: 'Auszug aus einem Antrag der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-11-21
-output: pdf_document
+lastmod: 2011-11-21T10:55:23+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-11-21T10:55:23+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Auszug aus einem Antrag der Piraten an den Berliner Innensenat:
 
@@ -33,4 +30,5 @@ Die jährlichen Kosten für 15 VBB-Umweltkarten Berlin ABC betragen 13.125,- Eur
 
 Mit unserem Lösungsvorschlag würde das Land Berlin für die Dauer der 17. Wahlperiode 369.565,- Euro einsparen."
 > https://redmine.piratenfraktion-berlin.de/issues/131
+
 

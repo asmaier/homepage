@@ -1,23 +1,20 @@
 ---
 title: 'Interessanter Vergleich, das aktuelle U-Bahn-Netz ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-11-01
-output: pdf_document
+lastmod: 2018-11-01T22:24:06+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-11-01T22:24:06+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Interessanter Vergleich, das aktuelle U-Bahn-Netz von Berlin: http://berliner-u-bahn.info/PDF/u_2017-10-01.pdf
 Und der sogenannte 200km-Plan von 1995: 
@@ -27,4 +24,5 @@ Man sieht ganz deutlich, wie wenig in Berlin in die U-Bahn investiert wurde. Das
 > ## [Berliner-U-Bahn.info](http://berliner-u-bahn.info/200km.php)
 >
 >Infos und Bilder Ã¼ber die Berliner U-Bahn.
+
 

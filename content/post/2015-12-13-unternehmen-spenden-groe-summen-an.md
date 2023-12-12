@@ -1,23 +1,20 @@
 ---
 title: '"Unternehmen spenden große Summen an ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-12-13
-output: pdf_document
+lastmod: 2015-12-13T17:47:01+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-12-13T17:47:01+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Unternehmen spenden große Summen an die Parteien und beeinflussen auf diese Weise Politik in ihrem Sinne.
 
@@ -29,4 +26,5 @@ Wer das (wie ich) auch so sieht, sollte diese Petition unterzeichnen.
 > ## [Die Seite wurde nicht gefunden | abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/petitionen/unternehmensspenden-verbieten)
 >
 >Leider konnte unter der Webadresse keine Seite bei uns gefunden werden. Bei unserer Suche nach Transparenz in der Politik passiert uns das auch immer wieder. Erfreulich, wenn man Quellen für die weitere Suche findet:
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Ist das schonmal jemandem aufgefallen: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-03-03
-output: pdf_document
+lastmod: 2020-03-03T18:11:44+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-03-03T18:11:44+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ist das schonmal jemandem aufgefallen:
 
@@ -34,4 +31,5 @@ P.S.: Die Strafe fürs Falschparken sollte mal auf 100 Euro erhöht werden: http
 > ## [Falschparken soll mindestens 100 Euro kosten](https://www.tagesspiegel.de/berlin/buendnis-fordert-drastische-strafen-falschparken-soll-mindestens-100-euro-kosten/24362972.html)
 >
 >Eine Initiative von zwölf Verbänden will Falschparker härter bestrafen. In der Berliner Politik heißt es, dass vor allem mehr kontrolliert werden müsse.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Der stellvertretende Generalsekretär des Deutschen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-16
-output: pdf_document
+lastmod: 2020-10-16T22:51:41+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-16T22:51:41+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Der stellvertretende Generalsekretär des Deutschen Bauernverbands, Udo Hemmerling, schrieb der taz, ...
 Wenn künftig geprüft werde, wer zu einer Holding gehört, müssten „zehntausende kleinere und mittlere Familienbetriebe ihre gesamten Gesellschafterverhältnisse gegenüber den Antragsbehörden offenlegen“"
@@ -30,4 +27,5 @@ Was wäre daran falsch? Gerade die, die üblicherweise den gläsernen Bürger fo
 > ## [Konzerne kassieren Agrarsubventionen: Staatsknete für Bonzen statt Bauern](https://taz.de/Konzerne-kassieren-Agrarsubventionen/!5719474/)
 >
 >Die Holding einer reichen Familie erhält jedes Jahr 5,5 Millionen Euro von der EU. Das muss weniger werden, sagt Agrarministerin Julia Klöckner.
+
 

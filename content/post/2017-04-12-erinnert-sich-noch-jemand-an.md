@@ -1,23 +1,20 @@
 ---
 title: 'Erinnert sich noch jemand an ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-04-12
-output: pdf_document
+lastmod: 2017-04-12T15:05:25+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-04-12T15:05:25+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Erinnert sich noch jemand an Spirograph?
 > [![](http://nathanfriend.com/inspiral-web/link-thumbnail.png)](http://nathanfriend.io/inspirograph/)
@@ -25,4 +22,5 @@ Erinnert sich noch jemand an Spirograph?
 > ## [Inspiral Web](http://nathanfriend.io/inspirograph/)
 >
 >The web version of the Inspiral app. Written in TypeScript, using D3.js.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Da der Oppositionspolitiker als fluchtgefährdet ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-04-02
-output: pdf_document
+lastmod: 2021-04-02T22:06:55+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-04-02T22:06:55+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Da der Oppositionspolitiker als fluchtgefährdet eingestuft ist, wird er nachts zur Kontrolle einmal pro Stunde geweckt."
 
@@ -29,4 +26,5 @@ Wir sind doch nicht mehr im Mittelalter!
 > ## [Das russische Strafvollzugssystem](https://www.dekoder.org/de/gnose/strafvollzugssystem-fsin-besserungskolonie-straflager)
 >
 >Rund 480.000 Menschen sitzen derzeit in einer russischen Strafanstalt ein. Mit umgerechnet etwa 3,5 Milliarden Euro verfügt die Strafvollzugsbehörde FSIN über das europaweit größte Gefängnisbudget. Zugleich hat Russland mit 2,40 Euro die niedrigsten täglichen Ausgaben pro Person – im europäischen Durchschnitt sind es 68,30 Euro pro Häftling und Tag.
+
 

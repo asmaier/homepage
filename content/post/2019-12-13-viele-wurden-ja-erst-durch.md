@@ -1,23 +1,20 @@
 ---
 title: 'Viele wurden ja erst durch ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-12-13
-output: pdf_document
+lastmod: 2019-12-13T13:51:40+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-12-13T13:51:40+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Viele wurden ja erst durch Greta 2018 auf den Klimawandel aufmerksam und tun jetzt so, als hätte man das früher nicht wissen können. Schlaue Journalisten schreiben Verschwörungstheorien, dass der Ölkonzern Exxon bereits 1977 vom Klimawandel wusste, die Erkenntnisse aber unter den Tisch kehrte (https://www.spektrum.de/news/wie-exxon-den-klimawandel-entdeckte-und-leugnete/1374674). 
 
@@ -35,5 +32,6 @@ Aber auf jeden Fall sollte niemand so tun, als wäre er vom Klimawandel überras
 > ## [Svante Arrhenius - Wikipedia](https://en.wikipedia.org/wiki/Svante_Arrhenius#Greenhouse_effect)
 >
 >
+
 
 

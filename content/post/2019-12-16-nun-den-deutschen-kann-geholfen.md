@@ -1,23 +1,20 @@
 ---
 title: 'Nun, den Deutschen kann geholfen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-12-16
-output: pdf_document
+lastmod: 2019-12-16T21:40:52+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-12-16T21:40:52+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nun, den Deutschen kann geholfen werden:
 
@@ -29,4 +26,5 @@ Nun, den Deutschen kann geholfen werden:
 > ## [Viele Deutsche wollen nachhaltiger verreisen, tun es aber nicht](https://www.heise.de/newsticker/meldung/Viele-Deutsche-wollen-nachhaltiger-verreisen-tun-es-aber-nicht-4616462.html)
 >
 >Unterwegs sein wie Greta Thunberg, das wollen gut 50 Prozent der Menschen in Deuschland. Die wenigsten von ihnen tun es wirklich.
+
 

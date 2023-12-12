@@ -1,23 +1,20 @@
 ---
 title: 'Es waren vielleicht doch Aliens! ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-29
-output: pdf_document
+lastmod: 2019-03-29T16:45:55+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-29T16:45:55+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es waren vielleicht doch Aliens! 👽
 
@@ -41,4 +38,5 @@ https://de.wikipedia.org/wiki/Plejaden#Kulturelle_Bedeutung
 > ## [Sonnensystem: Neues vom interstellaren Besucher 'Oumuamua](https://www.spektrum.de/news/neues-vom-interstellaren-besucher-oumuamua/1635770)
 >
 >'Oumuamua könnte tatsächlich die Form eines Sonnensegels haben, von den Plejaden zu uns geflogen und dabei von interstellarem Wind beeinflusst worden sein.
+
 

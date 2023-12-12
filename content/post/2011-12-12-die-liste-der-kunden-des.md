@@ -1,23 +1,20 @@
 ---
 title: 'Die Liste der Kunden des ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-12-12
-output: pdf_document
+lastmod: 2011-12-12T17:06:31+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-12-12T17:06:31+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Liste der Kunden des Handels- und Bankhauses der Fugger umfasste im Mittelalter neben den Kaisern des Heiligen Römischen Reiches die Königshäuser der Niederlande und Portugals. Auch Heinrich VIII. oder die Päpste waren Kunden des Hauses. Eines der wichtigsten zu finanzierenden Projekte der damaligen Zeit war der Neubau des Petersdomes in Rom, aber auch der Unterhalt des päpstlichen Armeekorps Schweizergarde.
 
@@ -31,4 +28,5 @@ Mmh, wer möchte da noch behaupten Geschichte wiederholt sich nicht...
 > de.wikipedia.org
 > ## [Fürst Fugger Privatbank – Wikipedia](http://de.wikipedia.org/wiki/Fürst_Fugger_Privatbank)
 >
+
 

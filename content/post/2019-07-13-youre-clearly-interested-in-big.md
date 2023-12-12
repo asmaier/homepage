@@ -1,23 +1,20 @@
 ---
 title: '"You’re clearly interested in big ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-07-13
-output: pdf_document
+lastmod: 2019-07-13T21:10:09+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-07-13T21:10:09+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "You’re clearly interested in big questions about the nature of consciousness — but why are you investigating them through robotics? Why aren’t you a philosopher or a neuroscientist?
 
@@ -29,4 +26,5 @@ Der Mann hat absolut recht. Ich bin sicher er wird mit seinen Versuchen unser Ve
 > ## [Curious About Consciousness? Ask the Self-Aware Machines](https://www.quantamagazine.org/hod-lipson-is-building-self-aware-robots-20190711/)
 >
 >Consciousness is a famously hard problem, so Hod Lipson is starting from the basics: with self-aware robots that can help us understand how we think.
+
 

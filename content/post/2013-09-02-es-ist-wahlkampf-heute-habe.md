@@ -1,23 +1,20 @@
 ---
 title: 'Es ist Wahlkampf. Heute habe ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2013-09-02
-output: pdf_document
+lastmod: 2013-09-02T22:31:21+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2013-09-02T22:31:21+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es ist Wahlkampf. Heute habe ich einen Brief von Hans Ströbele in meinem Briefkasten. Darin steht zu meinem Erstaunen, ich zitiere:
 
@@ -28,4 +25,5 @@ In den letzen Jahren habe ich mich zudem um die Aufklärung des Staatsversagens 
 Soso, Ströbele hat sich also "um das Ausspähen der deutschen Bevölkerung durch den US-Geheimdienst NSA gekümmert." 
 
 Erfrischend ehrlich, würde ich sagen! ;-) Jetzt weiss ich jedenfalls, wen ich nicht wählen darf. Vielen Dank für diesen Brief, Herr Ströbele.
+
 

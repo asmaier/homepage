@@ -1,23 +1,20 @@
 ---
 title: 'Nach dem Angriff auf Pearl ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-08-28
-output: pdf_document
+lastmod: 2015-08-28T21:43:49+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-08-28T21:43:49+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Nach dem Angriff auf Pearl Harbor stimmte sie als einzige Abgeordnete gegen die Kriegserklärung an Japan mit den Worten:
 
@@ -28,4 +25,5 @@ Frauen sind auch nicht mehr das, was sie mal waren! Oder wie sehen sie das, Frau
 > de.wikipedia.org
 > ## [Jeannette Rankin – Wikipedia](https://de.wikipedia.org/wiki/Jeannette_Rankin)
 >
+
 

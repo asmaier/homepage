@@ -1,23 +1,21 @@
 ---
 title: 'Diese Nachricht habe ich auf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-07-29
-output: pdf_document
+lastmod: 2011-07-29T20:57:44+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-07-29T20:57:44+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Diese Nachricht habe ich auf Google+ geschrieben...
+
 

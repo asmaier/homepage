@@ -1,23 +1,20 @@
 ---
 title: 'Viele haben es wahrscheinlich nicht ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-05-08
-output: pdf_document
+lastmod: 2020-05-08T19:50:36+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-05-08T19:50:36+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Viele haben es wahrscheinlich nicht mitbekommen, aber heute war in Berlin Feiertag. Einmalig zum 75ten Jahrestag der bedingungslosen Kapitulation Nazi-Deutschlands wurde dieses Jahr auch in Berlin der https://de.wikipedia.org/wiki/Tag_der_Befreiung gefeiert (Also eigentlich wurde nicht gefeiert wegen Corona). 
 
@@ -29,4 +26,5 @@ In diesem Sinne steht der 8.Mai auch für Deutschland als ein Tag der Befreiung 
 > ## [The Fallen of World War II](https://www.youtube.com/watch?v=DwKPFT-RioU)
 >
 >An animated data-driven documentary about war and peace, The Fallen of World War II looks at the human cost of the second World War and sizes up the numbers ...
+
 

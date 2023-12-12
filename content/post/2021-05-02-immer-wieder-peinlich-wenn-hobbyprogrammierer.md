@@ -1,23 +1,20 @@
 ---
 title: 'Immer wieder peinlich, wenn Hobbyprogrammierer ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-02
-output: pdf_document
+lastmod: 2021-05-02T11:20:03+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-02T11:20:03+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Immer wieder peinlich, wenn Hobbyprogrammierer die gravierenden Schwächen der Nutzerinterfaces von staatlichen Webseiten verbessern müssen:
 https://www.berliner-kurier.de/berlin/diesen-trick-sollte-jeder-kennen-mit-dieser-website-kommen-sie-schneller-an-einen-impftermin-li.156407
@@ -27,4 +24,5 @@ Eigentlich sollte Doctolib es besser wissen. Aber die Idee, dass die einzelnen I
 > ## [Diesen Trick sollte jeder kennen: Mit DIESER Website kommen Sie schneller an einen Impftermin!](https://www.berliner-kurier.de/berlin/diesen-trick-sollte-jeder-kennen-mit-dieser-website-kommen-sie-schneller-an-einen-impftermin-li.156407)
 >
 >Eine Tabelle im Netz listet auf, für welches Präparat es in welchem Impfzentrum in Berlin an welchen Tagen freie Termine gibt.
+
 

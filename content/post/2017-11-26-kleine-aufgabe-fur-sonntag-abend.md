@@ -1,25 +1,23 @@
 ---
 title: 'Kleine Aufgabe für Sonntag Abend: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-11-26
-output: pdf_document
+lastmod: 2017-11-26T22:15:55+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-11-26T22:15:55+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Kleine Aufgabe für Sonntag Abend: Finde heraus, wie die Griechen im antiken Athen ihr Parlament gewählt haben.
 
 Wer die Antwort findet wird plötzlich erkennen, warum unsere "Demokratie" so falsch läuft.
+
 

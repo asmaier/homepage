@@ -1,23 +1,20 @@
 ---
 title: 'Manchmal macht Berlin auch Spaß, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-05-27
-output: pdf_document
+lastmod: 2019-05-27T22:10:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-05-27T22:10:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Manchmal macht Berlin auch Spaß, z.B. wenn man die Wahlergebnisse zur Europawahl in Friedrichhain-Kreuzberg sieht:
 
@@ -40,4 +37,5 @@ Von So, 21.11. bis Do, 9.12., jeweils So–Do, ca. 22:30 Uhr bis ca. 0:30 Uhr
 Zwischen U Senefelderplatz und U Stadtmitte kein Zugverkehr.
 
 Ein Ersatzverkehr wird eingerichtet.
+
 

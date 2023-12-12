@@ -1,23 +1,20 @@
 ---
 title: 'Das scheint ein sehr prophetisches ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-03-10
-output: pdf_document
+lastmod: 2015-03-10T22:02:51+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-03-10T22:02:51+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das scheint ein sehr prophetisches Buch (von 1997!) zu sein:
 
@@ -26,4 +23,5 @@ Das scheint ein sehr prophetisches Buch (von 1997!) zu sein:
 > de.wikipedia.org
 > ## [Die einzige Weltmacht: Amerikas Strategie der Vorherrschaft – Wikipedia](http://de.wikipedia.org/wiki/Die_einzige_Weltmacht:_Amerikas_Strategie_der_Vorherrschaft)
 >
+
 

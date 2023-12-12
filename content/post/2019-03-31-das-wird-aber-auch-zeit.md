@@ -1,23 +1,20 @@
 ---
 title: 'Das wird aber auch Zeit. ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-31
-output: pdf_document
+lastmod: 2019-03-31T21:26:54+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-31T21:26:54+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das wird aber auch Zeit. Die Zwei-Jahre-Knebel-Vertäge sind ein Unding. Kleine Geschichte meinerseits:
 
@@ -31,4 +28,5 @@ Diese Zwei-Jahres-Verträge sind eine absolute Unverschämtheit in allen Bereich
 > ## [F.A.S. exklusiv: Union und SPD wolle lange Telefonverträge stoppen](https://www.faz.net/aktuell/finanzen/meine-finanzen/union-und-spd-wolle-lange-telefonvertraege-stoppen-16116456.html)
 >
 >Man kennt sie aus dem Fitnessstudio oder vom Mobilfunkanbieter: Lästige Langzeitverträge, die kein bisschen Flexibilität zulassen. Damit könnte bald Schluss sein.
+
 

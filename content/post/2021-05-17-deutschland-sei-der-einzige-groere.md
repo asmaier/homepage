@@ -1,23 +1,20 @@
 ---
 title: '"Deutschland sei der einzige größere ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-05-17
-output: pdf_document
+lastmod: 2021-05-17T11:45:40+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-05-17T11:45:40+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Deutschland sei der einzige größere Markt in Europa, in dem die Nachfrage nach Elektroautos bei gewerblichen Fahrzeugen geringer ist als bei Privatfahrzeugen. In allen anderen großen europäischen Märkten sind Firmenwagen Vorreiter bei der Umstellung auf Elektromobilität."
 
@@ -31,4 +28,5 @@ Dem ist nichts hinzuzufügen.
 > ## [Studie: CO₂ aus Neuwagen stammt zu 76 Prozent aus Firmenwagen](https://www.heise.de/news/Studie-CO-aus-Neuwagen-stammt-zu-76-Prozent-aus-Firmenwagen-6047046.html)
 >
 >Bisher sei die Subventionspolitik für Autos widersprüchlich, meint die Umweltschutzorganisation T&E. Sie stellt ein paar Forderungen auf.
+
 

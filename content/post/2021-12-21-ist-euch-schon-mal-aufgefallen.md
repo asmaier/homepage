@@ -1,23 +1,20 @@
 ---
 title: 'Ist euch schon mal aufgefallen, ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-12-21
-output: pdf_document
+lastmod: 2021-12-21T18:12:17+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-12-21T18:12:17+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ist euch schon mal aufgefallen, das viele Medien in Europa eigentlich immer nur amerikanische IT Produkte bewerben, vergleichen und kommentieren? Offenbar sind die US Firmen viel besser im Marketing als europäische Firmen und geben viel mehr Geld für Werbung aus.  
 
@@ -27,4 +24,5 @@ Dabei gibt es viele gleichwertige und vom Datenschutz gesehen sogar bessere Alte
 > ## [Home | European alternatives](https://european-alternatives.eu/)
 >
 >Helping you find european alternatives for digital service and products, like cloud services and SaaS products.
+
 

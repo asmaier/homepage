@@ -1,23 +1,20 @@
 ---
 title: 'Hier mal ein Vorschlag zur ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-04-23
-output: pdf_document
+lastmod: 2021-04-23T17:09:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-04-23T17:09:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Hier mal ein Vorschlag zur Lösung des Ukraine-Konflikts:
 Es gibt ja Länder wie z.B. Österreich, Schweden, Finnland) die seit dem zweiten Weltkrieg neutral sind (also nicht Mitglied der Nato. Dies ist (zumindest im Falle Österreichs) sogar in der Verfassung festgeschrieben. 
@@ -27,4 +24,5 @@ Nun könnte es doch ein Vorschlag sein, dass die Ukraine und auch Weißrussland 
 Eine derartige Neutralität könnte für diese Länder auch viele Vorteile bringen. Österreich ist nicht umsonst Sitz vieler internationaler Institutionen, denn ein neutraler Boden ist in einer polarisierten Welt viel wert. Zudem könnten diese Länder wie Österreich ja auch, trotzdem Mitglied in der EU werden (falls sie das wollen). Nur ein militärisches Bündnis wäre ausgeschlossen. 
 
 Wäre das nicht ein erwägenswerter Vorschlag? Oder übersehe ich etwas?
+
 

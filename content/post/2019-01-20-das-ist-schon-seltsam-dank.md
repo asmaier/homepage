@@ -1,23 +1,20 @@
 ---
 title: 'Das ist schon seltsam. Dank ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-01-20
-output: pdf_document
+lastmod: 2019-01-20T21:31:38+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-01-20T21:31:38+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das ist schon seltsam. Dank Strafzöllen von bis zu 80% für chinesische Hersteller erleben deutsche E-Bike Hersteller eine Renaissance.
 Gleichzeitig hebt die EU Strafzölle auf chinesische Solarprodukte auf (https://www.iwr.de/news.php?id=35456) und gibt damit den europäischen Herstellern den Todesstoß. 
@@ -33,4 +30,5 @@ https://www.handelsblatt.com/unternehmen/mittelstand/mittelstand-deutsche-radbau
 > ## [Mittelstand: Deutsche Radbauer erleben dank E-Bikes eine Renaissance](https://www.handelsblatt.com/unternehmen/mittelstand/mittelstand-deutsche-radbauer-erleben-dank-e-bikes-eine-renaissance/23879306.html)
 >
 >200 Jahre nach der Erfindung des Fahrrads in Deutschland wird die Produktion hierzulande wieder lukrativ. Möglich macht es der Boom bei E-Bikes.
+
 

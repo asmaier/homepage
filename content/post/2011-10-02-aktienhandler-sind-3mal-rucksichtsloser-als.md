@@ -1,23 +1,20 @@
 ---
 title: 'Aktienhändler sind 3mal rücksichtsloser als ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2011-10-02
-output: pdf_document
+lastmod: 2011-10-02T23:27:51+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2011-10-02T23:27:51+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Aktienhändler sind 3mal rücksichtsloser als diagnostizierte Psychopaten! Das ist in der Tat beunruhigend!
 > nzz.ch
@@ -25,4 +22,5 @@ Aktienhändler sind 3mal rücksichtsloser als diagnostizierte Psychopaten! Das i
 >
 >Leider ist die gewünschte Seite unter dieser Adresse nicht auffindbar.
           Bitte versuchen Sie, sie über unsere Suchfunktion zu finden.
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"Die WHO empfiehlt für Straßenlärm ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-22
-output: pdf_document
+lastmod: 2019-02-22T23:36:31+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-22T23:36:31+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die WHO empfiehlt für Straßenlärm eine Grenze von 53 Dezibel am Tag und 45 in der Nacht."
 
@@ -27,4 +24,5 @@ Sollte das in Deutschland vor Gericht Bestand haben, kann Berlin schon mal dicht
 > ## [Runter mit den Lärm: Experten fordern striktere Regeln](https://www.heise.de/newsticker/meldung/Runter-mit-den-Laerm-Experten-fordern-striktere-Regeln-4316689.html)
 >
 >Die WHO empfiehlt deutlich geringere Grenzwerte für Verkehrslärm als sie bislang in in Deutschland gelten. Fachleute fordern Nachbesserungen.
+
 

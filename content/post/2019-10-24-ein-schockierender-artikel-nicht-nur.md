@@ -1,23 +1,20 @@
 ---
 title: 'Ein schockierender Artikel nicht nur ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-24
-output: pdf_document
+lastmod: 2019-10-24T23:34:43+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-24T23:34:43+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ein schockierender Artikel nicht nur wegen der Länge:
 
@@ -33,4 +30,5 @@ Ein schockierender Artikel nicht nur wegen der Länge:
 > ## [Clockwork Mandarin](https://www.dekoder.org/de/article/uiguren-kasachen-china-xinjiang)
 >
 >Totale Überwachung, grassierende Folter und Umerziehungslager, in denen mehr als eine Million Uiguren und Kasachen interniert sind: Das nordwestchinesische Gebiet Xinjiang ist ein „Gefängnis unter freiem Himmel“, sagt der russische Journalist Schura Burtin. Für Russki Reporter fragt er, weshalb Kasachstan und andere Länder zu der entsetzlichen Tragödie von Xinjiang schweigen – die nun auch durch die China Cables, geleakte Geheimdokumente, belegt ist. Ein Longread. / Quelle: Russki Reporter
+
 

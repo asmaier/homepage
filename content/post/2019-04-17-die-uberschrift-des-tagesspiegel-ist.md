@@ -1,23 +1,20 @@
 ---
 title: 'Die Überschrift des Tagesspiegel ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-04-17
-output: pdf_document
+lastmod: 2019-04-17T13:07:22+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-04-17T13:07:22+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Überschrift des Tagesspiegel ist viel zu optimistich. Berlin ist auf Platz 12 von 14 Städten beim https://de.wikipedia.org/wiki/Fahrradklimatest . Für die rot-rot-grüne Regierung ist das ein absolutes Armutszeugnis. 
 
@@ -33,4 +30,5 @@ Berlin kann einfach nicht bauen! Weder Flughäfen, noch Radwege, noch Wohnungen.
 > ## [Berlin ist "Aufholer" bei der Fahrradfreundlichkeit](https://www.tagesspiegel.de/berlin/von-richtig-schlecht-zu-schlecht-berlin-ist-aufholer-bei-der-fahrradfreundlichkeit/24198744.html)
 >
 >Der Fahrradklimatest 2018 des ADFC zeigt: Der Radfahrer-Frust in Deutschland wächst. Berlin liegt im Städteranking noch immer weit hinten, verbessert sich aber.
+
 

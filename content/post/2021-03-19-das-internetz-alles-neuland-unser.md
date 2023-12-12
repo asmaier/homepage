@@ -1,23 +1,20 @@
 ---
 title: 'Das Internetz, alles Neuland. Unser ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-03-19
-output: pdf_document
+lastmod: 2021-03-19T10:02:49+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-03-19T10:02:49+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das Internetz, alles Neuland. Unser Staat und unsere Behörden sind offenbar IT-Analphabeten: Über 130 000 Schnelltest-Ergebnisse ungeschützt im Netz!
 
@@ -50,4 +47,5 @@ Am Testzentrum angekommen wunderten wir uns, dass wir sehr energisch auf die Onl
 Wir standen doch schon am Eingang!
 Aufgrund der Menge persönlicher Daten, die in der WebApp abgefragt wurden, hätten wir eine Online-Erfassung eigentlich gern vermieden.
 Nach dem Test freuten wir uns nicht nur über das negative Ergebnis – sondern guckten dabei, wie üblich, auch kurz mit auf den Datenverkehr. Bei einigen URLs hatten wir schon im ersten Moment ein mulmiges Gefühl. Das mulmige Gefühl würde in den nächsten Minuten blankem Entsetzen weichen.
+
 

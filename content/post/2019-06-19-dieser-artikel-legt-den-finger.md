@@ -1,23 +1,20 @@
 ---
 title: 'Dieser Artikel legt den Finger ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-06-19
-output: pdf_document
+lastmod: 2019-06-19T13:28:32+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-06-19T13:28:32+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Dieser Artikel legt den Finger in die Wunde der deutschen Industrie. Sehr gut beobachtet:
 
@@ -31,4 +28,5 @@ Und das allerschlimmste ist, dass große IT-Projekte oft von Leuten geleitet wer
 > ## [Meta-Digitalisierung – das große Zerreden ohne Tun](https://www.heise.de/select/ix/2019/13/1909112113991017112)
 >
 >Deutschland tut sich schwer mit der Digitalisierung. Dabei weiß man doch eigentlich schon seit Langem, was zu tun ist, meint der Mathematikprofessor und frühere IBM-CTO Gunter Dueck.
+
 

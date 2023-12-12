@@ -1,23 +1,20 @@
 ---
 title: 'Sensationelle Idee! Statt rumzujammern, dass ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-06-25
-output: pdf_document
+lastmod: 2015-06-25T18:24:11+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-06-25T18:24:11+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Sensationelle Idee! Statt rumzujammern, dass ein Grundeinkommen für alle nicht finanzierbar ist, einfach mal sammeln und das eingenommene Geld verlosen. Dann sieht man ja, was passiert. Wer auch ausgelost werden möchte kann sich einfach anmelden (und vielleicht etwas spenden).
 > [![](https://www.mein-grundeinkommen.de/assets/frontpage-screenshot-9fdf46e4dd17e8a7e9f1effce30ff517dbb73d27e5bbd7af3779df0fed89ba27.png)](https://www.mein-grundeinkommen.de/start)
@@ -26,5 +23,6 @@ Sensationelle Idee! Statt rumzujammern, dass ein Grundeinkommen für alle nicht 
 >
 >
 Wir wollen wissen, was Grundeinkommen mit Menschen macht. Darum probieren wir es einfach aus und sammeln per Crowdfunding Geld. Immer wenn 12.000 Euro zusammenkommen, verlosen wir das Geld als Bedingungsloses Grundeinkommen: Ein Jahr lang monatlich 1.000 Euro. Ohne Bedingungen. Für alle.
+
 
 

@@ -1,23 +1,20 @@
 ---
 title: '"Ohne die sofortige Einführung von ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-10-21
-output: pdf_document
+lastmod: 2019-10-21T11:02:27+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-10-21T11:02:27+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Ohne die sofortige Einführung von Preismaßnahmen rücke das Ziel, zu dem sich die internationale Staatengemeinschaft in Paris verpflichtete, in unerreichbare Ferne, argumentiert der IWF. Das Übereinkommen sieht vor, dass die Erderwärmung auf maximal zwei Grad Celsius gegenüber vorindustriellen Werten begrenzt werden soll. Um dieses ambitionierte Ziel zu erreichen, müsste die Steuer aus Sicht der Organisation in den kommenden zehn Jahren auf 75 Dollar (nach jetzigem Kurs rund 67 Euro) steigen."
 
@@ -27,4 +24,5 @@ Wenn das selbst dem IWF klar geworden ist, der wirklich nicht für fortschrittli
 > ## [Warum wir ohne CO2-Steuer die Pariser Klimaziele verfehlen werden](https://www.derstandard.at/story/2000110020995/wieso-wir-ohne-eine-co2-steuer-die-pariser-klimaziele-verfehlen)
 >
 >Der Internationale Währungsfonds spricht sich für eine globale CO2-Abgabe aus. Bis 2030 soll sie auf 75 Dollar pro Tonne steigen
+
 

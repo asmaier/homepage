@@ -1,23 +1,20 @@
 ---
 title: 'Bei all der Panik sollte ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-13
-output: pdf_document
+lastmod: 2021-11-13T23:21:01+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-13T23:21:01+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Bei all der Panik sollte man bedenken, dass sich die Inzidenzen für Geimpfte und Ungeimpfte stark unterscheiden, und zwar bis um den Faktor 10. D.h. es gibt 10mal mehr Coronafälle unter Ungeimpften wie unter geimpften. Leider sammeln in Deutschland nicht alle Bundesländer Daten zum Impftstatus der Corona-Patienten, aber Österreich tut es und die Zahlen sind unten gut dargestellt:
 
@@ -37,4 +34,5 @@ Insgesamt haben wir es daher hauptsächlich mit einer Pandemie unter den Ungeimp
 > ## ["Es ist 5 nach 12" - RKI-Chef Wieler schlägt Pandemie-Alarm (12. November 2021)](https://youtu.be/3hcqpknENOI)
 >
 >Deutlicher wird's nicht.Hört's euch an.Schickt's euren Liebsten.#5nach12(RKI-Präsident Lothar Wieler in der Bundespressekonferenz vom 12. November 2021, Quel...
+
 

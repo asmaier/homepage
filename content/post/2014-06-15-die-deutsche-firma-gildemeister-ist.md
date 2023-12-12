@@ -1,23 +1,20 @@
 ---
 title: 'Die deutsche Firma Gildemeister ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-06-15
-output: pdf_document
+lastmod: 2014-06-15T22:29:43+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-06-15T22:29:43+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die deutsche Firma Gildemeister ist der Lösung des Stromspeicherproblems für erneuerbare Energien noch am Nächsten: http://energy.gildemeister.com/de/speichern/cellcube-fb-200  
 
@@ -26,4 +23,5 @@ Eine Batterie mit 200kW Leistung für 8h (1600kWh). Und das ganze kann man natü
 > ## [Attention Required! | Cloudflare](http://www.greentechmedia.com/articles/read/the-german-american-vanadium-flow-battery-connection)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

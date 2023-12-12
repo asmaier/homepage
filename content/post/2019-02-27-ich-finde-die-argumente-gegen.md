@@ -1,23 +1,20 @@
 ---
 title: 'Ich finde die Argumente gegen ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-27
-output: pdf_document
+lastmod: 2019-02-27T18:26:23+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-27T18:26:23+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich finde die Argumente gegen eine (Super-)Reichensteuer in Deutschland nicht überzeugend. Gerade in Deutschland ist die Vermögensungleichheit extrem: http://www.spiegel.de/wirtschaft/soziales/vermoegen-45-superreiche-besitzen-so-viel-wie-die-halbe-deutsche-bevoelkerung-a-1189111.html
 
@@ -29,4 +26,5 @@ Egal wie, klar ist, dass der Staat gegensteuern muß! Ansonsten wird es irgendwa
 > ## [Deutschland: Steuer für Superreiche könnte 18 Milliarden Euro bringen](http://www.spiegel.de/wirtschaft/soziales/deutschland-steuer-fuer-superreiche-koennte-18-milliarden-euro-bringen-a-1254964.html)
 >
 >In den USA wird sie heiß diskutiert: Eine Steuer auf Vermögen von mehr als 50 Millionen Dollar. In Deutschland könnte sie laut DIW mehr einbringen als der Soli. Doch es gibt einen Haken.
+
 

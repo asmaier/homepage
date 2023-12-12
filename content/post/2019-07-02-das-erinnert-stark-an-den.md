@@ -1,23 +1,20 @@
 ---
 title: 'Das erinnert stark an den ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-07-02
-output: pdf_document
+lastmod: 2019-07-02T11:35:45+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-07-02T11:35:45+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das erinnert stark an den https://de.wikipedia.org/wiki/Red_Flag_Act, der im 19ten Jahrhundert vorschrieb, dass vor jedem Auto jemand mit einer rote Flagge gehen muss. Damals wurde der Eisenbahn- und Kutschenlobby vorgeworfen, damit die Entwicklung von Autos blockieren zu wollen. 
 
@@ -29,4 +26,5 @@ Das das ganze stinkt, sieht man schon daran, dass es nicht für alle Fahrzeuge g
 > ## [Langsame Elektroautos müssen in der EU Geräusche machen](https://www.heise.de/newsticker/meldung/Langsame-Elektroautos-muessen-in-der-EU-Geraeusche-machen-4458749.html)
 >
 >Elektroautos sind bei langsamen Geschwindigkeiten kaum vernehmbar. Deshalb müssen nun neu zugelassene Typen Geräusche machen.
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Das die deutsche Bahn 2016 ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-11-10
-output: pdf_document
+lastmod: 2020-11-10T22:17:32+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-11-10T22:17:32+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das die deutsche Bahn 2016 alle Nachtzüge an die ÖBB verkauft hat, weil angeblich unrentabel dürfte eines der dümmsten Geschäfte diese Jahrhunderts gewesen sein. Nicht nur vom Aspekt des Klimaschutzes, nein, die ÖBB macht jetzt auch noch Gewinn damit. Noch dümmer daran ist aber, dass man jetzt wie im Video dargestellt, oft zwei Tickets kaufen muß:  eines für den Zubringerzug bei der DB und eines für den Nachtzug bei der ÖBB. Warum gibt es eigentlich für Züge nicht auch Ticketanbieter wie https://www.skyscanner.de/ oder  https://www.momondo.de/, wo man ohne Problem ein Ticket kaufen kann, selbst wenn man mehrfach umsteigen muß und dabei verschiedene Fluggesellschaften aus verschiedenen Ländern nutzt?   Es könnte sein, dass es inzwischen mit https://de.omio.com/ klappt, aber sicher bin  ich nicht.
 
@@ -27,4 +24,5 @@ Was ich aber sagen kann, ist, dass wir mit der Familie im Januar 2020 Skiurlaub 
 > ## [Das Ende des Flugzeugs](https://www.youtube.com/watch?v=jvgbDshdVMI)
 >
 >Enge, Terrorgefahr, Ohrenschmerzen, Klimakiller: Bei objektivem Blick spricht alles gegen das Flugzeug. Wir zeigen in diesem Video, wie man in Europa auf das...
+
 

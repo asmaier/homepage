@@ -1,23 +1,20 @@
 ---
 title: 'Das Ganze war übrigens das ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-05-10
-output: pdf_document
+lastmod: 2019-05-10T11:24:09+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-05-10T11:24:09+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das Ganze war übrigens das Ergebnis eines Bürgerentscheids: https://decriminalizedenver.org/ 
 
@@ -28,4 +25,5 @@ Aber vermutlich ist das allen Potheads und Pilzköpfen in Berlin einfach egal ;-
 > ## [Psilocybin-Pilze: Legalisierung von Magic Mushrooms in Denver](https://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/denver-psilocybin-pilze-magic-mushrooms-legalisierung-87253)
 >
 >Wende in der Drogenpolitik: Die US-Stadt Denver hat entschieden, Psilocybin-Pilze zu entkriminalisieren. Zu den Fürsprechern zählen Psychologen, die sich von den »Magic Mushrooms« ungewöhnliche Heileffekte versprechen.
+
 

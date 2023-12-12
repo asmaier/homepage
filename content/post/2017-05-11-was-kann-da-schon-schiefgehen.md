@@ -1,23 +1,20 @@
 ---
 title: 'Was kann da schon schiefgehen: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-05-11
-output: pdf_document
+lastmod: 2017-05-11T19:30:39+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-05-11T19:30:39+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Was kann da schon schiefgehen:
 
@@ -33,4 +30,5 @@ Skynet war schon vergeben :-/
 > ## [Beyond Video Games: New Artificial Intelligence Beats Tactical Experts in Combat Simulation](http://magazine.uc.edu/editors_picks/recent_features/alpha.html)
 >
 > 
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"dass durch die weltweit zunehmende ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-09-18
-output: pdf_document
+lastmod: 2021-09-18T21:14:34+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-09-18T21:14:34+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "dass durch die weltweit zunehmende Abkehr von fossilen Energieträgern Russlands Exporte einbrechen könnten, bis 2035 könnte sich dadurch ein riesiges Haushaltsloch auftun. Dann würden auch die Einkünfte der Menschen in Russland, so Gref, um fast 15 Prozent zurückgehen. 
 
@@ -29,4 +26,5 @@ Russland wird vermutlich das Land sein, welches am meisten unter der globalen En
 > ## [Europas Energiewende – Russlands Systemkrise?](https://www.dekoder.org/de/article/europa-energiewende-exporte-inosemzew)
 >
 >Wie die Krise in Russland näher und näher rückt – durch die Abkehr von fossilen Energieträgern in Westeuropa. Wirtschaftswissenschaftler Wladislaw Inosemzew warnt auf Znak.  / Quelle: Znak
+
 

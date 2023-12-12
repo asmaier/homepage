@@ -1,23 +1,20 @@
 ---
 title: '"Gaskraftwerke erzeugen im Vergleich zu ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-07-29
-output: pdf_document
+lastmod: 2018-07-29T12:26:13+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-07-29T12:26:13+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Gaskraftwerke erzeugen im Vergleich zu Braunkohle mindestens 70 Prozent weniger CO2 pro Kilowattstunde (kWh)"
 
@@ -31,4 +28,5 @@ Googelt mal welche Parteien Pro-Braunkohle und welche Contra-Braunkohle sind!
 > ## [Warum nutzt Deutschland seine Gaskraftwerke nicht? | DW | 22.12.2017](https://www.dw.com/de/warum-nutzt-deutschland-seine-gaskraftwerke-nicht-kohlekraft-strommarkt-klimaziele-co2-preis/a-41892504)
 >
 >In Deutschland gibt es reichlich Braunkohlestrom, daher wird viel ins Ausland exportiert. Klimaverträglichere Gaskraftwerke aber stehen still, und Deutschland gefährdet so seine Klimaziele. Was läuft schief? 
+
 

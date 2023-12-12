@@ -1,23 +1,20 @@
 ---
 title: 'Und deswegen funktionieren Ideen wie ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-12-10
-output: pdf_document
+lastmod: 2020-12-10T22:57:58+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-12-10T22:57:58+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Und deswegen funktionieren Ideen wie Atommüll einfach in den Weltall zu schießen einfach nicht: Das Zeug kommt nach einigen Jahrzehnten wieder zurück, wie das Beispiel dieser alten Raketenstufe zeigt: 
 
@@ -27,4 +24,5 @@ Und deswegen funktionieren Ideen wie Atommüll einfach in den Weltall zu schieß
 > ## [Erde hat bald einen zweiten Mond - Hinweise verdichten sich, worum es sich handelt](https://www.fr.de/wissen/erde-mini-mond-objekt-2020-so-forscher-raetseln-himmelskoerper-90063209.html)
 >
 >Die Erde wird Dank ihrer Schwerkraft im November einen Mini-Mond einfangen. Doch worum handelt es sich bei dem Objekt „2020 SO“ überhaupt? Forscher haben einen Verdacht.
+
 

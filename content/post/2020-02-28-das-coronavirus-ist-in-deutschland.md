@@ -1,23 +1,20 @@
 ---
 title: 'Das Coronavirus ist in Deutschland ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-02-28
-output: pdf_document
+lastmod: 2020-02-28T16:58:25+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-02-28T16:58:25+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das Coronavirus ist in Deutschland angekommen. Grund zur Panik? Nun, es kommt drauf an. 
 
@@ -31,4 +28,5 @@ Insofern braucht ihr euch nicht mehr Sorgen als üblich zu machen, es sei denn i
 > ## [The Case Fatality Ratio of the Novel Coronavirus (2019-nCoV)](https://blog.zorinaq.com/case-fatality-ratio-ncov/)
 >
 >Estimating the case fatality ratio (CFR) of the 2019 novel coronavirusis crucial to inform policy makers and help them make the best decisions.
+
 

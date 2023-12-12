@@ -1,23 +1,20 @@
 ---
 title: '"Die Nazis haben den § ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-08-27
-output: pdf_document
+lastmod: 2018-08-27T21:20:46+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-08-27T21:20:46+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Nazis haben den § zum "Amtsmissbrauch" 1943 ersatzlos gestrichen.... Deshalb ist das deutsche Volk Amtsmissbrauch durch die Behörden oder die Gerichte völlig schutzlos ausgeliefert. 
 
@@ -27,4 +24,5 @@ Dem ist nichts hinzuzufügen!
 > blog.fefe.de
 > ## [Fefes Blog](https://blog.fefe.de/?ts=a57adffaDie)
 >
+
 

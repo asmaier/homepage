@@ -1,23 +1,20 @@
 ---
 title: 'Die Welt schaut gerade mal ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-05-29
-output: pdf_document
+lastmod: 2020-05-29T23:30:36+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-05-29T23:30:36+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Die Welt schaut gerade mal wieder in die USA, wo ein Journalist aus versehen für eine Stunde von der Polizei verhaftet wurde. Schaut man dagegen mal in das nahe Europa tun sich ganz andere Abgründe auf:
 
@@ -33,4 +30,5 @@ https://www.reporter-ohne-grenzen.de/rangliste/rangliste-2020/
 > ## [Mordfall Kuciak: 13 Richter in Slowakei verhaftet](https://orf.at/stories/3157416/)
 >
 >Eine Spezialeinheit der slowakischen Polizei hat am Mittwoch 13 teils hochrangige Richter und mehrere andere Personen wegen Korruptionsverdachts festgenommen. Es geht um den Fall, der das Nachbarland seit Jahren erschüttert: den Mord am Investigativjournalisten Jan Kuciak und dessen Verlobter Martina Kusnirova und die Versuche, die Aufklärung zu behindern.
+
 

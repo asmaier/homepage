@@ -1,23 +1,20 @@
 ---
 title: 'Ich denke ich habe den ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-06-26
-output: pdf_document
+lastmod: 2016-06-26T15:32:34+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-06-26T15:32:34+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich denke ich habe den Link schon einmal geteilt, aber jetzt haben sie auch noch den Grimme-Online-Award gewonnen:
 
@@ -35,4 +32,5 @@ http://www.dekoder.org/de/article/wie-russland-lernte-die-bombe-zu-lieben
 > ## [дekoder | DEKODER | Journalismus aus Russland in deutscher Übersetzung |](http://www.dekoder.org/)
 >
 >dekoder bietet Medien und Kompetenz zum Thema Russland. Wir bringen russischen Journalismus und wissenschaftliche Kompetenz aus europäischen Universitäten auf eine gemeinsame Plattform.
+
 

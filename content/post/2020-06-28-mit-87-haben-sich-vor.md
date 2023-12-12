@@ -1,23 +1,20 @@
 ---
 title: 'Mit 87% haben sich vor ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-06-28
-output: pdf_document
+lastmod: 2020-06-28T22:57:58+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-06-28T22:57:58+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Mit 87% haben sich vor 100 Jahren die Coburger für Bayern und gegen Thüringen entschieden. Und dem Internet sei dank, kann man den Staatsvertrag dazu einfach online ansehen: https://www.historisches-lexikon-bayerns.de/images/a/ab/Artikel_44331_bilder_value_1_vereinigung-coburgs-mit-b.pdf
 
@@ -31,4 +28,5 @@ P.S.: Mehr Infos gibt es hier: https://www.historisches-lexikon-bayerns.de/Lexik
 > ## [BR24](https://www.br.de/nachrichten/bayern/als-die-coburger-bayern-wurden,S36VM44)
 >
 >BR24 - Immer auf dem Laufenden
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Der Wikipedia-Artikel des Tages: "BlackRock ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-11-30
-output: pdf_document
+lastmod: 2018-11-30T22:27:33+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-11-30T22:27:33+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Der Wikipedia-Artikel des Tages:
 
@@ -30,4 +27,5 @@ Und noch etwas: ehemaliger Chef von BlackRock Deutschland war der selbsternannte
 > de.wikipedia.org
 > ## [Aladdin (BlackRock) – Wikipedia](https://de.wikipedia.org/wiki/Aladdin_(BlackRock))
 >
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Das ist nur die Spitze ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-02-02
-output: pdf_document
+lastmod: 2019-02-02T21:47:31+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-02-02T21:47:31+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das ist nur die Spitze des Berliner Immobilieneisbergs. Was hier derzeit abgeht, sieht man daran dass selbst amerikanische Milliardäre in Berlin investieren, weil die Preise und damit die mögliche Rendite hier schneller steigen als in China:
 
@@ -31,4 +28,5 @@ Als Familie bleibt eigentlich nur nach Brandenburg zu ziehen, aber nicht nach Po
 > ## [Dubiose Firmenspenden aus den Niederlanden bringen CDU in Erklärungsnot | abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/blog/2019-01-26/cdu-parteispenden-niederlande)
 >
 >Warum spendet eine niederländische Firma der CDU mehrere zehntausend Euro? Ihr Geschäftsführer erzählt am Telefon, man müsse bestimmte Leute unterstützen, um Türen aufzuhalten – die Gelder seien an die Berliner CDU im Bezirk Lichtenberg gegangen. Genau dort will der Spender nach Recherchen von abgeordnetenwatch.de und SPIEGEL über zwischengeschaltete Firmen Tausende Wohnungen und Büros bauen. Politische Schützenhilfe bekommt er: von der CDU.
+
 

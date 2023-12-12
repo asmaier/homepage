@@ -1,23 +1,20 @@
 ---
 title: 'Page not found – Rolf ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-07-09
-output: pdf_document
+lastmod: 2014-07-09T21:43:54+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-07-09T21:43:54+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 http://www.dobelli.com/no-news?lang=de
 > dobelli.com
@@ -26,4 +23,5 @@ http://www.dobelli.com/no-news?lang=de
 >
     Rolf Dobelli
     
+
 

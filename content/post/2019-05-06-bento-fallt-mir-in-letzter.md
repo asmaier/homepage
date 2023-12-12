@@ -1,23 +1,20 @@
 ---
 title: 'Bento fällt mir in letzter ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-05-06
-output: pdf_document
+lastmod: 2019-05-06T10:46:11+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-05-06T10:46:11+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Bento fällt mir in letzter Zeit positiv durch einige sozialrevolutionäre Ideen auf. Weiter so. 
 
@@ -27,4 +24,5 @@ Wobei ich eigentlich der Meinung bin, dass man jedes Erbe unter der Bevölkerung
 > ## [Enteignung? Warum 100 Prozent Erbschaftsteuer besser wären (Meinung)](https://www.bento.de/politik/enteignung-warum-100-prozent-erbschaftssteuer-besser-waeren-meinung-a-1fcb190a-d6d6-4622-8c6c-721b8848c361)
 >
 >Und warum Chancengleichheit nicht nur ein sozialer, sondern auch ein zutiefst liberaler Gedanke ist.
+
 

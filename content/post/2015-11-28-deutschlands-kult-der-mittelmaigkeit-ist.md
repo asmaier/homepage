@@ -1,23 +1,20 @@
 ---
 title: 'Deutschlands Kult der Mittelmäßigkeit ist ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2015-11-28
-output: pdf_document
+lastmod: 2015-11-28T22:54:19+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2015-11-28T22:54:19+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Deutschlands Kult der Mittelmäßigkeit ist dem asiatischen Intelligenzkult ebenso in keinem Fall gewachsen. 
 
@@ -29,4 +26,5 @@ Während bei uns Brain Drain herrscht, wird in Asien Brain Gain zelebriert!
 > ## [America's Cult of Ignorance Is No Match for Asia's Cult of Intelligence](http://www.huffingtonpost.com/john-w-traphagan/america-ignorance-asia-intelligence_b_5505032.html)
 >
 >"There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge." This cult of ignorance is the most serious national security issue facing the U.S. today.
+
 

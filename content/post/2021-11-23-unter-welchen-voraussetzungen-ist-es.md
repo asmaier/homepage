@@ -1,23 +1,20 @@
 ---
 title: '"Unter welchen Voraussetzungen ist es ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2021-11-23
-output: pdf_document
+lastmod: 2021-11-23T22:31:46+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2021-11-23T22:31:46+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Unter welchen Voraussetzungen ist es ethisch geboten, Verantwortung zu übernehmen und der Errichtung eines Endlagers im Raum Coburg zuzustimmen?"
 
@@ -29,4 +26,5 @@ P.S.: Was sind das eigentlich für Lappen in der EU, die im Jahr 2021 noch Pro-A
 > ## [Diskussion: Coburg als atomares Endlager? - Neue Presse Coburg](https://www.np-coburg.de/inhalt.diskussion-coburg-als-atomares-endlager.75ea3342-690b-4cc5-af4e-dcac9aa28821.html)
 >
 > Deutschland sucht ein sicheres Lager für Atommüll. Auch Coburg kommt als Standort in Frage. Dazu hat die Hochschule Coburg für Dienstag, 30. November, online einen Informations- und Diskussionsabend organisiert. 
+
 

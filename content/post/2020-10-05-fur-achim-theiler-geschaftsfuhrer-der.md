@@ -1,23 +1,20 @@
 ---
 title: '"Für Achim Theiler, Geschäftsführer der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-10-05
-output: pdf_document
+lastmod: 2020-10-05T10:17:33+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-10-05T10:17:33+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Für Achim Theiler, Geschäftsführer der Franz Mensch GmbH und Händler für medizinische Schutzausrüstung, ist das unverständlich: "Das größte Problem bei der gesamten Sache ist für mich, dass es keinerlei 'Penalties' gegeben hat, das heißt keinerlei Repressalien, wenn derjenige nicht anliefert. Also konnte man anbieten, ohne dass man irgendwo ein Risiko eingegangen ist. Und das ist ein großes Problem. Weil ich erwarte, wenn ich eine Leistung anbiete, dass ich die auch einzuhalten habe.""
 
@@ -31,4 +28,5 @@ Geiz ist geil! denkt sich unsere Regierung wenn es um die Gesundheit geht. Aber 
 > ## [Die gesuchte Seite wurde leider nicht gefunden (Fehlernummer 404)  | DasErste.de](https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/swr/masken-ausschreibungen-100.html)
 >
 >Die gesuchte Seite wurde leider nicht gefunden (Fehlernummer 404)
+
 

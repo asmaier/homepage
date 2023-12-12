@@ -1,23 +1,20 @@
 ---
 title: 'Ich empfehle jedem die offizielle ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2016-02-13
-output: pdf_document
+lastmod: 2016-02-13T18:20:45+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2016-02-13T18:20:45+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich empfehle jedem die offizielle Video zur Entdeckung von Gravitationswellen zu schauen : 
 
@@ -33,4 +30,5 @@ Und dann solltet ihr darüber nachdenken, dass all das bereits vor 100 Jahren vo
 > ## [LIGO detects gravitational waves -- announcement at press conference  (part 1)](https://www.youtube.com/watch?v=aEPIwEJmZyE&t=4m01s)
 >
 >Press conference announcing the first direct detection of gravitational waves -- February 11, 2016
+
 

@@ -1,23 +1,20 @@
 ---
 title: 'Gerade ist ja mal wieder ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-30
-output: pdf_document
+lastmod: 2019-09-30T22:25:51+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-30T22:25:51+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Gerade ist ja mal wieder Leichtathletik-WM und passend dazu habe ich einen alten Physik-Artikel von 1978 gefunden:
 
@@ -31,4 +28,5 @@ Das ist ein interessantes Thema, das kaum diskutiert wird. Die Meßgenauigkeit d
 > ## [Attention Required! | Cloudflare](https://onlinelibrary.wiley.com/doi/epdf/10.1002/phbl.19780340504)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

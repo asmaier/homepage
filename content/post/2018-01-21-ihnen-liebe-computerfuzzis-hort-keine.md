@@ -1,23 +1,20 @@
 ---
 title: '"Ihnen, liebe Computerfuzzis, hört keine ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2018-01-21
-output: pdf_document
+lastmod: 2018-01-21T21:49:23+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2018-01-21T21:49:23+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Ihnen, liebe Computerfuzzis, hört keine Sau zu!"
 
@@ -27,4 +24,5 @@ Ein starker Kommentar in der ct . Aber so ist das halt in einem Land mit einem M
 > ## [Maas-Regelung](https://www.heise.de/ct/ausgabe/2018-3-Heftige-Kritik-am-neuen-NetzDG-3942261.html)
 >
 >Seit dem 1. Januar müssen soziale Netzwerke gemeldete Inhalte umgehend prüfen und gegebenenfalls sperren. Sofort wurde deutlich, dass „Overblocking“ zum Problem werden könnte.
+
 

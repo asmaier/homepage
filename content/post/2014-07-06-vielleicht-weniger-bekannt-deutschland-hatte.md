@@ -1,23 +1,20 @@
 ---
 title: 'Vielleicht weniger bekannt: Deutschland hatte ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-07-06
-output: pdf_document
+lastmod: 2014-07-06T21:49:06+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-07-06T21:49:06+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Vielleicht weniger bekannt: Deutschland hatte die Krim auch schon einmal annektiert und zwar 1918! Hier ein Ausschnitt aus der Wikipedia:
 
@@ -28,4 +25,5 @@ http://de.wikipedia.org/wiki/Ostfront_(Erster_Weltkrieg)#Kriegsjahr_1918
 > de.wikipedia.org
 > ## [Ostfront (Erster Weltkrieg) – Wikipedia](http://de.wikipedia.org/wiki/Ostfront_(Erster_Weltkrieg)#Kriegsjahr_1918)
 >
+
 

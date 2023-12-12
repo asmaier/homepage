@@ -1,23 +1,20 @@
 ---
 title: '"Die Verhandlungen über Visa-Erleichterungen würden ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-03-06
-output: pdf_document
+lastmod: 2014-03-06T19:18:20+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-03-06T19:18:20+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "Die Verhandlungen über Visa-Erleichterungen würden ausgesetzt,"
 
@@ -29,4 +26,5 @@ Frag sich, wann jetzt Russland zu "leichten Sanktionen" übergeht. Man sollte da
 > ## [EU verhängt leichte Sanktionen gegen Russland](http://www.spiegel.de/politik/ausland/eu-verhaengt-leichte-sanktionen-gegen-russland-a-957354.html)
 >
 >Die Staats- und Regierungschefs der EU haben sich auf kleine Sanktionen gegen Russland verständigt: Gespräche über visafreie Reisen und die Vorbereitung auf den G8-Gipfel in Sotschi werden ausgesetzt. Kanzlerin Merkel kündigte weitere mögliche Maßnahmen an.
+
 

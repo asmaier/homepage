@@ -1,23 +1,20 @@
 ---
 title: 'Heute wurde die größte Grundgesetzänderung ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-06-01
-output: pdf_document
+lastmod: 2017-06-01T23:22:00+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-06-01T23:22:00+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Heute wurde die größte Grundgesetzänderung seit 10 Jahren beschlossen. Habt ihr davon gehört? Dieser Artikel gibt einen Überblick. 
 
@@ -27,4 +24,5 @@ P.S.: Warum wird jetzt explizit im Grundgesetz erwähnt, dass sich der Bund zur 
 > ## [Hintergrund: Eckpunkte des Bund-Länder-Finanzpakts](https://www.rnz.de/politik/politik-inland_artikel,-Politik-Inland-mehr-Hintergrund-Eckpunkte-des-Bund-Laender-Finanzpakts-_arid,279492.html)
 >
 >Berlin (dpa) - Bund und Länder haben sich auf eine Neuordnung ihrer Finanzbeziehungen verständigt. Nach Verabschiedung der dafür nötigen Änderungen ...
+
 

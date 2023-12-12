@@ -1,23 +1,20 @@
 ---
 title: 'Es gibt ja einige die ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-05
-output: pdf_document
+lastmod: 2020-04-05T20:29:30+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-05T20:29:30+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es gibt ja einige die meinen die Maßnahmen der deutschen Regierung gegen das Coronavirus seien übertrieben. Das man es aber wesentlich schlimmer machen kann, sieht man leider mal wieder an Russland: 
 
@@ -37,4 +34,5 @@ https://www.derstandard.de/story/2000116464378/putin-schickt-russen-wegen-corona
 > ## [Putin schickt Russen wegen Coronavirus bis Ende April in Zwangsurlaub](https://www.derstandard.de/story/2000116464378/putin-schickt-russen-wegen-coronavirus-bis-ende-april-in-zwangsurlaub)
 >
 >Mit aller Macht versucht der Kreml die Epidemie einzudämmen. Der von Wladimir Putin verordnete Zwangsurlaub kommt die Wirtschaft aber teuer zu stehen
+
 

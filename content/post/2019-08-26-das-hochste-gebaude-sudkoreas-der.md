@@ -1,23 +1,20 @@
 ---
 title: 'Das höchste Gebäude Südkoreas, der ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-08-26
-output: pdf_document
+lastmod: 2019-08-26T17:45:08+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-08-26T17:45:08+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Das höchste Gebäude Südkoreas, der Lotte World Tower, gehört dem südkoreanischen Lotte-Konzern. 
 
@@ -28,5 +25,6 @@ Warum nur hat mir mein Deutschlehrer dieses wichtige Wissen vorenthalten?
 > ## [Lotte (Unternehmen) – Wikipedia](https://de.wikipedia.org/wiki/Lotte_(Unternehmen)#Name)
 >
 >
+
 
 

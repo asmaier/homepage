@@ -1,23 +1,20 @@
 ---
 title: 'Es gehen ja im Moment ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-04-20
-output: pdf_document
+lastmod: 2020-04-20T23:15:27+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-04-20T23:15:27+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Es gehen ja im Moment die verrücktesten Gerüchte um, woher das Corona-Virus denn wirklich stammen könnte. Denn irgendwie scheint es selbst für chinesische Verhältnisse unwahrscheinlich, dass ausgerechnet auf einem Fischmarkt Fledermäuse angeboten werden, die dann zum Auslöser für die Corona-Pandemie geworden sein sollen (https://www.t-online.de/nachrichten/panorama/id_87347722/coronavirus-forscher-verdaechtigt-fledermaus-labor-neben-wuhan-fischmarkt.html).
 
@@ -31,4 +28,5 @@ Klingt das nicht ein bisschen so, als würde sich hier Geschichte wiederholen?
 > de.wikipedia.org
 > ## [Milzbrand-Unfall in Swerdlowsk – Wikipedia](https://de.wikipedia.org/wiki/Milzbrand-Unfall_in_Swerdlowsk)
 >
+
 

@@ -1,23 +1,20 @@
 ---
 title: '"German car executives believe they ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2017-10-28
-output: pdf_document
+lastmod: 2017-10-28T22:24:19+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2017-10-28T22:24:19+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 "German car executives believe they can afford to watch Tesla “experiment” with Autopilot before entering the self-driving race once their own technology is ready. I disagree."
 
@@ -26,4 +23,5 @@ Lest diesen Artikel. Er fasst die Entwicklung und den Stand der Technik im Berei
 > ## [Attention Required! | Cloudflare](https://medium.com/twentybn/germany-asleep-at-the-wheel-d800445d6da2)
 >
 >This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
 

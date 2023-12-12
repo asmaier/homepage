@@ -1,23 +1,20 @@
 ---
 title: 'Audi - Vorsprung durch Betrug ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-03-13
-output: pdf_document
+lastmod: 2019-03-13T13:44:21+01:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-03-13T13:44:21+01:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Audi - Vorsprung durch Betrug
 
@@ -29,4 +26,5 @@ Im Übrigen weiss ich aus erster Hand, dass Bosch-Siemens Haushaltsgeräte erst 
 > ## [DieselSkandal](https://www.tagesschau.de/wirtschaft/audi-dieselskandal-103.html)
 >
 >DieselSkandal
+
 

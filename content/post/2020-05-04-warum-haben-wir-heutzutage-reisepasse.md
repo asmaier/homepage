@@ -1,23 +1,20 @@
 ---
 title: 'Warum haben wir heutzutage Reisepässe? ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-05-04
-output: pdf_document
+lastmod: 2020-05-04T15:20:57+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-05-04T15:20:57+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Warum haben wir heutzutage Reisepässe? Antwort: https://de.wikipedia.org/wiki/Pestbrief
 
@@ -28,4 +25,5 @@ Passend dazu ein Buchtipp: https://www.perlentaucher.de/buch/setfan-winkle/geiss
 > ## [Setfan Winkle: Geißeln der Menschheit. Kulturgeschichte der Seuchen](https://www.perlentaucher.de/buch/setfan-winkle/geisseln-der-menschheit.html#reviews)
 >
 > Pest und Pocken, Aussatz und Tuberkulose, Syphilis und Aids - immer wieder wird die Menschheit von furchtbaren Seuchen heimgesucht. Der große Medizinhistoriker Stefan Winkle...
+
 

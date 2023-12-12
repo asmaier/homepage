@@ -1,23 +1,20 @@
 ---
 title: 'Für alle die noch skeptisch ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2019-09-25
-output: pdf_document
+lastmod: 2019-09-25T19:56:25+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2019-09-25T19:56:25+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Für alle die noch skeptisch sind, hier ein Zitat aus einem Report des (eher industriefreundlichen) Fraunhoferinstituts:
 
@@ -31,4 +28,5 @@ Dieser Report ist gut gemacht und beantwortet wirklich alle Fragen, die man zum 
 > ## [Aktuelle Fakten zur Photovoltaik in Deutschland -  Fraunhofer ISE](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/aktuelle-fakten-zur-photovoltaik-in-deutschland.html)
 >
 >Photovoltaik wird in unserer nachhaltigen Energiezukunft eine bedeutende Rolle spielen. Die vorliegende Zusammenstellung aktuellster Fakten, Zahlen und Erkenntnisse soll eine gesamtheitliche Bewertung des Photovoltaik-Ausbaus in Deutschland unterstützen.
+
 

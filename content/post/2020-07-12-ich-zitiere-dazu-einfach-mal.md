@@ -1,23 +1,20 @@
 ---
 title: 'Ich zitiere dazu einfach mal ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2020-07-12
-output: pdf_document
+lastmod: 2020-07-12T15:02:04+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2020-07-12T15:02:04+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Ich zitiere dazu einfach mal einen köstlichen Kommentar aus dem Heise-Forum: 
 
@@ -31,4 +28,5 @@ Mögliche Ergebnisse der Beratungen werden aber nicht vor Anfang 2053 erwartet."
 > ## [Deutsche Bahn in der Corona-Krise so pünktlich wie lange nicht](https://www.heise.de/news/Deutsche-Bahn-in-der-Corona-Krise-so-puenktlich-wie-lange-nicht-4841738.html)
 >
 >Die Corona-Krise bereitet der Deutschen Bahn viele Probleme. Doch die nach wie vor geringe Auslastung der Züge führt auch zu größerer Pünktlichkeit.
+
 

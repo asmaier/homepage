@@ -1,23 +1,20 @@
 ---
 title: 'Interessante Ideen hat der Mann: ...'
-author: admin
+subtitle: ''
+summary: ''
+authors: ["admin"]
 date: 2014-04-01
-output: pdf_document
+lastmod: 2014-04-01T14:05:14+02:00
 categories: []
 tags:
 - facebook
 - german
-subtitle: ''
-summary: ''
-authors: []
-lastmod: 2014-04-01T14:05:14+02:00
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
-slug: []
+slug: ''
 ---
 Interessante Ideen hat der Mann:
 
@@ -29,4 +26,5 @@ Zudem fordern die Demonstranten, dass Edward Snowden, der letzte westliche Selbs
 > ## [Diffamiert als "Russlandversteher"](http://www.sueddeutsche.de/politik/krim-krise-diffamiert-als-russlandversteher-1.1925559-3)
 >
 >Wie kann der Versuch falsch sein, auch auf Russlands Motive in der Krim-Krise zu schauen? Die Selbstgefälligkeit des Westens ist gefährlich.
+
 

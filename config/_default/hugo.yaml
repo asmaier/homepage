@@ -21,7 +21,7 @@ removePathAccents: true
 publishDir: docs
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 10000
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -32,7 +32,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: true
+disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]

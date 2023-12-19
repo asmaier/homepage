@@ -1,0 +1,12 @@
+module:
+  mounts:
+    - source: 'content'
+      target: 'content'
+      excludeFiles: 'post/**/[!_]*.*md'
+    - source: 'prebuild/public/content'
+      target: 'content'
+
+params:
+  render_hooks:
+    link:
+      errorLevel: 'info'

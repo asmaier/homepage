@@ -6,6 +6,7 @@ from markdown_it import MarkdownIt
 from mdit_plain.renderer import RendererPlain
 
 from keybert import KeyBERT
+from keyphrase_vectorizers import KeyphraseCountVectorizer
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add keywords to blog posts")
@@ -23,12 +24,14 @@ if __name__ == "__main__":
     markdown_parser = MarkdownIt(renderer_cls=RendererPlain)
 
     kw_model = KeyBERT()
+    # see https://maartengr.github.io/KeyBERT/guides/countvectorizer.html#usage
+    vectorizer = KeyphraseCountVectorizer(spacy_pipeline='de_core_news_sm', pos_pattern='<N.*>')
     for path in file_paths:
         with path.open() as f:
             metadata, content = frontmatter.parse(f.read())
             txt_data = markdown_parser.render(content)
 
-            keywords = kw_model.extract_keywords(txt_data)
+            keywords = kw_model.extract_keywords(txt_data, vectorizer=vectorizer)
             print(metadata["date"], metadata["title"], keywords)
 
 

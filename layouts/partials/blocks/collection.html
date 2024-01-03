@@ -79,21 +79,12 @@
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
+
   {{ range $query.GroupByDate "2006" -}}
-  <ol>
-  <details closed>
-    <summary class="h4">{{ .Key }}</summary>
-    {{ range .Pages.GroupByDate "Jan" -}}
-    <ol>
-    <details closed>
-      <summary class="h5">{{ .Key }}</summary>
+  <h3>{{ .Key }}</h3>
   {{ range $index, $item := .Pages }}
     {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "compact") "index" $index) }}
   {{end}}
-</details>
-</ol>
-{{end}}
-</details>
   </ol>
   {{end}}
 

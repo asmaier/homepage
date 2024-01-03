@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section id="posts" class="home-section wg-collection  ">
+<div class="container"> 
+<div class="row  ">
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+  <h1 class="mb-0">{{ .Title }}</h1>
+</div>
+
+  {{ .Content }}
+
+  {{ $p := slice }}
+  {{ range where site.RegularPages "Section" .Params.section }}
+    {{ if eq ($.Date.Format "2006") (.Date.Format "2006") }}
+      {{ $p = $p | append . }}
+    {{ end }}
+  {{ end }}
+
+  <div class="col-12 col-lg-8">
+  {{ range (.Paginate $p).Pages }}
+  <div class="view-list view-list-item">
+    <span class="date">{{ .Date.Format ("Jan 02") }}</span>   {{/* Added by myself */}}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </div>  
+  {{ end }}
+</div>
+</div>
+</div>
+</section>
+
+  {{ template "_internal/pagination.html" . }}
+
+{{ end }}

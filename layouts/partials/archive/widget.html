@@ -9,7 +9,7 @@
         {{- range $i := seq 12 }}
           {{- $m := time.AsTime (printf "2000-%02d-01" $i) | time.Format "Jan" }}
             {{- with site.GetPage (printf "%s/%d/%02d"  $section $year $i)  }}
-              <td class="enabled"><a href="{{- .RelPermalink }}">{{- $m }}</a></td>
+              <td class="enabled"><a href="{{- .RelPermalink }}">{{- $m }} ({{ .Pages | len }})</a></td>
             {{- else }}
               <td class="disabled">{{- $m }}</td>
             {{- end }}

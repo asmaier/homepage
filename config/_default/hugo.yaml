@@ -20,7 +20,7 @@ removePathAccents: true
 ############################
 publishDir: docs
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 100
 paginate: 10000
 enableEmoji: true
 enableRobotsTXT: true

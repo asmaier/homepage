@@ -45,7 +45,8 @@ Forscher der ETH Zürich haben aus den Daten von über 40000 Firmen weltweit ein
 25. Bank of America Corporation
 26. Lloyds TSB Group plc 
 27. Invesco plc
-28. Allianz SE 29. TIAA 
+28. Allianz SE 
+29. TIAA 
 30. Old Mutual Public Limited Company
 31. Aviva plc 
 32. Schroders plc

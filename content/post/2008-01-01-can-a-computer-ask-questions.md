@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2008-01-01"
 featured: false
 image:
@@ -15,7 +14,9 @@ subtitle: ""
 summary: ""
 tags:
 - machine_learning
+categories:
 - old_wiki
+- english
 title: Can a computer ask questions
 ---
 > Computers are useless. They can only give you answers. (Pablo Picasso)

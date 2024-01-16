@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2008-01-01"
 featured: false
 image:
@@ -13,8 +12,10 @@ projects: []
 slug: quantum-entanglement
 subtitle: ""
 summary: ""
-tags:
+categories:
 - old_wiki
+- english
+tags:
 - physics
 title: Quantum entanglement
 ---

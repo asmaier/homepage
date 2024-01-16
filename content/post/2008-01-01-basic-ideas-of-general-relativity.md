@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2008-01-01"
 featured: false
 image:
@@ -15,7 +14,9 @@ subtitle: ""
 summary: ""
 tags:
 - physics
+categories:
 - old_wiki
+- english
 title: Basic ideas of general relativity
 ---
 * General Relativity (GR) is a classical field theory (whatever that means, could be something like Electrodynamics or something like Fluiddynamics)

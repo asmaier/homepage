@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2008-01-01"
 featured: false
 image:
@@ -13,9 +12,11 @@ projects: []
 slug: limits-to-growth
 subtitle: ""
 summary: ""
-tags:
+categories:
 - old_wiki
-- Simulation
+- english
+tags:
+- simulation
 - politics
 title: Limits to Growth
 ---

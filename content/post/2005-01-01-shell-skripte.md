@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2005-01-01"
 featured: false
 image:
@@ -13,8 +12,10 @@ projects: []
 slug: shell-skripte
 subtitle: ""
 summary: ""
+categories:
+- deutsch
+- old_website
 tags:
-- german
 - computer
 - linux
 title: Shell-Skripte

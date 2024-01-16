@@ -13,8 +13,10 @@ projects: []
 slug: classical-limit-of-quantum-mechanics
 subtitle: ""
 summary: ""
-tags:
+categories:
 - old_wiki
+- english
+tags:
 - physics
 title: Classical limit of quantum mechanics
 ---

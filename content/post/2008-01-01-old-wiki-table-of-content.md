@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2008-01-01"
 featured: false
 image:
@@ -13,8 +12,9 @@ projects: []
 slug: old-wiki-table-of-content
 subtitle: ""
 summary: ""
-tags:
+categories:
 - old_wiki
+- english
 title: Old Wiki Table of Content
 ---
 Here I collect notes about a lot of things and topics I think are interesting.

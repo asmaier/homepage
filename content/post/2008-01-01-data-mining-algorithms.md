@@ -1,7 +1,6 @@
 ---
 author: admin
 authors: []
-categories: []
 date: "2008-01-01"
 featured: false
 image:
@@ -13,8 +12,10 @@ projects: []
 slug: data-mining-algorithms
 subtitle: ""
 summary: ""
-tags:
+categories:
 - old_wiki
+- english
+tags:
 - big_data
 - machine_learning
 title: Data Mining Algorithms

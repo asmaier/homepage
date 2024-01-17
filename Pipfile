@@ -9,6 +9,11 @@ markdown-it-py = "*"
 mdit-plain = "*"
 keybert = {extras = ["flair"], version = "*"}
 keyphrase-vectorizers = "*"
+bertopic = "*"
+yake = "*"
+pytextrank = "*"
+langchain = "*"
+llama-cpp-python = "<0.2.29"
 
 [dev-packages]
 

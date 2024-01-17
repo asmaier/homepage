@@ -1,0 +1,14 @@
+root ::= "[" items "]" EOF
+
+items ::= item ("," ws* item)*
+
+item ::= string
+
+string  ::=
+  "'" word "'"
+
+word ::= [^.'\\\r\n]*
+
+ws ::= " "
+
+EOF ::= "\n"

@@ -1,21 +1,31 @@
 ---
-title: 'Aus einer neuen Studie ergibt ...'
+title: Aus einer neuen Studie ergibt ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-09-20
-lastmod: 2021-09-20T23:40:03+02:00
+lastmod: 2021-09-20 23:40:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- emissionsreduktion
+- pariser klimaabkommen
+- klimawandel
+- nationen und länder im klimawandel
+- klimaschutzmaßnahmen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Aus einer neuen Studie ergibt sich, dass einzig und allein Gambia auf dem Weg ist, die Pariser Verträge zu erfüllen. Alle andere Staaten versprechen und tun zu wenig! 
 
 Deutschland tut aber nicht nur weniger als Gambia, sondern auch weniger als z.B. Costa Rica, Nigeria, Nepal und man höre und staune England/UK. Ja genau, die UK sind dank einer recht hohen CO2-Tax auf einem weit bessere Wege (wenn auch nicht ausreichend) ihre CO2-Emissionen in den Griff zu bekommen.
@@ -36,4 +46,3 @@ https://climateactiontracker.org/media/images/CAT_2021-09_RatingsSummary-1-Overa
 > climateactiontracker.org
 > ## [Cat 2021 09 Ratingssummary 1 Overall.Width 1000](https://climateactiontracker.org/media/images/CAT_2021-09_RatingsSummary-1-Overall.width-1000.png)
 >
-

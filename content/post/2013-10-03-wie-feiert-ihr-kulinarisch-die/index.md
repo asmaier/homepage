@@ -1,20 +1,29 @@
 ---
-title: 'Wie feiert ihr kulinarisch die ...'
+title: Wie feiert ihr kulinarisch die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-10-03
-lastmod: 2013-10-03T13:55:26+02:00
+lastmod: 2013-10-03 13:55:26+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- deutsche geschichte
+- deutsche wiedervereinigung
+- deutsche kultur
+- deutsche küche
+- deutsche getränke
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
-Wie feiert ihr kulinarisch die Wiedervereinigung Deutschlands? Mit Soljanka und Currywurst? Rotkäppchensekt und Augustinerbräu? Mit einem Schaschlick aus Bananen und Spreewälder Gurken?
 
+Wie feiert ihr kulinarisch die Wiedervereinigung Deutschlands? Mit Soljanka und Currywurst? Rotkäppchensekt und Augustinerbräu? Mit einem Schaschlick aus Bananen und Spreewälder Gurken?

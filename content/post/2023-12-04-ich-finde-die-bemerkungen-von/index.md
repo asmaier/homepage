@@ -1,21 +1,31 @@
 ---
-title: 'Ich finde die Bemerkungen von ...'
+title: Ich finde die Bemerkungen von ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-12-04
-lastmod: 2023-12-04T12:30:33+01:00
+lastmod: 2023-12-04 12:30:33+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- sanktionen
+- europa
+- russland
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Ich finde die Bemerkungen von Evgeny Chichvarkin
 sollten viel weiter verbreitet werden:
 
@@ -42,4 +52,3 @@ Die Russen im Ausland sind jedenfalls verzweifelt über die Dummheit der westlic
 > ## [Мы проиграли Путину – Чичваркин* о помощи Запада и Европы Кремлю](https://www.youtube.com/watch?v=iE68VkzE7ms)
 >
 >Эфир целиком:https://youtube.com/live/aoifyX5eE0A?feature=shareПоддержать Живой гвоздь:с карт российских банков https://pay.cloudtips.ru/p/7edd7c0eс карт ино...
-

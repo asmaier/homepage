@@ -1,21 +1,31 @@
 ---
-title: 'Taiwan hat China im Männer ...'
+title: Taiwan hat China im Männer ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-08-03
-lastmod: 2021-08-03T21:27:51+02:00
+lastmod: 2021-08-03 21:27:51+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- china
+- olympische spiele
+- taiwan
+- tokyo 2021
+- badminton
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Taiwan hat China im Männer Doppel in Badminton bei den Olympischen Spielen in Tokyo 2021 besiegt. 
 
 Das ist eine ziemlich sensationelle Nachricht, es steht in vielen internationalen Nachrichten in den USA, GB, Frankreich:
@@ -33,4 +43,3 @@ Es scheint mir, als ob das Thema von deutschen Medien bewusst totgeschwiegen wir
 > ## [Taiwan’s gold medal win over China in badminton raises tension. (Published 2021)](https://www.nytimes.com/2021/08/01/sports/olympics/badminton-gold-taiwan-china.html)
 >
 >The Taiwanese badminton duo Lee Yang and Wang Chi-lin, who beat a Chinese team to take gold, had emphasized their Taiwanese identity on social media.
-

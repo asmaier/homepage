@@ -2,20 +2,30 @@
 title: '"Europa wurde also der Gaskrieg ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-21
-lastmod: 2022-08-21T22:53:00+02:00
+lastmod: 2022-08-21 22:53:00+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ukraine
+- öl
+- erdgas
+- europa
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Europa wurde also der Gaskrieg erklärt. Das ist eine Reaktion darauf, dass Europa in zwei bis fünf Jahren unabhängig von russischem Gas zu sein plant. Nun läuft eine Art Wettlauf. Die russische Regierung meint: ‚Wenn ihr so mit uns umgeht, zeigen wir euch mal, wie es ohne russisches Gas aussieht. Und so drehen wir euch unter einem passenden Vorwand – in unserem Fall höhere Gewalt – den Gashahn zu.‘"
 "Deshalb denke ich, man setzt letztlich die Hoffnung darauf, dass die Europäer einknicken. Wenn sie mit ihrer spärlichen Ration dasitzen und der Winter nicht so mild wird wie der letzte – dann werden sie bestimmt um Lieferungen bitten. Ich denke, das ist das Kalkül."
 
@@ -27,4 +37,3 @@ https://www.dekoder.org/de/article/gaskrieg-europa-gazprom-turbine
 > ## [„Man setzt darauf, dass die Europäer einknicken“](https://www.dekoder.org/de/article/gaskrieg-europa-gazprom-turbine)
 >
 >Russland liefert deutlich weniger Erdgas nach Westeuropa, die EU sanktioniert Russland wegen des Angriffskriegs gegen die Ukraine und will bis zum Ende des Jahres ein Ölembargo umsetzen. Der russische Staatshaushalt hängt aber massiv von diesen Rohstoffexporten ab. Welche Folgen das haben wird – fragt The New Times in einem Experteninterview. / Quelle: The New Times
-

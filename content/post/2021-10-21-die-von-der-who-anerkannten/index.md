@@ -1,21 +1,31 @@
 ---
-title: 'Die von der WHO anerkannten ...'
+title: Die von der WHO anerkannten ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-10-21
-lastmod: 2021-10-21T21:38:30+02:00
+lastmod: 2021-10-21 21:38:30+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- who
+- impfstoffe
+- aids-epidemie
+- coronaviruspandemie
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Die von der WHO anerkannten Impfstoffe sind übrigens hier gelistet:
 https://covid19.trackvaccines.org/agency/who/
 Auch Indien und China haben es geschafft Impfstoffe von der WHO anerkannt zu bekommen. Warum Russland das mit Sputnik V  nach so langer Zeit immer noch nicht schafft ist mir ein Rätsel. Hier steht ein bisschen mehr dazu: https://www.euronews.com/next/2021/09/16/sputnik-v-who-suspends-approval-process-for-covid-vaccine-due-to-manufacturing-concerns
@@ -27,4 +37,3 @@ P.S.: Covid ist nichtmal das größte Gesundheitsproblem das sie in Russland hab
 > ## [Corona-Pandemie in Russland: Dramatische Todeszahlen, die Impfkampagne lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f)
 >
 >Die Impfkampagne in Russland lahmt, die Zahl der Coronatoten steigt. Und das Vertrauen in die zugelassenen russischen Impfstoffe schwindet. Für viele ist Serbien deshalb der Impfort ihrer Wahl.
-

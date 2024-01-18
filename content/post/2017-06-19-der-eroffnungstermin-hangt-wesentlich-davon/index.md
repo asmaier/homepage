@@ -2,20 +2,30 @@
 title: '"Der Eröffnungstermin hängt wesentlich davon ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-06-19
-lastmod: 2017-06-19T12:13:55+02:00
+lastmod: 2017-06-19 12:13:55+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- baufirmen
+- restbauleistungen
+- steuergelder
+- flughafen
+- subvention
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 "Der Eröffnungstermin hängt wesentlich davon ab, ob es gelingt, mit den fünf entscheidenden Baufirmen - Bosch, Caverion, Siemens, T-Systems und ROM - verbindliche vertragliche Regelungen über die Restbauleistungen und Termine zu treffen"
 
 "Die Baufirmen verdienen daran, dass der Flughafen nicht fertig wird. Seit 2012 werden sie auf Stundenbasis angefordert. Lütke Daldrup hatte zuvor bekannt, dieses System nicht mehr fundamental ändern zu können."
@@ -28,4 +38,3 @@ https://www.berlinonline.de/aktuell/4899146-4015970-burkert-rechnet-nicht-mit-be
 > ## [Home â BerlinOnline Stadtportal GmbH & Co. KG](https://www.berlinonline.de/aktuell/4899146-4015970-burkert-rechnet-nicht-mit-bereroeffnung-.html)
 >
 >BerlinOnline ist Ihr kommunaler Partner fÃ¼r nachhaltige InternetlÃ¶sungen
-

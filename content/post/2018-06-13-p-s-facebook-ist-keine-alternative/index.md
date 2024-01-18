@@ -2,20 +2,30 @@
 title: 'P.S.: Facebook ist keine Alternative! ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-06-13
-lastmod: 2018-06-13T15:12:01+02:00
+lastmod: 2018-06-13 15:12:01+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- alternativen zu google produkten
+- google-alternativen
+- alternativen zu google-diensten
+- alternativen für google-produkte
+- ', '
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- english
 ---
+
 P.S.: Facebook ist keine Alternative!
 
 https://restoreprivacy.com/google-alternatives/
@@ -24,4 +34,3 @@ https://restoreprivacy.com/google-alternatives/
 > ## [Alternatives to Google Products -- The Big List](https://restoreprivacy.com/google-alternatives/)
 >
 >New and updated for 2021, this guide gives you alternatives to every Google product. This is the complete Google alternatives guide.
-

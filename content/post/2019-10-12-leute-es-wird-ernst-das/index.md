@@ -1,20 +1,29 @@
 ---
-title: 'Leute, es wird ernst. Das ...'
+title: Leute, es wird ernst. Das ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-12
-lastmod: 2019-10-12T22:33:02+02:00
+lastmod: 2019-10-12 22:33:02+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- preissteigerung
+- nutzen
+- lebensmittel
+- bier
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
-Leute, es wird ernst. Das Bier wird teurer!
 
+Leute, es wird ernst. Das Bier wird teurer!

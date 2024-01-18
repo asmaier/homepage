@@ -1,21 +1,31 @@
 ---
-title: 'Ich bin gerade auf diesen ...'
+title: Ich bin gerade auf diesen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-07-17
-lastmod: 2019-07-17T20:27:14+02:00
+lastmod: 2019-07-17 20:27:14+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- totalfinaelf
+- pipelines
+- nukleare sprengungen
+- ölförderung
+- umweltverschmutzung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ich bin gerade auf diesen Wikipediaartikel gestoßen.
 
 "Um weitere Ölquellen zu finden, wurden zwischen 1978 und 1985 fünf nukleare(!) Sprengungen durchgeführt, um das Gestein seismisch zu kartieren. Dabei gelangte radioaktiv verseuchtes Material in den Fluss Jugan und sein Umland. Durch die laufende Kontamination mit Erdöl waren 1989 bereits 28 größere Flüsse und 100 kleinere Gewässer biologisch tot und der Fischfang auf dem Fluss Ob musste eingestellt werden. Von 1984 bis 1990 gelangten allein im Wohngebiet der Chanten und Mansen etwa 100 Millionen Tonnen Öl in die Ökosysteme."
@@ -31,4 +41,3 @@ Das nur als Antwort darauf, falls irgendso ein Schlauberger den Lithium-Abbau f�
 > de.wikipedia.org
 > ## [Ölkatastrophe in Westsibirien – Wikipedia](https://de.wikipedia.org/wiki/%C3%96lkatastrophe_in_Westsibirien)
 >
-

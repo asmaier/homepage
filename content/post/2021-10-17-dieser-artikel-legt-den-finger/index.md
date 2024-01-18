@@ -1,21 +1,31 @@
 ---
-title: 'Dieser Artikel legt den Finger ...'
+title: Dieser Artikel legt den Finger ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-10-17
-lastmod: 2021-10-17T21:36:15+02:00
+lastmod: 2021-10-17 21:36:15+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- steuerparadiese
+- brexit
+- oligarchen
+- europäische union
+- finanzwelt
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Dieser Artikel legt den Finger in die Wunde. Aber noch interessanter finde ich einen Kommentar eines Lesers:
 
 "Brexit happened just as the EU decided it was time to regulate tax havens and reduce tax leakage. 
@@ -28,4 +38,3 @@ Damit ergibt der Brexit endlich Sinn. Die UK wollen weiterhin Geld für die Sche
 > ## [Opinion | The City of London Is Hiding the World’s Stolen Money (Published 2021)](https://www.nytimes.com/2021/10/11/opinion/pandora-papers-britain-london.html)
 >
 >Together with its territories overseas, Britain is instrumental in a global game of deceit.
-

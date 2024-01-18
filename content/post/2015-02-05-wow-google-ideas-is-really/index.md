@@ -1,21 +1,31 @@
 ---
-title: 'Wow, Google Ideas is really ...'
+title: Wow, Google Ideas is really ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-02-05
-lastmod: 2015-02-05T18:29:40+01:00
+lastmod: 2015-02-05 18:29:40+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technology
+- political and diplomatic matters
+- think/do-tank
+- google ideas
+- digital conflict
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 Wow, Google Ideas is really evil: 
 
 - Google Ideas seems to bond idealistic activist sensibilities with Google’s pursuit for continued global expansion - blurring the lines between business and political action. Schmidt and Cohen dub Google Ideas as a “think/do-tank” that aims to tackle political and diplomatic matters through the use of technology.
@@ -30,4 +40,3 @@ The topics on their web page (http://www.google.com/ideas/) are:
 
 That sound suspiciously like they are supporting aggressive undercover actions against foreign countries. States should not do this, but companies even less. What is Google thinking? Do they want to take over the world?
 > http://english.al-akhbar.com/content/stratforleaks-google-ideas-director-involved-regime-change
-

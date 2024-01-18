@@ -2,20 +2,30 @@
 title: '""Jeder einzelne Busfahrplan in ganz ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-09-23
-lastmod: 2021-09-23T21:31:48+02:00
+lastmod: 2021-09-23 21:31:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ov-chipkarte
+- niederlande
+- öffentlicher verkehr
+- mobilitätsdatenverordnung
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 ""Jeder einzelne Busfahrplan in ganz Deutschland, jede Abfahrtzeit einer U-Bahn, wir stellen alle Infos an einer Stelle bereit.""
 
 https://www.heise.de/news/Mobilitaetsdatenverordnung-OePNV-Infos-sollen-in-Echtzeit-veroeffentlicht-werden-6195464.html
@@ -34,4 +44,3 @@ Das wäre ja der totale Wahnsinn, wenn ich mit einem Ticket den ÖPNV in ganz De
 > ## [Mobilitätsdatenverordnung: ÖPNV-Infos sollen in Echtzeit veröffentlicht werden](https://www.heise.de/news/Mobilitaetsdatenverordnung-OePNV-Infos-sollen-in-Echtzeit-veroeffentlicht-werden-6195464.html)
 >
 >Der Bundesrat hat für die Mobilitätsdatenverordnung gestimmt. Daten etwa zu Fahrplänen, Routen und Ticketpreisen werden auf einer Plattform gebündelt.
-

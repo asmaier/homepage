@@ -1,21 +1,31 @@
 ---
-title: 'Lesst euch dieses Programm des ...'
+title: Lesst euch dieses Programm des ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-10-06
-lastmod: 2021-10-06T22:19:20+02:00
+lastmod: 2021-10-06 22:19:20+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- forschungsförderung
+- öffentliche finanzierung
+- digitalisierung
+- patente
+- recht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Lesst euch dieses Programm des CCC mal durch. Man merkt das hier Profis am Werk sind. Es ist wirklich schade, dass man den CCC nicht in den Bundestag wählen kann. Ich stimme jedem Punkt zu, den sie da schreiben. Ein Punkt ist mir besonders aufgefallen:
 
 "Patente auf mit Steuergeldern finanzierter Forschung sind unzulässig."
@@ -28,4 +38,3 @@ Es ist absurd, wenn das derzeit möglich ist. Da bedeutet, dass der Staat (also 
 > ## [CCC | CCC veröffentlicht Formulierungshilfe für Digitales im neuen Regierungsprogramm](https://www.ccc.de/de/updates/2021/ccc-formulierungshilfe-regierungsprogramm)
 >
 >Endlich ein solides Regierungsprogramm für unsere digitalisierte Welt, wer wünscht sich das nicht? Wir machen hiermit einen Vorschlag. Kürzer konnten wir es leider nicht hinbekommen, denn es hat sich ja einiges aufgestaut.
-

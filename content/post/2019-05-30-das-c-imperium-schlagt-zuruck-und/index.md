@@ -1,21 +1,31 @@
 ---
-title: 'Das C-Imperium schlägt zurück und ...'
+title: Das C-Imperium schlägt zurück und ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-30
-lastmod: 2019-05-30T22:27:45+02:00
+lastmod: 2019-05-30 22:27:45+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- aufklärung
+- klimawandel
+- youtuber
+- fake news
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das C-Imperium schlägt zurück und versucht Rezo zu widerlegen. Leider geht das ziemlich nach hinten los. Bereits mehrere Artikel weisen darauf hin, das Rezo einfach Recht hat. Und alles andere ist FakeNews:
 
 https://bildblog.de/110891/cdu-und-faz-widersprechen-rezo-mit-falschen-fakten/
@@ -33,4 +43,3 @@ Ich kann daher jedem nur empfehlen sich mit Rezos Wahrheiten abzufinden und ents
 		CDU und “FAZ” widersprechen Rezo mit falschen Fakten — BILDblog	](https://bildblog.de/110891/cdu-und-faz-widersprechen-rezo-mit-falschen-fakten/)
 >
 >Ein Watchblog für deutsche Medien
-

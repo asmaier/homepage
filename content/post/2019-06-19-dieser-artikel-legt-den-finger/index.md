@@ -1,21 +1,31 @@
 ---
-title: 'Dieser Artikel legt den Finger ...'
+title: Dieser Artikel legt den Finger ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-06-19
-lastmod: 2019-06-19T13:28:32+02:00
+lastmod: 2019-06-19 13:28:32+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- leitung
+- it-projekte
+- digitalisierung
+- innovation
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Dieser Artikel legt den Finger in die Wunde der deutschen Industrie. Sehr gut beobachtet:
 
 "So erschöpft sich alles in Meetings und Komitees, mit Feigenblättern wie der Ernennung von Chief Visonary/Innovation/Digital/Electric Officers (VIDE), den vielen KI-AI-Big-Data-Zentren, mit agilen Weisheiten und anderen Meta-Fragen der Innovation. Es ist Meta-Aktivismus. Man informiert sich über Rahmenbedingungen, unter denen Innovation stattfinden sollte. Man ruft zu Aktionen auf, tabelliert die derzeitigen Anstrengungen und ruft jeden kleinen Fortschritt in einem Projekt als „Leuchtturm“ aus. Wenn es wenigstens etwas brächte! In der Politik ist Leuchtturm-Schwafelei wenigstens wählerwirksam.
@@ -28,4 +38,3 @@ Und das allerschlimmste ist, dass große IT-Projekte oft von Leuten geleitet wer
 > ## [Meta-Digitalisierung – das große Zerreden ohne Tun](https://www.heise.de/select/ix/2019/13/1909112113991017112)
 >
 >Deutschland tut sich schwer mit der Digitalisierung. Dabei weiß man doch eigentlich schon seit Langem, was zu tun ist, meint der Mathematikprofessor und frühere IBM-CTO Gunter Dueck.
-

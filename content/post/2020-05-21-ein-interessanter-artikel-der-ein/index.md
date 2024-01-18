@@ -1,21 +1,31 @@
 ---
-title: 'Ein interessanter Artikel, der ein ...'
+title: Ein interessanter Artikel, der ein ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-05-21
-lastmod: 2020-05-21T20:21:54+02:00
+lastmod: 2020-05-21 20:21:54+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- pandemien
+- mutationen
+- viren
+- coronaviren
+- influenza
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ein interessanter Artikel, der ein bisschen Hoffnung macht. Insbesondere fand ich interessant, dass wir es offenbar nicht mit der ersten Corona-Pandemie zu tun haben. Es gab schon mal eine um 1889/90, die man aber bisher für eine Grippe-Epidemie hielt (https://de.wikipedia.org/wiki/Influenza-Pandemie_von_1889_bis_1895).  
 
 "Die optimistische Prognose geht davon aus, dass die natürliche Mutation des Virus dem Menschen in die Hände spielen könnte. Viren ordnen ihr genetisches Material nämlich häufig neu an und tauschen Stücke ihrer RNA mit anderen Coronaviren aus. ...
@@ -30,4 +40,3 @@ Dieser ist (ganz untypisch für nature) kostenfrei zu lesen, wohl auch eine posi
 > ## [Woher kommt SARS-CoV-2 und wie entwickelt es sich weiter? So arbeiten Forscher daran, seine komplexe Biologie zu entschlüsseln](https://www.businessinsider.de/wissenschaft/woher-kommt-sars-cov-2-und-wie-entwickelt-es-sich-weiter-so-arbeiten-forscher-daran-seine-komplexe-biologie-zu-entschlusseln/)
 >
 >Coronaviren existieren schon lange und in verschiedener Form. Doch erst langsam beginnt die Wisssenschaft ihre Herkunft und Wirkungsweise zu verstehen.
-

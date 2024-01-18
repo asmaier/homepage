@@ -1,21 +1,31 @@
 ---
-title: 'Neulich kam ich auf die ...'
+title: Neulich kam ich auf die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-12-02
-lastmod: 2018-12-02T20:19:58+01:00
+lastmod: 2018-12-02 20:19:58+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- arztpraxen
+- medizin
+- online-terminbuchung
+- digitale dienstleistungen
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Neulich kam ich auf die Idee über Jameda einen Termin online beim Arzt auszumachen.
 Das hat auch geklappt, nachdem ich dort Name, Email und Mobilfunknummer eingegeben habe. Dann habe ich eine TAN per SMS auf mein Handy bekommen, welche ich dann nochmal eingeben musste. Am Ende bekam ich eine Email mit der Terminbestätigung, die ich auch gleich in meinen Google Kalender eingetragen habe.
 
@@ -29,4 +39,3 @@ https://docasap.com/find-a-doctor
 https://www.zocdoc.com/
 
 Diese Webseiten sehen auch nicht aus wie aus dem vorherigen Jahrhundert. Sowas muss doch in Deutschland auch möglich sein!
-

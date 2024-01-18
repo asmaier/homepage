@@ -1,21 +1,31 @@
 ---
-title: 'Die Überschrift ist leider Quatsch. ...'
+title: Die Überschrift ist leider Quatsch. ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-10-12
-lastmod: 2022-10-12T22:22:12+02:00
+lastmod: 2022-10-12 22:22:12+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- nachhaltiges bauen
+- dresden
+- baustoffe
+- carbonbeton
+- experimentelles bauprojekt
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Die Überschrift ist leider Quatsch. Da sollte stehen "Weltweit erstes Haus aus Carbonbeton in Dresden eröffnet!" (siehe auch https://tu-dresden.de/bu/bauingenieurwesen/imb/das-institut/news/feierliche-einweihung-des-weltweit-ersten-gebaeudes-aus-carbonbeton-cube-1?set_language=de)
 
 Was ist Carbonbeton?
@@ -30,4 +40,3 @@ Kein Wunder, dass die großen Betonhersteller davon nichts wissen wollen. Das w�
 > ## [Nachhaltiges Bauen: Weltweit erstes Carbonhaus in Dresden entsteht](https://www.heise.de/news/Nachhaltiges-Bauen-Weltweit-erstes-Carbonhaus-in-Dresden-entsteht-7277843.html)
 >
 >Das Bauen von Häusern soll irgendwann klimaneutral erfolgen. Carbonbeton könnte ein Baustein dafür sein, wie ein experimentelles Bauprojekt in Dresden zeigt.
-

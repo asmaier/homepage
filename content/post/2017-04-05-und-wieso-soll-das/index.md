@@ -2,20 +2,30 @@
 title: '""" Und wieso soll das ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-04-05
-lastmod: 2017-04-05T15:59:33+02:00
+lastmod: 2017-04-05 15:59:33+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- zukunft der arbeit
+- menschen-maschine-beziehung
+- ethik in der technologie
+- roboter
+- künstliche intelligenz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 """
 Und wieso soll das keine Bedrohung für uns Menschen sein?
 
@@ -26,4 +36,3 @@ Das Gewicht aller Menschen ist immer noch vergleichbar mit dem aller Ameisen. Un
 Am meisten Angst haben müssen wir eher vor denen, die so ähnlich sind wie wir selbst, mit denen wir daher Zielkonflikte haben, also vor unserer eigenen Art.
 """
 > http://www.wiwo.de/unternehmen/mittelstand/hannovermesse/kuenstliche-intelligenz-roboter-muessen-steuern-zahlen/12896382.html
-

@@ -2,20 +2,30 @@
 title: 'Endlich mal wieder gute Nachrichten: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-12-31
-lastmod: 2021-12-31T17:08:42+01:00
+lastmod: 2021-12-31 17:08:42+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- neues jahr
+- omikron-variante
+- new south wales
+- impfung
+- pandemie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Endlich mal wieder gute Nachrichten:
 
 "Doch Daten zeigen, dass die Patientenzahlen mit schweren Verläufen bisher nicht gleichermaßen zunehmen. Auch die Einweisungen ins Krankenhaus sind bisher moderat.
@@ -33,5 +43,4 @@ https://www.rnd.de/gesundheit/omikron-in-australien-new-south-wales-als-fallbeis
 > rnd.de
 > ## [New South Wales: Australiens „ideale Fallstudie“ für den Omikron-Verlauf](https://www.rnd.de/gesundheit/omikron-in-australien-new-south-wales-als-fallbeispiel-fuer-verlauf-von-corona-variante-A5KRSHK55VCOTALKRL4KLQQ3EA.html)
 >
->Obwohl in Australiens Bundesstaat New South Wales fast alle Erwachsenen mindestens zweimal gegen Corona geimpft sind, steigen derzeit die Infektionszahlen mit der Omikron-Variante rapide. Doch erste Daten zeigen, dass die Mutante weniger schwere Verläufe nach sich zieht.  
-
+>Obwohl in Australiens Bundesstaat New South Wales fast alle Erwachsenen mindestens zweimal gegen Corona geimpft sind, steigen derzeit die Infektionszahlen mit der Omikron-Variante rapide. Doch erste Daten zeigen, dass die Mutante weniger schwere Verläufe nach sich zieht.

@@ -1,21 +1,31 @@
 ---
-title: 'Ja, es ist wieder diese ...'
+title: Ja, es ist wieder diese ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-10-21
-lastmod: 2023-10-21T23:30:46+02:00
+lastmod: 2023-10-21 23:30:46+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verordnungen
+- umwelt
+- laubbläser
+- lärmbelastung
+- laubrechen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Ja, es ist wieder diese Zeit des Jahres: Laubbläserzeit
 
 Hier hat mal jemand einen kleinen Wettbewerb veranstaltet: Laubbläser gegen Laubrechen
@@ -29,4 +39,3 @@ Befremdlich finde ich, dass die deutsche Regierung meint, Europarecht würde es 
 > ## [My rake is faster than your leaf blower](https://www.youtube.com/watch?v=r-XqbXi7tNo)
 >
 >It's man vs. machine as Steve Fagin and his rake compete against a leaf blower to see who can clear leaves from a yard faster.
-

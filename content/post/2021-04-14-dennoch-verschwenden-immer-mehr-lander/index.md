@@ -2,20 +2,30 @@
 title: '"Dennoch verschwenden immer mehr Länder ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-04-14
-lastmod: 2021-04-14T10:10:03+02:00
+lastmod: 2021-04-14 10:10:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- digitale gesundheitsversprechen
+- app-zwangs
+- ccc (chaos computer club)
+- mecklenburg-vorpommern
+- steuergelder
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Dennoch verschwenden immer mehr Länder ohne korrektes Ausschreibungsverfahren Steuergelder auf das digitale Heilsversprechen. Mecklenburg-Vorpommern will die Installation sogar zur Voraussetzung der Teilhabe am öffentlichen Leben machen.
 
 Der CCC fordert ein umgehendes Moratorium, eine Überprüfung der Vergabepraktiken durch den Bundesrechnungshof und ein sofortiges Ende des App-Zwangs. Für den Umgang mit hochsensiblen Gesundheits- und Bewegungsdaten verbietet sich der ländersubventionierte Roll-Out ungeprüfter Software von selbst."
@@ -30,4 +40,3 @@ Man kann dem CCC nur zustimmen, dass die dubiosen Geschäfte um die Luca-App ges
 > ## [CCC | Luca-App: CCC fordert Bundesnotbremse](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
 >
 >Zweifelhaftes Geschäftsmodell, mangelhafte Software, Unregelmäßigkeiten bei der Auftragsvergabe: Der Chaos Computer Club (CCC) fordert das sofortige Ende der staatlichen Alimentierung von Smudos Steuer-Millionengrab “Luca-App”.
-

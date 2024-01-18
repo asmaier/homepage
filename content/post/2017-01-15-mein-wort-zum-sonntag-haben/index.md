@@ -2,20 +2,30 @@
 title: 'Mein Wort zum Sonntag: "Haben ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-01-15
-lastmod: 2017-01-15T12:13:02+01:00
+lastmod: 2017-01-15 12:13:02+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ungarn
+- flüchtlinge
+- europa
+- grenzöffnung
+- kroatien
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 Mein Wort zum Sonntag: "Haben die Ostdeutschen eigentlich vergessen, dass sie selbst einmal Flüchtlinge waren? Ich kann mich noch erinnern wie tausende von ihnen illegal über Ungarn einreisten."
 
 http://www.spiegel.de/politik/ausland/kroatien-schickt-fluechtlinge-ungarn-oeffnet-grenze-a-1053734.html
@@ -26,4 +36,3 @@ https://www.br.de/nachrichten/inhalt/ddr-grenzoeffnung-1989-100.html
 > ## [Kroatien schickt Flüchtlinge: Ungarn öffnet Grenze](http://www.spiegel.de/politik/ausland/kroatien-schickt-fluechtlinge-ungarn-oeffnet-grenze-a-1053734.html)
 >
 >Ungarn scheint - vorerst - nachzugeben: Am Nachmittag haben die Sicherheitskräfte mehrere Busse mit Hunderten Flüchtlingen aus Kroatien über die Grenze gelassen. Das weitere Vorgehen ist noch unklar.
-

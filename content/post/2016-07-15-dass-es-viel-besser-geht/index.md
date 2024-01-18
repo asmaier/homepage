@@ -2,20 +2,30 @@
 title: '"Dass es viel besser geht, ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-07-15
-lastmod: 2016-07-15T13:15:22+02:00
+lastmod: 2016-07-15 13:15:22+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- transparenz
+- finanzen
+- ärzte
+- medizin
+- pharmaunternehmen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 "Dass es viel besser geht, machen die USA vor: Dort sind seit 2013 alle Unternehmen durch den "Physician Payment Sunshine Act" gesetzlich verpflichtet, einer Behörde Zahlungen an Ärzte zu melden. Neben dem Namen umfassen die Angaben den Grund für die Zahlung und die Höhe. Die Daten werden in eine zentrale, öffentlich zugängliche und durchsuchbare Datenbank eingepflegt, in der jeder nach seinem Mediziner suchen kann."
 
 Dagegen in Deutschland:
@@ -34,4 +44,3 @@ Aargh!
 > ## [Transparenzkodex von Pharma-Firmen: Nur schöner Schein - Kommentar](http://www.spiegel.de/gesundheit/diagnose/transparenzkodex-von-pharma-firmen-nur-schoener-schein-kommentar-a-1102848.html)
 >
 >Pharmakonzerne legen offen, welchem Arzt in Deutschland sie wie viel Geld zahlen. Alles transparent, alles gut? Nein: Die Initiative weckt nur den Anschein von echter Klarheit.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Ekaterina Schulmann war eine der ...'
+title: Ekaterina Schulmann war eine der ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-05-14
-lastmod: 2022-05-14T21:26:03+02:00
+lastmod: 2022-05-14 21:26:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- exil
+- politikwissenschaftler
+- ekaterina schulmann
+- russland
+- interview
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Ekaterina Schulmann war eine der intelligentesten Personen Russlands. Ich sage war, weil auch sie inzwischen aus Russland fliehen musste und mit einem Bosch-Stipendium nach Berlin gekommen ist. Das ganze Interview ist äußerst lesenswert, aber  besonders bemerkenswert finde ich ihren Schlussgedanken:
 
 "Was, glauben Sie, sieht der Westen in diesem Konflikt mit Russland falsch?
@@ -26,4 +36,3 @@ Ich weiß es nicht. Tatsächlich haben ja westliche Regierungen den Beginn des K
 > ## [Russische Politologin: „Was haben wir übersehen?“](https://www.freitag.de/autoren/der-freitag/was-haben-wir-uebersehen-russische-politologin-ekaterina-schulmann-im-interview)
 >
 >Die Politikwissenschaftlerin Ekaterina Schulmann erreicht in Russland mit bildungspolitischen Sendungen im Radio und auf Youtube Hunderttausende. Seit Kurzem ist sie in Berlin und wurde als „ausländische Agentin“ gebrandmarkt
-

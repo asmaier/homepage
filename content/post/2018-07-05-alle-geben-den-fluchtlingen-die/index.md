@@ -1,21 +1,31 @@
 ---
-title: 'Alle geben den Flüchtlingen die ...'
+title: Alle geben den Flüchtlingen die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-07-05
-lastmod: 2018-07-05T21:17:18+02:00
+lastmod: 2018-07-05 21:17:18+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- wirtschaftsungleichheit
+- flüchtlinge
+- armut
+- soziale gerechtigkeit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Alle geben den Flüchtlingen die Schuld, dass es mit dem Land bergab geht, aber die wahre Ursache für das Gefühl der Ohnmacht und des abgehängt sein von der wirtschaftlichen Entwicklung ist das hier: 
 
 "...verdiente ein Dax-Vorstand 2017 im Mittel 71 mal so viel wie die Beschäftigten seines Unternehmens im Durchschnitt.
@@ -30,4 +40,3 @@ Die Schwere zwischen arm und reich wächst seit Jahren immer schneller. Und niem
 > ## [Wirtschaft und Börsen-Nachrichten](https://www.tagesschau.de/inland/gehalt-vorstand-mitarbeiter-101.html)
 >
 >Überblick zu Hintergründen, Analysen und Interviews bei tagesschau.de - die erste Adresse für Nachrichten und umfassende Berichte zu aktuellen Themen.
-

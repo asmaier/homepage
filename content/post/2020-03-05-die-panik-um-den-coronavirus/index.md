@@ -1,21 +1,31 @@
 ---
-title: 'Die Panik um den Coronavirus ...'
+title: Die Panik um den Coronavirus ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-03-05
-lastmod: 2020-03-05T18:45:01+01:00
+lastmod: 2020-03-05 18:45:01+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- infektionskrankheit
+- epidemiologie
+- pandemie
+- coronavirus
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Die Panik um den Coronavirus ist ja schon am abnehmen, daher wird es Zeit nochmal ein bisschen Öl ins Feuer zu kippen:
 
 Laut https://www.sueddeutsche.de/gesundheit/krankheiten-experte-erwartet-60-bis-70-prozent-infizierte-in-deutschland-dpa.urn-newsml-dpa-com-20090101-200228-99-108884 werden sich maximal 70% aller Deutschen mit dem Coronavirus infizieren. Laut https://twitter.com/CJEMetcalf/status/1229792572513669121?s=20 werden aufgrund der besonders alten Bevölkerung in Deutschland davon 4% sterben. Das ergibt 80 Millionen*0.7*0.04 = 2,24 Millionen Tote in Deutschland durch den Coronavirus.
@@ -28,4 +38,3 @@ Also es macht Sinn sich doppelt soviel Sorgen um den Coronavirus zu machen wie u
 > ## [Experte erwartet 60 bis 70 Prozent Infizierte in Deutschland](https://www.sueddeutsche.de/gesundheit/krankheiten-experte-erwartet-60-bis-70-prozent-infizierte-in-deutschland-dpa.urn-newsml-dpa-com-20090101-200228-99-108884)
 >
 >In Deutschland werden sich nach Ansicht eines Experten viele Menschen mit dem neuen Coronavirus anstecken. "Es werden sich wahrscheinlich 60 bis 70 Prozent...
-

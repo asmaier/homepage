@@ -2,20 +2,30 @@
 title: '"Die G-20 müsse sich darauf ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-09-10
-lastmod: 2023-09-10T23:20:25+02:00
+lastmod: 2023-09-10 23:20:25+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- g-20
+- steuerpolitik
+- globale kooperation
+- ungleichheit
+- reichtum
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Die G-20 müsse sich darauf einigen, die Steuern für Reiche zu erhöhen, fordern die Unterzeichner und Unterzeichnerinnen. Es seien dringend Maßnahmen erforderlich, um extremen Reichtum zu verhindern. Eine stärkere Besteuerung von Vermögen würde „gefährliche Ausmaße der Ungleichheit“ verringern.
 ...
 Die fast 300 Personen fordern die G-20 auf, die gleiche globale Kooperation zu zeigen, die sie bereits gezeigt habe, um sicherzustellen, dass multinationale Unternehmen ein Mindeststeuerniveau zahlen. Nach diesem Vorbild solle man sich nun gemeinsam auf die Besteuerung von Vermögen einigen, so die Forderung."
@@ -26,4 +36,3 @@ Wenn schon Vermögende eine Vermögenssteuer fordern, dann sollten wir ihnen die
 > ## [Offener Brief: Reiche fordern global höhere Reichensteuer](https://orf.at/stories/3330007/)
 >
 >In einem offenen Brief fordern fast 300 Millionäre und Millionärinnen, Ökonominnen und Ökonomen sowie Politiker und Politikerinnen kurz vor dem G-20-Gipfel in der indischen Hauptstadt Neu-Delhi am Wochenende die G-20 auf, die Steuern für Reiche zu erhöhen. Das berichtete der britische „Guardian“ am Dienstag. Schnelles Handeln sei nötig, damit extremer Reichtum nicht „unsere kollektive Zukunft zersetzt“, heißt es in dem Statement.
-

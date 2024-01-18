@@ -1,21 +1,31 @@
 ---
-title: 'Berlin mal wieder unter den ...'
+title: Berlin mal wieder unter den ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-03-21
-lastmod: 2021-03-21T15:13:29+01:00
+lastmod: 2021-03-21 15:13:29+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- transparenz
+- bundesländer
+- lobbyismus
+- korruption
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Berlin mal wieder unter den letzen drei und das trotz jahrzehntelanger Rot-Rot-Grüner Regierung.  Allerdings sind auch alle anderen Bundesländer geradezu beschämend schlecht aufgestellt.  Ist schon unsere Bundesregierung nicht wirklich ein Vorbild was Transparenz angeht, sind die Landesregierungen geradezu Paradiese für korrupte Politiker (siehe https://lobbyranking.de/):
 
 Kein Bundesland außer Thüringen hat "Inhaltliche und chronologische Aufzeichnung der Entstehung einer Gesetzesvorlage sowie Nennung der an der Entstehung Beteiligten und ihrer Beiträge" (sog. Legislativer Fußabdruck). 
@@ -32,4 +42,3 @@ Gibt es in Deutschland eigentlich irgendeine Partei, die sich der Transparenz ve
 > ## [Erstes „Lobbyranking der Bundesländer” vorgestellt](https://www.transparency.de/aktuelles/detail/article/lobbyranking-der-bundeslaender-vorgestellt/)
 >
 >Transparency Deutschland kritisiert flächendeckend unzureichende Lobbyregeln
-

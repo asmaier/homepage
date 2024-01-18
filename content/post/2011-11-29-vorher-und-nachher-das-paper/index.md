@@ -2,20 +2,30 @@
 title: 'Vorher und Nachher: Das Paper ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-11-29
-lastmod: 2011-11-29T17:35:31+01:00
+lastmod: 2011-11-29 17:35:31+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verbraucherschutz
+- design
+- digitale bildbearbeitung
+- computergrafik
+- fotografie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- english
 ---
+
 Vorher und Nachher:
 
 http://www.cs.dartmouth.edu/farid/downloads/publications/pnas11/
@@ -29,4 +39,3 @@ Ziemlich interessant.
 > ## [Photoshopped or Not? A Tool to Tell (Published 2011)](http://www.nytimes.com/2011/11/29/technology/software-to-rate-how-drastically-photos-are-retouched.html)
 >
 >A proposed software tool is intended to address concerns about the prevalence of highly idealized and digitally edited images in advertising and fashion magazines.
-

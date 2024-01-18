@@ -2,20 +2,30 @@
 title: '"Eine schottische Pensionärin scheint eine ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-29
-lastmod: 2019-03-29T10:10:39+01:00
+lastmod: 2019-03-29 10:10:39+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wundheilung
+- altersfragen
+- schmerzlinderung
+- medizin
+- superhelden
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Eine schottische Pensionärin scheint eine Menge mit Superhelden aus aktuellen Marvel-Filmen gemein zu haben. Die alte Dame spürt kaum Schmerzen und weist eine extrem starke Fähigkeit zur Heilung von Verletzungen auf."
 
 Was könnte ihr Superheldenname sein? Iron Oma ? ;-)
@@ -24,4 +34,3 @@ Was könnte ihr Superheldenname sein? Iron Oma ? ;-)
 > ## [Genetische Mutation führt bei älterer Patientin zu extrem schneller Wundheilung – Sie hat weder Schmerzen noch Angst](https://www.heilpraxisnet.de/naturheilpraxis/mutationsgen-patientin-hat-tatsaechlich-eine-extreme-wundheilung-und-keine-schmerzen-20190328447584)
 >
 >Wie eine Mutation vor Schmerzen, Wunden und Ängsten schützen kann Eine schottische Pensionärin scheint eine Menge mit Superhelden aus aktuellen
-

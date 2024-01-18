@@ -1,21 +1,31 @@
 ---
-title: 'Diese Erkenntnis aus dem Artikel ...'
+title: Diese Erkenntnis aus dem Artikel ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-02-17
-lastmod: 2019-02-17T22:39:42+01:00
+lastmod: 2019-02-17 22:39:42+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- semco
+- arbeitsrecht
+- führungskräfte
+- betriebsrat
+- machiavelli
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Diese Erkenntnis aus dem Artikel ist nicht neu, z.B. gibt es da das großartige Buch
 
 Managment and Machiavelli: A Prescription for Success in Your Business 
@@ -33,5 +43,4 @@ Jeder sollte darüber lesen.
 > zeit.de
 > ## [Elizabeth Anderson: "Die moderne Firma ist eine Diktatur"](https://www.zeit.de/arbeit/2019-02/elizabeth-anderson-unternehmenskultur-egalitarismus-diktatur)
 >
->Wir leben in einer Demokratie und verlassen sie jeden Tag, wenn wir ins Büro gehen: Die Philosophin Elizabeth Anderson prangert die Arbeitswelt als Tyrannei an. 
-
+>Wir leben in einer Demokratie und verlassen sie jeden Tag, wenn wir ins Büro gehen: Die Philosophin Elizabeth Anderson prangert die Arbeitswelt als Tyrannei an.

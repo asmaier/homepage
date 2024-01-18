@@ -2,20 +2,30 @@
 title: '"Auch fast sechzig Jahre nach ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-18
-lastmod: 2021-05-18T12:37:04+02:00
+lastmod: 2021-05-18 12:37:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- deutsche schulbildung
+- computergeschichte
+- programmierung
+- informatik in bildung
+- weltweites internet
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Auch fast sechzig Jahre nach Erfindung des Computers und dreißig Jahre nach Gründung des World Wide Webs spielt die Informatik in deutschen Schulen kaum eine Rolle."
 
 Also ich bin damals (Ende der 90er auf einem bayrischen Gymnasium) in den freiwilligen Nachmittagsunterricht Informatik gegangen. Da gab es 8088 IBM-PCs, die waren schon Mitte der 90er 10 Jahre alt. Gelernt habe ich nix, außer dass mein Computer zuhause viel, viel besser und moderner war. War aber auch egal, denn Noten gab es sowieso nicht im freiwilligen Unterricht. Stattdessen musste man sich Sorgen um die Noten in wichtigeren Fächern wie Religion, Kunst oder Musik machen (Auf einem naturwissenschaftlich-technischen Gymnasium!). 
@@ -26,4 +36,3 @@ Offenbar hat sich seitdem wenig geändert. Wobei ich eigentlich nicht der Meinun
 > ## [GI: Informatik spielt in deutschen Schulen kaum eine Rolle](https://www.heise.de/news/GI-Informatik-spielt-in-deutschen-Schulen-keine-Rolle-5988207.html)
 >
 >Die Landkarte der Informatikbildung präsentiert sich für die Gesellschaft für Informatik als Flickenteppich. Auch würde zu oberflächlich gelehrt.
-

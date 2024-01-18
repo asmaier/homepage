@@ -2,20 +2,30 @@
 title: '"Interesting: @Stanovaya says her source ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-03-03
-lastmod: 2022-03-03T22:47:19+01:00
+lastmod: 2022-03-03 22:47:19+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- donbasskonflikt
+- vorschläge zur beilegung des konflikts
+- russisch-ukrainischer krieg
+- wirtschaftliche auswirkungen des russisch-ukrainischen kriegs
+- krimannexion
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Interesting: @Stanovaya says her source claims Russia’s economic lib bloc wants to offer to “buy” Crimea & the Donbas from Kyiv for $150 billion (and in exchange for ending the war). She says Putin won’t agree, but this behind-doors debate is significant."
 
 https://twitter.com/KevinRothrock/status/1499440746830737412
@@ -30,4 +40,3 @@ Aber Putin ist halt KGBler. Der versteht nix von Wirtschaft. Der kennt nur Propa
 > ## [Kevin Rothrock (@KevinRothrock) on X](https://twitter.com/KevinRothrock/status/1499440746830737412)
 >
 >Interesting: @Stanovaya says her source claims Russia’s economic lib bloc wants to offer to “buy” Crimea &amp; the Donbas from Kyiv for $150 billion (and in exchange for ending the war). She says Putin won’t agree, but this behind-doors debate is significant. https://t.co/RklarUfFTP
-

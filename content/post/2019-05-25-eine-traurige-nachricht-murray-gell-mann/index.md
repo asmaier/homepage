@@ -2,20 +2,30 @@
 title: 'Eine traurige Nachricht: Murray Gell-Mann ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-25
-lastmod: 2019-05-25T23:15:49+02:00
+lastmod: 2019-05-25 23:15:49+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- theoretische physik
+- quantenphysik
+- 20ter jahrhundert
+- physiker
+- nobelpreisträger
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Eine traurige Nachricht: Murray Gell-Mann ist gestern gestorben. Murray Gell-Mann war vielleicht nach Wolfgang Pauli und Albert Einstein der größte Physiker des 20ten Jahrhunderts. Ich kann jedem nur empfehlen sein Buch zu lesen: 
 
 Gell-Mann: Quark and Jaguar : https://www.amazon.de/Quark-Jaguar-Adventures-Simple-Complex/dp/0805072535/?tag=maierandi-21 
@@ -43,4 +53,3 @@ RIP
 > ## [Blogger](https://motls.blogspot.com/2019/05/murray-gell-mann-1929-2019.html)
 >
 >Weblog-Publishing-Tool von Google zum Teilen von Text, Fotos und Videos.
-

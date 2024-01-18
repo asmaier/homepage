@@ -1,20 +1,29 @@
 ---
-title: 'Diese Nachricht habe ich auf ...'
+title: Diese Nachricht habe ich auf ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-07-29
-lastmod: 2011-07-29T20:57:44+02:00
+lastmod: 2011-07-29 20:57:44+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- nachrichtenwebsites
+- google+
+- soziale medien
+- internetforen
+- online-plattformen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
-Diese Nachricht habe ich auf Google+ geschrieben...
 
+Diese Nachricht habe ich auf Google+ geschrieben...

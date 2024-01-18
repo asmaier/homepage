@@ -1,21 +1,31 @@
 ---
-title: 'Wer schon immer mal wissen ...'
+title: Wer schon immer mal wissen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-10-10
-lastmod: 2011-10-10T20:05:26+02:00
+lastmod: 2011-10-10 20:05:26+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- sicherheit
+- recht
+- datenschutz
+- informatik
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Wer schon immer mal wissen wollte, warum am Flughafen immer der Laptop kontrolliert wird:
 "Bei dem Landshuter Ermittlungsverfahren installierten Ermittler das Spähprogramm wohl bei einer Kontrolle am Flughafen - Zollbeamte nahmen das Laptop des später Überwachten kurz in einen Nebenraum mit." 
 
@@ -25,4 +35,3 @@ Das schafft doch Vertrauen in den Staat!
 > ## [Überwachungssoftware: Der Staatstrojaner kommt aus Bayern](http://www.spiegel.de/netzwelt/netzpolitik/0,1518,790960,00.html)
 >
 >Bayerns Innenminister Herrmann bestätigt, dass vom Chaos Computer Club analysierte Schüffelsoftware von bayerischen Behörden eingesetzt wurde. Das dürfte noch für einige Verwerfungen sorgen, denn die Software enthält Funktionen, die als verfassungswidrig eingestuft werden können.
-

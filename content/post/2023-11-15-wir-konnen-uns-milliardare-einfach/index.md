@@ -2,20 +2,30 @@
 title: '"Wir können uns Milliardäre einfach ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-11-15
-lastmod: 2023-11-15T10:59:56+01:00
+lastmod: 2023-11-15 10:59:56+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- scheidungen
+- superreiche
+- vermögenssteuer
+- milliardäre
+- reichtum
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Wir können uns Milliardäre einfach nicht mehr leisten."
 
 "Wie aber lassen sich die Milliardäre ärmer machen? ...
@@ -27,4 +37,3 @@ Das ist eine potentielle Möglichkeit. Im Moment aber ist ironischerweise die ei
 > ## [Elon Musk, Bill Gates und Co: "Das macht Superreiche so gefährlich"](https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100278162/milliardaere-wie-elon-musk-und-bill-gates-das-macht-superreiche-gefaehrlich-.html)
 >
 >Die Zahl der Milliardäre wächst, Superreiche werden als Genies der Technologie und des Finanzmarkts zugleich verehrt. Journalistin Heike Buchter zweifelt am Mythos – und fürchtet um die Demokratie.
-

@@ -2,20 +2,30 @@
 title: '""" Facts. Snowden’s top 5 ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-11-07
-lastmod: 2015-11-07T23:14:55+01:00
+lastmod: 2015-11-07 23:14:55+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- signal
+- off the record
+- qubes
+- tor
+- tails os
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 """
 Facts. Snowden’s top 5 secure programs
 
@@ -31,4 +41,3 @@ Operative system specifically for integrity issues. Can be carried on a USB-stic
 Operative system for the person who really cares about their security. Qubes splits the system’s parts and isolates them from each other, as if you had a computer for every program you were running, so that a security problem in one program will not affect other programs.
 """﻿
 > http://fokus.dn.se/edward-snowden-english
-

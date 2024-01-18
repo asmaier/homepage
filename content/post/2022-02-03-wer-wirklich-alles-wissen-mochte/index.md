@@ -1,21 +1,31 @@
 ---
-title: 'Wer wirklich alles wissen möchte ...'
+title: Wer wirklich alles wissen möchte ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-03
-lastmod: 2022-02-03T18:09:30+01:00
+lastmod: 2022-02-03 18:09:30+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- gasbeziehungen
+- handel
+- pipelines
+- russland
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Wer wirklich alles wissen möchte über die deutsch-russischen Gasbeziehungen, dem kann ich den PDF-Artikel von Andreas Metz vom Ostausschuss empfehlen: https://www.ost-ausschuss.de/sites/default/files/pm_pdf/Special%2050%20Jahre%20R%C3%B6hren%20gegen%20Gas.pdf
 
 Da steht wirklich alles zu dem Thema. Wer glaubt, Deutschland hätte erst mit Schröder begonnen Gas aus Russland zu kaufen, der irrt. Das Thema geht zurück bis in die 50er des letzten Jahrhunderts. Und schon damals gab es ein Embargo der USA gegen deutsche Firmen, damit sie nicht weiter Pipelines bauen: https://de.wikipedia.org/wiki/R%C3%B6hren-Embargo
@@ -31,4 +41,3 @@ Aber was man bei diesem Streit auch oft vergisst: Außer Gas werden noch erhebli
 > ## [50 Jahre Röhren gegen Erdgas | Ost-Ausschuss der Deutschen Wirtschaft](https://www.ost-ausschuss.de/de/50-jahre-roehren-gegen-erdgas)
 >
 >Am 6. Juli 1970, also fast genau vor 50 Jahren, wurde in Mülheim an der Ruhr das erste Pipeline-Rohr aus deutscher Produktion für das erste deutsch-sowjetische Erdgas-Röhrengeschäft ausgeliefert. Aus Anlass dieses Jubiläums haben wir die Geschichte der Erdgas-Röhrengeschäfte in einem 15-seitigen Sonderbeitrag nachgezeichnet, der im neuen Jahrbuch 2020 des OAOEV enthalten ist. Der Beitrag zeigt, dass die derzeitigen US-Sanktionen gegen Nord Stream 2 nur ein neues Kapitel in einer langen deutsch-amerikanischen Sanktions-Geschichte sind. Anfang der 1980er Jahre drohten US-Sanktionen beispielsweise das Jamal-Projekt, eine bis heute genutzte Verbindungspipeline durch Belarus und Polen, zu verhindern. Viele Argumente, die bereits in den 1950er bis 1980er Jahren in der Diskussion waren, sind weiterhin aktuell.
-

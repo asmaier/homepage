@@ -2,20 +2,30 @@
 title: '"DarkSide, like a great many ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-18
-lastmod: 2021-05-18T09:32:19+02:00
+lastmod: 2021-05-18 09:32:19+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ransomware
+- sicherheit
+- russland
+- cyberangreifer
+- malware
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- english
 ---
+
 "DarkSide, like a great many other malware strains, has a hard-coded do-not-install list of countries which are the principal members of the Commonwealth of Independent States (CIS) — former Soviet satellites that all currently have favorable relations with the Kremlin... Simply put, countless malware strains will check for the presence of one of these languages on the system, and if they’re detected the malware will exit and fail to install."
 
 Die dunkle Seite installiert keine Malware auf der dunklen Seite!
@@ -28,4 +38,3 @@ Solche hardgecodeden Einschränkungen der Malware sind auch ziemlich offensichtl
 > ## [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 >
 >In a Twitter discussion last week on ransomware attacks, KrebsOnSecurity noted that virtually all ransomware strains have a built-in failsafe designed to cover the backsides of the malware purveyors: They simply will not install on a Microsoft Windows computer that…
-

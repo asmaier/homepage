@@ -1,21 +1,31 @@
 ---
-title: 'Forscher der ETH Zürich haben ...'
+title: Forscher der ETH Zürich haben ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-10-26
-lastmod: 2011-10-26T19:52:32+02:00
+lastmod: 2011-10-26 19:52:32+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- globalisierung
+- unternehmen
+- banken
+- finanzmärkte
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Forscher der ETH Zürich haben aus den Daten von über 40000 Firmen weltweit einen Abhängigkeitsgraphen erstellt und analysiert. Das Ergebnis: 50 Banken/Firmen kontrollieren 40% der Weltwirtschaft (bzw. kontrollierten, die Daten sind von 2007). Diese 50 sind
 
 1. Barclays plc
@@ -88,4 +98,3 @@ Alles keine wirkliche Überraschung, aber damit ist wissenschaftlich bestätigt,
 > ## [Revealed – the capitalist network that runs the world](http://www.newscientist.com/article/mg21228354.500-revealed--the-capitalist-network-that-runs-the-world.html)
 >
 >As anti-capitalist protesters take to the streets, mathematics has teased apart the global economic network to show who's really pulling the strings
-

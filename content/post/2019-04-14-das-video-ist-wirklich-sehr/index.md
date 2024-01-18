@@ -1,21 +1,31 @@
 ---
-title: 'Das Video ist wirklich sehr ...'
+title: Das Video ist wirklich sehr ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-04-14
-lastmod: 2019-04-14T20:58:31+02:00
+lastmod: 2019-04-14 20:58:31+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- event horizon telescope
+- astrophysics
+- black holes
+- video reconstruction
+- interferometry
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das Video ist wirklich sehr anschaulich und stellt die wesentlichen Ideen gut dar. Ich kann es jedem empfehlen.
 
 Ihr neuestes Paper spricht übrigens nicht mehr nur von einem Bild, sondern es geht um Videoaufnahmen von Schwarzen Löchern
@@ -29,4 +39,3 @@ Nur falls sich jemand fragt, was wohl als nächstes kommt. Das Problem mit dem S
 > ## [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
 >
 >At the heart of the Milky Way, there's a supermassive black hole that feeds off a spinning disk of hot gas, sucking up anything that ventures too close -- ev...
-

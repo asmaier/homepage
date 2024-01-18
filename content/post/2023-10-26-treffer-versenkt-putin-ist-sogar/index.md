@@ -1,21 +1,31 @@
 ---
-title: 'Treffer, versenkt! Putin ist sogar ...'
+title: Treffer, versenkt! Putin ist sogar ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-10-26
-lastmod: 2023-10-26T22:50:35+02:00
+lastmod: 2023-10-26 22:50:35+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- israel
+- terroranschläge
+- russland
+- hamas
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Treffer, versenkt!
 
 Putin ist sogar noch zynischer. Nach tschetschenischen Terroranschlägen hat Russland damals Grozny in Schutt und Asche gelegt. Das der sich jetzt als großer Humanist hinstellt und jetzt auch noch die Hamas nach Moskau einlädt dürften ihm die Israelis nicht vergessen.
@@ -24,4 +34,3 @@ Putin ist sogar noch zynischer. Nach tschetschenischen Terroranschlägen hat Rus
 > ## [Mann, der regelmäßig Kurden bombardieren lässt, fordert von Israel Schutz von Zivilisten](https://www.der-postillon.com/2023/10/erdogan.html)
 >
 >Ankara (dpo) - Er hat einfach ein Herz für Zivilisten: Der Mann, der aktuell wie schon seit Jahren die Kurden in Nordsyrien bombardieren lässt, kritis
-

@@ -1,24 +1,32 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T23:02:35+02:00"
+lastmod: '2019-10-19T23:02:35+02:00'
 projects: []
 slug: quantum-entanglement
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
+- experimentelle physik
+- paradoxon
 - physics
+- entangled photons
+- quantumphysik
+- informationstheorie
 title: Quantum entanglement
+year: '2008'
+languages:
+- english
 ---
+
 > Before the measurement the positions of the photons in space are not defined,
 > thus the distance between them also makes no sense and without distance one
 > cannot really speak about the speed of information transfer. So IMO finding the

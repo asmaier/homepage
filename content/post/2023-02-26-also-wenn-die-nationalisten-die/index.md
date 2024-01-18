@@ -1,21 +1,31 @@
 ---
-title: 'Also wenn die "Nationalisten" die ...'
+title: Also wenn die "Nationalisten" die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-02-26
-lastmod: 2023-02-26T21:41:25+01:00
+lastmod: 2023-02-26 21:41:25+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- nationalismus
+- flüchtlinge
+- ukraine
+- sozialismus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Also wenn die "Nationalisten" die "Sozialisten" zu sich einladen, was ergibt das dann? Ganz genau! 
 
 Wagenknecht und die ganzen "keine Waffen für die Ukraine"-Demonstranten, sollten eigentlich spätestens an solchen Einladungen merken, dass sie völlig falsch abgebogen sind. 
@@ -30,4 +40,3 @@ Denn hätten sie das getan (und ich habe das heute getan, ich habe einen Bekannt
 > ## [Björn Höcke lädt Sahra Wagenknecht in die AfD ein](https://www.spiegel.de/politik/bjoern-hoecke-laedt-sahra-wagenknecht-in-die-afd-ein-a-824cfbca-b228-438b-b3f7-bdf8bce98695)
 >
 >Selbst für AfD-Verhältnisse steht Björn Höcke weit rechts, nun hat er die Linkenpolitikerin Sahra Wagenknecht auf einer Demonstration zur Zusammenarbeit aufgefordert. Sein Publikum jubelte.
-

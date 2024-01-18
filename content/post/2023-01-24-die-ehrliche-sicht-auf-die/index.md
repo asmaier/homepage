@@ -1,21 +1,31 @@
 ---
-title: 'Die ehrliche Sicht auf die ...'
+title: Die ehrliche Sicht auf die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-01-24
-lastmod: 2023-01-24T17:59:47+01:00
+lastmod: 2023-01-24 17:59:47+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- drohnen
+- raketenpanzerbewaffnung
+- lufthoheit
+- ukrainischer krieg
+- panzer
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Die ehrliche Sicht auf die Lage in der Ukraine ist alles andere als rosig.  
 https://www.youtube.com/watch?v=u33XktOuSNk
 https://www.youtube.com/watch?v=EnVMJGrNqAY
@@ -28,4 +38,3 @@ Unsere Politiker und Medien sollten besser mal schnell die rosarote Brille abneh
 > ## [Oberst: Ukraine läuft für Offensive die Zeit davon | ntv](https://www.youtube.com/watch?v=u33XktOuSNk)
 >
 >Militärbeobachter rechnen in der Ukraine damit, dass die Kämpfe schon bald in eine entscheidende Phase kommen könnten. Oberst Markus Reisner vom Generalstab ...
-

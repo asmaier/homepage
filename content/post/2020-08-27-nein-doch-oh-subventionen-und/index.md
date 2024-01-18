@@ -1,21 +1,31 @@
 ---
-title: 'Nein, doch, oh! Subventionen und ...'
+title: Nein, doch, oh! Subventionen und ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-08-27
-lastmod: 2020-08-27T16:00:01+02:00
+lastmod: 2020-08-27 16:00:01+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- kaufprämien
+- subventionen
+- elektroauto
+- nachfrage
+- co2-steuer
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Nein, doch, oh!
 
 Subventionen und Kaufprämien erhöhen die Anzahl verkaufter E-Autos? Hätte uns das nur jemand früher gesagt! Es konnte ja niemand ahnen, dass sich das bei uns genauso auswirken wird wie z.B. in Norwegen. 
@@ -26,4 +36,3 @@ Womöglich würde eine höhere CO2-Steuer sich in Deutschland auch so auswirken 
 > ## [Unerwartete E-Auto-Nachfrage: BMW und VW ändern Strategie](https://www.heise.de/hintergrund/Unerwartete-E-Auto-Nachfrage-BMW-und-VW-aendern-Strategie-4879938.html)
 >
 >BMW i3 und VW e-Golf sind gefragter als je zuvor. Nun erhöhen beide Hersteller die Produktionszahlen.
-

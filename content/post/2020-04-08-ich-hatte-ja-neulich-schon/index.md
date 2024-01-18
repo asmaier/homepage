@@ -1,21 +1,31 @@
 ---
-title: 'Ich hatte ja neulich schon ...'
+title: Ich hatte ja neulich schon ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-08
-lastmod: 2020-04-08T10:55:39+02:00
+lastmod: 2020-04-08 10:55:39+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politics
+- health
+- coronavirus pandemic
+- belarus
+- education
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ich hatte ja neulich schon die absurde Situation in Russland beschrieben, die inzwischen auch von der Tagesschau beleuchtet wurde. Aber in Weißrussland ist alles noch viel schlimmer: https://www.dekoder.org/de/article/belarus-corona-lukaschenko
 
 "
@@ -35,4 +45,3 @@ Massenveranstaltungen werden hingegen nicht abgesagt. Die Vorbereitungen zur Sie
 > ## [„Hier gibt es keine Viren“](https://www.dekoder.org/de/article/belarus-corona-lukaschenko)
 >
 >Stell dir vor, es ist Schule und keiner geht hin: Minsk-Korrespondent Denis Lawnikewitsch über den offiziellen und den inoffiziellen Umgang mit Corona in Belarus. / Quelle: The New Times
-

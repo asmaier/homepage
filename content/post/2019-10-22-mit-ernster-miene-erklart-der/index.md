@@ -2,20 +2,30 @@
 title: '"Mit ernster Miene erklärt der ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-22
-lastmod: 2019-10-22T14:07:01+02:00
+lastmod: 2019-10-22 14:07:01+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- stromversorgung
+- waldbrände
+- silicon valley
+- kernkraftwerk
+- erdbebengebiet
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Mit ernster Miene erklärt der Moderator, wie man einen Kühlschrank länger als vier Stunden ohne Strom kalt halten kann; wo man sein Smartphone auflädt, wenn man keine Akkupacks hat – "bitte nicht im Auto bei geschlossenem Garagentor!" – und wie man überhaupt ein Garagentor ohne Strom öffnen kann."
 
 Tja, wenn man Solarpanels auf dem Dach hat, wäre das alles kein Problem. Aber im sonnigen Kalifornien setzt man lieber auf Atomstrom im Erdbebengebiet: 
@@ -26,4 +36,3 @@ Tja, wenn man Solarpanels auf dem Dach hat, wäre das alles kein Problem. Aber i
 > ## [Stromversorgung vorsorglich gekappt: Mittelalter im Silicon Valley](https://www.derstandard.at/story/2000110004886/stromvorsorgliche-gekappt-mittelalter-im-silicon-valley)
 >
 >Nahe dem Silicon Valley steigt die Gefahr von Waldbränden. Vielerorts wurde vorsorglich der Strom abgestellt. Dort, wo die Zukunft gemacht wird, sollte man die Frage nach der Zukunftsfähigkeit der Infrastruktur stellen
-

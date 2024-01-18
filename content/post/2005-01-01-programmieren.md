@@ -1,24 +1,32 @@
 ---
 author: admin
 authors: []
-date: "2005-01-01"
+date: '2005-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-09-27T21:04:47+02:00"
+lastmod: '2019-09-27T21:04:47+02:00'
 projects: []
 slug: programmieren
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_website
-- deutsch
 tags:
+- bücher
+- fortran
+- java
+- programmierung
+- c++
 - computer
 title: Programmieren
+year: '2005'
+languages:
+- deutsch
 ---
+
 <p> Wer gerne wissen möchte, welche Bücher "Profis" (Wissenschaftler und Co. ;-) ) zum 
 programmieren benutzen, der kann in <a href="http://scholar.google.com/" >Google Scholar</a> z.B. nach 
 <a href="http://scholar.google.com/scholar?q=Java&amp;amp;hl=en&amp;lr=&amp;btnG=Search" >Java</a>, 

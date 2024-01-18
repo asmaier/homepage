@@ -2,20 +2,30 @@
 title: '"Humor ist, wenn man trotzdem ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-01-28
-lastmod: 2023-01-28T16:18:52+01:00
+lastmod: 2023-01-28 16:18:52+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- krieg
+- zois spotlight
+- humor
+- waffe
+- ukraine
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Humor ist, wenn man trotzdem lacht!" 
 
 -- Otto Julius Bierbaum
@@ -24,4 +34,3 @@ slug: ''
 > ## [Ukraine: Humor als Waffe im Krieg](https://www.zois-berlin.de/publikationen/zois-spotlight/ukraine-humor-als-waffe-im-krieg)
 >
 >ZOiS Spotlight 2/2023 von Orest Semotiuk
-

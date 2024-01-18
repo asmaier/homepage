@@ -1,21 +1,31 @@
 ---
-title: 'Es macht normalerweise keinen Spaß ...'
+title: Es macht normalerweise keinen Spaß ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-06-03
-lastmod: 2023-06-03T15:35:21+02:00
+lastmod: 2023-06-03 15:35:21+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politische satire
+- ukrainisch-russischer konflikt
+- trolling
+- referendum
+- belgorod (region)
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Es macht normalerweise keinen Spaß derzeit Nachrichten aus der Ukraine zu lesen. Aber bei dieser konnte ich eine gewisse Schadenfreude nicht unterdrücken. Offenbar haben die, nennen wir sie mal "russische Freischärler auf Seiten der Ukraine", nicht nur erfolgreich die Region Belgorod in Russland angegriffen. Nein, sie haben dort per gehacktem Radio auch die frohe Botschaft verkündet, dass es morgen zu einem Referendum kommen würde, in dem über die Unabhängigkeit der Region Belgorod von Russland abgestimmt werden wird. 
 
 https://www.youtube.com/watch?v=USR8GWFh0OA
@@ -32,4 +42,3 @@ https://euromaidanpress.com/2023/06/03/frontline-report-russian-insurgents-imita
 > ## [02 Jun: Finally! Russian Citizens Informed When to Vote | War in Ukraine Explained](https://www.youtube.com/watch?v=USR8GWFh0OA)
 >
 >✅ Go to https://ground.news/rfu to know where your news is coming from and see through media bias.✅ Sign up for free or subscribe through my link before June...
-

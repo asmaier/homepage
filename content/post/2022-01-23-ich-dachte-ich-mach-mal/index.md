@@ -1,21 +1,31 @@
 ---
-title: 'Ich dachte ich mach mal ...'
+title: Ich dachte ich mach mal ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-01-23
-lastmod: 2022-01-23T17:03:07+01:00
+lastmod: 2022-01-23 17:03:07+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- apps
+- mobile phones
+- urban planning
+- public transportation
+- carsharing
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Ich dachte ich mach mal Car-Sharing wie die ganzen Hipster hier in Berlin: 
 
 Ich installiere die App von WeShare: Stürzt beim Start ab.
@@ -27,4 +37,3 @@ Also irgendwie wird das so nix mit der Verkehrsrevolution liebe CarSharing-Anbie
 Als Nutzer habe ich mit der App fast nur Nachteile gegenüber einem simplen Telefonanruf. Selbst ein WhatsAppChat (Igitt) wäre oft schneller als eine App. Und das gilt für Taxi-Apps, Lieferservice-Apps und CarSharingApps gleichermaßen.
 
 Es ist eigentlich ein Wunder, dass soviel in Deutschland trotzdem diese Apps nutzen. Ich behaupte, dass liegt daran, dass die Deutschen gar nicht so technikfeindlich sind wie man ihnen nachsagt. Der Grund warum viele "moderne, digitale Dienstleitungen" in Deutschland nicht so angenommen werden liegt meines Erachtens viel mehr bei den Anbietern selbst, die den Kunden nach Strich und Faden ausquetschen und mit bürokratischen und technischen Hindernissen gängeln, statt sich mal zu überlegen, wie sie ihre Dienstleitung kundenfreundlicher anbieten könnten.
-

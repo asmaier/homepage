@@ -1,21 +1,31 @@
 ---
-title: 'Gestern kam ich aus dem ...'
+title: Gestern kam ich aus dem ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-07-24
-lastmod: 2021-07-24T18:21:47+02:00
+lastmod: 2021-07-24 18:21:47+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- impfpass
+- regierung
+- covid-19
+- digitalisierung
+- reise
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Gestern kam ich aus dem Urlaub in Griechenland zurück. Um aus diesem Risikogebiet nach Deutschland einzureisen muß man unter https://www.einreiseanmeldung.de/ eine digitale Einreiseanmeldung ausfüllen.
 
 Da ich natürlich als vorbildlicher Staatsbürger einen digitalen Impfpass besitze und mit der https://www.digitaler-impfnachweis-app.de/ verwalte, dachte ich, das sollte doch eigentlich ganz einfach sein.
@@ -37,4 +47,3 @@ Wer zur Hölle denkt sich so einen Schwachsinn aus? Und wieso glaubt unser Regie
 > ## [Digitales COVID-Zertifikat der EU](https://www.digitaler-impfnachweis-app.de/)
 >
 >Die Europäische Union hat im Jahr 2021 zur Vereinfachung von Reisen in Europa mit dem digitalen COVID-Zertifikat einen von allen 27 EU-Mitgliedsstaaten anerkannten Nachweis über eine Impfung, eine Genesung oder eine negative Testung von COVID-19 eingeführt.
-

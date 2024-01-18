@@ -1,21 +1,31 @@
 ---
-title: 'Schon krass. Einzig die Strecken ...'
+title: Schon krass. Einzig die Strecken ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-04-16
-lastmod: 2019-04-16T12:21:36+02:00
+lastmod: 2019-04-16 12:21:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- autobahnen
+- ice
+- tgv
+- bahnverkehr
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Schon krass. Einzig die Strecken Köln - Frankfurt und Hamburg - Berlin sind durchgehend Hochgeschwindigkeitstrassen für Züge in Deutschland. Man stelle sich den Aufschrei der Autolobby vor, wenn es nur Autobahnen zwischen Köln und Frankfurt und Hamburg und Berlin gäbe. 
 
 Zum Vergleich hier mal die Karte der deutschen Autobahnen: https://commons.wikimedia.org/wiki/File:Deutschland_Autobahnen.svg#/media/File:Deutschland_Autobahnen.svg
@@ -24,4 +34,3 @@ Zum Vergleich hier mal die Karte der deutschen Autobahnen: https://commons.wikim
 > ## [ICE versus TGV: Warum deutsche Schnellzüge deutlich langsamer sind](https://www.spiegel.de/reise/deutschland/ice-versus-tgv-warum-deutsche-schnellzuege-deutlich-langsamer-sind-a-1259209.html)
 >
 >Theoretisch könnte der ICE der Deutschen Bahn mit bis zu 300 km/h durchs Land rasen. Tatsächlich schleicht er die meiste Zeit über die Gleise. Der Vergleich mit dem französischen TGV zeigt die Gründe.
-

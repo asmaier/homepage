@@ -1,21 +1,31 @@
 ---
-title: 'Good News Everyone! "„Photovoltaik ist ...'
+title: Good News Everyone! "„Photovoltaik ist ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-22
-lastmod: 2020-09-22T17:21:11+02:00
+lastmod: 2020-09-22 17:21:11+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- stromerzeugung
+- energiepolitik
+- klimawandel
+- photovoltaik
+- erneuerbare energien
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Good News Everyone!
 
 "„Photovoltaik ist inzwischen wirklich allgegenwärtig und ein weltweites Phänomen“"
@@ -28,4 +38,3 @@ Good News Everyone!
 > ## [Studie: Solar, Wind und Wasser bei 75 Prozent der weltweiten Strom-Neukapazität](https://www.heise.de/hintergrund/Studie-Solar-Wind-und-Wasser-bei-75-Prozent-der-weltweiten-Strom-Neukapazitaet-4904596.html)
 >
 >Weltweit wird neue Strom-Kapazität inzwischen weit überwiegend mit erneuerbaren Quellen geschaffen – aber ärmere Länder bauen immer noch auch Kohle-Kraftwerke.
-

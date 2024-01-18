@@ -1,21 +1,31 @@
 ---
-title: 'Ein typisches Verhalten wie von ...'
+title: Ein typisches Verhalten wie von ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-19
-lastmod: 2020-09-19T22:16:03+02:00
+lastmod: 2020-09-19 22:16:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- marktstrategie
+- tesla
+- elektroautos
+- vater staat
+- autoindustrie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ein typisches Verhalten wie von bockigen kleinen Kindern. 
 
 Autoindustrie: "Papa Staat, ich will aber keine Elektroautos verkaufen". 
@@ -35,4 +45,3 @@ Vater Staat: "Hmmpf!!"
 > ## [Fahren VW, BMW & Co das Elektroauto gegen die Wand? Abzocke an der Ladesäule?](https://www.youtube.com/watch?v=FnYgDzcAKJ0)
 >
 >Anders als Tesla schaffen es VW, Audi, BMW, Daimler und Co. nicht, Ladesäulen aufzubauen, bei denen man ihre Autos komfortabel und zu vernünftigen Preisen au...
-

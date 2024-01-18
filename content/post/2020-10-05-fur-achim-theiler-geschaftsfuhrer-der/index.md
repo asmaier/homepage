@@ -2,20 +2,30 @@
 title: '"Für Achim Theiler, Geschäftsführer der ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-10-05
-lastmod: 2020-10-05T10:17:33+02:00
+lastmod: 2020-10-05 10:17:33+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- importabhängigkeit
+- wirtschaftspolitik
+- medizinische schutzausrüstung
+- versorgungsengpässe
+- coronavirus-pandemie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Für Achim Theiler, Geschäftsführer der Franz Mensch GmbH und Händler für medizinische Schutzausrüstung, ist das unverständlich: "Das größte Problem bei der gesamten Sache ist für mich, dass es keinerlei 'Penalties' gegeben hat, das heißt keinerlei Repressalien, wenn derjenige nicht anliefert. Also konnte man anbieten, ohne dass man irgendwo ein Risiko eingegangen ist. Und das ist ein großes Problem. Weil ich erwarte, wenn ich eine Leistung anbiete, dass ich die auch einzuhalten habe.""
 
 "Unternehmensgröße, ISO-Zertifizierung, Erfahrung, Expertise mit Medizinprodukten – ist alles nicht abgefragt worden, es zählte nur der Preis."
@@ -24,4 +34,3 @@ slug: ''
 
 Geiz ist geil! denkt sich unsere Regierung wenn es um die Gesundheit geht. Aber für die Autoindustrie werden Kaufprämien in Milliardenhöhe  für veraltete Verbrenner diskutiert. Vielen Dank!
 > https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/swr/masken-ausschreibungen-100.html
-

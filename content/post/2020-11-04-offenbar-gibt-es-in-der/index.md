@@ -2,20 +2,30 @@
 title: '"Offenbar gibt es in der ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-11-04
-lastmod: 2020-11-04T17:51:56+01:00
+lastmod: 2020-11-04 17:51:56+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wirecard-skandal
+- deutsche finanzaufsicht
+- zuständigkeiten
+- eu-behörde
+- finanzaufsicht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Offenbar gibt es in der deutschen Finanzaufsicht ein großes Durcheinander bei den Zuständigkeiten, was im Ergebnis zu einem mangelnden Informationsaustausch und einem völlig ineffektiven Aufsichtshandeln führt", kommentierte der Sprecher der EVP-Fraktion im Wirtschafts- und Währungsausschuss im Europäischen Parlament, Markus Ferber. Die ESMA kritisiere zu Recht, "dass die BaFin alles andere als politisch unabhängig ist". Auch der Linken-Bundestagsabgeordnete Fabio De Masi mahnte: "Der politische Einfluss des Finanzministeriums auf die Finanzaufsicht muss eingeschränkt werden."
 
 Wenn dich die EU kritisiert für ein Durcheinander bei den Zuständigkeiten, dann hast du es wirklich verkackt.
@@ -25,4 +35,3 @@ Wenn dich die EU kritisiert für ein Durcheinander bei den Zuständigkeiten, dan
 >
 >Finanzminister und Finanzaufsicht mussten sich nach der Pleite des
 Dax-Aufsteigers Wirecard viel Kritik anhören. Ein Bericht von EU-Aufseher bekräftigt das.
-

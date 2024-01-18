@@ -2,20 +2,30 @@
 title: '"70 Prozent aller Heizungen die ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-06-12
-lastmod: 2022-06-12T23:53:04+02:00
+lastmod: 2022-06-12 23:53:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- heizungstechnologie
+- russland-ukraine-krieg
+- energieversorgung
+- klimawandel
+- öko-politik
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "70 Prozent aller Heizungen die wir 2021 eingebaut haben waren noch Gasheizungen. ... bei solchen Zahlen möchte ich am liebsten mit dem Kopf gegen die Wand hämmern"
 
 "ein Baustopp für neue Gasheizungen ja und Dänemark
@@ -39,4 +49,3 @@ https://www.youtube.com/watch?v=Ze7DzVinPNU
 > ## [#29 Raus mit allen Gasheizungen! Aber wie? | Das ist eine gute Frage PODCAST](https://www.youtube.com/watch?v=Ze7DzVinPNU)
 >
 >Durch das Verbrennen von Erdgas heizen wir der Klimakrise ein und finanzieren auch noch Russlands Krieg in der Ukraine. Darum brauchen wir möglichst sofort e...
-

@@ -2,20 +2,30 @@
 title: '"The report showed that the ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-07-03
-lastmod: 2022-07-03T22:47:24+02:00
+lastmod: 2022-07-03 22:47:24+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- unternehmensverantwortung
+- emissionsreduktion
+- klimawandel
+- nachhaltigkeit
+- klimaziele
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "The report showed that the companies surveyed would only cut their emissions by about 23% on average by 2030, falling far short of the figure of nearly halving in the next decade that scientists say is needed to limit global heating to 1.5C. "
 
 Fragt doch mal eure Firma für die ihr arbeitet, ob sie vorhat die CO2-Emissionen bis 2030 zumindest zu halbieren. Und wenn nein, warum nicht? 
@@ -28,4 +38,3 @@ P.S.: Die vollständige Studie gibt es unter https://www.newclimate.org/resource
 > ## [World’s biggest firms failing over net-zero claims, research suggests](https://www.theguardian.com/environment/2022/feb/06/amazon-ikea-nestle-biggest-carbon-net-zero-claims)
 >
 >Amazon, Ikea, Nestlé and others will fall short of promise to cut carbon by 100%, says NewClimate Institute
-

@@ -2,20 +2,30 @@
 title: '"Der Generalbundesanwalt hat einen Mitarbeiter ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-12-22
-lastmod: 2022-12-22T20:20:58+01:00
+lastmod: 2022-12-22 20:20:58+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- generalbundesanwalt
+- bnd
+- russland
+- geheimdienst
+- spionage
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Der Generalbundesanwalt hat einen Mitarbeiter des BND festnehmen lassen."
 
 https://www.tagesschau.de/inland/bnd-spionage-109.html
@@ -34,4 +44,3 @@ Das muß man sich mal vorstellen. Selbst Russland sagt, der Ukrainekrieg habe pr
 > ## [Mutmaßliche Spionage für Russland: BND-Mitarbeiter festgenommen](https://www.tagesschau.de/inland/bnd-spionage-109.html)
 >
 >Die Vorwürfe sind gravierend: Der Generalbundesanwalt hat einen Mitarbeiter des BND festnehmen lassen. Er soll Informationen an einen russischen Geheimdienst weitergegeben haben. Von Michael Stempfle.
-

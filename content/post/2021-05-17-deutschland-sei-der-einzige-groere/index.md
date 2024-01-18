@@ -2,20 +2,30 @@
 title: '"Deutschland sei der einzige größere ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-17
-lastmod: 2021-05-17T11:45:40+02:00
+lastmod: 2021-05-17 11:45:40+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- fahrzeuge
+- steuern
+- autos
+- strom
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Deutschland sei der einzige größere Markt in Europa, in dem die Nachfrage nach Elektroautos bei gewerblichen Fahrzeugen geringer ist als bei Privatfahrzeugen. In allen anderen großen europäischen Märkten sind Firmenwagen Vorreiter bei der Umstellung auf Elektromobilität."
 
 "Es gebe aber keine signifikanten Steuern für Verbrenner mit hohem CO2-Ausstoß. Die Kraftstoffsteuer sei in Deutschland gering, während die Steuer auf Strom sehr hoch sei."
@@ -28,4 +38,3 @@ Dem ist nichts hinzuzufügen.
 > ## [Studie: CO₂ aus Neuwagen stammt zu 76 Prozent aus Firmenwagen](https://www.heise.de/news/Studie-CO-aus-Neuwagen-stammt-zu-76-Prozent-aus-Firmenwagen-6047046.html)
 >
 >Bisher sei die Subventionspolitik für Autos widersprüchlich, meint die Umweltschutzorganisation T&E. Sie stellt ein paar Forderungen auf.
-

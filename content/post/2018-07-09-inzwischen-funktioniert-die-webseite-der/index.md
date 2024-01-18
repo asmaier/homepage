@@ -1,21 +1,31 @@
 ---
-title: 'Inzwischen funktioniert die Webseite der ...'
+title: Inzwischen funktioniert die Webseite der ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-07-09
-lastmod: 2018-07-09T23:32:51+02:00
+lastmod: 2018-07-09 23:32:51+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- serverprobleme
+- sommerzeit
+- webseiten
+- eu-kommission
+- umfragen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Inzwischen funktioniert die Webseite der EU-Kommission zum Thema Sommerzeitumstellung wieder: https://ec.europa.eu/eusurvey/runner/2018-summertime-arrangements?surveylanguage=DE
 
 Ich denke ihr wisst, wie ihr dort antworten sollt!
@@ -24,4 +34,3 @@ Ich denke ihr wisst, wie ihr dort antworten sollt!
 > ## [Sommerzeit-Umfrage der EU-Kommission: Millionen Anfragen lassen Server ächzen](https://www.heise.de/newsticker/meldung/Sommerzeit-Umfrage-der-EU-Kommission-Millionen-Anfragen-lassen-Server-aechzen-4106316.html)
 >
 >Viele, die online ihre Meinung zur Sommerzeit kundtun wollten, schauten auf Fehlerseiten. Techniker arbeiten noch dran, das Problem endgültig zu beheben.
-

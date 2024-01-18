@@ -1,21 +1,31 @@
 ---
-title: 'Mal ehrlich, ob Deutschland 0,2% ...'
+title: Mal ehrlich, ob Deutschland 0,2% ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-16
-lastmod: 2019-05-16T13:14:08+02:00
+lastmod: 2019-05-16 13:14:08+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- militär
+- russland
+- aufrüstung
+- atomkrieg
+- nato
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Mal ehrlich, ob Deutschland 0,2% oder 2% oder wie zu Kaisers Zeiten 50% des Bruttosozialprodukts in die Rüstung steckt ist vollkommen egal. Ein Krieg zwischen Nato und Russland wäre immer ein Atomkrieg. Das einzige was man da tun könnte wäre riesige Bunker für die Bevölkerung zu bauen, wie es die Schweiz getan hat. Und dann überlebt man darin den Erstschlag für ein paar Monate. Danach geht es raus in die radioaktive Wüste.
 
 So sieht das aus. Ein zukünftiger Krieg ist eben nicht die Fortsetzung von Politik mit anderen Mitteln, sondern bedeutet die absolute Zerstörung der Menschheit. Und unter diesen Umständen durch höhere Rüstungsausgaben das Säbelrasseln auf beiden Seiten noch zu verstärken ist absolut unverantwortlich. 
@@ -26,4 +36,3 @@ Ziel aller Politik kann daher nur eine Senkung der Ausgaben und allgemeine Abrü
 > ## [Deutschlands Journalisten - Jubelperser der Aufrüstung?](https://www.heise.de/tp/features/Deutschlands-Journalisten-Jubelperser-der-Aufruestung-4417084.html)
 >
 >Der Zeitgeist verlangt nach Remilitarisierung. Dabei geht es vor allem um die Erfüllung des Zwei-Prozent-Zieles der NATO. Ein großer Teil der deutschen Presse stellt keine kritischen Fragen, sondern agitiert ganz in diesem Sinne
-

@@ -1,21 +1,31 @@
 ---
-title: 'Die Welt schaut gerade mal ...'
+title: Die Welt schaut gerade mal ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-05-29
-lastmod: 2020-05-29T23:30:36+02:00
+lastmod: 2020-05-29 23:30:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- justizskandal in der slowakei
+- pressefreiheit in europa
+- journalistenmord
+- mord an jan kuciak
+- richterbestechung in der slowakei
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Die Welt schaut gerade mal wieder in die USA, wo ein Journalist aus versehen für eine Stunde von der Polizei verhaftet wurde. Schaut man dagegen mal in das nahe Europa tun sich ganz andere Abgründe auf:
 
 "Der als mutmaßlicher Auftraggeber des Journalistenmordes angeklagte Unternehmer Marian Kocner soll bereits davor jahrelang systematisch Richter bestochen haben, die über seine zahlreichen Betrugsfälle zu entscheiden hatten. Zu den von den Medien dokumentierten Verhafteten gehören die ehemalige Justizstaatssekretärin Monika Jankovska und die stellvertretende Vorsitzende des Obersten Gerichts der Slowakei."
@@ -30,4 +40,3 @@ https://www.reporter-ohne-grenzen.de/rangliste/rangliste-2020/
 > ## [Mordfall Kuciak: 13 Richter in Slowakei verhaftet](https://orf.at/stories/3157416/)
 >
 >Eine Spezialeinheit der slowakischen Polizei hat am Mittwoch 13 teils hochrangige Richter und mehrere andere Personen wegen Korruptionsverdachts festgenommen. Es geht um den Fall, der das Nachbarland seit Jahren erschüttert: den Mord am Investigativjournalisten Jan Kuciak und dessen Verlobter Martina Kusnirova und die Versuche, die Aufklärung zu behindern.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Die selbsternannte Digital-Hauptstadt mal wieder. ...'
+title: Die selbsternannte Digital-Hauptstadt mal wieder. ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-29
-lastmod: 2019-10-29T17:08:32+01:00
+lastmod: 2019-10-29 17:08:32+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- windows 95
+- software
+- it-sicherheit
+- viren
+- berliner kammergericht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Die selbsternannte Digital-Hauptstadt mal wieder. 
 
 "Ein dem Tagesspiegel vorliegendes Gutachten belegt, dass Experten die Abschaffung des auf dem Betriebssystem Windows 95 basierenden Programms bereits im Jahr 2017 gefordert hatten. Passiert ist, zumindest mit Blick auf das Kammergericht, bis heute nichts."
@@ -26,4 +36,3 @@ Nun, dass was die Experten nicht geschafft haben, hat der Trojaner jetzt geschaf
 > ## [Experten warnten schon 2017: IT-Katastrophe am Berliner Kammergericht kam mit Ansage](https://www.tagesspiegel.de/berlin/experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage/25163810.html)
 >
 >Ein Virus legt das IT-System am Kammergericht lahm. Fachleute sahen schon vor zwei Jahren ein Sicherheitsrisiko – die Software war hoffnungslos veraltet.
-

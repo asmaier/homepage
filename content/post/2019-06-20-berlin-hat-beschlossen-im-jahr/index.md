@@ -1,21 +1,31 @@
 ---
-title: 'Berlin hat beschlossen im Jahr ...'
+title: Berlin hat beschlossen im Jahr ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-06-20
-lastmod: 2019-06-20T11:13:39+02:00
+lastmod: 2019-06-20 11:13:39+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wohnungspolitik
+- nationalsozialismus
+- mietpreisbindung
+- ostberlin
+- westberlin
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Berlin hat beschlossen im Jahr 2020 eine Gesetz zu beschließen, dass rückwirkend zum 18. Juni 2019 sämtliche Mietpreiserhöhungen verbietet. Warum? Nun, offenbar hatten sie da noch Gesetzesvorlagen aus der Vergangenheit in der Schublade liegen. Was vielleicht wenig bekannt ist:
 
 Von 1945 bis 1988 galt in Westberlin schon ein Verbot von Mietpreiserhöhungen. In Ostberlin galt das bis 1990.  
@@ -45,4 +55,3 @@ Oder man könnte einfach den Neubau fördern, damit das Angebot steigt. Aber all
 > ## [Mietendeckel in Berlin: Die wichtigsten Fragen und Antworten ](https://www.morgenpost.de/berlin/article226230165/Mietendeckel-in-Berlin-Fragen-und-Antworten-Was-Sie-jetzt-wissen-muessen.html)
 >
 >Anfang 2020 soll der Mietenstopp in Berlin rückwirkend in Kraft treten. Fragen und Antworten zum Mietendeckel in Berlin.
-

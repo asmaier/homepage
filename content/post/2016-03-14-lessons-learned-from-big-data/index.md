@@ -1,21 +1,31 @@
 ---
-title: 'Lessons Learned From Big Data ...'
+title: Lessons Learned From Big Data ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-03-14
-lastmod: 2016-03-14T17:04:34+01:00
+lastmod: 2016-03-14 17:04:34+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technology
+- hollywood
+- movies
+- data scientists
+- big data
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- english
 ---
+
 Lessons Learned From Big Data Movies
 
 - Hollywood loves the idea that big data will eventually turn into big brother and control all of us like hamsters on a hamster wheel.
@@ -26,4 +36,3 @@ Lessons Learned From Big Data Movies
 > ## [Blog | Dell](https://infocus.emc.com/william_schmarzo/my-favorite-big-data-movies/)
 >
 >Product & Technology Blog
-

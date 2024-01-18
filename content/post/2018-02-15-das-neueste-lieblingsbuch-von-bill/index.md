@@ -1,21 +1,31 @@
 ---
-title: 'Das neueste Lieblingsbuch von Bill ...'
+title: Das neueste Lieblingsbuch von Bill ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-02-15
-lastmod: 2018-02-15T16:54:06+01:00
+lastmod: 2018-02-15 16:54:06+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bill gates
+- steven pinker
+- optimism
+- enlightenment now
+- books
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Das neueste Lieblingsbuch von Bill Gates: https://quartzy.qz.com/1204932/steven-pinkers-book-enlightenment-now-is-an-argument-against-cynicism/
 
 Ein bisschen Optimismus kann nicht schaden, aber 
@@ -24,5 +34,4 @@ der Zyniker in mir sagt: Wenn man Milliardär ist, dann wird die Welt natürlich
 > gatesnotes.com
 > ## [My new favorite book of all time](https://www.gatesnotes.com/Books/Enlightenment-Now)
 >
->Bill Gates reviews “Enlightenment Now” by author Steven Pinker. 
-
+>Bill Gates reviews “Enlightenment Now” by author Steven Pinker.

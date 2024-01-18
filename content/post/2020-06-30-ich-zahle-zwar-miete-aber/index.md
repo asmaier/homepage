@@ -1,21 +1,31 @@
 ---
-title: 'Ich zahle zwar Miete aber ...'
+title: Ich zahle zwar Miete aber ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-06-30
-lastmod: 2020-06-30T22:22:52+02:00
+lastmod: 2020-06-30 22:22:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- mietpreisdeckel
+- berlin
+- wohnungsverkauf
+- wohnungsmarkt
+- vermieter
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ich zahle zwar Miete aber ich war nie ein Freund des Mietdeckels in Berlin. Es ist einfach offensichtlich, dass so ein Preisdeckel nicht zu einer Verbesserung des Angebots führen kann. Jetzt haben wir es schwarz auf weiß:
 
 "Der Mietendeckel drückt die Berliner Mietpreise um 2 Prozent und ... gleichzeitig verringerte sich das Gesamtangebot an Mietwohnungen um 28 Prozent."
@@ -32,4 +42,3 @@ Wenn der Staat den Vermietern helfen wollte, dann könnte er die Miete (teilweis
 > ## [Mietendeckel: Verkauf von Wohnungen attraktiver als Vermietung](https://www.immobilienscout24.de/wissen/vermieten/news-mietendeckel-entzieht-dem-markt-mietwohnungen.html)
 >
 >Der Mietendeckel drückt die Berliner Mietpreise um 2 Prozent und macht es gleichzeitig schwerer als je zuvor, eine Mietwohnung zu finden. Zudem zeichnet es sich ab, dass immer mehr Vermieter Immobilien verkaufen.
-

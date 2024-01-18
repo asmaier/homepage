@@ -2,20 +2,30 @@
 title: '"Nicht die Stimmen auf den ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-09-08
-lastmod: 2017-09-08T13:08:46+02:00
+lastmod: 2017-09-08 13:08:46+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wahlbetrug
+- software
+- sicherheit
+- bundestagswahl
+- fälschung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 "Nicht die Stimmen auf den Wahlzetteln sind entscheidend sondern derjenige der sie auszählt." 
 
 Joseph Stalin
@@ -24,4 +34,3 @@ Joseph Stalin
 > ## [Bundestagswahl: Die Bundestagswahl kann manipuliert werden](http://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter/komplettansicht)
 >
 >Die Software der Bundestagwahl ist unsicher, Ergebnisse können gefälscht werden. Das haben Fachleute ZEIT ONLINE demonstriert. Bundeswahlleiter und BSI sind alarmiert.
-

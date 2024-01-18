@@ -2,20 +2,30 @@
 title: '""" ... Schließlich gibt es ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-08-24
-lastmod: 2016-08-24T10:28:04+02:00
+lastmod: 2016-08-24 10:28:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- freundschaft in russland
+- kontakte und netzwerke in russland
+- russische gesellschaft
+- traditionelle russische kultur
+- sozialstruktur in russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 """
 ...
 Schließlich gibt es den dritten Gesellschaftstyp, bei dem die alten Clanbeziehungen und -regeln entweder bereits vollständig aufgelöst oder nur noch in Randgruppen anzutreffen sind, wo aber neue, westliche, gesellschaftliche Institutionen (Gerichte, Polizei, Sozialhilfe) noch nicht verankert sind. Formal sind diese zwar existent, doch in Wirklichkeit sind sie lediglich Fassade, Dekoration, Attrappe.
@@ -31,4 +41,3 @@ Beziehungen spielen zweifellos auch im Westen eine wichtige Rolle, besonders in 
 > ## [Freundschaft auf Russisch](http://www.dekoder.org/de/article/freundschaft-russland-korruption-trompenaars)
 >
 >Freunde sind das wichtigste Kapital, Prinzipien dagegen sind Zügel, die sich kaum jemand leisten kann, sagt Ostap Karmodi. Eine schonungslose Kritik an der russischen Gesellschaft – in aller Freundschaft. / Quelle: Reed
-

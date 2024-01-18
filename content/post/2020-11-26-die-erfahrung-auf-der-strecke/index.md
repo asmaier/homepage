@@ -2,20 +2,30 @@
 title: '"Die Erfahrung auf der Strecke ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-11-26
-lastmod: 2020-11-26T20:52:14+01:00
+lastmod: 2020-11-26 20:52:14+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verkehrspolitik
+- eisenbahn
+- streckenausbau
+- bahnverkehr
+- deutsche bahn
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Die Erfahrung auf der Strecke Berlin–München zeige, dass kürzere Fahrzeiten zu einer deutlichen Verlagerung von Verkehr auf die Bahn führen, so die Bahn in ihrer Mitteilung."
 
 Wahnsinn. Was für eine Erkenntnis. Die Kunden wollen keine Umsteigeorgien und Chaospreise. Sie wollen einfach schneller ankommen. Wer hätte das gedacht nach 185 Jahren deutscher Eisenbahn.
@@ -24,4 +34,3 @@ Wahnsinn. Was für eine Erkenntnis. Die Kunden wollen keine Umsteigeorgien und C
 > ## [Deutsche Bahn plant Ausbau: Berlin-Bonn in vier Stunden](https://www.morgenpost.de/berlin/article230998268/Bahn-plant-Ausbau-Von-Bonn-nach-Berlin-in-vier-Stunden.html)
 >
 >Zwischen Rhein und Spree sollen Fahrgäste der Deutschen Bahn zukünftig deutlich schneller unterwegs sein.  Das Unternehmen plant den Ausbau der Strecke zwischen Berlin und Bonn.
-

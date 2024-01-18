@@ -1,21 +1,31 @@
 ---
-title: 'Wer glaubt der BER sei ...'
+title: Wer glaubt der BER sei ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-09-18
-lastmod: 2023-09-18T11:15:56+02:00
+lastmod: 2023-09-18 11:15:56+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- museumsbau
+- antike
+- berlin
+- klimawandel
+- archäologie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Wer glaubt der BER sei nicht zu toppen, der kennt die Berliner schlecht:
 
 Das Pergamonmuseum schließt dieses Jahr am 23. Oktober vollständig und der Nordflügel eröffnet erst wieder 2027. Die vollständige Eröffnung inklusive Südflügel ist aber erst für 2037 geplant, also erst 15(!) Jahre nach der Schließung dieses Jahr. 
@@ -37,4 +47,3 @@ P.S.: Natürlich sind die ursprünglich angesetzten Kosten von 250 Millionen Eur
 > ## [Pergamonmuseum: Ein Museumskonzept der Siebzigerjahre – fürs Jahr 2037](https://www.zeit.de/kultur/2023-03/pergamonmuseum-berlin-museumsinsel-sanierung-renovierung/komplettansicht)
 >
 >Die Sanierung des Pergamonmuseums in Berlin wird viel teurer und dauert viel länger als geplant. Wie konnte es soweit kommen?
-

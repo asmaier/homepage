@@ -1,21 +1,31 @@
 ---
-title: 'Bento fällt mir in letzter ...'
+title: Bento fällt mir in letzter ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-06
-lastmod: 2019-05-06T10:46:11+02:00
+lastmod: 2019-05-06 10:46:11+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- vermögensungleichheit
+- sozialrevolutionäre ideen
+- erbschaftsteuer
+- chancengleichheit
+- liberaler gedanke
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Bento fällt mir in letzter Zeit positiv durch einige sozialrevolutionäre Ideen auf. Weiter so. 
 
 Wobei ich eigentlich der Meinung bin, dass man jedes Erbe unter der Bevölkerung verlosen sollte. Dann hätte jeder die Chance irgendwann einmal durch Zufall zum Millionärserben zu werden. Eine zufällige Verteilung von Vermögen würde auch der Vermögensungleichheit in Deutschland entgegenwirken. Und die ist eine der höchsten weltweit: https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Verm%C3%B6gensverteilung (und dann nach Gini-Index 2016 sortieren)
@@ -24,4 +34,3 @@ Wobei ich eigentlich der Meinung bin, dass man jedes Erbe unter der Bevölkerung
 > ## [Enteignung? Warum 100 Prozent Erbschaftsteuer besser wären (Meinung)](https://www.bento.de/politik/enteignung-warum-100-prozent-erbschaftssteuer-besser-waeren-meinung-a-1fcb190a-d6d6-4622-8c6c-721b8848c361)
 >
 >Und warum Chancengleichheit nicht nur ein sozialer, sondern auch ein zutiefst liberaler Gedanke ist.
-

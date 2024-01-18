@@ -1,21 +1,31 @@
 ---
-title: 'Ich hatte mal wieder Lust ...'
+title: Ich hatte mal wieder Lust ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-05-03
-lastmod: 2022-05-03T22:56:32+02:00
+lastmod: 2022-05-03 22:56:32+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schifffahrt
+- selbstfahrende fahrzeuge
+- norwegen
+- containertransport
+- elektroantrieb
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Ich hatte mal wieder Lust auf gute Nachrichten. Da bin ich mal kurz bei https://goodnews.eu/ vorbeigesurft und habe das hier gefunden: 
 
 https://www.tagesschau.de/wirtschaft/technologie/elektro-containerschiff-norwegen-101.html
@@ -32,4 +42,3 @@ Trotzdem schön zu sehen, das es nach E-Bikes, E-Autos, E-Zügen jetzt auch E-Sc
 > ## [Elektro-Containerschiff startet Testbetrieb in Norwegen](https://www.tagesschau.de/wirtschaft/technologie/elektro-containerschiff-norwegen-101.html)
 >
 >Es soll der Beginn einer Revolution in der Schifffahrt sein: In Norwegen nimmt das weltweit erste vollelektrische Containerschiff seinen Testbetrieb auf. Künftig soll es sich auch selbst steuern. Von Arne Bartram.
-

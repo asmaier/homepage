@@ -2,20 +2,30 @@
 title: '"Gleichzeitig forderten die Staats- und ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-31
-lastmod: 2021-05-31T10:11:23+02:00
+lastmod: 2021-05-31 10:11:23+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- sanktionen
+- menschenrechte
+- flugverkehr
+- europäische union
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Gleichzeitig forderten die Staats- und Regierungschefs alle Fluglinien aus den Mitgliedsstaaten auf, das osteuropäische Land nicht mehr zu überfliegen. "
 
 Die EU und Deutschland sind gegenüber Weißrussland einfach nach wie vor viel zu sanft. Die USA hätte in gleicher Situation allen Fluggesellschaften die noch über Weißrussland fliegen die Landerechte in der EU entzogen oder anderweitig boykottiert. Diese zahnlosen Aufforderungen und Maßnahmen sind es, die Lukaschenko und Co geradezu immer wieder herausfordern es noch schlimmer zu treiben, denn zu befürchten hat er nix. 
@@ -29,5 +39,4 @@ BASF, Commerzbank, DB Schenker, Henkel, Knauf, Bosch, Siemens, Zeiss um nur mal 
 > wiwo.de
 > ## [Sanktionen gegen Weißrussland: Animation zeigt: Flugbeschränkungen über Belarus sind wirkungslos](https://www.wiwo.de/technologie/forschung/sanktionen-gegen-weissrussland-animation-zeigt-flugbeschraenkungen-ueber-belarus-sind-wirkungslos/27237820.html)
 >
->Der Überflugboykott nach der erzwungenen Landung einer Ryanair-Maschine in Weißrussland ist kaum mehr als ein symbolischer Akt. Und nicht mal jede europäische Linie hält sich daran. 
-
+>Der Überflugboykott nach der erzwungenen Landung einer Ryanair-Maschine in Weißrussland ist kaum mehr als ein symbolischer Akt. Und nicht mal jede europäische Linie hält sich daran.

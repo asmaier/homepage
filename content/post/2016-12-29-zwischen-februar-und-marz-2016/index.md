@@ -2,20 +2,30 @@
 title: '"Zwischen Februar und März 2016 ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-12-29
-lastmod: 2016-12-29T12:41:40+01:00
+lastmod: 2016-12-29 12:41:40+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- attentäter
+- verfassungsschutz
+- berlin
+- deutschland
+- terrorismus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 "Zwischen Februar und März 2016 sei Amri von einem »geheimen Informanten des Verfassungsschutzes« von Dortmund nach Berlin gefahren worden und soll diesem genau erzählt haben, was er plane."
 
 Unser Verfassungsschutz hat dem Attentäter also geholfen nach Berlin zu kommen!!! 
@@ -28,4 +38,3 @@ Nach dem NSU-Skandal zeigt sich hier mal wieder, dass die größte Terrorvereini
 > ## [Vor Anschlag in Berlin: V-Mann als Chauffeur](https://www.jungewelt.de/m/artikel/299768.v-mann-als-chauffeur.html)
 >
 >Attentäter Amri soll »geheimem Informanten« Terrorpläne offenbart haben • Foto: Daniele Bennati/EPA/dpa-Bildfunk
-

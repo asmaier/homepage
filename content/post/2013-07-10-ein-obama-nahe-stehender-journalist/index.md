@@ -1,21 +1,31 @@
 ---
-title: 'Ein Obama nahe stehender Journalist ...'
+title: Ein Obama nahe stehender Journalist ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-07-10
-lastmod: 2013-07-10T12:50:39+02:00
+lastmod: 2013-07-10 12:50:39+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wirtschaftspolitik
+- freihandelsabkommen
+- europäische union
+- usa
+- datenschutz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Ein Obama nahe stehender Journalist versucht auf Zeit.de Stimmung zu machen für das Freihandelsabkommen mit den USA mit Artikeln wie:
 
 "Lasst den Freihandel nicht an Snowden scheitern"
@@ -31,4 +41,3 @@ Wie plump ist das denn? Ich als EU-Bürger will nicht verarscht, ich will ordent
 > ## [Lasst den Freihandel nicht an Snowden scheitern](http://www.zeit.de/wirtschaft/2013-07/freihandelsabkommen-usa)
 >
 >Das Freihandelsabkommen ist zu wichtig, um wegen der Datenaffäre blockiert zu werden. Es gilt, Regeln für einen fairen globalen Wettbewerb zu entwickeln. Von C. Marschall
-

@@ -1,21 +1,31 @@
 ---
-title: 'Das kleine Island macht der ...'
+title: Das kleine Island macht der ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-03
-lastmod: 2020-04-03T22:39:36+02:00
+lastmod: 2020-04-03 22:39:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- statistik
+- website
+- island
+- pandemie
+- coronavirus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Das kleine Island macht der Welt vor, wie man gute Statistik über die Coronapandemie macht:
 
 Die erste Grafik auf der Webseite zeigt tatsächlich die Anzahl der Tests pro Tag. Eine Information, die man für die meisten Länder (einschließlich Deutschland) überhaupt nicht bekommt. Weiter bekommt man auch sofort einen Überblick darüber, wieviele Menschen im Krankenhaus sind, wieviele in Quarantäne und wieviele wieder genesen und aus der Quarantäne entlassen sind. Und zu guter Letzt gibt es einen Überblick über die Altersverteilung der Erkrankten. 
@@ -28,4 +38,3 @@ Unser Robert-Koch-Institut dagegen veröffentlicht nur die Fallzahlen auf der We
 > ## [Data](https://www.covid.is/data)
 >
 >Latest updates on confirmed infections, the number of people in quarantine or isolation, and more.
-

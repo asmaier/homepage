@@ -1,21 +1,31 @@
 ---
-title: 'Endlich, der kostenlose Tricorder für ...'
+title: Endlich, der kostenlose Tricorder für ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-06-02
-lastmod: 2018-06-02T22:51:55+02:00
+lastmod: 2018-06-02 22:51:55+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- datenexport
+- sensoren
+- physik
+- experimente
+- smartphones
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Endlich, der kostenlose Tricorder für alle!
 > [![](https://phyphox.org/wp-content/uploads/2019/06/DSC02490_logo_2161.jpg)](http://phyphox.org/de/home-de/)
 > phyphox.org
@@ -36,4 +46,3 @@ Phyphox ermöglicht es dir, mit den Sensoren deines Smartphones zu experimentier
  	
     
 Datenexport
-

@@ -1,21 +1,31 @@
 ---
-title: 'Hier auch einmal ein paar ...'
+title: Hier auch einmal ein paar ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-03-18
-lastmod: 2020-03-18T23:12:46+01:00
+lastmod: 2020-03-18 23:12:46+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- emissionshandel
+- treibhausgasemissionen
+- gaskraftwerke
+- renewable energies
+- kohlekraftwerke
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Hier auch einmal ein paar gute Nachrichten:
 
 "Als wesentlichen Grund dafür nennt das UBA den verstärkten Einsatz von Gaskraftwerken, die weniger Treibhausgase ausstoßen als Kohlemeiler. Hier mache sich neben niedrigen Weltmarktpreisen für Gas vor allem die Reform des europäischen Emissionshandels bemerkbar, die zu höheren CO2-Preisen geführt hat. So habe der Durchschnittspreis für eine Tonne CO2 2019 mit 24,65 Euro fast doppelt so hoch wie im Vorjahr. Der Betrieb von Kohlekraftwerken war damit häufig teurer als der von Gaskraftwerken."
@@ -28,4 +38,3 @@ Und dank Corona-Virus wird im Jahr 2020 der CO2-Ausstoß wohl weiter sinken. Man
 > ## [Umweltbundesamt: Treibhausgas-Emissionen sind 2019 um 6,3 Prozent gesunken](https://www.heise.de/newsticker/meldung/Umweltbundesamt-Treibhausgas-Emissionen-sind-2019-um-6-3-Prozent-gesunken-4683746.html)
 >
 >Im Verkehrssektor lag der Ausstoß mit 163,5 Millionen Tonnen CO₂ auf einem höheren Niveau als im Vorjahr. Umweltschützer fordern erhöhte Einsparanstrengungen.
-

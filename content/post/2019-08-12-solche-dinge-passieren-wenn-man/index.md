@@ -1,21 +1,31 @@
 ---
-title: 'Solche Dinge passieren, wenn man ...'
+title: Solche Dinge passieren, wenn man ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-08-12
-lastmod: 2019-08-12T22:33:56+02:00
+lastmod: 2019-08-12 22:33:56+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- moral
+- sklaverei
+- abolitionismus
+- ideologie
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Solche Dinge passieren, wenn man auf freiwillige Selbstverpflichtungen der Industrie hofft. Oder wenn man darauf hofft, dass der Markt es regeln wird.
 
 Früher gabs auch Sklavenhandel. Der wurde auch nicht abgeschafft, weil es unwirtschaftlich war oder der Markt das von alleine geregelt hat, weil es keine Nachfrage mehr gab. Der Sklavenhandeln war erst zu Ende, nachdem man ihn als unchristlich empfunden hat (warum man zu dieser Erkenntnis im Christentum über 1000 Jahre gebraucht hat ist eine andere Geschichte) und weil es auch den Idealen der Aufklärung widersprach. Man hat ihn also tatsächlich aus moralischen und ideellen Gründen abgeschafft (siehe https://de.wikipedia.org/wiki/Abolitionismus ). Die Wirtschaft musste dann damit einfach zurechtkommen und kam auch zurecht ohne zusammenzubrechen. 
@@ -33,4 +43,3 @@ Wir (das Volk, die Politik) entscheiden, was wir moralisch und gesellschaftlich 
 > ## [Walmart: Schusswaffen sind OK, Werbung für Spiele nicht](https://www.heise.de/newsticker/meldung/Walmart-Schusswaffen-sind-OK-Werbung-fuer-Spiele-nicht-4493375.html)
 >
 >Walmart reagiert auf Massaker mit einem Verbot von Werbung für Computerspiele mit Gewaltszenen. Gewehre und Munition bleiben im US-Sortiment.
-

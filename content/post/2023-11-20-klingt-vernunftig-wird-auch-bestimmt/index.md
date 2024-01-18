@@ -1,21 +1,31 @@
 ---
-title: 'Klingt vernünftig. Wird auch bestimmt ...'
+title: Klingt vernünftig. Wird auch bestimmt ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-11-20
-lastmod: 2023-11-20T18:11:13+01:00
+lastmod: 2023-11-20 18:11:13+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- magnetschwebebahn
+- u-bahn
+- öffentlicher verkehr
+- infrastruktur
+- berliner verkehr
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Klingt vernünftig. Wird auch bestimmt nicht teurer als geplant. Und wer will das Geld schon für Radwege ausgeben? Das ist doch langweilig.
 
 https://www.heise.de/news/Berlin-soll-Magnetschwebebahn-bekommen-9533658.html
@@ -23,5 +33,4 @@ https://www.heise.de/news/Berlin-soll-Magnetschwebebahn-bekommen-9533658.html
 > heise.de
 > ## [Berlin plant Magnetschwebebahn](https://www.heise.de/news/Berlin-soll-Magnetschwebebahn-bekommen-9533658.html)
 >
->Die Berliner Regierungskoalition hat beschlossen, dass ihre Stadt eine Magnetschwebebahn bekommen soll. Das sei günstiger als eine U-Bahn. 
-
+>Die Berliner Regierungskoalition hat beschlossen, dass ihre Stadt eine Magnetschwebebahn bekommen soll. Das sei günstiger als eine U-Bahn.

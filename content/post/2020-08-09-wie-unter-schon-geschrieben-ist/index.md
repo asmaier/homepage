@@ -1,21 +1,31 @@
 ---
-title: 'Wie unter schon geschrieben, ist ...'
+title: Wie unter schon geschrieben, ist ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-08-09
-lastmod: 2020-08-09T23:39:52+02:00
+lastmod: 2020-08-09 23:39:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- rhosus (schiff)
+- explosionskatastrophe im hafen von beirut 2020
+- hisbollah
+- russland
+- ammoniumnitrat
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Wie unter https://www.facebook.com/andreas.maier.754918/posts/3231312733581070 schon geschrieben, ist es echt auffällig, dass bei besonders seltsamen Vorgängen Russland immer wieder eine Rolle spielt.  Z.B. jetzt wieder bei der gigantischen Explosion in Beirut. Wie kam der Sprengstoff dazu nach Beirut? Mit Hilfe eines undurchsichtigen russischen Geschäftsmannes, der wie so viele dieser Art auf Zypern lebt: https://siberiantimes.com/other/others/news/first-pictures-emerge-of-a-russian-businessman-whose-ammonium-nitrate-cargo-detonated-in-the-port-of-beirut/
 
 Die offizielle Geschichte dazu ist:
@@ -38,4 +48,3 @@ Jedenfalls stinkt die ganze Geschichte mal wieder nach Einmischung russischer Ge
 > ## [First pictures emerge of a Russian man whose ammonium nitrate cargo detonated in the port of Beirut](https://siberiantimes.com/other/others/news/first-pictures-emerge-of-a-russian-businessman-whose-ammonium-nitrate-cargo-detonated-in-the-port-of-beirut/)
 >
 >The 2,750 tonnes cargo of Khabarovsk-born businessman Igor Grechushkin was detained in Lebanon in 2013.
-

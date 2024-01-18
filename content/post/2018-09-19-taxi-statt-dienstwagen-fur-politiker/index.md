@@ -1,21 +1,31 @@
 ---
-title: 'Taxi statt Dienstwagen für Politiker? ...'
+title: Taxi statt Dienstwagen für Politiker? ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-09-19
-lastmod: 2018-09-19T11:12:10+02:00
+lastmod: 2018-09-19 11:12:10+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- umwelt
+- verkehr
+- fahrzeuge
+- berlin
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Taxi statt Dienstwagen für Politiker? Nicht mit der FDP, denn für die ist es unerträglich, dass "Taxifahrer oftmals dazu neigten, Belehrungen politischer Art abzugeben".  
 
 Für alle die nichts gegen politische Belehrungen haben, empfehle ich dagegen https://www.ecotaxi.de/ . Da fährt man umweltfreundlich mit Hybrid, Erdgas oder Elektroauto. Und es ist ist nichtmal teurer.
@@ -24,4 +34,3 @@ Für alle die nichts gegen politische Belehrungen haben, empfehle ich dagegen ht
 > ## [Georg Heil (@Georg_Heil) on X](https://twitter.com/Georg_Heil/status/268958123396571136/photo/1)
 >
 >Taxi statt Dienstwagen?  Unzumutbar für #FDP  Abgeordnete im #Bundestag. Schuld haben die Taxifahrer in #Berlin.
-

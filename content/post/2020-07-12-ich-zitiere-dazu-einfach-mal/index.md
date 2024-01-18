@@ -1,21 +1,31 @@
 ---
-title: 'Ich zitiere dazu einfach mal ...'
+title: Ich zitiere dazu einfach mal ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-07-12
-lastmod: 2020-07-12T15:02:04+02:00
+lastmod: 2020-07-12 15:02:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- reisende
+- corona-krise
+- pünktlichkeit
+- bahnverkehr
+- deutsche bahn
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ich zitiere dazu einfach mal einen köstlichen Kommentar aus dem Heise-Forum: 
 
 "Endlich, nach Jahrzehnten intensivster Forschung konnte die Hauptursache für die Unpünktlichkeit der Deutschen Bahn im Passagierverkehr ausgemacht werden. Es sind die Reisenden!
@@ -28,4 +38,3 @@ Mögliche Ergebnisse der Beratungen werden aber nicht vor Anfang 2053 erwartet."
 > ## [Deutsche Bahn in der Corona-Krise so pünktlich wie lange nicht](https://www.heise.de/news/Deutsche-Bahn-in-der-Corona-Krise-so-puenktlich-wie-lange-nicht-4841738.html)
 >
 >Die Corona-Krise bereitet der Deutschen Bahn viele Probleme. Doch die nach wie vor geringe Auslastung der Züge führt auch zu größerer Pünktlichkeit.
-

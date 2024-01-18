@@ -1,21 +1,31 @@
 ---
-title: 'Deutschlands Kult der Mittelmäßigkeit ist ...'
+title: Deutschlands Kult der Mittelmäßigkeit ist ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-11-28
-lastmod: 2015-11-28T22:54:19+01:00
+lastmod: 2015-11-28 22:54:19+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- brennstoffzellenautos
+- asiatischer intelligenzkult
+- brain drain und brain gain
+- deutscher kult der mittelmäßigkeit
+- abgastestmanipulation
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 Deutschlands Kult der Mittelmäßigkeit ist dem asiatischen Intelligenzkult ebenso in keinem Fall gewachsen. 
 
 Während bei uns Gedichte analysiert werden, werden in China Supercomputer programmiert!
@@ -26,4 +36,3 @@ Während bei uns Brain Drain herrscht, wird in Asien Brain Gain zelebriert!
 > ## [America's Cult of Ignorance Is No Match for Asia's Cult of Intelligence](http://www.huffingtonpost.com/john-w-traphagan/america-ignorance-asia-intelligence_b_5505032.html)
 >
 >"There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that my ignorance is just as good as your knowledge." This cult of ignorance is the most serious national security issue facing the U.S. today.
-

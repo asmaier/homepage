@@ -1,21 +1,31 @@
 ---
-title: 'Deutschlands reichste Städte nach Gewerbesteuereinkommen ...'
+title: Deutschlands reichste Städte nach Gewerbesteuereinkommen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-11-27
-lastmod: 2017-11-27T16:50:16+01:00
+lastmod: 2017-11-27 16:50:16+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- finanzen
+- steuern
+- städte in deutschland
+- rangliste
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 Deutschlands reichste Städte nach Gewerbesteuereinkommen pro Kopf (2012)
 
 Platz 10 – Ludwigshafen am Rhein
@@ -33,4 +43,3 @@ Platz 1 – Wolfsburg
 > ## [Gewerbesteuer zieht an: In welchen Kommunen die Kasse klingelt](https://www.handelsblatt.com/politik/deutschland/gewerbesteuer-zieht-an-wohl-und-wehe-haengt-von-der-industrie-ab-auch-im-westen/7294872-3.html)
 >
 >Von Finanznot kann in vielen Städten keine Rede mehr sein. Die Schulden sind zwar hoch, aber die Gewerbesteuer sprudelt. Allerdings gibt es auch eine andere Seite: Städte, die aus eigener Kraft nicht überleben können.
-

@@ -2,20 +2,30 @@
 title: '"Weltweit ist die Baubranche für ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-07-30
-lastmod: 2021-07-30T23:08:49+02:00
+lastmod: 2021-07-30 23:08:49+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- klimawandel
+- energieeffizienz
+- bauen und bauindustrie
+- alternative energien
+- nachhaltiges bauen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Weltweit ist die Baubranche für die meisten CO2-Emissionen verantwortlich."
 
 Seltsamerweise wird darüber wenig gesprochen, aber wenn wir die Klimaziele ernst nehmen wollen, dann müssen eigentlich ab sofort sämtliche Neubauten Nullenergiehäuser werden, mit Solarzellen auf dem Dach, Wärmepumpe für die Energieversorgung (oder noch besser (Brennstoffzelle mit grünem Wassserstoff, https://www.capital.de/immobilien/klimaschutz-autarkes-wohnen-im-wasserstoff-haus) und natürlich bester Isolierung und am besten als Holzhaus. Und nicht nur das. Natürlich müssen auch alle Bestandsgebäude umgerüstet werden. Ölheizung raus, Solarzellen aufs Dach. 
@@ -34,4 +44,3 @@ Also fragt mal an in euerer Gemeinde oder Stadt, ob bei geplanten Neu- und Umbau
 > ## [„Im Idealfall sollte gar nicht neu gebaut werden“](https://www.jetzt.de/umwelt/architects-for-future-luisa-ropelato-klimaschonend-bauen-bauen-in-der-zukunft)
 >
 >Luisa Ropelato von Architects for Future darüber, wie wir alle klimaschonender wohnen können.
-

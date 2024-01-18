@@ -1,21 +1,31 @@
 ---
-title: 'Offensichtlich bin ich "Pretty strange, ...'
+title: Offensichtlich bin ich "Pretty strange, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-07-07
-lastmod: 2022-07-07T10:40:08+02:00
+lastmod: 2022-07-07 10:40:08+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- artificial intelligence
+- eu research project
+- computer vision
+- face recognition
+- privacy
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Offensichtlich bin ich "Pretty strange, in a sexy way." ;-)
 
 https://www.hownormalami.eu/
@@ -28,4 +38,3 @@ P.S.: Probiert es mehrmals aus (Unterschiedliche Devices/Kameras/Beleuchtung/mit
 > ## [How normal am I?](https://www.hownormalami.eu/)
 >
 >In this test face detection algorithms will determine how normal you are. 100% privacy friendly.
-

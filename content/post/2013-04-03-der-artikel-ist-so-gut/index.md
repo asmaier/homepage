@@ -1,21 +1,31 @@
 ---
-title: 'Der Artikel ist so gut, ...'
+title: Der Artikel ist so gut, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-04-03
-lastmod: 2013-04-03T12:58:25+02:00
+lastmod: 2013-04-03 12:58:25+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- hochschulbildung
+- bücher
+- forschung
+- akademische karriere
+- wissenschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Der Artikel ist so gut, man muss ihn eigentlich fast komplett zitieren:
 """
 ...
@@ -41,4 +51,3 @@ Fazit: Wissenschaftlicher Fortschritt ist eine aussterbende Beschäftigung!
 > ## [Klaus P. Hansen: Für Gelehrte ist Uni feindliches Gebiet](http://www.spiegel.de/unispiegel/studium/klaus-p-hansen-fuer-gelehrte-ist-uni-feindliches-gebiet-a-883389.html)
 >
 >Für Denker sind Unis heute eine feindliche Umgebung. An einer modernen Hochschule ist es heute nahezu unmöglich, sich vertiefendes Wissen anzueignen. Aus Professoren werden Manager und Bürokraten. Gelehrtheit und Genialität sind so zum Aussterben verurteilt.
-

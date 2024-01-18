@@ -2,20 +2,30 @@
 title: '"Der Staat – und zwar ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-07-21
-lastmod: 2019-07-21T22:55:43+02:00
+lastmod: 2019-07-21 22:55:43+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- offene software
+- digitalisierung
+- it-politik
+- selbstsicherheit
+- demokratie und technologie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Der Staat – und zwar auf allen Ebenen, von der Gemeinde bis nach Berlin oder Brüssel – sollte per Gesetz verpflichtet werden, neue Software-Lösungen nur noch als Open-Source-Software in Auftrag zu geben. Wird Steuergeld in Software investiert, muss der Code anschließend allen gehören und frei zugänglich sein. "
 
 "Die Zeit der stillen Empörung im Server-Raum sollte vorbei sein. Jetzt ist es an der Zeit, die Konsole zu sperren, aufzustehen und das Büro zu verlassen. Demokratie ist wie Open-Source-Software. Vom Meckern und Zuschauen wird das Ergebnis nicht besser. Habe Mut, dich deines IT-Sachverstands zu bedienen."
@@ -26,4 +36,3 @@ Dieser Kommentar hat meine volle Zustimmung. Die Juristen, Lehrer und Beamte die
 > ## [Kommentar: Der Diskurs um Digitalisierung ist kaputt](https://www.heise.de/newsticker/meldung/Kommentar-Der-Diskurs-um-Digitalisierung-ist-kaputt-4473895.html)
 >
 >IT-Experten sollten den Digitalisierungs-Diskurs nicht länger Laien überlassen und ihre Kompetenzen in der Politik einsetzen, fordert c't-Redakteur Jan Mahn.
-

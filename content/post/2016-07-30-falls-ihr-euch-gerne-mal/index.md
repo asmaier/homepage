@@ -1,21 +1,31 @@
 ---
-title: 'Falls ihr euch gerne mal ...'
+title: Falls ihr euch gerne mal ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-07-30
-lastmod: 2016-07-30T18:41:56+02:00
+lastmod: 2016-07-30 18:41:56+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- fleischdiät
+- klinischer versuch
+- studie von 1930
+- veganer
+- vegetarier
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- english
 ---
+
 Falls ihr euch gerne mal bei euren Vegetarier/Veganerfreunden unbeliebt machen wollt: Die reine Fleischdiät ist gesund, solange das Fleisch genug Fett enthält!
 
 "In einem klinischen Versuch ernährten sich Vilhjálmur Stefánsson und Rudolph Martin Anderson ein Jahr lang in New York ausschließlich von Fleisch. Beide vertrugen diese Diät problemlos."
@@ -44,4 +54,3 @@ occurred from the prolonged use of the exclusive meat diet.
 > de.wikipedia.org
 > ## [Kaninchenhunger – Wikipedia](https://de.wikipedia.org/wiki/Kaninchenhunger)
 >
-

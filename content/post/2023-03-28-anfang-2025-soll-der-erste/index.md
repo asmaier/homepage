@@ -2,20 +2,30 @@
 title: '"Anfang 2025 soll der erste ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-03-28
-lastmod: 2023-03-28T21:44:53+02:00
+lastmod: 2023-03-28 21:44:53+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- batteriequalität
+- lithium
+- lausitz
+- elektroautos
+- elektromobilität
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Anfang 2025 soll der erste Teil der Anlage in Betrieb gehen, ab 2026 will Rock Tech dann die Produktion von Lithiumhydroxid in Batteriequalität starten, heißt es in der Pressemitteilung des Landes. Pro Jahr soll dann Lithiumhydroxid für Batterien von 500.000 Elektroautos produziert werden."
 
 https://www.rbb24.de/studiocottbus/wirtschaft/2023/03/rock-tech-unternehmen-spatenstich-guben-lithiumfabrik-.html
@@ -38,4 +48,3 @@ Kann das nicht mal jemand der F-Partei und ihren dämlichen Ministern sagen?
 > ## [Unternehmen Rock Tech beginnt mit Bau seiner Lithiumfabrik in Guben](https://www.rbb24.de/studiocottbus/wirtschaft/2023/03/rock-tech-unternehmen-spatenstich-guben-lithiumfabrik-.html)
 >
 >In der Lausitz soll künftig batteriefähiges Lithiumhydrocxid für die Elektromobilitätsbranche hergestellt werden. Ministerpräsident Woidke sieht Brandenburg beim Spatenstich auf dem Weg zu einer "Gewinnerregion".
-

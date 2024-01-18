@@ -1,21 +1,31 @@
 ---
-title: 'I learned a few things ...'
+title: I learned a few things ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-01-09
-lastmod: 2018-01-09T18:21:04+01:00
+lastmod: 2018-01-09 18:21:04+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- magnetic
+- book editing
+- projects
+- tom whitwell
+- apple inc
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- english
 ---
+
 I learned a few things here:
 
 https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2017-d9fb0040bdcb
@@ -27,4 +37,3 @@ https://medium.com/@tomwhitwell/52-things-i-learned-in-2014-91fb546741cc
 > ## [52 things I learned in 2017](https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2017-d9fb0040bdcb)
 >
 >Between projects at Magnetic, and editing a book, I learned several learnings.
-

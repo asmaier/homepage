@@ -1,21 +1,31 @@
 ---
-title: 'Wie man den russischen UN-Botschafter ...'
+title: Wie man den russischen UN-Botschafter ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-09-20
-lastmod: 2023-09-20T23:05:48+02:00
+lastmod: 2023-09-20 23:05:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- ukraine
+- russland
+- diplomatie
+- un-sicherheitsrat
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Wie man den russischen UN-Botschafter zum Schweigen bringt:
 
 """
@@ -32,4 +42,3 @@ Im Saal und auf der Tribüne wird leise gelacht. Nebensja schweigt.
 > ## [Selenskyj im UN-Sicherheitsrat: Ein unwürdiges Schauspiel](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_100246760/selenskyj-im-un-sicherheitsrat-ein-unwuerdiges-schauspiel.html)
 >
 >Im mächtigsten Gremium der UN attackiert der ukrainische Präsident Russland scharf. Dessen Vertreter aber macht sich über den Auftritt Wolodymyr Selenskyjs lustig.
-

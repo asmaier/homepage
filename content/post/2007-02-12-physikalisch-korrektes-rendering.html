@@ -2,12 +2,20 @@
 author: admin
 blogger_id: tag:blogger.com,1999:blog-15525201.post-117131758239144937
 blogger_orig_url: https://asmaier.blogspot.com/2007/02/physikalisch-korrektes-rendering.html
-date: "2007-02-12T21:22:00Z"
-modified_time: "2010-02-28T23:05:39.031+01:00"
+date: '2007-02-12T21:22:00Z'
+modified_time: '2010-02-28T23:05:39.031+01:00'
 categories:
 - old_blog
-- deutsch
 title: Physikalisch korrektes Rendering
+year: '2007'
+languages:
+- deutsch
+tags:
+- physikalische effekte in computergrafik
+- renderengines
+- metropolis-light-transport-algorithmus
+- 3d-rendering
+- opensource-software
 ---
 
 <a href="http://www.luxrender.net/gallery/main.php?g2_view=core.DownloadItem&amp;g2_itemId=1930&amp;g2_serialNumber=2"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 512px; height: 409px;" src="http://www.luxrender.net/gallery/main.php?g2_view=core.DownloadItem&amp;g2_itemId=1930&amp;g2_serialNumber=2" border="0" alt="" /></a><br />Bis heute habe ich geglaubt, dass <a href="http://de.wikipedia.org/wiki/Mental_Ray">Mental Ray</a> das Nonplusultra in Sachen Bildqualität und Realismus für 3D-Rendering bietet. Aber dann habe ich zum ersten Mal Bilder von Renderengines gesehen, die weder <a href="http://de.wikipedia.org/wiki/Raytracing">Raytracing</a>, noch <a href="http://de.wikipedia.org/wiki/Radiosity_%28Computergrafik%29">Radiosity</a> verwenden, sondern auf dem <a href="http://en.wikipedia.org/wiki/Metropolis_light_transport">Metropolis-Light- Transport-Algorithmus</a> basieren. Einfach atemberaubend realistisch! Der MLT-Algorithmus berechnet das Verhalten von Licht physikalisch korrekt. Das heißt, dass je länger man rendert, das entstehende Bild immer mehr gegen die physikalisch korrekte Lösung konvergiert. Das macht es zum ersten Mal möglich, auch physikalische Effekte wie Dispersion (das Aufspalten weißes Lichts in Regenbogenfarben) ohne weitere Tricks mit einem 3D-Renderprogramm zu berechnen (siehe nebenstehendes Bild des freien OpenSource-Renderers <a href="http://www.luxrender.net/">LuxRender</a>). Sogar Polarisation, der Einfluß von nahem Infrarot bzw. ultraviolettem Licht auf die Farben des sichtbaren Lichts, Doppelbrechung usw. sollen möglich sein.<br />Die meisten Renderer, die diesen Algorithmus verwenden, sind jedoch noch eher im Betastatus,  mit Ausnahme des kommerziellen <a href="http://www.maxwellrender.com/">Maxwell Render</a> (Diesen gibt es z.B. auch <a href="http://www.c4dnetwork.com/index.php?act=articles&amp;view=14&amp;page=2">für Maxon Cinema 4D</a>). Wer die beeindruckenden Beispiele dort gesehen hat und jetzt mehr wissen will, für den sind auch die folgenden Seiten gute Startpunkte:<br /><ul><li><a href="http://graphics.cs.uiuc.edu/%7Ejared/joomla/links/mlt/">Destroy the core: Metropolis Light Transport</a></li><li><a href="http://graphics.cs.uiuc.edu/%7Ejared/joomla/links/mlt-implementations/">Destroy the core: MLT-Implementations</a></li></ul>Ob es irgendwann auch Spiele mit derartig realistische Grafik geben wird? Aber das sollte man dann vielleicht nicht mehr Spiel nennen, sondern eher "<a href="http://de.wikipedia.org/wiki/Simulierte_Realit%C3%A4t">Matrix</a>". ;-)<div><br /></div><div>Update 21.09.2009:</div><div><ul><li>vom dem für nicht-kommerzielle kostenfreien <a href="http://de.wikipedia.org/wiki/Indigo_Renderer">Indigorenderers</a> (closed-source) gibt es inzwischen die Version 2 (Danke an Ben Nolan für die deutsche <a href="http://www.astro.uni-wuerzburg.de/~asmaier/usefulthings/press-release-deutsche.pdf">Presseerklärung</a> dazu.)</li><li><a href="http://www.sjbrown.co.uk/2009/05/10/metropolis-light-transport/">fixored?: Metropolis Light Transport</a> ist ein interessanter Blogartikel auf englisch mit einigen sehr interessanten Links</li><li>Die obigen "Destroy the core"-Links sind tot. Stattdessen findet man dort jetzt jetzt die Doktorarbeit von <a href="http://graphics.cs.uiuc.edu/~jared/">Jared Hoberock: Accelerating Physical Based Light Transport Algorithms</a>, in welcher u.a. der MLT-Algorithmus behandelt wird.</li></ul></div>

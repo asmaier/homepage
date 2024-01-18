@@ -1,21 +1,31 @@
 ---
-title: 'Sollte das tatsächlich eingetreten worden ...'
+title: Sollte das tatsächlich eingetreten worden ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-21
-lastmod: 2020-04-21T13:43:33+02:00
+lastmod: 2020-04-21 13:43:33+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- tüv-bescheinigung
+- coronakrise
+- berlin brandenburg flughafen willy brandt
+- inbetriebnahme
+- flughäfen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Sollte das tatsächlich eingetreten worden gewesen (Futur 3, siehe https://www.der-postillon.com/2012/08/neue-zeitform-futur-iii-eingefuhrt-um.html ) wird vermutlich der Eröffnungstermin des BER am  31. Oktober künftig ein Feiertag in Berlin sein.
 
 Wahnsinn!
@@ -24,4 +34,3 @@ Wahnsinn!
 > ## [Kaum zu glauben: Flughafen BER ist jetzt fertig](https://www.berliner-zeitung.de/mensch-metropole/kaum-zu-glauben-flughafen-ber-ist-jetzt-fertig-li.81714)
 >
 >Die letzte TÜV-Bescheinigung für den neuen Hauptstadt-Airport ist da. Die Coronakrise wird die Inbetriebnahme im Herbst 2020 erleichtern.
-

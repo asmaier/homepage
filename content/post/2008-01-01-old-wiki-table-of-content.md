@@ -1,22 +1,31 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T23:28:01+02:00"
+lastmod: '2019-10-19T23:28:01+02:00'
 projects: []
 slug: old-wiki-table-of-content
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 title: Old Wiki Table of Content
+year: '2008'
+languages:
+- english
+tags:
+- programming and markup languages
+- physics
+- computer science
+- internet
+- society
 ---
+
 Here I collect notes about a lot of things and topics I think are interesting.
 
 ## Physics

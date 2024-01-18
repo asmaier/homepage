@@ -2,20 +2,30 @@
 title: '"Seit dem Staatsvertrag von 1962 ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-08-05
-lastmod: 2018-08-05T12:55:09+02:00
+lastmod: 2018-08-05 12:55:09+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- exklave
+- geographie
+- schweiz
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 "Seit dem Staatsvertrag von 1962 gehört Büsingen politisch zu Deutschland, wirtschaftlich aber zur Schweiz"
 
 Warum lässt man nicht einfach nochmal eine Volksabstimmung in Büsingen machen und fragt, ob sie ganz zur Schweiz oder ganz zu Deutschland gehören wollen. Würde das nicht vieles einfacher machen? 
@@ -31,4 +41,3 @@ https://de.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein#Sonderregelungen
 > de.wikipedia.org
 > ## [Büsingen am Hochrhein – Wikipedia](https://de.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein#Sonderregelungen)
 >
-

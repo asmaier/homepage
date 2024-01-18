@@ -1,21 +1,31 @@
 ---
-title: 'Nicht nur bei den Abgaswerten ...'
+title: Nicht nur bei den Abgaswerten ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-12-03
-lastmod: 2019-12-03T14:09:22+01:00
+lastmod: 2019-12-03 14:09:22+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- automotive industry
+- motorcycle
+- noise pollution
+- emissions scandal
+- vehicle testing
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Nicht nur bei den Abgaswerten wird geschummelt. Spätestens seit 2015 ist bekannt, das auch die Lärmmessungen bei Autos und Motorrädern eine Farce sind. Schlimmer noch, im Gegensatz zu den Abgasproblem hat sich seit 2015 nichts getan, was die Schummelei bei den Lärmmessungen angeht: 
 
 https://taz.de/Unnoetig-laute-Motorraeder-und-Autos/!5459901/
@@ -29,5 +39,4 @@ Denn der Lärm muß generiert werden und das geht physikalisch gesehen von der m
 > srf.ch
 > ## [Umwelt und Verkehr - Manipulierte Fahrzeugtests: Auch beim Lärm wird getrickst](https://www.srf.ch/sendungen/kassensturz-espresso/themen/umwelt-und-verkehr/manipulierte-fahrzeugtests-auch-beim-laerm-wird-getrickst)
 >
->Hersteller sportlicher Fahrzeuge tricksen den Test mit Auspuff-Klappen aus. Der Clou: Das Ganze ist auch noch legal. 
-
+>Hersteller sportlicher Fahrzeuge tricksen den Test mit Auspuff-Klappen aus. Der Clou: Das Ganze ist auch noch legal.

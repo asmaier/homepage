@@ -1,21 +1,31 @@
 ---
-title: 'Wer mal mit Nachtzügen in ...'
+title: Wer mal mit Nachtzügen in ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-07-10
-lastmod: 2022-07-10T21:42:54+02:00
+lastmod: 2022-07-10 21:42:54+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- nachtzüge in europa
+- sleepers
+- fahrtrichtung
+- japanische züge
+- öbb nightjets
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Wer mal mit Nachtzügen in Europa gefahren ist, der wird über den Komfort in Japan stauen. Insbesondere da das im Video offenbar die billigste Kabine ist. Ich bin bisher nur einmal Nachtzug nach Italien gefahren und ansonsten einige Strecken in Russland. Aber ohne Unmengen Alkohol, Oropax und Schlafmaske war an Schlaf in diesen Zügen nicht zu denken. Der Tag danach fühlte sich immer echt besch..eiden an. Aber der japanische Zug im Video ist echt vielversprechend. Ich kann mir gut vorstellen, dass man dort wirklich schlafen kann. 
 
 In Europa werden wir auf ähnlichen Komfort wohl bis 2023 warten müssen. Bis dahin verspricht die ÖBB ihre Nightjets zu verbessern https://www.unsereoebb.at/de/artikel/2019/die-nightjets-der-neuen-generation
@@ -28,4 +38,3 @@ P.S.: Was auch auffällt: In japanischen Zügen wird offenbar längs zur Fahrtri
 > ## [Cheapest Private Room on Japan's Overnight Sleeper Train 😴 12 Hour Trip from Tokyo 寝台特急サンライズ出雲 vlog](https://www.youtube.com/watch?v=wcYQzzTT73Y)
 >
 >Sunrise Express Izumo & Seto (寝台特急サンライズ出雲瀬戸号) is Japan's only overnight sleeper train which runs everyday (日本で唯一の毎日運行の夜行列車). Today, I book the cheapest priva...
-

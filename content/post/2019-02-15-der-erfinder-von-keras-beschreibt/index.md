@@ -1,21 +1,31 @@
 ---
-title: 'Der Erfinder von Keras beschreibt ...'
+title: Der Erfinder von Keras beschreibt ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-02-15
-lastmod: 2019-02-15T17:28:22+01:00
+lastmod: 2019-02-15 17:28:22+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- algorithmus
+- ai ethik
+- soziale medien
+- künstliche intelligenz
+- newsfeeds
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- english
 ---
+
 Der Erfinder von Keras beschreibt hier die wichtigsten Probleme
 und mögliche Lösungen für die Anwendung von AI.
 Ein absoluter Must-Read-Artikel:
@@ -51,4 +61,3 @@ constructive, rather than slot-like machines that maximize
 > ## [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 >
 >Disclaimer: These are my own personal views. I do not speak for my employer. If you quote this article, please have the honesty to present…
-

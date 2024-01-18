@@ -1,20 +1,29 @@
 ---
-title: 'Zwei interessante Diagramme aus dem ...'
+title: Zwei interessante Diagramme aus dem ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-02-01
-lastmod: 2015-02-01T21:57:23+01:00
+lastmod: 2015-02-01 21:57:23+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- physik-journal
+- elektroautos
+- reichweite
+- stromspeichertechnologien
+- diagramme
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
-Zwei interessante Diagramme aus dem Physik-Journal zum Thema Stromspeichertechnologien und Reichweite von Elektroautos.
 
+Zwei interessante Diagramme aus dem Physik-Journal zum Thema Stromspeichertechnologien und Reichweite von Elektroautos.

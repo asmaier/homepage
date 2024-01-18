@@ -1,21 +1,31 @@
 ---
-title: 'Die Olympischen Spiele sind vorbei ...'
+title: Die Olympischen Spiele sind vorbei ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-08-12
-lastmod: 2012-08-12T19:23:13+02:00
+lastmod: 2012-08-12 19:23:13+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- china
+- olympische spiele
+- europäische union
+- usa
+- medaillenspiegel
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- deutsch
 ---
+
 Die Olympischen Spiele sind vorbei und der eindeutige Gewinner des Medaillenspiegels steht fest: Die EU!
 
 Mit 88 Gold-, 98 Silber- und 107 Bronzemedaillen hat die EU mehr als doppelt soviele Medaillen wie die USA. China hat gar nur 1/3 der Medaillen wie die EU. Allerdings dürfte die EU auch das bei weitem größte Athletenkontingent stellen ;-)
@@ -25,5 +35,3 @@ Mit 88 Gold-, 98 Silber- und 107 Bronzemedaillen hat die EU mehr als doppelt sov
 >
 >EU-Medaillenspiegel
 Wie gut ist Europa wirklich bei den Olympischen Spielen?
-
-

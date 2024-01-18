@@ -1,21 +1,31 @@
 ---
-title: 'Der Artikel ist keine Liebeserklärung, ...'
+title: Der Artikel ist keine Liebeserklärung, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-11-03
-lastmod: 2021-11-03T21:49:56+01:00
+lastmod: 2021-11-03 21:49:56+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bürokratie
+- niemandsverantwortung
+- berlin
+- probleme in berlin
+- organisationsstruktur
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Der Artikel ist keine Liebeserklärung, sondern eine gute Analyse der Situation:
 
 "es gibt in Berlin nämlich eine organisatorische Besonderheit: die Niemandsverantwortung, die bürokratische Entsprechung des Niemandslands. Für überraschend viele Dinge in Berlin ist niemand zuständig."
@@ -32,4 +42,3 @@ Dafür habe ich jetzt einen Turnverein für unseren Sohn gefunden. Die warten ab
 > ## [Sascha Lobo über Berlin: Liebeserklärung an den »failed state«](https://www.spiegel.de/netzwelt/netzpolitik/berlin-liebeserklaerung-an-den-failed-state-kolumne-a-11e7f7fd-fd59-486a-9958-da19db476188)
 >
 >Warum Berlin so dysfunktional ist? Die Stadt wurde nicht einfach nur kaputtgespart. Es liegt auch an der Niemandsverantwortung, der bürokratischen Entsprechung des Niemandslands.
-

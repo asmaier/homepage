@@ -1,21 +1,31 @@
 ---
-title: 'Nein! Doch! Oh! Und das ...'
+title: Nein! Doch! Oh! Und das ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-08-19
-lastmod: 2020-08-19T10:39:46+02:00
+lastmod: 2020-08-19 10:39:46+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- verkehrspolitik
+- adac
+- kraftfahrtbundesamt
+- automobilindustrie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Nein! Doch! Oh!
 
 Und das Kraftfahrtbundesamt hat wieder nix gemerkt. Der ADAC hat natürlich nix gemerkt. Niemand hatte vor etwas zu merken seit mindestens 5 Jahren.
@@ -26,4 +36,3 @@ Soll man da noch Mitleid haben mit der Automobilbranche? Ich glaube sie braucht 
 > ## [Investigativ Berichterstattung und Reportagen](https://www.tagesschau.de/investigativ/swr/audi-abgasskandal-109.html)
 >
 >Investigative Inhalte der ARD - aufwändig recherchierte Beiträge und Exclusivgeschichten der Politik-Magazine Monitor, Panorama, Report und Kontraste.
-

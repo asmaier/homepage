@@ -1,21 +1,31 @@
 ---
-title: 'A very interesting comment about ...'
+title: A very interesting comment about ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-08-31
-lastmod: 2015-08-31T14:31:52+02:00
+lastmod: 2015-08-31 14:31:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- datenverschlüsselung
+- sicherheitstechnologien
+- quantumphysik
+- experimente
+- einsteins relativitätstheorie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 A very interesting comment about research in the US and the EU:
 
 """
@@ -26,4 +36,3 @@ I agree but to give a longer explanation i think we can safely say that European
 > ## [Quantum ‘spookiness’ passes toughest test yet - Nature](http://www.nature.com/news/quantum-spookiness-passes-toughest-test-yet-1.18255#comment-2226264905)
 >
 >Experiment plugs loopholes in previous demonstrations of 'action at a distance', against Einstein's objections — and could make data encryption safer.
-

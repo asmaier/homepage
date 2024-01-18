@@ -2,20 +2,32 @@
 title: 'Ukrainian woman: “You are occupiers. ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-25
-lastmod: 2022-02-25T23:53:02+01:00
+lastmod: 2022-02-25 23:53:02+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- russian occupation
+- ukrainian woman
+- professionalism of the russian army
+- heldenhafter krieg
+- russian soldier
+- sunflower seeds
+- furchtlose frau
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- english
 ---
+
 Ukrainian woman: “You are occupiers. You are enemies” 
 Russian soldier: “Yes”
 
@@ -27,4 +39,3 @@ Die Helden dagegen sind die Ukrainer wie diese furchtlose Frau.
 > ## [Ukrainian woman offers seeds to Russian soldiers so 'sunflowers grow when they die'](https://www.youtube.com/watch?v=L17Bi7zBJHI)
 >
 >A woman is being hailed on social media after she confronted a heavily armed Russian soldier and offered him sunflower seeds – so that flowers would grow if ...
-

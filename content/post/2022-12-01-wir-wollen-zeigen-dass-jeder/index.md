@@ -2,20 +2,30 @@
 title: '""Wir wollen zeigen, dass jeder ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-12-01
-lastmod: 2022-12-01T22:22:06+01:00
+lastmod: 2022-12-01 22:22:06+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- autos
+- suv
+- klimawandel
+- umweltbewegung
+- proteste
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 ""Wir wollen zeigen, dass jeder überall etwas für den Klimaschutz tun kann, um die Dominanz riesiger Autos in Städten weltweit zu beenden. Alles, was man braucht, ist ein Flugblatt und eine Linse", sagte Marion Walker, Sprecherin der "Tyre Extinguishers"."
 
 Ich finde diese Aktion besser und wirkungsvoller als sich irgendwo festzukleben. Denn jede Stunde und jeder Kilometer den diese Monsterautos weniger zurücklegen ist aktiver Klimaschutz. 
@@ -30,4 +40,3 @@ Und damit ihr nicht denkt, dass sagt jetzt nur der Großstädter: Ich bin auch d
 > ## [Aktivisten "entwaffnen" Hunderte SUVs](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_100088946/aktion-gegen-suvs-in-deutschland-klimaaktivisten-lassen-luft-aus-reifen-ab-.html)
 >
 >Deutschland, Frankreich und weltweit: In einer koordinierten Aktion haben Umweltschützer die Luft aus SUV-Reifen gelassen. Knapp 900 Fahrzeuge sind betroffen.
-

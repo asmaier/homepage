@@ -1,21 +1,31 @@
 ---
-title: 'Schaut euch mal im Video ...'
+title: Schaut euch mal im Video ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-06-02
-lastmod: 2019-06-02T12:11:34+02:00
+lastmod: 2019-06-02 12:11:34+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- energie
+- klimawandel
+- pariser klimaschutzabkommen
+- emissionen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Schaut euch mal im Video das Gestammele unserer Bundesregierung zur Klimapolitik an. 
 
 Und dann lest mal, was eine Experte dazu schreibt:
@@ -34,4 +44,3 @@ Wieso hört unsere Regierung eigentlich nicht auf die eigenen Experten im Land? 
 > ## [Klimaschutzpolitik aus Sicht der Bundesregierung](https://www.youtube.com/watch?v=0yFSjrM-_ho)
 >
 >Abonniere den Kanal ► http://bit.ly/1A3Gt6EPayPal ► http://www.paypal.me/JungNaivDie Bundesregierung hat beim Klimaschutz immer noch nichts verstanden: "Es w...
-

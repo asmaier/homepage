@@ -1,21 +1,31 @@
 ---
-title: 'Während Russland gerade eine neue ...'
+title: Während Russland gerade eine neue ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-04-18
-lastmod: 2022-04-18T23:02:26+02:00
+lastmod: 2022-04-18 23:02:26+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- immobilienmarkt
+- ukraine
+- russland
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Während Russland gerade eine neue Offensive im Donbas startet, schläft der deutsche Michel immer weiter.
 
 ""2019 hatte der Bundesrat gefordert, alle ausländischen Gesellschaften mit deutschem Immobilienbesitz zu verpflichten, sich ins deutsche Transparenzregister einzutragen. Doch das ging der Union zu weit. Deswegen hat der Bundestag diese Pflicht auf Neukäufer beschränkt. Die vielen anonymen Bestandseigentümer bleiben weiter unerkannt.""
@@ -36,4 +46,3 @@ Und wer weiß wieviele Häuser von Oligarchen in Berlin noch leer rum stehen und
 > ## [Russischer Oligarch in Berlin: Hier steht die Villa von Putins "Held der Arbeit"](https://www.t-online.de/region/berlin/news/id_91976614/russischer-oligarch-in-berlin-hier-steht-die-villa-von-putins-held-der-arbeit-.html)
 >
 >Um Russland wegen seines Angriffskriegs in der Ukraine unter Druck zu setzen,...
-

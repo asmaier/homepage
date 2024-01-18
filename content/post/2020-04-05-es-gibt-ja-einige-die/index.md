@@ -1,21 +1,31 @@
 ---
-title: 'Es gibt ja einige die ...'
+title: Es gibt ja einige die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-05
-lastmod: 2020-04-05T20:29:30+02:00
+lastmod: 2020-04-05 20:29:30+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- überwachung
+- regierungspolitik
+- russland
+- quarantäne
+- coronavirus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Es gibt ja einige die meinen die Maßnahmen der deutschen Regierung gegen das Coronavirus seien übertrieben. Das man es aber wesentlich schlimmer machen kann, sieht man leider mal wieder an Russland: 
 
 1. Die Regierung verpflichtet alle zu einer Woche Urlaub an (bei vollem Lohnausgleich, die Firmen müßen die Kosten selbst übernehmen). Begriffe wie Quarantäne oder Maßnahmen gegen das Coronavirus werden nicht verwendet, denn offiziell hat Russland keine Probleme mit dem Virus. 
@@ -34,4 +44,3 @@ https://www.derstandard.de/story/2000116464378/putin-schickt-russen-wegen-corona
 > ## [Putin schickt Russen wegen Coronavirus bis Ende April in Zwangsurlaub](https://www.derstandard.de/story/2000116464378/putin-schickt-russen-wegen-coronavirus-bis-ende-april-in-zwangsurlaub)
 >
 >Mit aller Macht versucht der Kreml die Epidemie einzudämmen. Der von Wladimir Putin verordnete Zwangsurlaub kommt die Wirtschaft aber teuer zu stehen
-

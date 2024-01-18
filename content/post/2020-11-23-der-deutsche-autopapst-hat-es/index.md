@@ -1,21 +1,31 @@
 ---
-title: 'Der deutsche Autopapst hat es ...'
+title: Der deutsche Autopapst hat es ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-11-23
-lastmod: 2020-11-23T14:13:55+01:00
+lastmod: 2020-11-23 14:13:55+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- diesel-skandal
+- mineralölsteuer
+- automotive brands
+- emissionsnormen
+- fahrzeugbeschaffung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Der deutsche Autopapst hat es inzwischen auch erkannt. 
 
 "„Seine letzte Bastion sind die dicken SUV, die großen Firmenwagen und die Steuervorteile etwa in Deutschland“"
@@ -37,4 +47,3 @@ Wir subventionieren den Diesel immer noch mit 10 Milliarden Euro pro Jahr!! Wahn
 > ## [Das Zeitalter des Diesels ist vorbei, sagt Autoexperte Dudenhöffer](https://www.businessinsider.de/wirtschaft/mobility/das-zeitalter-des-diesels-ist-vorbei-sagt-autoexperte-dudenhoeffer-a/)
 >
 >Der Anteil neuzugelassener Diesel-Autos sinkt seit einigen Jahren. Strengere CO2-Vorgaben der EU dürften den Trend beschleunigen.
-

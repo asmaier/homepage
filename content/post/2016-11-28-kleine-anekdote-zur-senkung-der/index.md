@@ -1,21 +1,31 @@
 ---
-title: 'Kleine Anekdote zur Senkung der ...'
+title: Kleine Anekdote zur Senkung der ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-11-28
-lastmod: 2016-11-28T17:52:29+01:00
+lastmod: 2016-11-28 17:52:29+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- urlaub ohne ende
+- trivago
+- mitarbeiterwohl
+- reiseplattform
+- freizeitaktivitäten
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Kleine Anekdote zur Senkung der Arbeitsmoral:
  
 "Die Mitarbeiter der Reiseplattform dürfen aber nicht nur Urlaub ohne Ende nehmen, es gibt bei trivago auch keine banalen Job-Titel, keine echten Hierarchien und keine starren Arbeitszeiten.
@@ -26,4 +36,3 @@ Einmal im Jahr fahren alle Mitarbeiter der Firma vier Tage lang gemeinsam in den
 > ## [trivago - ein All-Inclusive-Wellnesshotel für Mitarbeiter - deutsche-startups.de](https://www.deutsche-startups.de/2015/11/26/trivago-ein-inclusive-wellnesshotel-fuer-mitarbeiter/)
 >
 >In Düsseldorf steht das Li-La-Launeland der deutschen Start-up-Szene. trivago bietet seinen Mitarbeitern Urlaub ohne Ende, kostenlose Getränke, Müslis, Sandwiches, Fitnesskurse, Barbecues auf der Dachterrasse und gemeinsame Urlaubstrips.
-

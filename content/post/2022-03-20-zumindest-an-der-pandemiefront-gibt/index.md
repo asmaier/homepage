@@ -1,21 +1,31 @@
 ---
-title: 'Zumindest an der Pandemiefront gibt ...'
+title: Zumindest an der Pandemiefront gibt ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-03-20
-lastmod: 2022-03-20T18:44:40+01:00
+lastmod: 2022-03-20 18:44:40+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- sterblichkeit
+- omikron (sars-cov-2-variante)
+- covid-19
+- grippe
+- pandemie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Zumindest an der Pandemiefront gibt es gute Nachrichten:
 
 "Die Sterblichkeit bei einer typischen saisonalen Grippe liegt in der Schweiz deutlich unter 0.1 Prozent. Die Sterblichkeit durch Omikron liegt in der Schweiz derzeit bei etwa 0.04 Prozent."
@@ -32,4 +42,3 @@ https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=t
 > ## [Gefährlichkeit der Variante - Ist Omikron jetzt mit der Grippe vergleichbar?](https://www.srf.ch/news/schweiz/gefaehrlichkeit-der-variante-ist-omikron-jetzt-mit-der-grippe-vergleichbar)
 >
 >Mit Omikron liegen die Spitaleintritte viel tiefer als in bisherigen Wellen. Der SRF-Wissenschaftsredaktor ordnet ein.
-

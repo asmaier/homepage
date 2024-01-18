@@ -2,20 +2,30 @@
 title: 'Facebook 2019: Facebook 2021: Manchmal ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-12-14
-lastmod: 2021-12-14T12:16:21+01:00
+lastmod: 2021-12-14 12:16:21+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- facebook
+- soziale medien
+- datenschutz
+- biometrie
+- meta platforms inc
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Facebook 2019: https://www.heise.de/newsticker/meldung/Facebook-fuehrt-Gesichtserkennung-fuer-alle-Nutzer-ein-4513535.html
 
 Facebook 2021:
@@ -27,4 +37,3 @@ Manchmal lohnt es sich halt doch zuerst über die Konsequenzen nachzudenken, bev
 > ## [Meta löscht Facebooks Gesichtserkennungs-Profile](https://www.heise.de/news/Meta-loescht-Facebooks-Gesichtserkennungs-Profile-6247166.html)
 >
 >Jahrelang hat Facebook die Gesichter mehr als einer Milliarde Menschen biometrisch ausgewertet – oft ohne Einwilligung. In der Krise löscht Meta die Daten.
-

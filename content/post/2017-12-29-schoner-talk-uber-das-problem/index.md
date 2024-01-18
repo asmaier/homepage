@@ -1,21 +1,31 @@
 ---
-title: 'Schöner Talk über das Problem ...'
+title: Schöner Talk über das Problem ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-12-29
-lastmod: 2017-12-29T22:50:22+01:00
+lastmod: 2017-12-29 22:50:22+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ölindustrie
+- steuern
+- unternehmen
+- spanien
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 Schöner Talk über das Problem unserer Zeit und sicher mit eine der Ursachen für unsere Wutbürger. 
 
 Die Geschichte von Exxon Spain ist dabei besonders schön:
@@ -28,4 +38,3 @@ https://www.heise.de/tp/news/ExxonMobil-Spain-beschaeftigt-einen-Angestellten-19
 > ## [Taxation](https://media.ccc.de/v/34c3-9047-taxation)
 >
 >Taxation, the most "boring" #34c3 talk, but hey it's the economy stupid, and you pay for it! We will a provide a quick overview of the in...
-

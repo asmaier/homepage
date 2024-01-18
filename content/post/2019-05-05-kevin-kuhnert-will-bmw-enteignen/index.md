@@ -2,20 +2,30 @@
 title: '"Kevin Kühnert will BMW enteignen! ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-05
-lastmod: 2019-05-05T14:08:11+02:00
+lastmod: 2019-05-05 14:08:11+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- lobbyismus
+- enteignung
+- unternehmen
+- demokratie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Kevin Kühnert will BMW enteignen! Wieviel DDR steckt in der SPD?" titelt die Bild und natürlich wird er sofort stark kritisiert. 
 
 Aber wieso sollten die großen Konzerne Deutschlands (viele davon auch groß geworden durch Staatsaufträge in dunklen Zeiten) davor sicher sein. Die deutschen Konzerne mischen sich jeden Tag mithilfe tausender Lobbyisten in die Landes-, Bundes- und Europapolitik ein. Wenn Unternehmen sich so in die Politik einmischen, dürfen sie nicht erwarten, dass sich die Politik nicht in Unternehmen einmischt. 
@@ -26,4 +36,3 @@ Wenn jedem Unternehmen mit einem Lobbyisten in Berlin oder Brüssel (siehe https
 > ## [Kevin Kühnert, die Enteignung der Konzerne und die Rolle der „Zeit“ im umstrittenen Interview](https://www.faz.net/aktuell/feuilleton/kevin-kuehnert-die-enteignung-der-konzerne-und-die-rolle-der-zeit-im-umstrittenen-interview-16170511.html)
 >
 >Wer hat im Interview zwischen dem Juso-Vorsitzenden Kevin Kühnert und der „Zeit“ die Enteignungen ins Spiel gebracht? Es war wie eine Abiturprüfung - hier zwei unerschütterliche Routiniers, dort ein gewitzter Prüfling.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Wer es noch nicht gewusst ...'
+title: Wer es noch nicht gewusst ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-11-16
-lastmod: 2017-11-16T22:25:04+01:00
+lastmod: 2017-11-16 22:25:04+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- weltmacht
+- laurence douglas fink
+- vermögensverwaltung
+- blackrock
+- friedrich merz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 Wer es noch nicht gewusst hat. Nicht China, Russland oder die USA sind Weltmacht sondern:
 
  "BlackRock verwaltet 5,98 Billionen US-Dollar (Stand: 11. Oktober 2017). BlackRock gilt aufgrund seines wirtschaftlichen und politischen Einflusses als „heimliche Weltmacht“ und wird von Journalisten und Fachleuten kritisiert."
@@ -33,5 +43,3 @@ Chef der Deutschland-Filiale von BlackRock ist niemand anders als der allseits b
 > ## [BlackRock – Wikipedia](https://de.wikipedia.org/wiki/BlackRock)
 >
 >
-
-

@@ -1,21 +1,31 @@
 ---
-title: 'Das wird aber auch Zeit. ...'
+title: Das wird aber auch Zeit. ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-31
-lastmod: 2019-03-31T21:26:54+02:00
+lastmod: 2019-03-31 21:26:54+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- kundenbindung
+- verträge
+- telekommunikation
+- mobilfunk
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das wird aber auch Zeit. Die Zwei-Jahre-Knebel-Vertäge sind ein Unding. Kleine Geschichte meinerseits:
 
 Ich war jahrelang (wenn nicht ein Jahrzehnt lang)Telekom-Kunde (weil ich oft Call-by-Call nach Russland machte). Das hat mir immer gefallen, auch weil ich dort nur noch einen Monat Kündigungsfrist hatte, denn die 2 Jahre-Knebelung hatte ich lange hinter mir.  Irgendwann haben sie mir dann meinen DSL-Vertrag den ich noch mit T-Online geschlossen hatte "verbessert" . Ich bekam also einen neuen Vertrag und höhere Geschwindigkeit zum selben Preis. Die Überraschung dann beim nächsten Umzug, als ich meinen Vertrag endlich kündigen wollte: Die Telekom hatte mir tatsächlich mit der Vertragsverbesserung im Kleingedruckten die Kündungsfrist wieder auf 2 Jahre hochgeschraubt! 
@@ -28,4 +38,3 @@ Diese Zwei-Jahres-Verträge sind eine absolute Unverschämtheit in allen Bereich
 > ## [Union und SPD wolle lange Telefonverträge stoppen](https://www.faz.net/aktuell/finanzen/meine-finanzen/union-und-spd-wolle-lange-telefonvertraege-stoppen-16116456.html)
 >
 >Man kennt sie aus dem Fitnessstudio oder vom Mobilfunkanbieter: Lästige Langzeitverträge, die kein bisschen Flexibilität zulassen. Damit könnte bald Schluss sein.
-

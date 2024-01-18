@@ -1,21 +1,31 @@
 ---
-title: 'Nun ist die Katze aus ...'
+title: Nun ist die Katze aus ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-03-28
-lastmod: 2014-03-28T09:43:17+01:00
+lastmod: 2014-03-28 09:43:17+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- öl- und gasindustrie
+- europa
+- russland
+- usa
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Nun ist die Katze aus dem Sack:
 
 Die USA wollen Russland und die EU entfremden, damit
@@ -29,4 +39,3 @@ Fragt sich nur welche Vorteile Europa davon hat?
 > ## [Schiefergas: Obama sagt EU-Spitzen Energiedeal zu](http://derstandard.at/1395363329295/Schiefergas-Obama-sagt-EU-Spitzen-Energiedeal-zu)
 >
 >USA und EU rücken in der Krise mit Russland enger zusammen. Präsident Obama sichert den Partnern die Lieferung von Schiefergas zu
-

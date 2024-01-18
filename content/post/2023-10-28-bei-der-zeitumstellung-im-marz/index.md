@@ -2,20 +2,30 @@
 title: '"Bei der Zeitumstellung im März, ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-10-28
-lastmod: 2023-10-28T22:01:09+02:00
+lastmod: 2023-10-28 22:01:09+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- zeitumstellung
+- forschung
+- gesundheit
+- chronotyp
+- schlaf
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-gesundheit-100.html
 
 "Bei der Zeitumstellung im März, wo wir eine Stunde früher aufstehen müssen, haben wir in den darauffolgenden zwei Tage messbar mehr Krankenhauseinweisungen."
@@ -32,4 +42,3 @@ Ich freue mich daher, dass morgen endlich wieder die Normalzeit beginnt.
 > ## [Chronomedizin: Was die Zeitumstellung mit dem Körper macht](https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-gesundheit-100.html)
 >
 >In der Nacht auf Sonntag wurde die Uhr eine Stunde zurückgestellt, es gilt wieder die Normalzeit. Doch Umfragen haben gezeigt, dass die Deutschen am liebsten die ewige Sommerzeit hätten. Was sagt die Forschung dazu? Von Anja Braun.
-

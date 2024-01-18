@@ -2,20 +2,30 @@
 title: '"Aus diesem handfesten Skandal müssen ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-10-15
-lastmod: 2022-10-15T21:50:40+02:00
+lastmod: 2022-10-15 21:50:40+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- e-rezept
+- elektronische arbeitsunfähigkeitsbescheinigung
+- digitalisierung des gesundheitssystems
+- gematik
+- elektronische patientenakte
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Aus diesem handfesten Skandal müssen nicht nur personelle, sondern auch strukturelle Konsequenzen gezogen werden. Ein Untersuchungsausschuss müsste die Frage klären, ob und inwieweit die Konnektorenhersteller die Entscheidungsträger für den unnötigen Konnektortausch beim BMG und bei der Gematik beeinflusst haben. Aufschluss geben könnten etwa die von der Gematik zurückgehaltenen Sitzungsprotokolle der Gesellschafterversammlungen.
 
 Wenn bei der Untersuchung herauskommt, dass technische Lösungen aufgrund wirtschaftlicher Interessen einzelner Firmen zurückgehalten wurden, dann muss das gesamte staatliche Konstrukt der Digitalisierung des Gesundheitssystems unter der Aufsicht der Gematik auf den Prüfstand.
@@ -28,4 +38,3 @@ Dem kann ich nur voll zustimmen. Die Digitalisierung des Gesundheitssystems unte
 > ## [ Zerschlagt das Oligopol! Ein Kommentar zum CCC-Hack der TI-Konnektoren](https://www.heise.de/meinung/Zerschlagt-das-Oligopol-Ein-Kommentar-zum-CCC-Hack-der-TI-Konnektoren-7308906.html)
 >
 >Wenn Interessen von Firmen schwerer wiegen als die der Patienten, fährt die Gematik die Digitalisierung vor die Wand, meint c't-Redakteur Hartmut Gieselmann.
-

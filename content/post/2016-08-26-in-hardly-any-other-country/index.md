@@ -1,21 +1,31 @@
 ---
-title: '“In hardly any other country ...'
+title: “In hardly any other country ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-08-26
-lastmod: 2016-08-26T18:06:42+02:00
+lastmod: 2016-08-26 18:06:42+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- mittelstand
+- wirtschaftsstruktur
+- erbschaftsteuer
+- steuerpolitik
+- soziale ungleichheit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- english
 ---
+
 “In hardly any other country does social origin influence one’s income as much as in Germany,”
 
 "Germany has the highest share of inheritor-billionaires among developed economies, 65 percent. "
@@ -25,4 +35,3 @@ slug: ''
 > ## [Bloomberg - Are you a robot?](https://www.bloomberg.com/news/articles/2016-08-23/how-to-stay-rich-in-europe-inherit-money-for-700-years)
 >
 >To continue, please click the box below to let us know you're not a robot.
-

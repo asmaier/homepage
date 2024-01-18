@@ -1,21 +1,31 @@
 ---
-title: 'Wenn schon FakeNews, dann nur ...'
+title: Wenn schon FakeNews, dann nur ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-04-07
-lastmod: 2018-04-07T22:40:58+02:00
+lastmod: 2018-04-07 22:40:58+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- auslandsbeziehungen
+- skripal-vergiftung
+- russland
+- propaganda
+- fake news
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- english
 ---
+
 Wenn schon FakeNews, dann nur aus Russland. 
 Eine Auswahl der Besten:
 
@@ -27,4 +37,3 @@ Eine Auswahl der Besten:
 > ## [Figure of the Week: 20 - EUvsDisinfo](https://euvsdisinfo.eu/figure-of-the-week-20/)
 >
 >Amid growing international consensus that Moscow was behind the poisoning of ex-Russian spy Sergei Skripal and his daughter, Russian audiences are being bombarded with different, often conflicting theories about the case.
-

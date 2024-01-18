@@ -1,21 +1,31 @@
 ---
-title: 'Die Idee mit diesem speziellen ...'
+title: Die Idee mit diesem speziellen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-12-06
-lastmod: 2014-12-06T17:18:33+01:00
+lastmod: 2014-12-06 17:18:33+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- myopie
+- brillenglas
+- kinder
+- studie
+- optik
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Die Idee mit diesem speziellen Brillenglas das Fortschreiten der Kurzsichtigkeit im Kinderalter zu verlangsamen scheint ja laut Studie zu funktionieren. Aber warum braucht Zeiss dann so lange MyoVision auch außerhalb Asiens auf den Markt zu bringen? Fürchten die Optiker hier etwa um ihre Einnahmen?
 
 Mehr Infos: 
@@ -24,4 +34,3 @@ Mehr Infos:
 - http://www.deanoptometrist.com.au/zeiss-myovision
 - http://precisionoptics2013.wordpress.com/category/controlling-myopia/
 > http://www.optikerschuetz.de/blog/myovision-innovatives-brillenglas-fuer-kinder-verlangsamt-das-wachstum-einer-kurzsichtigkeit
-

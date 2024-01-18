@@ -1,21 +1,31 @@
 ---
-title: 'Es gibt ja viele, die ...'
+title: Es gibt ja viele, die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-09-15
-lastmod: 2019-09-15T15:27:21+02:00
+lastmod: 2019-09-15 15:27:21+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verfassung
+- mongolei
+- prime minister
+- deliberative polling
+- parliament
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- english
 ---
+
 Es gibt ja viele, die mich für verrückt erklären, wenn ich vorschlage Politiker statt durch Wahlen sie lieber durch Los aus der Bevölkerung zu bestimmen (so wie im antiken Athen). Aber es gibt inzwischen erste Schritte von Staaten in diese Richtung.
 
 Die Mongolei hat nämlich tatsächlich https://de.wikipedia.org/wiki/Deliberative_Polling in der Verfassung festgeschrieben:
@@ -33,4 +43,3 @@ Ich bin sehr gespannt, wie sich das in der Mongolei entwickelt.
 > ## [Deliberative Democracy in Mongolia](https://www.youtube.com/watch?v=mzjiRUqq_MM)
 >
 >Gombojavyn Zandanshatar, Mongolia's Minister of Foreign Affairs and Trade from 2009 to 2012, and currently a member of the Mongolian parliament, was a Visiti...
-

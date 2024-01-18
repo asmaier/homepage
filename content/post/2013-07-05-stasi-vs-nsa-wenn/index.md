@@ -1,21 +1,31 @@
 ---
-title: 'Stasi vs. NSA - Wenn ...'
+title: Stasi vs. NSA - Wenn ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-07-05
-lastmod: 2013-07-05T10:59:47+02:00
+lastmod: 2013-07-05 10:59:47+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- geheimdienste
+- stasi
+- aktenschränke
+- nsa
+- datenschutz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Stasi vs. NSA - Wenn es eine Gauckbehörde für die NSA gäbe hätte sie einiges zu tun...
 > [![](https://opendatacity.github.io/stasi-vs-nsa/screenshot.png)](http://apps.opendatacity.de/stasi-vs-nsa/)
 > opendatacity.github.io
@@ -23,5 +33,3 @@ Stasi vs. NSA - Wenn es eine Gauckbehörde für die NSA gäbe hätte sie einiges
 >
 >
 					Wieviel Platz würden die Aktenschränke der Stasi und der NSA verbrauchen - wenn die NSA ihre 5 Zettabytes ausdrucken würde?
-				
-

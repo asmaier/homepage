@@ -1,21 +1,31 @@
 ---
-title: 'Letzte Nacht hatten wir den ...'
+title: Letzte Nacht hatten wir den ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-19
-lastmod: 2022-02-19T16:46:43+01:00
+lastmod: 2022-02-19 16:46:43+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- windenergie
+- small-scale_wind_turbines
+- solar_energy
+- renewable_energy
+- residential_solar_power
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Letzte Nacht hatten wir den stärksten Sturm seit langem hier in Berlin. Unser Outdoor-Trampolin wurde nur durch den Zaun davon abgehalten davonzufliegen. Im Garten der Nachbarn wurde eine große Fichte umgelegt. 
 Das zeigt mal wieder was für eine Kraft in so ein bisschen Wind stecken kann. Da wäre es doch eigentlich schön, wenn man diese Kraft besser nutzen könnte.
 Und tatsächlich, inzwischen gibt es genau das: Windkraftanlagen für jedermann, z.B.  https://www.myskywind.com/
@@ -30,4 +40,3 @@ Wer also zur Miete wohnt und gerne BioStrom am Balkon erzeugen möchte, der ist 
 > ## [Windanlage für Steckdose zur Einspeisung ins Hausnetz: Geht das?](https://www.youtube.com/watch?v=7B1OfmX2kHs)
 >
 >Gibt es Stecker-Windräder? Eine Mikrowindanlage am Balkon befestigen und in die Steckdose im Haus stöpseln. Stecker-Solaranlagen haben es vorgemacht: Einfach...
-

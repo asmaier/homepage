@@ -1,21 +1,31 @@
 ---
-title: 'Ein Material, welches selbst bei ...'
+title: Ein Material, welches selbst bei ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-06-23
-lastmod: 2021-06-23T09:28:52+02:00
+lastmod: 2021-06-23 09:28:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- solaranlagen
+- biomüll
+- israel
+- erneuerbare energien
+- lumineszenz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Ein Material, welches selbst bei bedecktem Himmel Strom erzeugen kann und dazu noch aus Biomüll hergestellt werden kann, klingt geradezu unglaublich. Und doch hat ein Erfinder von den Philippinen gerade dafür einen Preis gewonnen.
 
 https://efahrer.chip.de/news/funktioniert-an-wolkigen-tagen-diese-solaranlage-wird-aus-biomuell-hergestellt_105027
@@ -26,4 +36,3 @@ Und tatsächlich wird so etwas auch bereits in der Wikipedia beschrieben: https:
 
 Sie wurden bereits 1978 in Israel entwickelt. Warum hören wir erst jetzt davon?
 > https://efahrer.chip.de/news/funktioniert-an-wolkigen-tagen-diese-solaranlage-wird-aus-biomuell-hergestellt_105027
-

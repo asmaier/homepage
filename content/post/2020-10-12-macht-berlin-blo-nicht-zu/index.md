@@ -2,20 +2,30 @@
 title: '"Macht Berlin bloß nicht zu ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-10-12
-lastmod: 2020-10-12T22:11:15+02:00
+lastmod: 2020-10-12 22:11:15+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- helsinki und oslo
+- fußgänger und radfahrer
+- stadtverwaltung
+- straßenverkehr
+- autofrei
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Macht Berlin bloß nicht zu schön, sonst steigen die Mieten."
 
 Ich bin sicher, dass das tatsächlich Leitlinie der Stadtverwaltung ist.
@@ -28,4 +38,3 @@ Der Preis dafür ist aber hoch:
 > ## [Hackescher Markt und Unter den Linden sollen autofrei werden](https://www.berliner-zeitung.de/mensch-metropole/autofreie-tauentzienstrasse-wird-noch-gefuellt-li.110648)
 >
 >Die Sperrung der Tauentzienstraße am Sonnabend befeuert die Debatte über weitere Tests dieser Art. Doch es gibt auch Kritik von Anwohnern - nach dem Motto: Macht den Kiez bloß nicht zu schön, sonst steigen die Mieten.
-

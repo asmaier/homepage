@@ -1,21 +1,32 @@
 ---
-title: '#wasinteressierenmichfakten​ #zumteufelmitderwissenschaft​ #ichhabeimmerschonallesbessergewusst Danke, Volker ...'
+title: '#wasinteressierenmichfakten​ #zumteufelmitderwissenschaft​ #ichhabeimmerschonallesbessergewusst
+  Danke, Volker ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-07
-lastmod: 2021-05-07T22:36:43+02:00
+lastmod: 2021-05-07 22:36:43+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- coronakrise
+- wissenschaft
+- aktion
+- künstler
+- volker quaschning
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 #wasinteressierenmichfakten​
 #zumteufelmitderwissenschaft​
 #ichhabeimmerschonallesbessergewusst
@@ -26,4 +37,3 @@ Danke, Volker Quaschning!
 > ## [Alles dicht machen? Zum Teufel mit der Wissenschaft!](https://www.youtube.com/watch?v=VJp8jqH_MFI)
 >
 >Jan Josef Liefers und andere Künstler:innen haben mit der Aktion #allesdichtmachen für Aufmerksamkeit in der Coronakrise gesorgt. Ich als Wissenschaftler leg...
-

@@ -1,21 +1,31 @@
 ---
-title: 'Inzwischen gibt es kostenlosen ÖPNV ...'
+title: Inzwischen gibt es kostenlosen ÖPNV ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-09-02
-lastmod: 2019-09-02T13:11:03+02:00
+lastmod: 2019-09-02 13:11:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- verkehrspolitik
+- öffentlicher verkehr
+- stadtverwaltung
+- fahrtkosten
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Inzwischen gibt es kostenlosen ÖPNV in Tübingen und Aschaffenburg zumindest am Samstag. Das wäre doch mal was auch für Berlin, oder?
 
 https://www.swp.de/suedwesten/boris-palmer-will-gratis-nahverkehr-in-tuebingen-an-allen-tagen-31101381.html
@@ -25,5 +35,4 @@ https://www.bayerische-staatszeitung.de/staatszeitung/kommunales/detailansicht-k
 > swp.de
 > ## [Brief an Strobl: Kostenloser Nahverkehr – Boris Palmer macht neuen Vorstoß](https://www.swp.de/suedwesten/boris-palmer-will-gratis-nahverkehr-in-tuebingen-an-allen-tagen-31101381.html)
 >
->Boris Palmer will in Tübingen auch unter der Woche kostenfreies Busfahren ermöglichen. Er bittet Innenminister Strobl um Unterstützung. 
-
+>Boris Palmer will in Tübingen auch unter der Woche kostenfreies Busfahren ermöglichen. Er bittet Innenminister Strobl um Unterstützung.

@@ -2,20 +2,30 @@
 title: 'Aus dem sehr guten Artikel: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-03-01
-lastmod: 2012-03-01T15:15:30+01:00
+lastmod: 2012-03-01 15:15:30+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- moral
+- evolutionsbiologie
+- psychologie
+- selbsttäuschung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- deutsch
 ---
+
 Aus dem sehr guten Artikel:
 
 "Man muss einem Kandidaten nur die Gelegenheit bieten, sich mit unmoralischen Mitteln einen Vorteil zu verschaffen, und dann den Mechanismen der Selbsttäuschung ihren Lauf lassen. Er wird wahrscheinlich glauben, den Erfolg nicht seinem Betrug, sondern seinem Können zu verdanken, und sich von diesem Irrglauben auch durch drohende Konsequenzen nicht abbringen lassen – er weiß es einfach nicht besser. Und wird er dafür auch noch mit Wählerstimmen oder Ämtern belohnt, verliert er weiter an Bodenhaftung.
@@ -33,4 +43,3 @@ Bei den Inhabern politischer Ämter darf man getrost ein gewisses Naturtalent f�
 > ## [Selbstbetrug: Doppelte Buchführung](http://www.spektrum.de/alias/selbstbetrug/doppelte-buchfuehrung/1143504)
 >
 >Immer wieder geraten Politiker mit zweifelhaften Praktiken in die Schlagzeilen. Doch keiner von ihnen wähnt sich im moralischen Abseits. Ein Fall von ...
-

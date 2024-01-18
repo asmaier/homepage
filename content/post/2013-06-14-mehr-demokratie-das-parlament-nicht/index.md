@@ -2,20 +2,30 @@
 title: '"Mehr Demokratie! Das Parlament nicht ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-06-14
-lastmod: 2013-06-14T22:59:58+02:00
+lastmod: 2013-06-14 22:59:58+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- wahlrechtsreform
+- parlamentarismus
+- demokratie
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 "Mehr Demokratie! 
 Das Parlament nicht wählen, sondern auslosen? 
 Passives Wahlrecht für alle? Warum denn nicht, 
@@ -25,4 +35,3 @@ Endlich mal einer, der sich nicht nur beschwert, sondern auch mögliche Lösunge
 
 "http://www.weyhsheiten.de/pdf/Weyh_Wahlrechtsrefom.pdf"
 > http://www.weyhsheiten.de/pdf/Weyh_Wahlrechtsrefom.pdf
-

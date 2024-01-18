@@ -2,20 +2,30 @@
 title: '"Dummerweise wurden 2015 etwa ein ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-28
-lastmod: 2022-02-28T21:45:00+01:00
+lastmod: 2022-02-28 21:45:00+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- militärausgaben
+- ukraine
+- energiepolitik
+- erneuerbare energien
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Dummerweise wurden 2015 etwa ein Viertel aller Gasspeicher mit dem Segen der damaligen [Bundes-]Regierung an Russland verkauft und die russischen Unternehmen halten sich gerade mit dem Befüllen von Speichern aus unerfindlichen Gründen auffallend zurück."
 
 "59 Prozent der Importe aus Russland entfallen auf Erdöl
@@ -34,4 +44,3 @@ P.S.: Wo bleibt eigentlich das 100 Milliardenprogramm um schnellstmöglich auf e
 > ## [Putins Krieg und unser Öl und Gas](https://www.youtube.com/watch?v=xcnDXHDfBpI)
 >
 >Letztes Jahr haben wir Öl und Gas im Gegenwert von einem Drittel der offiziellen russischen Militärausgaben aus Russland importiert. Mit jedem Liter Öl und j...
-

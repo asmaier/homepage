@@ -1,21 +1,31 @@
 ---
-title: 'Das ist das ultimative Anti-SUV ...'
+title: Das ist das ultimative Anti-SUV ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-03-10
-lastmod: 2023-03-10T22:27:42+01:00
+lastmod: 2023-03-10 22:27:42+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- verkehrspolitik
+- anti-suv
+- usa
+- straßenqualität
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Das ist das ultimative Anti-SUV Video, da ihr euch unbedingt anschauen solltet. Ich fühle mich ein bisschen bestätigt, da ich schon immer gesagt habe, dass die SUV-Mode eindeutig aus den USA kommt. Allerdings ist der Grund dafür nicht, wie von mir oft vorgebracht, die unglaublich schlechte Straßenqualität in den USA. Nein, der wahre Grund ist noch viel dümmer:
 
 Es gibt in den USA Ausnahmeregelungen für "Light Trucks" unter die auch SUVs fallen. Und zwar dürfen Light Trucks mehr Abgase produzieren, mehr verbrauchen und schlechtere Sicherheitsmerkmale haben als "normale Autos".  Und da sie nicht in den Flottenverbrauch der Hersteller eingerechnet werden, wie normale Autos konnten die Hersteller teure Strafzahlungen für das Nichtabsenken des Flottenverbrauchs einfach umgehen. Dazu kommen noch Strafzölle für ausländische "Light Trucks"/SUVs, die es amerikanischen Herstellern leichter machen, den Markt der SUVs in den USA zu dominieren. 
@@ -30,4 +40,3 @@ P.S.: Meine schnelle Lösung für das SUV-Problem wäre übrigens, diese an die 
 > ## [These Stupid Trucks are Literally Killing Us](https://www.youtube.com/watch?v=jN7mSXMruEo)
 >
 >Save $20 on an annual subscription to Nebula: https://go.nebula.tv/notjustbikesEngineers, planners, politicians, and advocates all around the world are tryin...
-

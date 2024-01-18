@@ -1,21 +1,31 @@
 ---
-title: 'Das wäre in Deutschland leider ...'
+title: Das wäre in Deutschland leider ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-06
-lastmod: 2019-10-06T21:17:40+02:00
+lastmod: 2019-10-06 21:17:40+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- public health
+- elektronische zigaretten
+- tabakbekämpfung
+- nichtrauchergesetzgebung
+- öffentliche veranstaltungen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das wäre in Deutschland leider völlig undenkbar und zeigt mal wieder, wie weit wir beim Nichtraucherschutz hintendran sind. 
 
 Im Gegenteil, die BVG in Berlin erblödet sich noch, und macht an den Bushaltestellen Werbung für E-Zigaretten. Die ganzen Schüler die dort auf den Bus warten sind ja auch die perfekte Zielgruppe. 
@@ -30,4 +40,3 @@ Wer im 21. Jhd noch raucht (egal ob mit E oder ohne), ist in etwa so klug wie di
 > ## [In Melbournes Haupteinkaufsviertel darf nicht mehr geraucht werden](https://www.spiegel.de/panorama/gesellschaft/melbourne-rauchverbot-in-haupteinkaufsviertel-a-1289971.html)
 >
 >Wer in Melbournes wichtigster Einkaufsgegend mit einer Zigarette erwischt wird, muss zahlen.
-

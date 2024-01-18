@@ -2,20 +2,30 @@
 title: 'Ein interessantes Interview zum Nachdenken: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-07-14
-lastmod: 2016-07-14T20:52:11+02:00
+lastmod: 2016-07-14 20:52:11+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- islam
+- extremismus
+- sexismus
+- integration
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Ein interessantes Interview zum Nachdenken:
 
 "Seien wir ehrlich, ein Hindu oder Buddhist integriert sich sicher leichter. Das Gerede, die schlechte Inte­gration von Muslimen habe mit dem Islam nichts zu tun, ist Quatsch. Der Islam macht den Muslimen Schwierigkeiten bei der Integration, solange er nicht reformiert ist."
@@ -28,4 +38,3 @@ Ein interessantes Interview zum Nachdenken:
 > ## [«Diese Männer denken: Deutsche Frauen sind Schlampen»](http://bazonline.ch/ausland/europa/Diese-Maenner-denken-Deutsche-Frauen-sind-Schlampen/story/22916308)
 >
 >Bassam Tibi, Syrer und Schüler Theodor W. Adornos, ist ein Kenner des Islams. Worüber er spricht, will in Deutschland niemand hören: Judenhass der Araber, Sexismus und deutscher Extremismus.
-

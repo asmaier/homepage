@@ -1,24 +1,32 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T21:27:30+02:00"
+lastmod: '2019-10-19T21:27:30+02:00'
 projects: []
 slug: korteweg-de-vries-equation
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
+- mathematische physik
+- korteweg-de vries-gleichung
 - physics
+- wellenmechanik
+- fluid dynamik
+- turbulenz
 title: Korteweg-de Vries equation
+year: '2008'
+languages:
+- english
 ---
+
 From [http://mathworld.wolfram.com/Korteweg-deVriesEquation.html]:
 
 > In fact, a transformation due to Gardner provides an algorithm for computing an infinite number of conserved densities of the KdV equation, which are connected to those of the so-called modified KdV equation through the Miura transformation

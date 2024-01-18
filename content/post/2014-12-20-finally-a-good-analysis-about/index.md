@@ -1,21 +1,31 @@
 ---
-title: 'Finally a good analysis about ...'
+title: Finally a good analysis about ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-12-20
-lastmod: 2014-12-20T21:21:41+01:00
+lastmod: 2014-12-20 21:21:41+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- ölpreis
+- devisenbewertung
+- russland
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- english
 ---
+
 Finally a good analysis about the correlation between ruble and the oil price. And in addition I found this article from Fortune which paints a surprisingly positive picture for russia:
 
 http://fortune.com/2014/12/18/why-russia-will-halt-the-rubles-slide-and-keep-pumping-oil/
@@ -26,4 +36,3 @@ Not something you find in the german news easily.
 > ## [Guest post: Russia, Left in the Ruble](http://karimfoda.com/2014/12/18/russia-left-in-the-ruble-2/)
 >
 >by Mike Azar With the Russian currency (the ruble) plummeting and borrowing costs shooting higher, Russia is on the edge of a full-blown financial crisis.  In the last three months, the ruble has l…
-

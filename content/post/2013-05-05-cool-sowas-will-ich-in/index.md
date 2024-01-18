@@ -1,21 +1,31 @@
 ---
-title: 'Cool! Sowas will ich in ...'
+title: Cool! Sowas will ich in ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-05-05
-lastmod: 2013-05-05T12:52:41+02:00
+lastmod: 2013-05-05 12:52:41+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- motivation
+- laufen
+- hamburg
+- alster
+- sport
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Cool! Sowas will ich in Berlin sehen! Am Besten im Friedrichshainer Park.
 
 http://alsterrunning.de/
@@ -24,4 +34,3 @@ http://alsterrunning.de/
 > ## [alsterrunning.de: Anlage misst Rundenzeiten beim Laufen um die Alster](http://www.spiegel.de/gesundheit/ernaehrung/alsterrunning-de-anlage-misst-rundenzeiten-beim-laufen-um-die-alster-a-897762.html)
 >
 >Läufer sind zahlengetrieben. An der Hamburger Alster hat der Softwareentwickler Michael Brügmann eine Anlage installiert, die die Rundenzeiten misst. Im Interview mit achim-achilles.de erklärt er, warum alsterrunning.de Jogger so sehr motiviert.
-

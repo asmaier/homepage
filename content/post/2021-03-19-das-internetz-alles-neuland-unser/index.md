@@ -1,21 +1,31 @@
 ---
-title: 'Das Internetz, alles Neuland. Unser ...'
+title: Das Internetz, alles Neuland. Unser ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-03-19
-lastmod: 2021-03-19T10:02:49+01:00
+lastmod: 2021-03-19 10:02:49+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- online-portale
+- it-sicherheit
+- corona-tests
+- datenschutz
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Das Internetz, alles Neuland. Unser Staat und unsere Behörden sind offenbar IT-Analphabeten: Über 130 000 Schnelltest-Ergebnisse ungeschützt im Netz!
 
 "Um die vollständigen Daten aller Getesteten live einzusehen, brauchte man sich nur einen Account für einen Covid-19-Test anzulegen. Die URL für das Testergebnis enthält die Nummer des Tests. Wurde diese Zahl hoch- oder runtergezählt, wurden die "Testzertifikate" anderer Personen frei zugänglich. Im Testzertifikat stehen neben dem Testergebnis auch Name, Geburtsdatum, Anschrift, Staatsbürgerschaft und Ausweisnummer der Betroffenen."
@@ -47,4 +57,3 @@ Am Testzentrum angekommen wunderten wir uns, dass wir sehr energisch auf die Onl
 Wir standen doch schon am Eingang!
 Aufgrund der Menge persönlicher Daten, die in der WebApp abgefragt wurden, hätten wir eine Online-Erfassung eigentlich gern vermieden.
 Nach dem Test freuten wir uns nicht nur über das negative Ergebnis – sondern guckten dabei, wie üblich, auch kurz mit auf den Datenverkehr. Bei einigen URLs hatten wir schon im ersten Moment ein mulmiges Gefühl. Das mulmige Gefühl würde in den nächsten Minuten blankem Entsetzen weichen.
-

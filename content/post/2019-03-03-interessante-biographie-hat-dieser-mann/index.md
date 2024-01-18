@@ -2,20 +2,36 @@
 title: 'Interessante Biographie hat dieser Mann: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-03
-lastmod: 2019-03-03T22:46:23+01:00
+lastmod: 2019-03-03 22:46:23+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- 1929 female smoking campaign
+- guatemalan government overthrow in 1954
+- united fruit company
+- public relations
+- edward louis bernays
+- procter & gamble
+- government agencies
+- general electric
+- non-profit organizations
+- politicians
+- propaganda
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- english
 ---
+
 Interessante Biographie hat dieser Mann:
 
 - Edward Louis Bernays was an pioneer in the field of public relations and propaganda
@@ -29,4 +45,3 @@ Einfach mal reinlesen.
 > en.wikipedia.org
 > ## [Edward Bernays - Wikipedia](https://en.wikipedia.org/wiki/Edward_Bernays)
 >
-

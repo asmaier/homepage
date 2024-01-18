@@ -2,20 +2,30 @@
 title: 'Berlin mal wieder: "zeitlich zu ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-09-29
-lastmod: 2021-09-29T10:34:19+02:00
+lastmod: 2021-09-29 10:34:19+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- demokratieprobleme
+- berlin
+- marathon
+- wahlen
+- verwaltungsversagen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Berlin mal wieder:
 
 "zeitlich zu den Wahlen und der Abstimmung fand der „Berlin Marathon“ statt, ein sportliches Großereignis mit internationaler Resonanz. "
@@ -35,4 +45,3 @@ Dieser Forderung nach Rücktritt der Verantwortlichen will ich mich hier anschli
 > ## [Wahlen in Berlin: ein Bericht](https://verfassungsblog.de/wahlen-in-berlin-ein-bericht/)
 >
 >Dass in der Hauptstadt eines der wichtigsten, reichsten und entwickeltsten Länder der Erde es nicht möglich erscheint, demokratische Wahlen angemessen zu organisieren, ist nicht nur für die Berlinerinnen und Berliner peinlich, sondern zugleich ein gravierendes Demokratieproblem. Einzige Konsequenz aus politischen, fachlichen und moralischen Gründen kann nur der Rücktritt der Landeswahlleiterin und ihrer Stellvertreterin sein. Es ist bezeichnend für die politische Kultur Berlins, dass das in der Öffentlichkeit kaum gefordert wird.
-

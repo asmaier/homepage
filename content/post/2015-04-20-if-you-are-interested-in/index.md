@@ -1,21 +1,31 @@
 ---
-title: 'If you are interested in ...'
+title: If you are interested in ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-04-20
-lastmod: 2015-04-20T17:34:48+02:00
+lastmod: 2015-04-20 17:34:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- artificial intelligence
+- news and journalism
+- data analysis
+- machine learning
+- web analytics
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 If you are interested in the future of news, see this talk by Prismatic (http://getprismatic.com/) Engineer Jenny Finkel:
 
 http://www.infoq.com/presentations/machine-learning
@@ -27,4 +37,3 @@ http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2013-09.html#e2013-09-22T1
 > ## [Machine Learning: A Love Story ](http://www.infoq.com/presentations/machine-learning)
 >
 >Hilary Mason presents the history of machine learning covering some of the most significant developments taking place over the last two decades, especially the fundamental math and algorithmic tools employed. She also exemplifies how machine learning is used by bit.ly to discover various statistical information about users.
-

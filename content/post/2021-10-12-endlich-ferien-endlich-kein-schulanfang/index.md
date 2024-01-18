@@ -1,21 +1,31 @@
 ---
-title: 'Endlich Ferien! Endlich kein Schulanfang ...'
+title: Endlich Ferien! Endlich kein Schulanfang ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-10-12
-lastmod: 2021-10-12T20:49:36+02:00
+lastmod: 2021-10-12 20:49:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- vorteile eines späteren schulanfangs
+- schulanfang
+- kaffeeindustrie
+- ignorierung in deutschland
+- stress für eltern
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Endlich Ferien! Endlich kein Schulanfang um 8 Uhr, der für Eltern am Morgen nur Stress erzeugt. Und für die Kinder? Es gibt sehr viele Studien und Untersuchungen, dass ein späterer Schulanfang für sie viel besser wäre. Hier nur eine Auswahl:
 https://www.spiegel.de/lebenundlernen/schule/unterrichtsbeginn-warum-die-erste-stunde-folter-ist-a-1042065.html
 https://www.spiegel.de/lebenundlernen/schule/unterrichtsbeginn-schueler-profitieren-von-spaeterer-anfangszeit-studie-a-1243412.html
@@ -27,4 +37,3 @@ Hagen Rether versteht das Ganze jedenfalls auch überhaupt nicht: https://www.yo
 > ## [ - YouTube](https://www.youtube.com/watch?v=j4xURx63Jdc)
 >
 >Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
-

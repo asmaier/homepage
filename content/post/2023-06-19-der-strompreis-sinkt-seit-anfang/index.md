@@ -1,21 +1,31 @@
 ---
-title: 'Der Strompreis sinkt seit Anfang ...'
+title: Der Strompreis sinkt seit Anfang ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-06-19
-lastmod: 2023-06-19T16:46:57+02:00
+lastmod: 2023-06-19 16:46:57+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- gasspeicher
+- erneuerbare energien
+- energieversorgung
+- russland
+- strompreis
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Der Strompreis sinkt seit Anfang des Jahres, der Anteil von Erneuerbaren Energien an der Stromversorgung ist auf 65% angestiegen. Der Füllstand der Gasspeicher ist 20% über dem Stand der letzen Jahre und das obwohl kein Gas mehr aus Russland fließt. Der Gaspreis und der Heizölpreis sinkt trotzdem. Scheint mir als seien die Katastrophennachrichten des letzten Jahres leicht übertrieben gewesen.
 
 https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung
@@ -24,4 +34,3 @@ https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-en
 > ## [Energiemonitor: Schafft Deutschland die Energiewende?](https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung)
 >
 >Wo gehen neue Windräder in Betrieb? Woher kommt der Strom? Reicht das Gas für den Winter? Der komplett überarbeitete ZEIT-ONLINE-Energiemonitor gibt Antworten.
-

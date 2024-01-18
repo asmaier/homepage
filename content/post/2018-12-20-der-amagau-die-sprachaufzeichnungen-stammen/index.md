@@ -2,20 +2,30 @@
 title: 'Der #AmaGAU! "Die Sprachaufzeichnungen stammen ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-12-20
-lastmod: 2018-12-20T20:21:34+01:00
+lastmod: 2018-12-20 20:21:34+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technologie
+- sicherheit
+- alexa (assistent)
+- amazon
+- datenschutz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Der #AmaGAU!
 
 "Die Sprachaufzeichnungen stammen hörbar aus der Intimsphäre fremder Personen, beispielsweise aus Wohnzimmer, Schlafzimmer und Bad. Anhand des Inhalts der Aufzeichnungen, etwa der Nennung von Namen und Abfragen lokaler Wettervorhersagen, konnte c’t den Echo-Besitzer identifizieren. Dieser fiel aus allen Wolken, denn Amazon hatte ihn nicht über das Datenleck informiert, obwohl man dort bereits davon wusste."
@@ -24,4 +34,3 @@ Der #AmaGAU!
 > ## [Amazon gibt intime Alexa-Sprachdateien preis](https://www.heise.de/newsticker/meldung/Amazon-gibt-intime-Sprachdateien-preis-4254716.html)
 >
 >Durch einen Fehler von Amazon.de fielen rund 1700 Alexa-Sprachaufzeichnungen in die Hände eines Unbefugten.
-

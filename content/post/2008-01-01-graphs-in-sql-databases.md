@@ -1,24 +1,32 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T12:26:37+02:00"
+lastmod: '2019-10-19T12:26:37+02:00'
 projects: []
 slug: graphs-in-sql-databases
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
+- social networks
 - big_data
+- large-scale graph computing
+- graph database
+- neo4j
+- mysql
 title: Graphs in SQL databases
+year: '2008'
+languages:
+- english
 ---
+
 ## SQL
 
 * [Graphs in the database: SQL meets social networks – techPortal](http://techportal.ibuildings.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/) 

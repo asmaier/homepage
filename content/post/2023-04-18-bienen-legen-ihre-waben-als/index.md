@@ -1,21 +1,31 @@
 ---
-title: 'Bienen legen ihre Waben als ...'
+title: Bienen legen ihre Waben als ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-04-18
-lastmod: 2023-04-18T23:22:23+02:00
+lastmod: 2023-04-18 23:22:23+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- mathematik
+- bienenwaben
+- optimierung
+- naturwissenschaften
+- rhombendodekaeder
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Bienen legen ihre Waben als gleichmäßige Sechsecke an. Das weiß doch jedes Kind. Und wer in Mathematik aufgepasst hat, der wird sich vielleicht noch daran erinnern, dass das daran liegt, dass Sechsecke bzw. Hexagons das optimale Verhältnis von Wandmaterial zu Volumen bieten und eine Fläche lückenlos parkettieren können.
 
 Leider falsch! Bienen legen ihre Waben nicht als Sechsecke an, Bienen denken dreidimensional, ihre Larven sind ja nicht platt. Bienenwaben sind daher keine Hexagons, sondern es sind Rhombendodekaeder (genauer gesagt, halbe Rhombendodekaeder, eine Seite ist offen, damit die Larven schlüpfen können) . Denn diese parkettieren nicht die Fläche, sondern den dreidimensionalen Raum optimal. 
@@ -34,4 +44,3 @@ Krass daran ist auch, dass schon die alten Griechen "wussten", dass Bienen sechs
 > ## [matematicasVisuales | Rhombic Dodecahedron (1): honeycombs](http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycomb.html)
 >
 >matematicasVisuales | Humankind has always been fascinated by how bees build their honeycombs. Kepler related honeycombs with a polyhedron called Rhombic Dodecahedron.
-

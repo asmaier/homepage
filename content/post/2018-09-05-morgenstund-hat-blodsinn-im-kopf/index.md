@@ -2,20 +2,30 @@
 title: 'Morgenstund hat Blödsinn im Kopf: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-09-05
-lastmod: 2018-09-05T21:06:22+02:00
+lastmod: 2018-09-05 21:06:22+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- jugendliche
+- risikobereitschaft
+- alkoholverkauf
+- schulbeginn
+- schlafmangel
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Morgenstund hat Blödsinn im Kopf:
 
 "Die weit gefasstere Forschung zur Risikobereitschaft von Jugendlichen trägt schon dazu bei, gefährliches Verhalten im täglichen Leben zu minimieren. So ist bekannt, dass Jugendliche mit Schlafmangel anfälliger für Risiken sind, sei es Rauchen oder sexuelle Aktivitäten. Dutzende Studien weisen darauf hin, dass längerer Schlaf und ein späterer Schulbeginn Probleme und riskantes Verhalten mindern könnten. Einrichtungen wie die US Centers for Disease Control and Prevention und die American Academy of Pediatrics befürworten das und empfehlen einen Schulbeginn frühestens um 8.30 Uhr.
@@ -28,4 +38,3 @@ Letzteres wäre auch gut für die Gesundheit der Lehrer! ;-)
 > ## [Teenager: Jung und wagemutig](https://www.spektrum.de/news/warum-jugendliche-kopf-und-kragen-riskieren/1585118)
 >
 >Warum Jugendliche manchmal Kopf und Kragen riskieren
-

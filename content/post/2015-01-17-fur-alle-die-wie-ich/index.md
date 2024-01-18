@@ -1,21 +1,31 @@
 ---
-title: 'Für alle, die wie ich ...'
+title: Für alle, die wie ich ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-01-17
-lastmod: 2015-01-17T22:29:57+01:00
+lastmod: 2015-01-17 22:29:57+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bose quiet comfort 25
+- großraumbüro
+- noise-canceling kopfhörer
+- kopfhörerempfehlung
+- arbeitsplatzakustik
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
+
 Für alle, die wie ich leider in einem Großraumbüro arbeiten müssen, kann ich folgende Noise-Canceling Kopfhörer empfehlen (Bose Quiet Comfort 25) : 
 
 http://www.amazon.de/gp/product/B00M1NEUKK/ref=pd_lpo_sbs_dp_ss_1 
@@ -25,4 +35,3 @@ Sie sind das Geld echt wert. Ich kann mir nicht mehr vorstellen ohne sie zu arbe
 > stackoverflow.blog
 > ## [Why We (Still) Believe in Private Offices - Stack Overflow](http://blog.stackoverflow.com/2015/01/why-we-still-believe-in-private-offices/)
 >
-

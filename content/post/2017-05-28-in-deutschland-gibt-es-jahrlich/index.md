@@ -2,20 +2,30 @@
 title: '"In Deutschland gibt es jährlich ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-05-28
-lastmod: 2017-05-28T15:35:17+02:00
+lastmod: 2017-05-28 15:35:17+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- rentenkassen
+- todesfälle
+- gesundheit
+- rauchen
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 "In Deutschland gibt es jährlich 110.000 tabakbedingte Todesfälle..." . 
 
 Eine ordentliche Leistung, und weltweit unter den Top10, aber leider immer noch zu wenig. Die Lebenserwartung in Deutschland steigt trotzdem weiter und wir wissen, was das für die Rentenkassen bedeutet. Daher erwarte ich besonders von der älteren Generation, dass sie noch mehr raucht, damit meine Rente sicher bleibt. Denkt an eure Kinder und raucht was das Zeug hält, damit auch die nachfolgenden Generationen in den Genuss einer sicheren Rente kommen.
@@ -24,4 +34,3 @@ Eine ordentliche Leistung, und weltweit unter den Top10, aber leider immer noch 
 > ## [Täglich versterben über 300 Deutsche vorzeitig an den Folgen des Rauchens](http://www.heilpraxisnet.de/naturheilpraxis/taeglich-sterben-ueber-300-deutsche-vorzeitig-an-den-folgen-des-rauchens-20170527278751)
 >
 >300 Tote pro Tag: Jeder siebte Deutsche stirbt vorzeitig am Rauchen Rauchen schadet der Gesundheit; das weiß eigentlich jeder. Wie
-

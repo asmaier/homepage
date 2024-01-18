@@ -1,21 +1,31 @@
 ---
-title: 'Bevor ihr alle eure Fotos ...'
+title: Bevor ihr alle eure Fotos ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-04-28
-lastmod: 2017-04-28T16:22:48+02:00
+lastmod: 2017-04-28 16:22:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technologie
+- neural networks
+- soziale medien
+- russland
+- datenschutz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- english
 ---
+
 Bevor ihr alle eure Fotos mit dem neuen Hype FaceApp bearbeitet, bedenkt folgendes:
 
 "Goncharov also confirmed that photos uploaded to the app are stored on the company’s servers to save bandwidth if several filters are applied, but get deleted not long after. And, he added, unlike the Meitu app, FaceApp doesn’t require any weird system permissions or track data like GPS."
@@ -26,4 +36,3 @@ Die Firma hinter FaceApp gehört Yaroslav Goncharov, einem früheren Mitarbeiter
 > ## [This app uses neural networks to put a smile on anybody’s face](http://www.theverge.com/tldr/2017/1/27/14412814/faceapp-neural-networks-ai-smile-image-manipulation)
 >
 >The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.
-

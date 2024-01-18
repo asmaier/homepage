@@ -1,21 +1,31 @@
 ---
-title: 'In Zeiten wie diesen lese ...'
+title: In Zeiten wie diesen lese ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-07-27
-lastmod: 2023-07-27T22:34:11+02:00
+lastmod: 2023-07-27 22:34:11+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- nazis
+- afd
+- brasilien
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 In Zeiten wie diesen lese ich ab und zu auch Nachrichten von der Gegenseite, spricht ich nutze Google Translate um eines der übelsten Propagandablätter des Kreml, die Komsomolskaya Prawda (wörtl. "Bauernwahrheit"), zu lesen. 
 
 Ihr könnt euch meine Überraschung vielleicht vorstellen, als ich dort ein Interview eines Deutschen lesen konnte, der das Narrativ des Kreml voll unterstützt: 
@@ -37,4 +47,3 @@ P.S.: Es sollte offensichtlich sein. Die A-Partei steckt bis zum Anschlag im A..
 > ## [Brasilien: Jair Bolsonaro hat Beatrix von Storch empfangen](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-hat-beatrix-von-storch-afd-empfangen-a-0d8351ad-b0a1-4b37-8dc1-25681d5779f3)
 >
 >Ein Treffen zwischen Beatrix von Storch und einem Sohn von Jair Bolsonaro sorgte in Brasilien kürzlich für Kritik. Nun hat die AfD-Vizechefin ein Foto geteilt, das sie mit dem Präsidenten selbst zeigt.
-

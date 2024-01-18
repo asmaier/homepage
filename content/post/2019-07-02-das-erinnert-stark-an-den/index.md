@@ -1,21 +1,31 @@
 ---
-title: 'Das erinnert stark an den ...'
+title: Das erinnert stark an den ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-07-02
-lastmod: 2019-07-02T11:35:45+02:00
+lastmod: 2019-07-02 11:35:45+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- alternative antriebe
+- lobbyismus
+- verkehrsgesetze
+- elektroautos
+- europäische union
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das erinnert stark an den https://de.wikipedia.org/wiki/Red_Flag_Act, der im 19ten Jahrhundert vorschrieb, dass vor jedem Auto jemand mit einer rote Flagge gehen muss. Damals wurde der Eisenbahn- und Kutschenlobby vorgeworfen, damit die Entwicklung von Autos blockieren zu wollen. 
 
 Jetzt versucht die Benzin- und Diesellobby offenbar mit gleichen Mitteln Elektroautos zu behindern und die EU macht natürlich mit. 
@@ -26,4 +36,3 @@ Das das ganze stinkt, sieht man schon daran, dass es nicht für alle Fahrzeuge g
 > ## [Langsame Elektroautos müssen in der EU Geräusche machen](https://www.heise.de/newsticker/meldung/Langsame-Elektroautos-muessen-in-der-EU-Geraeusche-machen-4458749.html)
 >
 >Elektroautos sind bei langsamen Geschwindigkeiten kaum vernehmbar. Deshalb müssen nun neu zugelassene Typen Geräusche machen.
-

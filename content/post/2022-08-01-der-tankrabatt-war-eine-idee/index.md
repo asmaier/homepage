@@ -1,21 +1,31 @@
 ---
-title: 'Der Tankrabatt war eine Idee ...'
+title: Der Tankrabatt war eine Idee ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-01
-lastmod: 2022-08-01T15:48:28+02:00
+lastmod: 2022-08-01 15:48:28+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- umwelt
+- verkehr
+- ökonomie
+- steuern
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Der Tankrabatt war eine Idee unseres FDP Finanzministers. Jetzt stellt sich heraus:  Er hilft vor allem den Wohlhabenden. Nein, doch oh!
 
 "Trotz der Weitergabe an die Autofahrer ist der Tankrabatt weder unter Verteilungs- noch unter ökologischen Aspekten sinnvoll. Denn mit dem Tankrabatt wird eher den Wohlhabenden geholfen als den armen Haushalten."
@@ -26,4 +36,3 @@ Die FDP "lass-es-den-markt-regeln" Partei mal wieder in ihrem Element.
 > ## [RWI-Studie zu Tankrabatt: Gesenkte Energiesteuer "ökologisch kontraproduktiv"](https://www.heise.de/news/Studie-Tankrabatt-kommt-an-der-Zapfsaeule-an-7194755.html)
 >
 >Die gesenkte Energiesteuer sei "ökologisch kontraproduktiv". Das besagt eine Untersuchung des Essener RWI zum Tankrabatt.
-

@@ -2,20 +2,30 @@
 title: 'Wissenschaft wirkt! Hier die Orginalpressemitteilung: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-11-09
-lastmod: 2020-11-09T14:53:20+01:00
+lastmod: 2020-11-09 14:53:20+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- klinische studie
+- impfstoffentwicklung
+- biontech
+- pfizer
+- covid-19-impfstoff
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Wissenschaft wirkt!
 
 https://www.youtube.com/watch?v=HhftjGhITFI
@@ -28,4 +38,3 @@ https://investors.biontech.de/de/news-releases/news-release-details/pfizer-und-b
 > ## [Biontech veröffentlicht vielversprechende Daten zu Corona-Impfstoff](https://www.youtube.com/watch?v=HhftjGhITFI)
 >
 >Erstmals gibt es zu einem Corona-Impfstoff, der für Europa maßgeblich ist, Zwischenergebnisse aus der Studienphase. Sie ist entscheidend für eine Zulassung. ...
-

@@ -1,21 +1,31 @@
 ---
-title: 'Das es überhaupt noch Bundesländer ...'
+title: Das es überhaupt noch Bundesländer ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-11-07
-lastmod: 2019-11-07T14:06:19+01:00
+lastmod: 2019-11-07 14:06:19+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bildungspolitik
+- pisa-ergebnisse
+- deutschland
+- schule
+- informatik
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das es überhaupt noch Bundesländer gibt, die Informatik als Pflichtfach in Frage stellen im 21. Jahrhundert ist eine Schande für ein Hochtechnologieland wie Deutschland. 
 
 In der selbsternannten Digitalhauptstadt Berlin z.B. ist es nur ein Wahlfach. In der Medienhauptstadt Hamburg dagegen wird Theater zum Pflichtfach gemacht statt Informatik. 
@@ -26,4 +36,3 @@ Und da wundert man sich über schlechte Pisa-Ergebnisse? Welchen Anspruch haben 
 > ## [Informatik als Pflichtfach? Na klar, sagt dieser Lehrer](https://www.spiegel.de/lebenundlernen/schule/lehrergestaendnis-warum-wir-informatik-als-pflichtfach-brauchen-a-1294827.html)
 >
 >Müssen Schüler sich mit Informatik beschäftigen? Unser Autor findet: auf jeden Fall. Als Lehrer in Norddeutschland wünscht er sich mutige Bildungspolitiker - und ärgert sich über Schulreformen und fragwürdige neue Fächer.
-

@@ -1,25 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2005-01-01"
+date: '2005-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-09-27T21:30:50+02:00"
+lastmod: '2019-09-27T21:30:50+02:00'
 projects: []
 slug: kde
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags:
-- computer
+- netzwerkverzeichnisse
+- fish
+- sicherheit
 - linux
+- kde
+- dateiübertragung
+- computer
 categories:
 - old_website
-- deutsch
 title: KDE
+year: '2005'
+languages:
+- deutsch
 ---
+
 <h6>Killerfeature: FISH</h6>
 <p>Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen
 über das <a href="http://de.wikipedia.org/wiki/FISH_(Protokoll)">FISH-Protokoll</a>.

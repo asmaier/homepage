@@ -1,24 +1,32 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T21:04:23+02:00"
+lastmod: '2019-10-19T21:04:23+02:00'
 projects: []
 slug: hawking-radiation
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
+- quantum mechanics
+- information paradox
 - physics
+- hawking radiation
+- tunneling (physics)
+- black hole physics
 title: Hawking radiation
+year: '2008'
+languages:
+- english
 ---
+
 From calculations of quantum tunneling through the horizon of a metric (black hole, Rindler..) Hawking/Unruh temperature can be calculated!
 
  * [http://arxiv.org/abs/arXiv:0710.0612 Ryan Kerner: Fermions Tunnelling from Black Holes] _

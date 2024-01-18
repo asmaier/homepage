@@ -1,21 +1,31 @@
 ---
-title: 'Na, schaut ihr auch alle ...'
+title: Na, schaut ihr auch alle ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-06-27
-lastmod: 2021-06-27T20:51:10+02:00
+lastmod: 2021-06-27 20:51:10+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bürgerbeteiligung
+- energiepolitik
+- klimawandel
+- nachhaltigkeit
+- umweltbewusstes handeln
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Na, schaut ihr auch alle Fußball-EM? Dann habt ihr bestimmt verpasst, dass es in Deutschland zum ersten Mal einen Bürgerrat zum Thema Klima gab. 
 
 "Die 160 Teilnehmenden des Bürgerrates sind zufällig ausgewählte Bürgerinnen und Bürger aus ganz Deutschland."
@@ -52,4 +62,3 @@ https://buergerrat-klima.de/wieso-ein-buergerrat-klima/die-ergebnisse
 > buergerrat-klima.de
 > ## [Bürgerrat Klima](https://buergerrat-klima.de/wieso-ein-buergerrat-klima/die-ergebnisse)
 >
-

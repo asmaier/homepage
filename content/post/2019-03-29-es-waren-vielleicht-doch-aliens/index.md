@@ -1,21 +1,31 @@
 ---
-title: 'Es waren vielleicht doch Aliens! ...'
+title: Es waren vielleicht doch Aliens! ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-29
-lastmod: 2019-03-29T16:45:55+01:00
+lastmod: 2019-03-29 16:45:55+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- plejaden
+- sternbilder
+- alien
+- astronomie
+- interstellare objekte
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Es waren vielleicht doch Aliens! 👽
 
 "Astronomen von der Harvard University griffen das ungewöhnliche Achsenverhältnis auf und mutmaßten, dass 'Oumuamua äußerst flach und dünn wie ein Sonnensegel sein müsste. Die merkwürdige Zusatzbeschleunigung konnten sie so dadurch erklären, dass das flache Segel vom Strahlungsdruck unserer Sonne zusätzlich angeschoben wird. Dazu passt auch, dass die Zusatzkraft abnimmt, je weiter sich 'Oumuamua von der Sonne entfernt."
@@ -38,4 +48,3 @@ https://de.wikipedia.org/wiki/Plejaden#Kulturelle_Bedeutung
 > ## [Sonnensystem: Neues vom interstellaren Besucher 'Oumuamua](https://www.spektrum.de/news/neues-vom-interstellaren-besucher-oumuamua/1635770)
 >
 >'Oumuamua könnte tatsächlich die Form eines Sonnensegels haben, von den Plejaden zu uns geflogen und dabei von interstellarem Wind beeinflusst worden sein.
-

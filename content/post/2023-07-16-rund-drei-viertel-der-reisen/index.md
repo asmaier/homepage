@@ -2,20 +2,30 @@
 title: '"Rund drei Viertel der Reisen ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-07-16
-lastmod: 2023-07-16T22:50:03+02:00
+lastmod: 2023-07-16 22:50:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- inlandsflüge
+- covid-19
+- dienstreisen
+- digitalisierung
+- bundesregierung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Rund drei Viertel der Reisen finden zwischen Berlin und Köln/Bonn statt. Der Grund: Alle Berliner Ministerien unterhalten noch Dependancen am ehemaligen westdeutschen Regierungssitz Bonn.
 
 Bei der Opposition stößt die Vielfliegerei auf Kritik. »Nach der Coronakrise habe ich einen Digitalisierungsschub von der Bundesregierung erwartet«, sagt Gesine Lötzsch, Chefhaushälterin der Links­fraktion. »Zoom-Konferenzen sind besser für das Klima als Inlandsflüge."
@@ -26,4 +36,3 @@ Dem ist nichts hinzuzufügen, außer dass der Einsatz von Zoom natürlich gegen 
 > ## [Bundesregierung: Zahl der Inlandsflüge bei Dienstreisen steigt](https://www.spiegel.de/politik/deutschland/bundesregierung-zahl-der-inlandsfluege-bei-dienstreisen-steigt-a-987217ef-b1e7-492e-887d-f1519bd26b9c)
 >
 >Inlandsflüge werden bei Mitarbeitern der Bundesministerien immer beliebter. 2022 wurden über 5300 Flüge gebucht, fast ein Drittel mehr als im Vorjahr. Eine Verbindung ist besonders frequentiert.
-

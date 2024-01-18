@@ -1,21 +1,31 @@
 ---
-title: 'Berlin - Eine Stadt für ...'
+title: Berlin - Eine Stadt für ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-05-15
-lastmod: 2017-05-15T18:07:07+02:00
+lastmod: 2017-05-15 18:07:07+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- stadtplanung
+- parks
+- verkehr
+- umwelt
+- autos
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 Berlin - Eine Stadt für Autos statt für Menschen!
 
 "Alle Spielplätze der Stadt zusammen beanspruchen nur 3,3 Quadratkilometer Fläche ...
@@ -26,4 +36,3 @@ Besser als Kinder haben es die Autos. Knapp 133 Quadratkilometer in der Stadt si
 > ## [Parts of Berlin](https://partsofberlin.tagesspiegel.de/)
 >
 >How much space do all the cars in Berlin need? How much green is there in the city? A journey through the parts of Berlin.
-

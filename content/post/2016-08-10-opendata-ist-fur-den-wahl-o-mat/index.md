@@ -1,21 +1,31 @@
 ---
-title: 'OpenData ist für den Wahl-O-Mat ...'
+title: OpenData ist für den Wahl-O-Mat ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-08-10
-lastmod: 2016-08-10T17:33:04+02:00
+lastmod: 2016-08-10 17:33:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- zielsetzung
+- wahl-o-mat
+- positionsvergleichberlin2016
+- open data
+- wikipedia
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 OpenData ist für den Wahl-O-Mat nicht zielführend im Sinne der Zielsetzung!
 
 Meine Frage:
@@ -43,4 +53,3 @@ Einzelne Aspekte, wie z.B. die hinter der Auswertung stehenden Daten sind für u
 > de.wikipedia.org
 > ## [Open Data – Wikipedia](https://de.wikipedia.org/wiki/Open_Data)
 >
-

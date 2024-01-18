@@ -1,21 +1,31 @@
 ---
-title: 'Ich komme ja aus Bayern ...'
+title: Ich komme ja aus Bayern ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-02-08
-lastmod: 2021-02-08T22:36:05+01:00
+lastmod: 2021-02-08 22:36:05+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- straßenreinigung
+- berlin
+- schneemangel
+- winterdienst
+- brandenburg
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Ich komme ja aus Bayern und dort wird bei der kleinsten Flocke im letzten Dorf von der Gemeinde sofort der riesige Unimog-Schneeschieber aus der Garage geholt und der fängt früh um 6 Uhr oder so damit an alle Straßen zu räumen und Streusplit in großen Mengen zu verteilen.  
 
 Und in Berlin? Nichts. Nada. Noch nicht mal auf der Stadt-(Autobahn) wurde der Schnee weggeräumt. Ich kam mir vor wie auf einer russischen Landstraße im Winter (und ja, da war ich wirklich schon unterwegs). 
@@ -27,4 +37,3 @@ Die Berliner Straßenreinigung #BSR hat ihren Spitznamen "Bei Schnee ratlos" jed
 P.S.: In Brandenburg sieht es nicht besser aus. Auch dort gibt es offenbar keinen Winterdienst z.B. auf Bundesstraßen. 
 
 P.P.S.: Und nein, Fahrradwege und Fußwege werden natürlich in Berlin auch nicht geräumt. Nicht das jemand denkt, dass liege jetzt an der neuen autofeindlichen Politik Berlins oder so...
-

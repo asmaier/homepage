@@ -1,21 +1,42 @@
 ---
-title: 'Habt ihr auch alle Bitcoin? ...'
+title: Habt ihr auch alle Bitcoin? ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-01-10
-lastmod: 2022-01-10T22:56:20+01:00
+lastmod: 2022-01-10 22:56:20+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schwarzmarkt
+- drogenhandel
+- fiskus
+- spekulation
+- technische sicherheit
+- preisgeheimnis
+- steuerhinterziehung
+- gnu taler
+- datenschutz
+- bargeld
+- ransomware
+- gläserner kunde
+- waffenhandel
+- geldwäsche
+- energieverbrauch
+- bitcoin
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Habt ihr auch alle Bitcoin? Ich schon lange nicht mehr. Bitcoin spielt leider keine positive Rolle auf unserem Planeten. Im Gegenteil, es verbraucht nutzlos Unmengen Energie und wird hauptsächlich zur Steuervermeidung, Spekulation und Geldwäsche genutzt. Und neue Verbrechensformen wie Ransomware sind durch Bitcoin erst im großen Maßstab ermöglicht worden. Daran will ich mich einfach nicht beteiligen, auch wenn man damit eventuell hohe Gewinne erzielen kann. Aber hohe Gewinne erzielt man auch z.B. beim Drogenverkauf oder im Waffenhandel. Nur weil etwas hohe Gewinne erlaubt, macht es die Sache nicht gut. Und Bitcoin ist leider ebenfalls nicht gut. 
 
 Stattdessen möchte ich hier kurz auf ein anderes vielversprechendes Projekt aus der Schweiz verweisen, welches mir wesentlich interessanter als Bitcoin erscheint: GNU Taler https://taler.net/de/features.html
@@ -25,4 +46,3 @@ Das Projekt ist noch nicht ganz fertig, aber im Gegensatz zu Bitcoin, kann man d
 > ## [GNU Taler - Taxable Anonymous Libre Electronic Reserves](https://taler.net/de/features.html)
 >
 >Das Bezahlsystem GNU Taler ermÃ¶glicht das schnelle und einfache GeldÃ¼berweisen mit Datenschutz und hoher technischer Sicherheit.
-

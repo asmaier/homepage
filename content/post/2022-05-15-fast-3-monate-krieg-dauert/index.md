@@ -1,21 +1,31 @@
 ---
-title: 'Fast 3 Monate Krieg dauert ...'
+title: Fast 3 Monate Krieg dauert ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-05-15
-lastmod: 2022-05-15T21:56:57+02:00
+lastmod: 2022-05-15 21:56:57+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- unternehmen
+- firmen in deutschland
+- sanktionen gegen russland seit dem überfall auf die ukraine
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Fast 3 Monate Krieg dauert jetzt schon der Krieg Russlands gegen die Ukraine und mehr als 5 Millionen Menschen sind deswegen aus der Ukraine geflohen. Das bedeutet aber für viele deutsche Firmen immer noch nicht, dass man sich vom russischen Markt zurückzieht. Nein, die folgenden Firmen/Konzerne finden, man müsse das Geschehen differenziert betrachten und dürfe den russischen Kunden nicht im Stich lassen:
 
 BPW (https://de.wikipedia.org/wiki/BPW_Bergische_Achsen)
@@ -44,4 +54,3 @@ Ich wünsche diesen Firmen einen ordentlichen Shitstorm und fordere auf sie zu b
 > ## [Over 1,000 Companies Have Curtailed Operations in Russia—But Some Remain](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
 >
 >[node:field_summary:value]
-

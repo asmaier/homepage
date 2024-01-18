@@ -1,21 +1,31 @@
 ---
-title: 'Wie oft habe ich schon ...'
+title: Wie oft habe ich schon ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-09-24
-lastmod: 2022-09-24T16:26:56+02:00
+lastmod: 2022-09-24 16:26:56+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- whatsapp
+- qr-codes
+- browser-plugins
+- life-hacks
+- website-verteilung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Wie oft habe ich schon Leute gesehen, die die Webseite auf ihrem Laptop mit dem Smartphone abfotografiert haben und das Bildschirmfoto dann per Whatsapp auf dem Smartphone verschickt haben. Aber ist das nicht total umständlich? 
 
 Hier kommt mein genialer Life-Hack dazu: Man installiere sich ein Plugin in den Browser, welches die aktuelle Webseite als QR-Code anzeigen kann, z.B. https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp?hl=en
@@ -28,4 +38,3 @@ P.S.: Es geht sogar ohne Plugin. Ihr müsst auf dem Laptop einfach die URL in ht
 > ## [QR Code Generator](https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp?hl=en)
 >
 >A super handy QR Code Generator / Creator for you.
-

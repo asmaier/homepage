@@ -1,21 +1,31 @@
 ---
-title: 'Schon wieder die ZEIT. Was ...'
+title: Schon wieder die ZEIT. Was ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-05-26
-lastmod: 2014-05-26T22:22:26+02:00
+lastmod: 2014-05-26 22:22:26+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- fernsehen
+- medien
+- satire
+- zeitungen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Schon wieder die ZEIT. Was ist den mit denen los? So was hätte ich eher von Axel-Springer erwartet:
 
 "Herausgeber der ZEIT beschwert sich beim ZDF - Satire-Sendung "Die Anstalt" erhält Unterlassungserklärungen"
@@ -28,4 +38,3 @@ Also schnell noch anschauen, bevor sie endgültig verboten wird.
 > ## [Leitartikler und Machteliten](http://www.heise.de/tp/artikel/41/41841/1.html)
 >
 >Herausgeber der ZEIT beschwert sich beim ZDF - Satire-Sendung "Die Anstalt" erhält Unterlassungserklärungen
-

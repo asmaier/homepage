@@ -2,20 +2,30 @@
 title: '"Plakatwerbung für klassische Tabakprodukte soll ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-26
-lastmod: 2020-02-26T22:18:11+01:00
+lastmod: 2020-02-26 22:18:11+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- tabakwerbung
+- plakatwerbung
+- klassische tabakprodukte
+- e-zigaretten
+- verbot
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Plakatwerbung für klassische Tabakprodukte soll von 1. Januar 2022 an untersagt werden, die für Tabakerhitzer von 2023 an - und die für E-Zigaretten von 2024 an. Bereits ab 1. Januar 2021 soll es keine Kinowerbung mehr bei allen Filmen geben, die für Jugendliche unter 18 Jahren zugänglich sind."
 
 "Die Bundesrepublik ist aber das letzte Land innerhalb der Europäischen Union, in dem Außenwerbung für Tabakprodukte noch erlaubt ist."
@@ -25,5 +35,4 @@ Das wird aber verdammt nochmal Zeit. Können wir es uns wirklich leisten Letzter
 > sueddeutsche.de
 > ## [Deutschland bekommt Tabakwerbeverbot](https://www.sueddeutsche.de/politik/tabakwerbung-tabakwerbeverbot-cdu-csu-unionsfraktion-1.4718481)
 >
->Nach jahrelangen Debatten gibt die Mehrheit der Unions-Abgeordneten ihren Widerstand gegen ein weitgehendes Verbot der Tabakwerbung auf. 
-
+>Nach jahrelangen Debatten gibt die Mehrheit der Unions-Abgeordneten ihren Widerstand gegen ein weitgehendes Verbot der Tabakwerbung auf.

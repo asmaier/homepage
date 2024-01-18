@@ -2,20 +2,30 @@
 title: 'Interessante Ideen hat der Mann: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-04-01
-lastmod: 2014-04-01T14:05:14+02:00
+lastmod: 2014-04-01 14:05:14+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- edward snowden
+- russland
+- nsa
+- proteste
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Interessante Ideen hat der Mann:
 
 "Anders gefragt: Wie lange würden Demonstranten bei einer ungenehmigten Kundgebung auf dem Berliner Alexanderplatz aushalten können, die den Sturz von Merkel und ihrem Kabinett (und am besten auch gleich noch von Gauck) fordern, weil Merkel nichts gegen die NSA unternimmt und maßgebend dazu beiträgt, dass Europa durch das Freihandelsabkommen mit den USA den Welt-Konzernen ausgeliefert wird?
@@ -26,4 +36,3 @@ Zudem fordern die Demonstranten, dass Edward Snowden, der letzte westliche Selbs
 > ## [Diffamiert als "Russlandversteher"](http://www.sueddeutsche.de/politik/krim-krise-diffamiert-als-russlandversteher-1.1925559-3)
 >
 >Wie kann der Versuch falsch sein, auch auf Russlands Motive in der Krim-Krise zu schauen? Die Selbstgefälligkeit des Westens ist gefährlich.
-

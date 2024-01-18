@@ -2,20 +2,30 @@
 title: 'The Boston Consulting Group: Collateral ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-12-14
-lastmod: 2011-12-14T22:23:51+01:00
+lastmod: 2011-12-14 22:23:51+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- steuerreform
+- schuldenkrise
+- wirtschaftspolitik
+- finanzkrise
+- eurozone
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- english
 ---
+
 The Boston Consulting Group:
 
 Collateral Damage
@@ -42,4 +52,3 @@ Also wer Vermögen über 100000 Euro hat tut vielleicht gut daran es jetzt auszu
 > ## [Strategic Management Consulting | Boston Consulting Group](http://www.bcg.de/documents/file87307.pdf)
 >
 >BCG is a global consulting firm that partners with leaders in business and society to tackle their most important challenges. Learn more about BCG.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Some amazing timelapse videos from ...'
+title: Some amazing timelapse videos from ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-08-16
-lastmod: 2014-08-16T17:22:04+02:00
+lastmod: 2014-08-16 17:22:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- vimeo
+- dubai
+- timelapse
+- videos
+- shanghai
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- english
 ---
+
 Some amazing timelapse videos from vimeo:
 
 Dubai: http://vimeo.com/81244498
@@ -32,4 +42,3 @@ Pyongyang (yes, North Korea): http://vimeo.com/70573323
 > ## [Dubai 2013](http://vimeo.com/81244498)
 >
 >Timelaps Demoreel Dubai(UAE) & Abu Dhabi(UAE). January & March 2013 Footage is available in 2K, 4K, 5K. contact e-mail: zweizwei@yandex.ru  Canon 60D tokina…
-

@@ -1,21 +1,31 @@
 ---
-title: 'Für alle die noch skeptisch ...'
+title: Für alle die noch skeptisch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-09-25
-lastmod: 2019-09-25T19:56:25+02:00
+lastmod: 2019-09-25 19:56:25+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- energiepolitik
+- photovoltaik
+- erneuerbare energien
+- fraunhoferinstitut
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Für alle die noch skeptisch sind, hier ein Zitat aus einem Report des (eher industriefreundlichen) Fraunhoferinstituts:
 
 "Aus heutiger Sicht ist ein Energiesystem auf Basis von annähernd 100% EE (Erneuerbare Energien) technisch und wirtschaftlich darstellbar. " (Seite 72 im PDF)
@@ -28,4 +38,3 @@ Dieser Report ist gut gemacht und beantwortet wirklich alle Fragen, die man zum 
 > ## [Aktuelle Fakten zur Photovoltaik in Deutschland -  Fraunhofer ISE](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/aktuelle-fakten-zur-photovoltaik-in-deutschland.html)
 >
 >Photovoltaik wird in unserer nachhaltigen Energiezukunft eine bedeutende Rolle spielen. Die vorliegende Zusammenstellung aktuellster Fakten, Zahlen und Erkenntnisse soll eine gesamtheitliche Bewertung des Photovoltaik-Ausbaus in Deutschland unterstützen.
-

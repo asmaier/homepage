@@ -1,21 +1,31 @@
 ---
-title: 'Man sollte das Video in ...'
+title: Man sollte das Video in ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-03-22
-lastmod: 2020-03-22T22:49:53+01:00
+lastmod: 2020-03-22 22:49:53+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- koronakrise
+- technologie
+- umwelt
+- öffentliche gesundheit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Man sollte das Video in ganzer Länge zitieren. Denn Quasching hat mit jedem Satz recht. Ein ganz starkes Video. Ich bringe hier ein paar Appetizer, aber ihr solltet es auf jeden Fall ganz anschauen. 
 
 "Bislang hätte ich es keiner Regierung zugetraut den Kollaps ganzer Wirtschaftszweige in Kauf zu nehmen nur um Menschenleben zu retten...Um so glücklicher bin ich, dass die Politik rund um den Globus ihre Prioritäten verändert hat. Sie hört endlich auf die Wissenschaft..."
@@ -34,4 +44,3 @@ Treffer, versenkt!
 > ## [Was kollabiert noch alles nach Corona?](https://www.youtube.com/watch?v=6V-C5q4VxEI)
 >
 >Bei der Coronakrise erleben wir, was Kippunkte bedeuten. Wir legen unsere gesamte Gesellschaft lahm, um einen Kollaps des Gesundheitssystems mit hunderttause...
-

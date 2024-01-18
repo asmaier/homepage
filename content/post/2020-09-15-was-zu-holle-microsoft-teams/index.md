@@ -1,21 +1,31 @@
 ---
-title: 'Was zu Hölle? Microsoft Teams ...'
+title: Was zu Hölle? Microsoft Teams ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-15
-lastmod: 2020-09-15T11:14:41+02:00
+lastmod: 2020-09-15 11:14:41+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- software
+- office 365
+- datenschutz
+- microsoft teams
+- bildung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Was zu Hölle? Microsoft Teams wird an bayrischen Schulen genutzt?
 
 """
@@ -29,4 +39,3 @@ Keiner der amerikanischen Anbieter Skype, Microsoft Teams, Google Meet, Zoom, Go
 > ## [Datenschützer sehen Microsoft 365 in Behörden als nicht rechtskonform an](https://www.heise.de/news/Datenschuetzer-sehen-Microsoft-365-in-Behoerden-als-nicht-rechtskonform-an-4893604.html)
 >
 >Ein Arbeitskreis der Datenschutzkonferenz von Bund und Ländern hält einen rechtskonformen Einsatz von Microsoft 365 in öffentlichen Institutionen für unmöglich.
-

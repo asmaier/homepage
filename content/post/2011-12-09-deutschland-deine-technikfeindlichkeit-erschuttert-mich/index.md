@@ -1,21 +1,31 @@
 ---
-title: 'Deutschland, deine Technikfeindlichkeit erschüttert mich ...'
+title: Deutschland, deine Technikfeindlichkeit erschüttert mich ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-12-09
-lastmod: 2011-12-09T13:02:58+01:00
+lastmod: 2011-12-09 13:02:58+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technologie
+- verkehr
+- umwelt
+- medien
+- gesundheit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Deutschland, deine Technikfeindlichkeit erschüttert mich immer wieder! Noch ein paar Vorschläge:
 - Elektroautos verbieten. Die sind so leise, die hört der greise Fussgänger nicht kommen (http://www.n-tv.de/auto/Elektroautos-sollen-lauter-werden-article2777691.html)
 - Wikipedia verbieten. Wo kommen wir dahin, wenn Schüler mehr wissen als der Lehrer (http://www.cerebrovascularinfo.com/archives/warum-manche-lehrer-wikipedia-verbieten.html)
@@ -27,4 +37,3 @@ Deutschland, deine Technikfeindlichkeit erschüttert mich immer wieder! Noch ein
 > ## [Laptop-Verbot bei der Bahn: Gleich gibt's was mit dem Hammer](http://www.spiegel.de/wirtschaft/service/0,1518,800006,00.html)
 >
 >Im Zug bei 200 km/h im Internet zu surfen, entspricht so ziemlich Tom Königs Vorstellung vom Paradies. Leider hat er die Rechnung ohne die Deutsche Bahn gemacht: Die pocht auf laptopfreie Zonen und droht bei Zuwiderhandlung sogar mit dem Vorschlaghammer.
-

@@ -2,20 +2,30 @@
 title: '"Helphand beschreibt auf 23 Schreibmaschinenseiten ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-11-07
-lastmod: 2017-11-07T17:16:32+01:00
+lastmod: 2017-11-07 17:16:32+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- historische ereignisse
+- deutschland
+- russland
+- revolutionen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- deutsch
 ---
+
 "Helphand beschreibt auf 23 Schreibmaschinenseiten detailliiert, wie ein Umsturz gelingen kann, der von außen unterstützt wird. Es geht um Geld, Sabotage, den Sturz der Regierung. Einen Monat später bewilligt das Reichsschatzamt zwei Millionen Mark "zur Unterstützung der revolutionären Propaganda in Russland".
 ...
 "Die Rückkehr des prominenten Exilanten in seine Heimat wird in Berlin mit großer Aufmerksamkeit verfolgt. "Lenins Eintritt in Russland geglückt. Er arbeitet völlig nach Wunsch", kabelt Deutschlands Oberste Heeresleitung an das Auswärtige Amt. Ein politisches Paradoxon, wie es scheint. Wilhelm II verbündet sich mit dem Kommunisten Lenin."
@@ -28,4 +38,3 @@ War ja eine super Idee von unserem Wilhelm...
 > ## [Als die Krone der Sichel zur Revolution verhalf  – DW – 06.11.2017](http://www.dw.com/de/100-jahre-oktoberrevolution-als-die-krone-der-sichel-zum-sieg-verhalf/a-41084991)
 >
 >Die russische Oktoberrevolution gilt als Sieg der Arbeiter und Bauern über die Zarenherrschaft. Was nur wenige wissen: Beteiligt war auch der deutsche Kaiser. Der hatte den Bolschewiki 1917 unter die Arme gegriffen.
-

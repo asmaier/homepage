@@ -2,20 +2,30 @@
 title: '"Kleine" Testaufgabe, die ich mal ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-12-03
-lastmod: 2011-12-03T14:23:45+01:00
+lastmod: 2011-12-03 14:23:45+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- suchmaschine
+- web/text mining
+- tourismus
+- information retrieval techniken
+- semantic-web-technologien
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 "Kleine" Testaufgabe, die ich mal für eine Bewerbung vorbereiten sollte, ich hatte dafür vier Tage Zeit:
 
 Vielen Dank für Ihre Bewerbung. Nachfolgend übersende ich Ihnen eine 
@@ -101,4 +111,3 @@ lukrativ halten. In diesem Zusammenhang kann die Themenstellung durch
 Sie auch selbstständig ausgeweitet werden.
 
 Hätte ich die Aufgabe gelöst, hätten sie mich nicht mehr einstellen brauchen....
-

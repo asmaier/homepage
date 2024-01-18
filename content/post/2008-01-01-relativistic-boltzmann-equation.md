@@ -1,24 +1,28 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T23:05:54+02:00"
+lastmod: '2019-10-19T23:05:54+02:00'
 projects: []
 slug: relativistic-boltzmann-equation
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
+- ', '
 - physics
 title: Relativistic Boltzmann equation
+year: '2008'
+languages:
+- english
 ---
+
 * [[Google Scholar: relativistic Boltzmann equation](http://scholar.google.com/scholar?hl=en&q=relativistic+Boltzmann+equation&btnG=Search)]
 * [[Literature citing Cercignani: The relativistic Boltzmann equation: theory and applications](http://scholar.google.com/scholar?cites=17898777462636280261&hl=en)]
 * [[G. Kaniadakis (2006): Towards a relativistic statistical theory](http://arxiv.org/abs/hep-th/0601060)]

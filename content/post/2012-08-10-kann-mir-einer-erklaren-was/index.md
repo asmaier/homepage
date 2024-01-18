@@ -1,25 +1,34 @@
 ---
-title: 'Kann mir einer erklären was ...'
+title: Kann mir einer erklären was ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-08-10
-lastmod: 2012-08-10T17:12:30+02:00
+lastmod: 2012-08-10 17:12:30+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- tourism
+- coburg, germany
+- politicians
+- hollywood stars
+- high-end retreat experience
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- english
 ---
+
 Kann mir einer erklären was sie mit "Secret of the Stars" meinen? Das mit Martin Luther und Prinz Albert ist ja schon eine Weile her und http://de.wikipedia.org/wiki/Simeon_Sakskoburggotski kennen selbst die Coburger kaum. Also welche Stars halten sich gerade in Coburg versteckt?
 > [![](https://i.ytimg.com/vi/eJHjXoxei1Y/maxresdefault.jpg)](http://www.youtube.com/watch?v=eJHjXoxei1Y)
 > youtube.com
 > ## [Coburg, Germany: Secret of the Stars (English)](http://www.youtube.com/watch?v=eJHjXoxei1Y)
 >
 >Coburg, Germany is an exclusive tourist destination for those seeking a high-end retreat experience. A favorite of Hollywood stars, politicians, and corporat...
-

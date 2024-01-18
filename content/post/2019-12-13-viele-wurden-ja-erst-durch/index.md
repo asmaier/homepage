@@ -1,21 +1,31 @@
 ---
-title: 'Viele wurden ja erst durch ...'
+title: Viele wurden ja erst durch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-12-13
-lastmod: 2019-12-13T13:51:40+01:00
+lastmod: 2019-12-13 13:51:40+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- svante arrhenius
+- exxon
+- industrialisierung
+- klimawandel
+- ölkonzern
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Viele wurden ja erst durch Greta 2018 auf den Klimawandel aufmerksam und tun jetzt so, als hätte man das früher nicht wissen können. Schlaue Journalisten schreiben Verschwörungstheorien, dass der Ölkonzern Exxon bereits 1977 vom Klimawandel wusste, die Erkenntnisse aber unter den Tisch kehrte (https://www.spektrum.de/news/wie-exxon-den-klimawandel-entdeckte-und-leugnete/1374674). 
 
 Aber das sind alles nur Ablenkungsmanöver. Die Folgen des Anstiegs von CO2 in der Erdatmosphäre durch die zunehmende Industrialisierung wurden bereits 1896, also vor 120(!) Jahren vom Nobelpreisträger Svante Arrhenius beschrieben:
@@ -32,5 +42,3 @@ Aber auf jeden Fall sollte niemand so tun, als wäre er vom Klimawandel überras
 > ## [Svante Arrhenius - Wikipedia](https://en.wikipedia.org/wiki/Svante_Arrhenius#Greenhouse_effect)
 >
 >
-
-

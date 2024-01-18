@@ -2,20 +2,30 @@
 title: '"Alle Kommunen in RLP klagen ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-11-21
-lastmod: 2023-11-21T16:18:48+01:00
+lastmod: 2023-11-21 16:18:48+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- windenergie
+- finanzen
+- kommunen
+- rheinland-pfalz
+- energieversorgung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Alle Kommunen in RLP klagen über zu wenig Geld. Alle? Eine kleine Gemeinde im südlichen Hunsrück zeigt, dass es auch anders geht."
 
 Danke für diese Anspielung auf Asterix. Interessant ist, dass dort der Zaubertrank tatsächlich die Windenergie ist. 
@@ -30,4 +40,3 @@ https://www.swr.de/swraktuell/rheinland-pfalz/finanzen-kommunen-haushalt-windene
 > ## [Hunsrück-Gemeinde Fohren-Linden schuldenfrei dank Windenergie](https://www.swr.de/swraktuell/rheinland-pfalz/finanzen-kommunen-haushalt-windenergie-einnahmen-100.html)
 >
 >Alle Kommunen in RLP klagen über zu wenig Geld. Alle? Eine kleine Gemeinde im südlichen Hunsrück zeigt, dass es auch anders geht.
-

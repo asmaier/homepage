@@ -1,21 +1,31 @@
 ---
-title: 'Die WM ist vorbei. Danke ...'
+title: Die WM ist vorbei. Danke ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-07-15
-lastmod: 2018-07-15T20:21:41+02:00
+lastmod: 2018-07-15 20:21:41+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- afd
+- wahlen
+- russland
+- fdp
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Die WM ist vorbei. Danke dafür, Russland! 
 
 Allerdings gibt es da ein paar Dinge, die ich der russischen Regierung auch nach der WM nicht durchgehen lassen kann. Ich rede von der Beeinflussung der Wahl 2017 in Deutschland insbesondere durch Unterstützung der Parteien FDP und AfD. 
@@ -50,4 +60,3 @@ Aufgrund all dieser Hinweise bin ich der Meinung, dass die Beweislast inzwischen
 
 #FIFA2018, #wahlen, #fdp, #afd
 > https://www.handelsblatt.com/politik/deutschland/syrien-reise-bnd-soll-afd-auslandskontakte-ins-visier-nehmen/21051546.html
-

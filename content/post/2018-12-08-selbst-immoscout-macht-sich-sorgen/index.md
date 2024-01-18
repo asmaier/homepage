@@ -1,21 +1,31 @@
 ---
-title: 'Selbst Immoscout macht sich Sorgen ...'
+title: Selbst Immoscout macht sich Sorgen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-12-08
-lastmod: 2018-12-08T21:37:47+01:00
+lastmod: 2018-12-08 21:37:47+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- preise
+- mieten
+- immobilien
+- gehaltsanstieg
+- wohnungsmarkt
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Selbst Immoscout macht sich Sorgen über den deutschen Wohnungsmarkt. 
 
 "Der Wohnungsmarkt in Deutschland ist in einer Schieflage.
@@ -28,5 +38,4 @@ Vergleicht das auch mal mit eurem Gehaltsanstieg seit 2007.
 > immobilienscout24.de
 > ## [Alle suchen Wohnraum: 10 Schlüssel-Forderungen für den Wohnungsmarkt](https://www.immobilienscout24.de/lp/zukunft-wohnen/)
 >
->Alle suchen Wohnraum – aber wie kann der Wohnungsmarkt transparenter, fairer und leichter zugänglich werden? Wir von ImmobilienScout24 sagen: Lasst endlich die Vernunft einziehen! 
-
+>Alle suchen Wohnraum – aber wie kann der Wohnungsmarkt transparenter, fairer und leichter zugänglich werden? Wir von ImmobilienScout24 sagen: Lasst endlich die Vernunft einziehen!

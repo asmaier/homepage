@@ -1,20 +1,29 @@
 ---
-title: 'Berliner Straßenkunst am ersten Januar... ...'
+title: Berliner Straßenkunst am ersten Januar... ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-01-02
-lastmod: 2015-01-02T16:45:23+01:00
+lastmod: 2015-01-02 16:45:23+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- contemporary_art
+- urban_art
+- berlin
+- street_art
+- public_art
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
-Berliner Straßenkunst am ersten Januar...
 
+Berliner Straßenkunst am ersten Januar...

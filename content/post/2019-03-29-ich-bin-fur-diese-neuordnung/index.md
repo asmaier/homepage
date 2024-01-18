@@ -1,21 +1,31 @@
 ---
-title: 'Ich bin für diese Neuordnung ...'
+title: Ich bin für diese Neuordnung ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-29
-lastmod: 2019-03-29T10:45:59+01:00
+lastmod: 2019-03-29 10:45:59+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- chronobiologie
+- geographie
+- wissenschaft
+- zeit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ich bin für diese Neuordnung der Zeitzonen.
 
 Allerdings hat das mit Chronobiologie nichts zu tun. Zeitzonen nach der Chronobiologie wären ja individuell für jeden. Was hier vorgeschlagen wird ist nichts anderes als die Zeitzonen nach den Längengraden zu orientieren, um die Abweichungen zur astronomischen Sonnenzeit zu minimieren.
@@ -27,4 +37,3 @@ http://blog.poormansmath.net/the-time-it-takes-to-change-the-time/
 > ## [Neue Zeitzonen für Europa gemäß der Chronobiologie](https://www.heise.de/newsticker/meldung/Neue-Zeitzonen-fuer-Europa-gemaess-der-Chronobiologie-4354908.html)
 >
 >Schlafforscher Till Roenneberg hält die Sommerzeit für eine Katastrophe und schlägt eine Neuordnung der europäischen Zeitzonen vor.
-

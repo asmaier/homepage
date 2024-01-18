@@ -1,21 +1,31 @@
 ---
-title: 'Das ist ein guter Übersichtsartikel ...'
+title: Das ist ein guter Übersichtsartikel ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-07-15
-lastmod: 2019-07-15T15:46:44+02:00
+lastmod: 2019-07-15 15:46:44+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- windkraft
+- erdgas
+- japanische energiepolitik
+- wasserstoff als energieträger
+- co2-emissionen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das ist ein guter Übersichtsartikel zum Thema Wasserstoff als Energieträger. Z.B. habe ich gelernt, dass es derzeit noch billiger ist Wasserstoff aus Erdgas zu erstellen als per Windkraft, nur dass bei der Erstellung aus Erdgas dummerweise sehr viel CO2 frei wird. Gäbe es eine vernünftige Steuer auf CO2 wäre das so nicht möglich. Interessant auch die Einstellung Japans zu dem Thema:
 ""Auf dem Weg zur Wasserstoffwirtschaft hinken wir in Europa ein bisschen hinterher", sagt Sattler. Japan sei da deutlich weiter. Tatsächlich bildet dort Wasserstoff das zentrale Element der Energiepolitik. Massiv wird der Einbau von Brennstoffzellen-Systemen in Häusern gefördert, die aus Wasserstoff sowohl Strom als auch Wärme erzeugen."
 
@@ -25,4 +35,3 @@ Ich glaube ja, wenn wir eine vernünftige CO2-Steuer in Deutschland hätten, hä
 > ## [Erneuerbare Energien: Die Energiewende braucht Wasserstoff - Golem.de](https://www.golem.de/news/erneuerbare-energien-die-energiewende-braucht-wasserstoff-1907-141919-4.html)
 >
 >Kein anderes Element ist so universell und dabei simpel aufgebaut wie Wasserstoff und das energiereiche Gas lässt sich aus fast jedem Energieträger gewinnen. Genauso vielseitig
-

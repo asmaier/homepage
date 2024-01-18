@@ -1,21 +1,31 @@
 ---
-title: 'I recently discovered the marvelous ...'
+title: I recently discovered the marvelous ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-06-30
-lastmod: 2012-06-30T23:03:50+02:00
+lastmod: 2012-06-30 23:03:50+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- youtube
+- bbc-serien
+- stephen fry in america
+- dokumentationen
+- reise durch die vereinigten staaten
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- english
 ---
+
 I recently discovered the marvelous series from BBC on YouTube:
 
 Stephen Fry in America
@@ -29,4 +39,3 @@ http://www.youtube.com/watch?v=kmMWdt9TMF4&feature=relmfu
 > ## [ - YouTube](http://www.youtube.com/watch?v=kmMWdt9TMF4)
 >
 >Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
-

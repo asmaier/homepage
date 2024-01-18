@@ -1,21 +1,31 @@
 ---
-title: 'Es gibt so eine Art ...'
+title: Es gibt so eine Art ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-04-03
-lastmod: 2022-04-03T21:47:53+02:00
+lastmod: 2022-04-03 21:47:53+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- krieg in der ukraine
+- russische fernsehsendung
+- politischer satire
+- animationsserie
+- flüchtlinge
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Es gibt so eine Art russische Simpsons oder SouthPark, genannt
 
 https://en.wikipedia.org/wiki/Masyanya 
@@ -31,4 +41,3 @@ Das Video ist jetzt schon Kult.
 > ## [Масяня. Эпизод 160. Вакидзаси](https://www.youtube.com/watch?v=kzx_N8AJiKw)
 >
 >Смутые и мрачные времена настали. Юмор уходит в подполье.Я в курсе что в коменты набегут рашисты и я не успею их вычищать- так что вы там поосторожнее... Так...
-

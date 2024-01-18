@@ -2,20 +2,30 @@
 title: '"Während sich Normalrentner nach 45 ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-23
-lastmod: 2019-03-23T20:42:32+01:00
+lastmod: 2019-03-23 20:42:32+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- rentensystem
+- beamtenpension
+- pensionsunterschiede
+- arbeitsrecht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Während sich Normalrentner nach 45 Beitragsjahren mit maximal 48 Prozent ihres letzten Einkommens zufrieden geben müssen, bekommen pensionierte Beamte gut 71 Prozent ihres letzten Bruttogehalts."
 
 "Die Höhe einer Beamtenpension richtet sich ausschließlich nach dem letzten Gehalt. Das ist üblicherweise das höchste. Dagegen bekommen Normalrentner das, was sie im Laufe ihres Arbeitslebens an Entgeltpunkten zusammengesammelt haben, also einen Teil ihres Lebensdurchschnittsverdienstes. Schon allein dadurch sind Beamtenpensionen erheblich höher. Dazu kommen noch Zuschläge für Ehegatten und jahrelange Steuervorteile. Im Schnitt, so rechnen es mehrere Studien von unterschiedlichen Autoren vor, setzen sich Beamte mit dem Dreifachen dessen zur Ruhe, was gesetzliche Rentner bekommen. Sie kassieren rund 3.000 Euro. Der Wirtschaftsprüfer Torsten Ermel nennt sie deshalb "die Adeligen von heute"."
@@ -31,5 +41,4 @@ BRD = Beamten Republik Deutschland!
 > zeit.de
 > ## [Beamtenpension: Fünf Jahre Arbeit, 1.573 Euro Pension](https://www.zeit.de/wirtschaft/2016-06/beamtenpension-rentenreform-altersarmut-ruhestand/komplettansicht)
 >
->Alle reden über Rentenreformen – aber warum packt keiner die Pensionen der Beamten an? Deren Altersbezüge sind hoch. Nur sie selber streiten das gern ab. 
-
+>Alle reden über Rentenreformen – aber warum packt keiner die Pensionen der Beamten an? Deren Altersbezüge sind hoch. Nur sie selber streiten das gern ab.

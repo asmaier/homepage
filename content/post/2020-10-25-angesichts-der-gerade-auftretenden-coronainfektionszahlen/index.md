@@ -1,21 +1,31 @@
 ---
-title: 'Angesichts der gerade auftretenden Coronainfektionszahlen ...'
+title: Angesichts der gerade auftretenden Coronainfektionszahlen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-10-25
-lastmod: 2020-10-25T22:38:43+01:00
+lastmod: 2020-10-25 22:38:43+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- erziehung
+- schulschließungen
+- öffentliche gesundheit
+- pandemie
+- coronavirus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Angesichts der gerade auftretenden Coronainfektionszahlen ist es unverantwortlich, die Kindergärten, Schulen und Universitäten weiter offen zu halten. Hier mal zwei Studien aus Wien und Oxford, die belegen, dass die Schulschließungen in vielen Ländern den größten Beitrag zur Eindämmung der Infektionszahlen geleistet haben:
 
 - https://www.businessinsider.de/wissenschaft/gesundheit/studien-schulschliessungen-verhinderten-13-millionen-ansteckungen-in-den-usa-und-auch-in-anderen-laendern-waren-sie-die-bei-weitem-wirksamste-massnahme/
@@ -29,4 +39,3 @@ Alle Eltern wissen doch ganz genau, dass die Kinder sich dort doch ganz leicht m
 > ## [Investigativ Berichterstattung und Reportagen](https://www.tagesschau.de/investigativ/kmk-schule-wieler-101.html)
 >
 >Investigative Inhalte der ARD - aufwändig recherchierte Beiträge und Exclusivgeschichten der Politik-Magazine Monitor, Panorama, Report und Kontraste.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Zum Abschluß des Jahres endlich ...'
+title: Zum Abschluß des Jahres endlich ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-12-28
-lastmod: 2022-12-28T16:01:49+01:00
+lastmod: 2022-12-28 16:01:49+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- medizin
+- pandemie
+- coronavirus
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Zum Abschluß des Jahres endlich mal gute Nachrichten
 
 https://www.br.de/nachrichten/deutschland-welt/nach-drostens-befund-politiker-wollen-ende-der-corona-massnahmen,TR8Igsd
@@ -24,4 +34,3 @@ https://www.br.de/nachrichten/deutschland-welt/nach-drostens-befund-politiker-wo
 > ## [Nach Drostens Befund: Politiker für Ende aller Corona-Maßnahmen](https://www.br.de/nachrichten/deutschland-welt/nach-drostens-befund-politiker-wollen-ende-der-corona-massnahmen,TR8Igsd)
 >
 >Der Berliner Virologe Christian Drosten hält die Corona-Pandemie für beendet. Deshalb fordert Justizminister Buschmann die Aufhebung aller Schutzmaßnahmen. Auch Bayerns Gesundheitsminister Holetschek sieht die "Phase der Eigenverantwortung" gekommen.
-

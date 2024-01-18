@@ -2,20 +2,30 @@
 title: 'Telemediengesetz (TMG) §13, Absatz 4: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-07-29
-lastmod: 2014-07-29T17:10:06+02:00
+lastmod: 2014-07-29 17:10:06+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- recht auf vergessen
+- accountlöschung
+- internetdiensteanbieter
+- telemediengesetz (tmg)
+- datenschutz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Telemediengesetz (TMG) §13, Absatz 4:
 
 "Der Diensteanbieter hat durch technische und organisatorische Vorkehrungen sicherzustellen, dass
@@ -30,4 +40,3 @@ Beim Durchsetzen dieses "Recht auf Vergessen" hilft http://justdelete.me/ . Man 
 > ## [Just Delete Me | A directory of direct links to delete your account from web services.](http://justdelete.me/)
 >
 >A directory of direct links to delete your account from web services.
-

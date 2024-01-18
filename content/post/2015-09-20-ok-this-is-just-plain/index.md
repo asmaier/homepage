@@ -1,21 +1,31 @@
 ---
-title: 'Ok, this is just plain ...'
+title: Ok, this is just plain ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-09-20
-lastmod: 2015-09-20T22:52:43+02:00
+lastmod: 2015-09-20 22:52:43+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- office-suite-alternativen
+- textverarbeitung
+- dokumentenkonvertierung
+- pdf-bearbeitung
+- html-generierung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 Ok, this is just plain awesome:
 
 https://github.com/coolwanglu/pdf2htmlEX
@@ -30,4 +40,3 @@ Remember: This example is HTML!
 > ## [GitHub - coolwanglu/pdf2htmlEX: Convert PDF to HTML without losing text or format.](https://github.com/coolwanglu/pdf2htmlEX)
 >
 >Convert PDF to HTML without losing text or format. - GitHub - coolwanglu/pdf2htmlEX: Convert PDF to HTML without losing text or format.
-

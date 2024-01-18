@@ -1,25 +1,32 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T22:22:03+02:00"
+lastmod: '2019-10-19T22:22:03+02:00'
 projects: []
 slug: limits-to-growth
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
-- simulation
 - politics
+- umwelt
+- simulation
+- nachhaltigkeit
+- systemdynamik
+- wirtschaft
 title: Limits to Growth
+year: '2008'
+languages:
+- english
 ---
+
 I thought for a long time, that the result of the study "The Limits to Growth" by the "Club of Rome" are clearly disproved. But then I investigated a little bit and found that it doesn't seem to be the case. This worries me a lot, as the model (World3) they use predicts a collapse of society around 2030-2050.
 
 Serious critisism to the study seems to be:

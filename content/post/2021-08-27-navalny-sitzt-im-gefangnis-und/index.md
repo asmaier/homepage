@@ -1,21 +1,31 @@
 ---
-title: 'Navalny sitzt im Gefängnis und ...'
+title: Navalny sitzt im Gefängnis und ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-08-27
-lastmod: 2021-08-27T21:45:22+02:00
+lastmod: 2021-08-27 21:45:22+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- unternehmen
+- korruption
+- west
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Navalny sitzt im Gefängnis und versteht doch so viel mehr von der Welt als viele auf freiem Fuß. 
 
 Seine Kritik daran, dass der Westen Korruption nicht ernst nimmt, ist mehr als berechtigt. 
@@ -30,4 +40,3 @@ Wie gierig muß man bitte sein, dass man heutzutage noch Geschäfte mit Weißrus
 > ## [Only action against corruption can solve the world's biggest problems | Alexei Navalny](https://www.theguardian.com/commentisfree/2021/aug/19/action-against-corruption-russian-sanctions-oligarchs-alexei-navalny)
 >
 >The west needs to take sanctions against oligarchs, says jailed Russian opposition activist Alexei Navalny
-

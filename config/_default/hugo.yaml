@@ -31,6 +31,8 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  languages: '/language/:slug/'
+  year: '/year/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
@@ -44,6 +46,8 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
+  language: languages
+  year: year
   publication_type: publication_types
   author: authors
 markup:
@@ -55,8 +59,8 @@ related:
   indices:
     - name: tags
       weight: 100
-    - name: categories
-      weight: 70
+    - name: languages
+      weight: 50
 security:
   _merge: deep
 sitemap:

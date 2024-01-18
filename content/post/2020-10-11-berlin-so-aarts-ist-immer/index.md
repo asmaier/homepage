@@ -2,20 +2,30 @@
 title: '"Berlin, so Aarts, ist immer ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-10-11
-lastmod: 2020-10-11T12:53:24+02:00
+lastmod: 2020-10-11 12:53:24+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- environmental_policy
+- urban_planning
+- traffic_safety
+- city_governance
+- transportation
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Berlin, so Aarts, ist immer noch voller Autos. „Leider! Es gibt nur wenige öffentliche Orte, an denen man das Leben genießen kann. Orte, an denen Kinder unbeschwert auf die Straße gehen und dort auch spielen können. In Berlin ist das Auto noch immer die Nummer eins. Dafür ist alles bestens organisiert. An zweiter Stelle kommen die öffentlichen Verkehrsmittel, dann die Fußgänger und an vierter Stelle erst die Radfahrer. Das ist das System. Und das passt so gar nicht zu dem, was wir verfolgen sollten.“ Eltern müssten ihre Kinder ständig warnen. „Achtung! Bleib stehen! Lauf nicht dahin! Deshalb bringt man die Kinder lieber mit dem Auto zur Schule, was das Problem ja noch weiter verstärkt.“"
 
 "Alle Städte Europas haben sich ja in dem Pariser Abkommen darauf verständigt, dass wir im Jahr 2050 eine fossilfreie beziehungsweise klimaneutrale Gesellschaft haben wollen. Und 80 Prozent der Menschen in Europa leben in Städten, also müssen die Städte jetzt liefern. Da kann man natürlich aber auch denken: Ach, das sind ja noch dreißig Jahre. Aber in zehn Jahren müssen wir alle schon 33 Prozent geschafft haben, jedes Jahr 3,3 Prozent. Und wenn ich dann sehe, dass man in Paris schon 700 Kilometer Radwege geschaffen hat und in Berlin dagegen nur sieben – was soll ich dazu sagen?"
@@ -30,4 +40,3 @@ Und dabei wäre es dringend notwendig sämtliche Schulen zu sanieren (vielleicht
 > ## [Stadtplaner: „Berlin ist noch zu retten. Aber wann fangen wir endlich mal damit an?“](https://www.berliner-zeitung.de/mensch-metropole/berlin-ist-noch-zu-retten-aber-wann-fangen-wir-endlich-damit-mal-an-li.110111)
 >
 >Er hat Rotterdam in eine beispielhafte Metropole verwandelt und schwärmt von Mailand, das Grau durch Grün ersetzt: ein Gespräch mit Stadtentwickler Martin Aarts über mutlose Politiker, die Notwendigkeit der Verkehrswende und die Gefahr einer Londonisierung.
-

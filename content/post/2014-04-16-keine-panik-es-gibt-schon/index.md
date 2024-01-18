@@ -1,21 +1,31 @@
 ---
-title: 'Keine Panik! Es gibt schon ...'
+title: Keine Panik! Es gibt schon ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-04-16
-lastmod: 2014-04-16T13:34:26+02:00
+lastmod: 2014-04-16 13:34:26+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verlage
+- internet-suchmaschinen
+- google
+- mathias döpfner
+- yandex
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Keine Panik! Es gibt schon eine europäische Antwort auf Google:
 
 http://www.yandex.com/
@@ -24,4 +34,3 @@ http://www.yandex.com/
 > ## [Mathias Döpfner: Warum wir Google fürchten](http://www.faz.net/aktuell/feuilleton/medien/mathias-doepfner-warum-wir-google-fuerchten-12897463.html)
 >
 >Zum ersten Mal bekennt hier ein deutscher Manager die totale Abhängigkeit seines Unternehmens von Google. Was heute die Verlage erleben, ist ein Vorbote: Bald gehören wir alle Google. Ein Offener Brief an Eric Schmidt.
-

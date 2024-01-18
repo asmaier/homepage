@@ -2,20 +2,30 @@
 title: 'Basil Fawlty: Is there something ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-07-01
-lastmod: 2012-07-01T12:52:06+02:00
+lastmod: 2012-07-01 12:52:06+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- adam_gopnik
+- fawlty_towers
+- german_guest
+- basil_fawlty
+- "donâ\x80\x99t_mention_the_war"
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- english
 ---
+
 Basil Fawlty: Is there something wrong?
 
 German guest: Will you stop talking about the war?
@@ -30,4 +40,3 @@ Basil: Yes you did, you invaded Poland!
 > ## [A Point of View: Donât mention the war?](http://www.bbc.co.uk/news/magazine-18645370)
 >
 >It's time to stop invoking Hitler and the Nazis in arguments about everything from censorship to birth control, says Adam Gopnik.
-

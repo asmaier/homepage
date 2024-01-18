@@ -1,21 +1,31 @@
 ---
-title: 'Nun, den Deutschen kann geholfen ...'
+title: Nun, den Deutschen kann geholfen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-12-16
-lastmod: 2019-12-16T21:40:52+01:00
+lastmod: 2019-12-16 21:40:52+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- nachhaltigkeit
+- reise
+- flugverkehr
+- co2-emissionen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Nun, den Deutschen kann geholfen werden:
 
 200 Euro pro Tonne CO2 und der Flug auf die Malediven* kostet hin und zurück 1000 Euro mehr. Das würde den einen oder anderen dann wahrscheinlich doch zu nachhaltigerem Reisen animieren.
@@ -26,4 +36,3 @@ Nun, den Deutschen kann geholfen werden:
 > ## [Viele Deutsche wollen nachhaltiger verreisen, tun es aber nicht](https://www.heise.de/newsticker/meldung/Viele-Deutsche-wollen-nachhaltiger-verreisen-tun-es-aber-nicht-4616462.html)
 >
 >Unterwegs sein wie Greta Thunberg, das wollen gut 50 Prozent der Menschen in Deuschland. Die wenigsten von ihnen tun es wirklich.
-

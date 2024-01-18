@@ -2,20 +2,30 @@
 title: '"Es macht nachdenklich, dass ein ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-01-28
-lastmod: 2022-01-28T17:06:44+01:00
+lastmod: 2022-01-28 17:06:44+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- russland
+- energieversorgung
+- gasimport
+- nord-stream 1
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Es macht nachdenklich, dass ein Unternehmen angesichts steigender Nachfrage das Angebot limitiert. Das ist ein ziemlich seltenes Verhalten auf dem Markt."
 
 Nun, das ist genau das Verhalten, welches sich ein Monopolist erlauben kann, siehe auch Google, Microsoft, Amazon, das deutsche Benzin-Oligopol usw.  . Von selten kann leider keine Rede sein. 
@@ -35,5 +45,4 @@ P.S.: Gäbe es Nord-Stream 2 könnten wir Deutschen noch mehr Gas zu sehr guten 
 > wiwo.de
 > ## [Energieknappheit: Wer ist wirklich Schuld an der Gaskrise? Ein Faktencheck](https://www.wiwo.de/unternehmen/energie/energieknappheit-wer-ist-wirklich-schuld-an-der-gaskrise-ein-daten-und-faktencheck/28005328-all.html)
 >
->Gazprom drossele absichtlich die Lieferungen, um politischen Druck aufzubauen, heißt es. Stimmt nicht, heißt es aus Russland: Deutschland habe zu wenig Gas bestellt. Was stimmt? 
-
+>Gazprom drossele absichtlich die Lieferungen, um politischen Druck aufzubauen, heißt es. Stimmt nicht, heißt es aus Russland: Deutschland habe zu wenig Gas bestellt. Was stimmt?

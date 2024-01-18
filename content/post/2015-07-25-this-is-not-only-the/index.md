@@ -1,21 +1,31 @@
 ---
-title: 'This is not only the ...'
+title: This is not only the ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-07-25
-lastmod: 2015-07-25T18:56:07+02:00
+lastmod: 2015-07-25 18:56:07+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- facebook
+- standardization
+- computer systems
+- norwegian tax system
+- method of dealing with complexity
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
+
 This is not only the Facebook Method of dealing with complexity. This is the only method of dealing with complexity! I envy the Norwegians for their simple tax system.
 
 http://ubiquity.acm.org/blog/the-facebook-method-of-dealing-with-complexity/
@@ -24,4 +34,3 @@ http://ubiquity.acm.org/blog/the-facebook-method-of-dealing-with-complexity/
 > ## [The Facebook Method of Dealing With Complexity](http://ubiquity.acm.org/blog/the-facebook-method-of-dealing-with-complexity/)
 >
 >Computer systems used to be weak, so we had to make their world simple and standardized. They now can handle almost endless complexity—but we still need to understand how to make the world simple, so we don’t risk burdening the majority of users with the needless complexity of the few.
-

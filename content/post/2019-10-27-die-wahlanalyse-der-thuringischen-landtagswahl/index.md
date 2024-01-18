@@ -1,21 +1,31 @@
 ---
-title: 'Die Wahlanalyse der thüringischen Landtagswahl ...'
+title: Die Wahlanalyse der thüringischen Landtagswahl ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-27
-lastmod: 2019-10-27T23:24:19+01:00
+lastmod: 2019-10-27 23:24:19+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- rechtspopulismus in deutschland
+- jugend und politik
+- migration und integration
+- faschismus in deutschland
+- thüringer landtagswahl 2019
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Die Wahlanalyse der thüringischen Landtagswahl ist einigermaßen schockierend. Bei den unter 30jährigen hat die Partei mit einem offenen Faschisten als Spitzenkandidaten eine Mehrheit! 
 
 https://www.tagesspiegel.de/politik/thueringen-wahl-2019-in-zahlen-afd-gewinnt-die-wahl-bei-allen-altersgruppen-unter-60/25160270.html
@@ -28,4 +38,3 @@ Interessant ist in diesem Zusammenhang, dass es auch eher die Männer waren als 
 > ## [Migrationsforscherin Naika Foroutan: "Es ist unser Land, verteidigen wir es gemeinsam"](https://www.tagesspiegel.de/politik/migrationsforscherin-naika-foroutan-es-ist-unser-land-verteidigen-wir-es-gemeinsam/22830476-all.html)
 >
 >Die Migrationsforscherin Naika Foroutan über ihre Angst um Deutschland, die Entmoralisierung der Gesellschaft durch rechte Extreme - und warum Gaucks Worte über Migranten verantwortungslos sind.
-

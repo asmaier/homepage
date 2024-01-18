@@ -2,20 +2,30 @@
 title: '"Die meisten halten sich schon ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-07
-lastmod: 2020-02-07T23:36:46+01:00
+lastmod: 2020-02-07 23:36:46+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- verkehr
+- energieeffizienz
+- nachhaltigkeit
+- ' ernährung'
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Die meisten halten sich schon für Umweltschützer, weil sie den Müll trennen, ein paar Energiesparlampen oder LED eingeschraubt haben und gelegentlich im Bioladen einkaufen. Richtig ins Gewicht fallen aber die zu große Wohnung, das zu große Auto, die mehrfachen Ferienflüge und der hohe Fleischkonsum."
 
 Wo er recht hat, hat er recht. Der Witz ist, mit einem EnergiePlus-Haus, einem Elektroauto, Highspeed-Zügen und vegetarisch/veganer Ernährung ist für alles eine Alternative gegeben. Man muß es nur tun und man muß von der Politik verlangen, dass diese Dinge gefördert werden. Man kann bereits heute sehr gut klimafreundlich leben, ohne große Einbußen an Komfort.
@@ -24,4 +34,3 @@ Wo er recht hat, hat er recht. Der Witz ist, mit einem EnergiePlus-Haus, einem E
 > ## [Umweltexperte über Klimaschutz: „Selbstbetrug wird immer absurder“](https://www.fr.de/wirtschaft/umweltexperte-klimaschutz-selbstbetrug-wird-immer-absurder-13514343.html)
 >
 >Umweltexperte Rainer Grießhammer in der FR über Rollenkonflikte, effizienten Klimaschutz und die vielen Vorzüge eines Tempolimits.
-

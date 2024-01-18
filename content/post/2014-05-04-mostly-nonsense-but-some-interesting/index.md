@@ -1,21 +1,31 @@
 ---
-title: 'Mostly nonsense, but some interesting ...'
+title: Mostly nonsense, but some interesting ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-05-04
-lastmod: 2014-05-04T16:57:48+02:00
+lastmod: 2014-05-04 16:57:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- economic inequality
+- european climate
+- tomato cultivation
+- work ethic
+- national stereotypes
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- english
 ---
+
 Mostly nonsense, but some interesting correlations:
 
 - The division line into sunny/cloudy europe (4) is basically the same as the division line into tomato/potato europe (5) . So we learn the interesting fact: Tomatos need sunny weather!
@@ -25,4 +35,3 @@ Mostly nonsense, but some interesting correlations:
 > ## [20 ways to slice Europe](http://9gag.com/gag/ay5ZRBq)
 >
 >21,562 points • 2,163 comments
-

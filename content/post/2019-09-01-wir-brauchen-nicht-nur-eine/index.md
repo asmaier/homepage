@@ -1,21 +1,31 @@
 ---
-title: 'Wir brauchen nicht nur eine ...'
+title: Wir brauchen nicht nur eine ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-09-01
-lastmod: 2019-09-01T15:13:40+02:00
+lastmod: 2019-09-01 15:13:40+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- suchtmittel
+- steuerpolitik
+- tabakkonsum
+- öffentliche gesundheit
+- alkoholkonsum
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Wir brauchen nicht nur eine Fleischsteuer, sondern auch eine Erhöhung der Alkohol- und der Tabaksteuern:
 
 "Die volkswirtschaftlichen Kosten durch Alkoholkonsum belaufen sich auf knapp 27 Milliarden Euro pro Jahr, die Einnahmen durch die Alkoholsteuer decken davon gerade einmal zwölf Prozent."
@@ -31,4 +41,3 @@ P.S.: Wer der deutschen Allgemeinheit auf legale Weise maximal schaden will, der
 > ## [Alkohol, Zigaretten, Cannabis: Deutschland bleibt Hochkonsumland](https://www.spiegel.de/gesundheit/diagnose/alkohol-zigaretten-cannabis-deutschland-bleibt-hochkonsumland-a-1283227.html)
 >
 >Der "Suchtsurvey" untersucht, welche und wie viele Suchtmittel Menschen in Deutschland zu sich nehmen. Das aktuelle Ergebnis: Schmerzmittel und Cannabis werden stärker konsumiert - und im Vergleich betrinken sich die Deutschen häufig.
-

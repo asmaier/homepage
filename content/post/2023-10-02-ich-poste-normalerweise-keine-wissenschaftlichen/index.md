@@ -1,21 +1,31 @@
 ---
-title: 'Ich poste normalerweise keine wissenschaftlichen ...'
+title: Ich poste normalerweise keine wissenschaftlichen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-10-02
-lastmod: 2023-10-02T11:43:30+02:00
+lastmod: 2023-10-02 11:43:30+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- thermodynamik
+- physikalische chemie
+- astrophysik
+- cosmologie
+- wissenschaftsgeschichte
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Ich poste normalerweise keine wissenschaftlichen Veröffentlichungen, weil das auf Facebook sowieso keiner liest. Aber hier mache ich eine Ausnahme, da das Paper zusammen mit einem Video veröffentlicht wurde, so dass es auch für die Generation Youtube verständlich sein sollte. 
 
 Also keine Angst. Es ist wirklich interessant.
@@ -24,4 +34,3 @@ Also keine Angst. Es ist wirklich interessant.
 > ## [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
 >
 >We present an overview of the thermal history of the Universe and the sequence of objects (e.g., protons, planets, and galaxies) that condensed out of the backg
-

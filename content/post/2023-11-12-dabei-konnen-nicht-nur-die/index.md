@@ -2,20 +2,30 @@
 title: '"Dabei können nicht nur die ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-11-12
-lastmod: 2023-11-12T20:31:28+01:00
+lastmod: 2023-11-12 20:31:28+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- outlook
+- cloud
+- microsoft
+- dsgvo
+- datenschutz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Dabei können nicht nur die IMAP- und SMTP-Zugangsdaten Ihres E-Mail-Kontos an Microsoft übertragen werden, sondern auch sämtliche E-Mails der INBOX an die Microsoft-Server kopiert werden, selbst wenn Sie Ihr Postfach bei einem ganz anderen Anbieter wie beispielsweise mailbox.org haben."
 
 "Für Geschäftskunden kann die derartige (wenn auch ungewollte) Speicherung personenbezogener Daten übrigens ein bußgeldbelegter DSGVO-Verstoß darstellen."
@@ -30,4 +40,3 @@ Ihr werdet es Microsoft wieder und wieder verzeihen, denn ihr habt keine Alterna
 > ## [Warnung: Neues Outlook sendet Passwörter, Mails und andere Daten an Microsoft | mailbox.org](https://mailbox.org/de/post/warnung-neues-outlook-sendet-passwoerter-mails-und-andere-daten-an-microsoft)
 >
 >Heise Online warnt vor der Nutzung des neuen kostenlosen Microsoft Outlook. Es droht der Verlust von Zugangsdaten zu E-Mail-Konten.
-

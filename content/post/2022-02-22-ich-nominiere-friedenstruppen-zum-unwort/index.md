@@ -1,21 +1,31 @@
 ---
-title: 'Ich nominiere "Friedenstruppen" zum Unwort ...'
+title: Ich nominiere "Friedenstruppen" zum Unwort ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-22
-lastmod: 2022-02-22T15:26:57+01:00
+lastmod: 2022-02-22 15:26:57+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- krieg
+- internationales
+- ukraine
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Ich nominiere "Friedenstruppen" zum Unwort des Jahres.
 
 https://www.t-online.de/nachrichten/id_91706874/invasion-in-die-ukraine-russlands-truppen-haben-wohl-grenze-ueberquert.html
@@ -24,4 +34,3 @@ https://www.t-online.de/nachrichten/id_91706874/invasion-in-die-ukraine-russland
 > ## [Invasion in die Ukraine? Russlands Truppen haben wohl Grenze überquert](https://www.t-online.de/nachrichten/id_91706874/invasion-in-die-ukraine-russlands-truppen-haben-wohl-grenze-ueberquert.html)
 >
 >Wladimir Putin hat Luhansk und Donezk als unabhängige Staaten anerkannt – und...
-

@@ -1,21 +1,31 @@
 ---
-title: 'Ich empfehle jedem die offizielle ...'
+title: Ich empfehle jedem die offizielle ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-02-13
-lastmod: 2016-02-13T18:20:45+01:00
+lastmod: 2016-02-13 18:20:45+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- albert einstein
+- gravitationswellen
+- quantentheorie
+- ernst schrödinger
+- laser interferometer gravitational observatory
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Ich empfehle jedem die offizielle Video zur Entdeckung von Gravitationswellen zu schauen : 
 
 https://www.youtube.com/watch?v=aEPIwEJmZyE&t=4m01s
@@ -30,4 +40,3 @@ Und dann solltet ihr darüber nachdenken, dass all das bereits vor 100 Jahren vo
 > ## [[LIVE] FIRST Gravitational Waves Detected | LIGO (Laser Interferometer Gravitational Observatory)](https://www.youtube.com/watch?v=aEPIwEJmZyE&t=4m01s)
 >
 >Press conference announcing the first direct detection of gravitational waves -- February 11, 2016
-

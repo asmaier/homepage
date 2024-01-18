@@ -2,20 +2,30 @@
 title: '"Auch hier sollen nur Schiffe ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-01-22
-lastmod: 2023-01-22T11:53:17+01:00
+lastmod: 2023-01-22 11:53:17+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- emissionshandel
+- privatjets
+- schifffahrt
+- superreiche
+- klimawandel
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Auch hier sollen nur Schiffe ab 5000 Bruttoregistertonnen berücksichtigt werden. Rasmus Andresen von den Grünen sagt, seine Partei habe sich für eine Absenkung dieses Wertes eingesetzt. Leider hätten Konservative, Liberale und Sozialdemokraten das nicht unterstützt."
 "Auch bei Privatjets werden Ausnahmeregeln weiter bestehen bleiben."
 "Einige reiche Menschen können sich also weiterhin extrem CO2-intensiv fortbewegen, ohne dafür zusätzliche Kosten zu bezahlen,"
@@ -32,4 +42,3 @@ Da sie es nicht selbst tun wird es höchste Zeit, dass man sie dazu zwingt. Denn
 > ## [EU-Emissionshandel: Superjachten bleiben abgabenfrei](https://www.tagesschau.de/investigativ/ndr/jachten-treibhausgase-klima-101.html)
 >
 >Die EU hat sich auf eine Ausweitung des Emissionshandels verständigt. Auch der Schiffsverkehr wird künftig einbezogen. Doch nach NDR-Informationen wird es weiter Ausnahmen geben - unter anderem für große Jachten. Von Christian Baars.
-

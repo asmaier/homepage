@@ -1,26 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T22:53:53+02:00"
+lastmod: '2019-10-19T22:53:53+02:00'
 projects: []
 slug: python-fuzzy-string-comparison
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
+- python modules
 - programming
+- fuzzy string comparison
 - python
+- difflib
+- sequencematcher
 - computer
 title: Python fuzzy string comparison
+year: '2008'
+languages:
+- english
 ---
+
 ## Fuzzy string comparison
 
 
@@ -35,4 +42,4 @@ title: Python fuzzy string comparison
 
 ### Bibliography
 0. <http://stackoverflow.com/questions/682367/good-python-modules-for-fuzzy-string-comparison>  
-0. <http://docs.python.org/library/difflib.html>  
+0. <http://docs.python.org/library/difflib.html>

@@ -1,21 +1,31 @@
 ---
-title: 'In Berlin diskutiert man noch ...'
+title: In Berlin diskutiert man noch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-11-19
-lastmod: 2022-11-19T21:36:26+01:00
+lastmod: 2022-11-19 21:36:26+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verkehrsplanung
+- umwelt
+- solarstraßen
+- fahrradwege
+- south korea
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 In Berlin diskutiert man noch über Popup-Radwege (echte Radwege nach niederländischen Vorbild wären viel besser) und ob es eine gute Idee ist, Fahrradfahrer in Busspuren fahren zu lassen (Antwort: Nein, ist es nicht und war es nie. Das ist wie wenn sich Draisinen und ICEs dieselbe Strecke teilen).
 
 Südkorea dagegen macht lieber sinnvolle Dinge. Da gibt es z.B. so etwas:
@@ -30,6 +40,4 @@ Man kann vielleicht drüber streiten ob es eine gute Idee ist den Fahrradweg in 
 > abcnews.go.com
 > ## [Solar panel bike lane generates eco-friendly energy in South Korea](https://abcnews.go.com/International/solar-panel-bike-lane-generates-eco-friendly-energy/story?id=90197800)
 >
->There is a five-and-a-half mile bike path sitting in the middle of an eight-lane highway, topped with a solar panel that lights up the streets below in South Korea. 
-
-
+>There is a five-and-a-half mile bike path sitting in the middle of an eight-lane highway, topped with a solar panel that lights up the streets below in South Korea.

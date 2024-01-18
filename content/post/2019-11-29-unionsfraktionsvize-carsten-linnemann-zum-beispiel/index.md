@@ -2,20 +2,30 @@
 title: '"Unionsfraktionsvize Carsten Linnemann zum Beispiel ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-11-29
-lastmod: 2019-11-29T10:31:28+01:00
+lastmod: 2019-11-29 10:31:28+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- ökonomie
+- klimawandel
+- co2-steuer
+- weltbank
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Unionsfraktionsvize Carsten Linnemann zum Beispiel weiß es offenbar besser als die Expertenkommission der Weltbank und andere führende Ökonomen und warnt vor "teuren und ineffektiven nationalen Alleingängen".
 ...
 Solche "Alleingänge" gibt es in Europa aber schon diverse: Die Schweiz, Liechtenstein, Finnland, Norwegen, Schweden und, ja, Frankreich haben bereits CO2-Steuern."
@@ -26,4 +36,3 @@ Langsam steht Deutschland allein da in Europa mit seiner Weigerung eine effektiv
 > ## [Klimawandel: Wir schützen die Profiteure der Katastrophe](https://www.spiegel.de/wissenschaft/mensch/klimawandel-wir-schuetzen-die-profiteure-der-katastrophe-a-1264618.html)
 >
 >Eine CO2-Steuer ist eine einfache und elegante Möglichkeit, effektive Klimapolitik zu machen - mit dem Markt als Mechanismus. Warum also haben ausgerechnet CDU und FDP etwas dagegen?
-

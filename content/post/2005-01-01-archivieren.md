@@ -1,25 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2005-01-01"
+date: '2005-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-09-27T21:26:30+02:00"
+lastmod: '2019-09-27T21:26:30+02:00'
 projects: []
 slug: archivieren
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags:
-- computer
+- archivierung
+- dateiformate
+- unix-befehle
+- komprimierung
 - linux
+- softwareentwicklung
+- computer
 categories:
 - old_website
-- deutsch
 title: Archivieren
+year: '2005'
+languages:
+- deutsch
 ---
+
 Eine gute Einführung übers Archivieren und Komprimieren gibts in bei
 <a href="http://www.oreilly.de/german/freebooks/rlinux3ger/ch072.html">
 Welsh et al. 2000</a>.

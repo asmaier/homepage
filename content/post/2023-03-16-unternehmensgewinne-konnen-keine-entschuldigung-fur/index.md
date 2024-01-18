@@ -2,20 +2,30 @@
 title: '"Unternehmensgewinne können keine Entschuldigung für ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-03-16
-lastmod: 2023-03-16T17:18:49+01:00
+lastmod: 2023-03-16 17:18:49+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- unternehmensverantwortung
+- desinformation
+- serbische medien
+- medienfinanzierung
+- deutsche unternehmen in serbien
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Unternehmensgewinne können keine Entschuldigung für alles sein", sagt Tomanic. "Es gibt auch eine moralische und gesellschaftliche Verantwortung."
 
 Wow. Wenn das Schule macht, wäre das für Deutschland eine echte Zeitenwende. 
@@ -38,4 +48,3 @@ https://www.tagesschau.de/faktenfinder/serbien-medien-finanzierung-101.html
 > ## [Serbische Medien: Wie deutsche Firmen Desinformation finanzieren](https://www.tagesschau.de/faktenfinder/serbien-medien-finanzierung-101.html)
 >
 >In vielen serbischen Medien wird massiv Stimmung gegen die EU und pro Russland gemacht. Die Auswertung der serbischen NGO CRTA zeigt: Ausgerechnet westliche Unternehmen finanzieren diese Medien durch Anzeigen - auch viele deutsche. Von P. Siggelkow.
-

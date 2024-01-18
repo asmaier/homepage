@@ -2,20 +2,30 @@
 title: '"However in 2018 the fuel ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-06-03
-lastmod: 2019-06-03T15:41:02+02:00
+lastmod: 2019-06-03 15:41:02+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- naturgas
+- erneuerbare energien
+- klimawandel
+- kohleverstromung
+- energie in großbritannien
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- english
 ---
+
 "However in 2018 the fuel made up just 5% of Britain’s electricity generation, a big decline from about 40% in 2012"
 
 "Coal has mainly been replaced by natural gas, which produces less than half the carbon dioxide emissions. Renewable sources with no direct carbon emissions, such as solar and wind power, accounted for 28% of electricity generation in 2018"
@@ -28,4 +38,3 @@ Den Engländern ist 2025 für den Kohleausstieg nicht schnell genug! Und wir red
 > ## [Great Britain records two weeks of coal-free electricity generation](https://www.theguardian.com/business/2019/may/31/great-britain-records-two-weeks-of-coal-free-electricity-generation)
 >
 >England, Scotland and Wales went for two weeks without coal at 3.12pm on Friday
-

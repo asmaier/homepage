@@ -1,21 +1,31 @@
 ---
-title: 'So, liebe soziale Netzwerker. Ihr ...'
+title: So, liebe soziale Netzwerker. Ihr ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-07-25
-lastmod: 2022-07-25T22:47:06+02:00
+lastmod: 2022-07-25 22:47:06+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- historie des automobils
+- andreas flocken
+- erfinder
+- elektroauto
+- coburg
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 So, liebe soziale Netzwerker. Ihr müsst jetzt ganz stark sein: Der Erfinder der Elektroautos heißt nicht Elon Musk! 
 
 Der Erfinder des Elektroautos heißt Andreas Flocken und kommt aus Coburg. Er hat in Coburg 1888 das erste Elektroauto der Welt gebaut und gefahren. Das glaubt ihr nicht? Hier der Wikipedia-Artikel und ich schwöre, ich habe den nicht selbst geschrieben: 
@@ -32,4 +42,3 @@ P.S.: Herr Flocken gilt übrigens auch als Erfinder der Spurstange. Nicht ganz u
 > de.wikipedia.org
 > ## [Flocken Elektrowagen – Wikipedia](https://de.wikipedia.org/wiki/Flocken_Elektrowagen)
 >
-

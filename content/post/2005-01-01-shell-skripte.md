@@ -1,25 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2005-01-01"
+date: '2005-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-09-27T21:10:55+02:00"
+lastmod: '2019-09-27T21:10:55+02:00'
 projects: []
 slug: shell-skripte
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
-- deutsch
 - old_website
 tags:
-- computer
+- shell-skripte
+- bash-shell
+- dateipfad
 - linux
+- textdatei
+- icon im kde-panel
+- computer
 title: Shell-Skripte
+year: '2005'
+languages:
+- deutsch
 ---
+
 <p>Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte
 nötig:</p>
 <ol>

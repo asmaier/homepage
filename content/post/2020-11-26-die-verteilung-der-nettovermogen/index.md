@@ -2,20 +2,30 @@
 title: '"Die Verteilung der Nettovermögen – ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-11-26
-lastmod: 2020-11-26T21:55:49+01:00
+lastmod: 2020-11-26 21:55:49+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- deutschland
+- vermögen
+- ungleichheit
+- soziale probleme
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Die Verteilung der Nettovermögen – also des Vermögens nach Abzug der Schulden – ist in Deutschland weit ungleicher als bisher angenommen. Den obersten zehn Prozent der Bevölkerung gehören nicht etwa wie bisher geschätzt 59 Prozent der Vermögen. Sie besitzen rund zwei Drittel."
 
 "Das international gängige Maß für Ungleichheit ist der sogenannte Gini-Koeffizient. Beträgt er Null, herrscht keine Ungleichheit (die Vermögen sind völlig gleich verteilt). Erreicht er eins, ist die Ungleichheit maximal (ein Einzelner besitzt alles). Schon vor der neuen Erhebung lag der Wert bei 0,78. Jetzt beträgt er 0,81. Bezieht man die Reichenliste mit ein, sogar 0,83. Im internationalen Vergleich schneidet Deutschland damit schlecht ab."
@@ -34,4 +44,3 @@ Und hören wir etwa in den Nachrichten etwas, dass die Regierung etwas gegen die
 > ## [Vermögensverteilung: Das obere Prozent](https://www.zeit.de/wirtschaft/2020-07/vermoegensverteilung-deutschland-diw-studie-ungleichheit)
 >
 >Bisher waren die Vermögen der reichsten Deutschen eine Blackbox. Forscher haben sie nun geöffnet. Ihre Daten zeigen: Die Vermögen sind ungleicher verteilt als gedacht.
-

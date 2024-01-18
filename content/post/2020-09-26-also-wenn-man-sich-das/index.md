@@ -1,21 +1,31 @@
 ---
-title: 'Also wenn man sich das ...'
+title: Also wenn man sich das ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-26
-lastmod: 2020-09-26T23:09:52+02:00
+lastmod: 2020-09-26 23:09:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- mobilitätsgesetz
+- fahrradverkehr
+- berlin
+- städteplanung
+- niederlande
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Also wenn man sich das anschaut und mit Berlin vergleicht, kriegt man Tränen in den Augen. So sollten Fahrradwege aussehen! Sie haben sogar Fahrradwege zum Flughafen. Und erst die Fahrradparkhäuser! So etwas gibt es in Berlin garnicht. Alles was Berlin bisher für den Radverkehr macht wirkt dagegen total lächerlich, rückschrittlich und geradezu peinlich. Sorry, aber das ist so.  
 
 Und das Video unten von Eindhoven ist von 2014. Weitere Video sind z.B. von Nijmegen 2016 
@@ -29,4 +39,3 @@ Natürlich gilt es nicht nur für Berlin, die meisten Städte in Deutschland sin
 > ## [Eindhoven, nominee best cycling city in NL, 2014 [313]](https://www.youtube.com/watch?v=NWHFLiPIMEo)
 >
 >Eindhoven is one of the 5 nominees to become best cycling city in the Netherlands in 2014. A portrait. More info: http://bicycledutch.wordpress.com/2014/03/0...
-

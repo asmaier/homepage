@@ -2,20 +2,30 @@
 title: 'Aus dem heise-Forum: """ Wenn ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-08-10
-lastmod: 2023-08-10T18:01:00+02:00
+lastmod: 2023-08-10 18:01:00+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- personalausweis (deutschland)
+- pdf
+- s/mime
+- software- und zertifikats-industrie
+- qualifizierte elektronische signatur
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Aus dem heise-Forum:
 
 """
@@ -32,4 +42,3 @@ Da kann ich nur zustimmen. Da würde ich mir meinen neuen Personalausweis sogar 
 > de.wikipedia.org
 > ## [Personalausweis (Deutschland) – Wikipedia](https://de.wikipedia.org/wiki/Personalausweis_(Deutschland)#Qualifizierte_elektronische_Signatur_(QES))
 >
-

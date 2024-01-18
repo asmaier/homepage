@@ -1,21 +1,31 @@
 ---
-title: 'Ich lästere ja gerne, dass ...'
+title: Ich lästere ja gerne, dass ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-06-18
-lastmod: 2019-06-18T11:48:36+02:00
+lastmod: 2019-06-18 11:48:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- würzburg
+- raumfahrt
+- universitäten
+- softwareentwicklung
+- astronomie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ich lästere ja gerne, dass die Startups in Berlin nix können außer Pizza und Klamotten liefern. Hier habe ich aber mal ein interessanteres gefunden: 
 https://ptscientists.com/about/history/
 
@@ -24,4 +34,3 @@ Das ist von der Uni Würzburg, und da kommen ja bekanntlich nur kompetente Mensc
 
 Allerdings habe ich gerade in ihre Timeline geschaut. Und da steht tatsächlich, dass sie stolz sind 2018 den Cloud Edge Moonlight shoe designed zu haben. Ist also doch nur eines der üblichen Berliner Startups ;-)
 > https://ptscientists.com/about/history/
-

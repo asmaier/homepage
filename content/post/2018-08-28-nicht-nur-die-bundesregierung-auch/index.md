@@ -1,21 +1,31 @@
 ---
-title: 'Nicht nur die Bundesregierung, auch ...'
+title: Nicht nur die Bundesregierung, auch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-08-28
-lastmod: 2018-08-28T20:42:36+02:00
+lastmod: 2018-08-28 20:42:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- html
+- transparenz
+- pdf
+- open data
+- it-infrastruktur
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Nicht nur die Bundesregierung, auch die deutschen Großkonzerne gehören immer noch zu Internetausdruckern. Für alle mal zum Mitschreiben:
 
 PDF ist kein Datenaustauschformat!!!!
@@ -35,4 +45,3 @@ Korrupte IT-Analphabeten! In die Rente mit euch! Schämt euch, dass Länder wie 
 > ## [Bundesregierung kommt bei Open Data und Open Source nicht voran](https://www.heise.de/newsticker/meldung/Bundesregierung-kommt-bei-Open-Data-und-Open-Source-nicht-voran-4145803.html)
 >
 >Bund und Länder tun sich weiter schwer mit der digitalen Offenheit: Mit der Reform des halbgaren Open-Data-Gesetzes wird es in dieser Legislatur nichts mehr.
-

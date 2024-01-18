@@ -1,21 +1,31 @@
 ---
-title: 'Dunning und Kruger kamen 1999 ...'
+title: Dunning und Kruger kamen 1999 ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-09-06
-lastmod: 2011-09-06T23:25:53+02:00
+lastmod: 2011-09-06 23:25:53+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- überschätzung der eigenen fähigkeiten
+- psychologie
+- illusion des kompetenz
+- dunning-kruger-effekt
+- sozialpsychologie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Dunning und Kruger kamen 1999 zum Resultat, dass weniger kompetente Personen
 - dazu neigen, ihre eigenen Fähigkeiten zu überschätzen
 - überlegene Fähigkeiten bei anderen nicht erkennen
@@ -26,4 +36,3 @@ Der Effekt ist in der amerikanischen Gesellschaft am meisten ausgeprägt und in 
 > de.wikipedia.org
 > ## [Dunning-Kruger-Effekt – Wikipedia](http://de.wikipedia.org/wiki/Dunning-Kruger-Effekt)
 >
-

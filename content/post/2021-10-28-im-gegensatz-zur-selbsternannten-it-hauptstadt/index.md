@@ -1,21 +1,31 @@
 ---
-title: 'Im Gegensatz zur selbsternannten IT-Hauptstadt ...'
+title: Im Gegensatz zur selbsternannten IT-Hauptstadt ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-10-28
-lastmod: 2021-10-28T16:03:07+02:00
+lastmod: 2021-10-28 16:03:07+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schleswig-holstein
+- open-source-software
+- it-verwaltung
+- digitale souveränität
+- bildung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Im Gegensatz zur selbsternannten IT-Hauptstadt Berlin hat Schleswig-Holstein einen Plan:
 
 "Generell laufen aber 90 Prozent der Videokonferenzen in unserer Landesverwaltung mit Jitsi, also mit einem Open-Source-Programm."
@@ -34,4 +44,3 @@ Warum nicht auch Berlin?
 > ## [Schleswig-Holsteins Digitalminister Albrecht über den Wechsel zu Open Source ](https://www.heise.de/news/Schleswig-Holsteins-Digitalminister-Albrecht-ueber-den-Wechsel-zu-Open-Source-6221361.html)
 >
 >Schleswig-Holstein will in Verwaltung und Schulen auf Open Source umsteigen. Minister Jan Philipp Albrecht erklärt im c’t-Interview, wie das gelingen soll.
-

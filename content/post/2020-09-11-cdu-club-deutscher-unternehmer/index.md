@@ -1,21 +1,31 @@
 ---
-title: 'CDU = Club deutscher Unternehmer ...'
+title: CDU = Club deutscher Unternehmer ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-11
-lastmod: 2020-09-11T17:43:51+02:00
+lastmod: 2020-09-11 17:43:51+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wirtschaftsminister peter altmaier
+- transnationale unternehmen
+- eu-regierungen
+- bundesregierung
+- steuerflucht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 CDU = Club deutscher Unternehmer
 
 Hier zeigt es sich mal wieder:
@@ -34,4 +44,3 @@ Liebe Konzerne, wenn ihre keine Steuern zahlen wollt, dann werdet doch Reichsbü
 > ## [Europäische Union: Im Schatten der Konzerne](https://www.zeit.de/wirtschaft/2020-09/europaeische-union-steuervermeidung-konzerne-transparenz-eu-gesetz-bundesregierung)
 >
 >Die Bundesregierung blockiert ein EU-Gesetz, mit dem transnationale Unternehmen ihre Steuerzahlungen offenlegen müssten. Europa verliert dadurch Milliardenbeträge. Warum?
-

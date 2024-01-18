@@ -2,20 +2,30 @@
 title: '"Die Finanzierung des 365-Euro-Tickets in ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-01
-lastmod: 2022-08-01T23:20:23+02:00
+lastmod: 2022-08-01 23:20:23+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- nulltarif
+- parkraumbewirtschaftung
+- öffentlicher verkehr
+- finanzierung
+- fahrpreis
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Die Finanzierung des 365-Euro-Tickets in Wien läuft unter anderem über die Parkraumbewirtschaftung - die ist dort flächendeckend, das haben wir hier noch nicht."
 
 https://www.rbb24.de/wirtschaft/beitrag/2022/08/9-euro-ticket-nachfolger-365-euro-ticket-oesterreich-nulltarif-luxemburg.html
@@ -36,4 +46,3 @@ https://www.rbb24.de/wirtschaft/beitrag/2022/08/9-euro-ticket-nachfolger-365-eur
 > ## ["Wir brauchen eine radikale Lösung"](https://www.rbb24.de/wirtschaft/beitrag/2022/08/9-euro-ticket-nachfolger-365-euro-ticket-oesterreich-nulltarif-luxemburg.html)
 >
 >Was nach dem Neun-Euro-Ticket kommen soll, wird viel diskutiert. Vorbilder finden sich in unseren Nachbarländern: Ein Mobilitätsforscher der TU Berlin sieht eine Möglichkeit, diese Modelle auch hier umzusetzen. Von W. Siebert und H. Daehler
-

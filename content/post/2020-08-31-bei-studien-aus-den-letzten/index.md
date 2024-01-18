@@ -2,20 +2,30 @@
 title: '"Bei Studien aus den letzten ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-08-31
-lastmod: 2020-08-31T16:46:20+02:00
+lastmod: 2020-08-31 16:46:20+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- studien
+- automotive industrie
+- klimawandel
+- elektroautos
+- co2-emissionen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Bei Studien aus den letzten beiden Jahren habe ich mich oft gefragt, was die Autoren geritten hat, dass das Elektroauto so schlecht weggekommen ist." Dabei hatte er eher den Eindruck, die Autoren seien auf einer Mission, den Verbrenner zu retten, kritisiert Krischer - ähnlich dem Versuch im 19. Jahrhundert, die Postkutsche vor der Verdrängung durch die Eisenbahn zu bewahren. "
 
 Das hat, wie wir aus der Geschichte wissen, ja unglaublich gut geklappt und Postkutschen sind nach wie vor Deutschlands Exportschlager Nummer eins.
@@ -24,4 +34,3 @@ Das hat, wie wir aus der Geschichte wissen, ja unglaublich gut geklappt und Post
 > ## [Studie: Tatsächlicher CO2-Ausstoß von Elektroautos deutlich niedriger als bisher angenommen](https://www.spiegel.de/auto/elektroautos-tatsaechlicher-co2-ausstoss-niedriger-als-bisher-angenommen-a-01907849-ede6-4f24-8c3f-89475aadbe69)
 >
 >Elektroautos boomen - doch immer wieder werden Zweifel an ihrem Nutzen fürs Klima laut. Eine neue Studie stärkt nun die Befürworter: Ihr zufolge verantworten die Stromer einen viel geringeren CO₂-Ausstoß als bisher angenommen.
-

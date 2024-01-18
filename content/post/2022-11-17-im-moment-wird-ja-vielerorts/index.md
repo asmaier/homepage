@@ -1,21 +1,31 @@
 ---
-title: 'Im Moment wird ja vielerorts ...'
+title: Im Moment wird ja vielerorts ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-11-17
-lastmod: 2022-11-17T23:50:44+01:00
+lastmod: 2022-11-17 23:50:44+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- menschenrechte
+- russland
+- argentininische militärdiktatur
+- katar
+- fußball-weltmeisterschaft 1978
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Im Moment wird ja vielerorts ein Boykott der Fußball-WM in Katar diskutiert. Wie konnte man nur eine WM an diese Diktatur geben? 
 
 Allerdings kann man sich ruhig mal daran erinnern, dass es nicht zum ersten Mal ist, dass die FIFA eine WM an eine Diktatur gibt. Und da müssen wir gar nicht bis zur Fußball-WM 1934 in Italien (unter Mussolini) zurück. Nein, erinnert sich noch jemand an die WM 1978 in Argentinien? Damals herrschte dort eine Militärdiktatur, die 1981 auch den Falklandkrieg begann.
@@ -37,4 +47,3 @@ Im Vergleich zur Kritik an den oben genannten Ländern scheint mir die Kritik an
 > de.wikipedia.org
 > ## [Fußball-Weltmeisterschaft 1978 – Wikipedia](https://de.wikipedia.org/wiki/Fu%C3%9Fball-Weltmeisterschaft_1978#Verhalten_deutscher_Spieler_und_Funktion%C3%A4re_im_Kontext_der_Argentinischen_Milit%C3%A4rdiktatur)
 >
-

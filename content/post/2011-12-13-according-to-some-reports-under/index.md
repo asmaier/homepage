@@ -1,21 +1,31 @@
 ---
-title: 'According to some reports, under ...'
+title: According to some reports, under ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-12-13
-lastmod: 2011-12-13T13:30:18+01:00
+lastmod: 2011-12-13 13:30:18+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- sorm-2
+- überwachung
+- internet
+- russland
+- isp
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 According to some reports, under SORM-2 Russian Internet service providers (ISPs) must install a special device on their servers to allow the FSB to track all credit card transactions, e-mail messages and web use.
 
 Huge success of the system (http://de.wikipedia.org/wiki/Sorm):
@@ -30,4 +40,3 @@ http://en.wikipedia.org/wiki/SORM
 > en.wikipedia.org
 > ## [SORM - Wikipedia](http://en.wikipedia.org/wiki/SORM)
 >
-

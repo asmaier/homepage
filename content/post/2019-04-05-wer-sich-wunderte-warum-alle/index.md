@@ -1,21 +1,31 @@
 ---
-title: 'Wer sich wunderte, warum alle ...'
+title: Wer sich wunderte, warum alle ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-04-05
-lastmod: 2019-04-05T23:25:18+02:00
+lastmod: 2019-04-05 23:25:18+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- praxen
+- notdienst
+- medizin
+- ärzte
+- sprechstunden
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Wer sich wunderte, warum alle Ärzte in Deutschland am Mittwoch immer geschlossen haben, das liegt daran, dass sie bisher nur 20 Stunden die Woche Sprechstunden anbieten mussten. 
 
 "Das Gesetz sieht vor, dass niedergelassene Ärzte mindestens 25 statt bisher mindestens 20 Stunden in der Woche für gesetzlich versicherte Patienten anbieten müssen."
@@ -28,4 +38,3 @@ https://asmaier.blogspot.com/2016/11/krank-am-wochenende-in-berlin-lieber.html
 > ## [Aktuelle Nachrichten aus Deutschland](https://www.tagesschau.de/inland/spahn-arzttermin-103.html)
 >
 >Überblick zu Hintergründen, Analysen und Interviews bei tagesschau.de - die erste Adresse für Nachrichten und umfassende Berichte zu aktuellen Themen.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Nils Melzer, Uno-Sonderberichterstatter für Folter ...'
+title: Nils Melzer, Uno-Sonderberichterstatter für Folter ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-01
-lastmod: 2020-02-01T21:19:54+01:00
+lastmod: 2020-02-01 21:19:54+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- julian assange
+- menschenrechte
+- folter
+- nils melzer
+- schweden
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Nils Melzer, Uno-Sonderberichterstatter für Folter über den Fall Assange:
 
 "In diesem Schreiben forderte ich die schwedische Regierung auf, in rund 50 Punkten die Vereinbarkeit ihrer Verfahrens­führung mit den Menschenrechten zu erklären: Wie ist es möglich, dass die Presse alles sofort erfährt, obwohl das verboten ist? Wie ist es möglich, dass ein Verdacht öffentlich wird, obwohl die Befragung noch gar nicht stattgefunden hat? Wie ist es möglich, dass ihr sagt, es handle sich um eine Vergewaltigung, wenn die betroffene Frau widerspricht? Am Tag der Veröffentlichung erhielt ich von Schweden eine karge Antwort: Die Regierung habe keine weiteren Bemerkungen zu dem Fall.
@@ -31,4 +41,3 @@ Der Artikel zeigt ganz eindringlich, der ganze Fall Assange ist ein Skandal. Ich
 > ## [«Ein mörderisches System»: Konstruierte Vergewaltigung, manipulierte Beweise](https://www.republik.ch/2020/01/31/nils-melzer-spricht-ueber-wikileaks-gruender-julian-assange)
 >
 >Erstmals spricht Nils Melzer, Uno-Sonderberichterstatter für Folter, ausführlich über seine Untersuchungen im Fall Julian Assange. Und legt brisante Dokumente vor.
-

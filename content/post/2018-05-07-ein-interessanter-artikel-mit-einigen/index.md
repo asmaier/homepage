@@ -1,21 +1,31 @@
 ---
-title: 'Ein interessanter Artikel mit einigen ...'
+title: Ein interessanter Artikel mit einigen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-05-07
-lastmod: 2018-05-07T17:41:23+02:00
+lastmod: 2018-05-07 17:41:23+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schlaf
+- müdigkeit
+- gesundheit
+- chronischer schlafmangel
+- leistungseinbußen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Ein interessanter Artikel mit einigen Interessanten Erkenntnissen:
 
 "Wer in den vorangegangenen zwei Wochen jede Nacht weniger als sechs Stunden geschlafen hatte, bekam im Vergleich zu den anderen viermal so häufig einen Schnupfen."
@@ -26,4 +36,3 @@ Ein interessanter Artikel mit einigen Interessanten Erkenntnissen:
 > ## [Müdigkeit: Risiko Schlafmangel](https://www.spektrum.de/news/was-bei-schlafmangel-im-gehirn-passiert/1560834)
 >
 >Schlafentzug und seine gefährlichen Folgen
-

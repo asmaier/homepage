@@ -8,7 +8,7 @@ main:
   - name: Posts
     url: '/stream'
     weight: 20
-  - name: Tags
+  - name: Archive
     url: '/lake'
     weight: 30
   - name: Projects
@@ -17,8 +17,8 @@ main:
   - name: Publications
     url: '/publications'
     weight: 50
-  - name: Archive
-    url: '/archive'
+  - name: Links
+    url: '/links'
     weight: 60
   - name: About
     url: '/about'

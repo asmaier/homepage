@@ -1,21 +1,31 @@
 ---
-title: 'Der Artikel ist gut, aber ...'
+title: Der Artikel ist gut, aber ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-01-26
-lastmod: 2021-01-26T22:28:25+01:00
+lastmod: 2021-01-26 22:28:25+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- vermögensverteilung
+- wirtschaftsungleichheit
+- coronazeiten
+- steuern in deutschland
+- soziale gerechtigkeit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Der Artikel ist gut, aber das wesentliche versteckt er am Ende:
 
 "In der Bundesrepublik sind die Vermögen stärker beim wohlhabendsten Prozent der Bevölkerung konzentriert als in den meisten anderen Industriestaaten der Welt. Dieses eine Prozent besitzt mehr Nettovermögen als 87,6 Prozent der Bevölkerung zusammen."
@@ -30,4 +40,3 @@ Es ist ein Skandal, das gerade in Coronazeiten wir alle Kosten der Pandemie durc
 > ## [Verteilung des Wohlstands: Löhne steigen stärker als Kapitaleinkommen](https://www.spiegel.de/wirtschaft/soziales/so-ungleich-ist-deutschland-loehne-steigen-staerker-als-kapitaleinkommen-a-bb09919c-6231-433e-9256-bc3e65ec41ce)
 >
 >Lange legten hierzulande nur die Vermögensgewinne zu, während die Löhne stagnierten. Das hat sich geändert – doch wer profitiert davon? Ein aktueller Verteilungsbericht zeigt es. Die wichtigsten Erkenntnisse.
-

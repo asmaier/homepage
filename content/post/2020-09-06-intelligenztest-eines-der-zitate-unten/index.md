@@ -2,20 +2,30 @@
 title: 'Intelligenztest: Eines der Zitate unten ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-06
-lastmod: 2020-09-06T13:26:37+02:00
+lastmod: 2020-09-06 13:26:37+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- friedrichstraße
+- einkaufsmeile
+- berlin
+- verkehrsberuhigung
+- radfahrer
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Intelligenztest: Eines der Zitate unten passt nicht in die Reihe. Finde es!
 
 1. "Ich habe noch nie so viele Leute mit einem Lächeln auf dem Gesicht in der Friedrichstraße gesehen", sagt der Berliner, der um die Ecke wohnt.
@@ -32,4 +42,3 @@ Intelligenztest: Eines der Zitate unten passt nicht in die Reihe. Finde es!
 > ## [So flaniert es sich in Mitte](https://www.rbb24.de/panorama/beitrag/2020/09/berlin-friedrichstrasse-autofrei.html)
 >
 >Die Friedrichstraße ist den Rest des Jahres für Autos gesperrt – zumindest zwischen Französischer und Leipziger Straße. Mehr Platz für Radfahrer und Fußgänger sollen die Einkaufsmeile beleben. Franziska Ritter hat das Ergebnis getestet.
-

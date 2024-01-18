@@ -2,20 +2,30 @@
 title: 'From their website: - WardLab ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-11-09
-lastmod: 2013-11-09T21:51:19+01:00
+lastmod: 2013-11-09 21:51:19+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- political science software
+- bayesian modeling
+- conflict prediction
+- network analysis
+- global conflict forecasting
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- english
 ---
+
 From their website: 
 - WardLab creates conflict predictions using Bayesian modeling and network analysis. 
 - Forecasts of civil and international conflict around the globe. 
@@ -28,4 +38,3 @@ http://asmaier.blogspot.de/2011/11/simulation-der-gesamten-menschheit.html
 > ## [This is the default server vhost](http://mdwardlab.com/)
 >
 >This site's domain name is either not yet pointed or is still propagating. Propagation may take up to 72 hours. Please check back later.
-

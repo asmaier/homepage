@@ -1,21 +1,31 @@
 ---
-title: 'Es gibt ja immer einige ...'
+title: Es gibt ja immer einige ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-22
-lastmod: 2022-08-22T23:14:05+02:00
+lastmod: 2022-08-22 23:14:05+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- sanktionen
+- atomkraft
+- energieversorgung
+- uran
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Es gibt ja immer einige Schlauberger die angesichts des russischen Gaskrieges jetzt unken, wir sollten die Atomkraftwerke nicht abschalten. Leider übersehen sie dabei etwas ganz wichtiges: Große Teile des Urans für die Atomkraftwerke kommt ebenfalls aus Russland. 
 
 "Europa bezieht Daten der EU-Kommission zufolge rund 20 Prozent seines Urans aus Russland und weitere 20 Prozent aus Kasachstan. Euratom zufolge können europaweit 18 Atomkraftwerke ausschließlich mit Uran aus russischer Produktion betrieben werden, etwa in Tschechien und Ungarn."
@@ -32,4 +42,3 @@ https://www.handelsblatt.com/politik/international/nuklearenergie-nochmal-abhaen
 > ## [Nuklearenergie: Nochmal abhängig: USA und Europa suchen Alternativen für russisches Uran](https://www.handelsblatt.com/politik/international/nuklearenergie-nochmal-abhaengig-usa-und-europa-suchen-alternativen-fuer-russisches-uran/28604804.html)
 >
 >Die US-Regierung möchte die Nutzung russischen Urans über neue Lieferanten und die Produktion zu Hause langfristig beenden. Doch der Aufbau einer unabhängigen Versorgung könnte Jahre dauern.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Warum gehst du nicht ins ...'
+title: Warum gehst du nicht ins ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-02-12
-lastmod: 2023-02-12T13:31:06+01:00
+lastmod: 2023-02-12 13:31:06+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- sozialversicherung in deutschland und den usa
+- kündigungsschutz in deutschland und den usa
+- arbeitsbedingungen in den usa
+- kinderbetreuung in deutschland und den usa
+- it-berufe
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Warum gehst du nicht ins Silicon Valley? Warum arbeitest du nicht für Google, Facebook oder Amazon? Die bezahlen doch das Doppelte. Das hört man gerade wenn man in der IT arbeitet sehr häufig. 
 
 Das Gras auf der anderen Seite des Atlantik ist aber keinesfalls grüner:
@@ -37,4 +47,3 @@ P.S.: Natürlich ist in Deutschland auch nicht alles gut. Aber ich finde es trot
 > ## [Kommentar zu US-Entlassungen: Wenn Menschenverachtung zur Normalität wird](https://www.heise.de/meinung/Kommentar-zu-US-Entlassungen-Wenn-Menschenverachtung-zur-Normalitaet-wird-7492720.html)
 >
 >US-Konzerne entledigen sich menschenverachtend ihrer Mitarbeiter – und zum Überdruss wünschen sich manche deutsche Chefs und Politiker glatt dasselbe.
-

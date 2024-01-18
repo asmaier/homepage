@@ -1,21 +1,31 @@
 ---
-title: 'Rezos Finale! Pflichtvideo! Unbedingt anschauen. ...'
+title: Rezos Finale! Pflichtvideo! Unbedingt anschauen. ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-09-19
-lastmod: 2021-09-19T20:06:22+02:00
+lastmod: 2021-09-19 20:06:22+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- wahl
+- cdu
+- korruption
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Rezos Finale! Pflichtvideo! Unbedingt anschauen. 
 
 Kurz gesagt: GroKo = Große Korruption!
@@ -26,4 +36,3 @@ Deswegen solltet ihr auch nicht die SPD oder den Scholz wählen. Ich traue ihnen
 > ## [Zerstörung FINALE: Korruption](https://www.youtube.com/watch?v=3Ya7pEDndgE)
 >
 >► Quellen: https://docs.google.com/document/d/1oS9_sbV1rECMrp5SemZWse1iGOc0iqdrYVM20gJrZ0w/edit?usp=sharing► FOLGT MIRTwitch: https://www.twitch.tv/rezoTik T...
-

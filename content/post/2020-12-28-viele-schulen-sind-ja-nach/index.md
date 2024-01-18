@@ -1,21 +1,31 @@
 ---
-title: 'Viele Schulen sind ja nach ...'
+title: Viele Schulen sind ja nach ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-12-28
-lastmod: 2020-12-28T20:09:16+01:00
+lastmod: 2020-12-28 20:09:16+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schul-cloud
+- software
+- microsoft teams
+- datenschutz
+- online-bildung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Viele Schulen sind ja nach wie vor völlig ahnungslos im Neuland unterwegs. Da wird ohne Not Microsoft Teams und Office 365 oder gar Zoom eingesetzt, obwohl das nach deutschem Datenschutzrecht illegal ist. 
 Typisch deutsch(?) daran ist, dass die Behörden zwar völlig überfordert sind, Schulen rechtzeitig die notwendige Infrastruktur bereitzustellen, aber gleichzeitig sind sie sehr schnell dabei, die Schulen wegen Datenschutzverstößen abzumahnen:
 
@@ -37,4 +47,3 @@ P.S.: Noch mehr Infos gibt es wie immer in der Wikipedia (https://de.wikipedia.o
 > ## [dBildungscloud](https://hpi-schul-cloud.de/)
 >
 >Diese Seite konnte nicht geladen werden
-

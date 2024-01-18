@@ -1,21 +1,31 @@
 ---
-title: 'Herr Drosten teilt wieder ein ...'
+title: Herr Drosten teilt wieder ein ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-03-20
-lastmod: 2020-03-20T23:22:42+01:00
+lastmod: 2020-03-20 23:22:42+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- virologie
+- medizin
+- christian drosten
+- pandemie
+- impfstoffentwicklung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Herr Drosten teilt wieder ein paar interessante Gedanken:
 
 "ZEIT ONLINE: Italien steht offenbar kurz davor, Behandlungsversuche mit dem Plasma von Menschen zu starten, die die Infektion überstanden haben.
@@ -28,4 +38,3 @@ Das wäre dann praktisch ein Bio-Impfstoff direkt "gemolken" von jungen wieder g
 > ## [Christian Drosten: "Wir müssen jetzt die Fälle senken. Sonst schaffen wir es nicht"](https://www.zeit.de/wissen/gesundheit/2020-03/christian-drosten-coronavirus-pandemie-deutschland-virologe-charite)
 >
 >Der Virologe Christian Drosten leitet Deutschland durch die Pandemie. Ein Gespräch über Ausgangssperren, die Dauer der Krise – und wie sie unser Leben verändert.
-

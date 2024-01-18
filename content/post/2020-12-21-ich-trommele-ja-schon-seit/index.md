@@ -1,21 +1,31 @@
 ---
-title: 'Ich trommele ja schon seit ...'
+title: Ich trommele ja schon seit ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-12-21
-lastmod: 2020-12-21T23:26:17+01:00
+lastmod: 2020-12-21 23:26:17+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wolfgang schäuble
+- demarchy
+- parliamentarism
+- bürgerräte
+- random selection of politicians
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ich trommele ja schon seit Jahren für die Idee der Demarchie, das heißt Parlamentarier sollten nicht gewählt, sondern ausgelost werden. So war das bei den Erfindern der Demokratie im alten Griechenland:
 
 https://www.facebook.com/andreas.maier.754918/posts/329620680419868
@@ -41,4 +51,3 @@ https://www.sueddeutsche.de/politik/werkstatt-demokratie-wir-machen-das-1.513290
 > ## [Bürgerräte: Demokratie ist machbar, Herr Nachbar!](https://www.zeit.de/politik/2020-10/buergerraete-demokratie-buergerbeteiligung-parlamentarisch-wolfgang-schaeuble-legitimationskrise-misstrauen-politikverdrossenheit/komplettansicht)
 >
 >Überall auf der Welt fühlen sich Bürger von den Regierenden nicht verstanden und vertreten. Die Lösung könnte eine neue, alte Idee sein: ausgeloste Bürgerräte.
-

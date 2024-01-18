@@ -2,20 +2,30 @@
 title: '"Auf Lauters Vorschlag hin fügten ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-11-09
-lastmod: 2019-11-09T20:56:15+01:00
+lastmod: 2019-11-09 20:56:15+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- gerhard lauter
+- berliner mauer
+- mauerfall
+- '1989'
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Auf Lauters Vorschlag hin fügten sie mitten in die Regelung der „ständigen Ausreise“ den Absatz ein, der später Grundlage für den Mauerfall sein würde:
 
 „Privatreisen nach dem Ausland können ohne Vorliegen von Voraussetzungen (Reiseanlässe und Verwandtschaftsverhältnisse) beantragt werden. Die Genehmigungen werden kurzfristig erteilt. Versagungsgründe werden nur in besonderen Ausnahmefällen angewandt.“
@@ -27,4 +37,3 @@ Gerhard Lauter ist also der unfreiwillige Held, der den Mauerfall herbeigeführt
 > de.wikipedia.org
 > ## [Gerhard Lauter – Wikipedia](https://de.wikipedia.org/wiki/Gerhard_Lauter)
 >
-

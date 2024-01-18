@@ -1,21 +1,31 @@
 ---
-title: 'Man sagt mir, ich sei ...'
+title: Man sagt mir, ich sei ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-03-24
-lastmod: 2020-03-24T23:26:18+01:00
+lastmod: 2020-03-24 23:26:18+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- favipiravir
+- covid-19
+- medicine
+- japanese drugs
+- antiviral agents
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- english
 ---
+
 Man sagt mir, ich sei gut im Googeln. Also habe ich mal Gebrauch von dieser Fähigkeit gemacht und euch ein Heilmittel für Corona gegoogelt: 
 Ein japanisches Medikament gegen Viren scheint nämlich gegen das Coronavirus zu helfen.
 
@@ -41,5 +51,3 @@ https://en.wikipedia.org/wiki/Favipiravir#Coronavirus_disease_2019_(COVID-19)
 > ## [Favipiravir - Wikipedia](https://en.wikipedia.org/wiki/Favipiravir#Coronavirus_disease_2019_(COVID-19))
 >
 >
-
-

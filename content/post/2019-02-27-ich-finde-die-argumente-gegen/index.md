@@ -1,21 +1,31 @@
 ---
-title: 'Ich finde die Argumente gegen ...'
+title: Ich finde die Argumente gegen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-02-27
-lastmod: 2019-02-27T18:26:23+01:00
+lastmod: 2019-02-27 18:26:23+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- vermögensungleichheit
+- steuerpolitik
+- einkommenssteuer
+- sozialpolitik
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ich finde die Argumente gegen eine (Super-)Reichensteuer in Deutschland nicht überzeugend. Gerade in Deutschland ist die Vermögensungleichheit extrem: http://www.spiegel.de/wirtschaft/soziales/vermoegen-45-superreiche-besitzen-so-viel-wie-die-halbe-deutsche-bevoelkerung-a-1189111.html
 
 Z.B. könnte man die Einkommenssteuer and das bereits vorhandenen Vermögen koppeln. Wer ein hohes Vermögen hat, der zahlt auch eine hohe Einkommenssteuer. Dass würde dem "Wer hat, dem wird gegeben"- Effekt entgegenwirken und die Vermögenskonzentration langsam reduzieren.
@@ -26,4 +36,3 @@ Egal wie, klar ist, dass der Staat gegensteuern muß! Ansonsten wird es irgendwa
 > ## [Deutschland: Steuer für Superreiche könnte 18 Milliarden Euro bringen](http://www.spiegel.de/wirtschaft/soziales/deutschland-steuer-fuer-superreiche-koennte-18-milliarden-euro-bringen-a-1254964.html)
 >
 >In den USA wird sie heiß diskutiert: Eine Steuer auf Vermögen von mehr als 50 Millionen Dollar. In Deutschland könnte sie laut DIW mehr einbringen als der Soli. Doch es gibt einen Haken.
-

@@ -2,20 +2,30 @@
 title: '"Bundesrat, Pressemitteilung vom 07.06.2013 Die ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-06-30
-lastmod: 2013-06-30T14:14:40+02:00
+lastmod: 2013-06-30 14:14:40+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- mieter
+- immobilienmakler
+- bestellerprinzip
+- wohnungsvermittlung
+- vermieter
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 "Bundesrat, Pressemitteilung vom 07.06.2013
 Die Länder wollen mit einem am 07.06.2013 beschlossenen Gesetzentwurf dafür sorgen, dass die Maklerprovision im Bereich der Wohnungsvermittlung zukünftig nach dem Bestellerprinzip zu tragen ist. Damit müssten nur noch diejenigen Wohnungssuchenden die Courtage zahlen, die den Makler selbst beauftragt haben." (http://www.datev.de/portal/ShowPage.do?pid=dpi&nid=150887)
 
@@ -29,4 +39,3 @@ P.S.: In den angloamerikanischen Ländern ist das schon lange üblich, siehe htt
 > ## [Das Bestellerprinzip bei Immobilien: Ein Segen für den Verbraucher](http://www.experto.de/verbraucher/immobilien/immobilienrecht/das-bestellerprinzip-bei-immobilien-ein-segen-fuer-den-verbraucher.html)
 >
 >Derzeit ist es ja bekanntlich so, dass gerade in der Wohnraumvermittlung in den meisten Fällen der Mieter die Maklergebühren zu
-

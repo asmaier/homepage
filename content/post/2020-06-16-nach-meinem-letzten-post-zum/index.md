@@ -1,21 +1,31 @@
 ---
-title: 'Nach meinem letzten Post zum ...'
+title: Nach meinem letzten Post zum ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-06-16
-lastmod: 2020-06-16T21:30:23+02:00
+lastmod: 2020-06-16 21:30:23+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- physikalische chemie
+- chemie
+- bier
+- fermentation
+- biochemie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Nach meinem letzten Post zum Thema Fußball passend dazu der ultimative Artikel zum Thema Bier. Der Artikel unten dürfte der ausführlichste populärwissenschaftliche Artikel zum Thema sein.  Wenn ihr den gelesen habt könnt ihr in Zukunft mit Sprüchen angeben wie z.B.:
 
 - Röstaromen und dunkle Farbe stammen fast vollständig aus den Maillard-Reaktionen beim Darren oder Rösten.
@@ -39,4 +49,3 @@ Na dann, Prost!
 > ## [Brauereien: Was den Geschmack von Bier bestimmt](https://www.spektrum.de/news/wie-koennen-brauereien-aus-so-wenigen-zutaten-so-viele-biersorten-herstellen/1656728)
 >
 >Hopfen, Hefe und Hirn beeinflussen das Getränk - und sogar Musik
-

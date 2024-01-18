@@ -1,21 +1,31 @@
 ---
-title: 'Der Artikel klang eigentlich sehr ...'
+title: Der Artikel klang eigentlich sehr ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-09-22
-lastmod: 2022-09-22T23:35:20+02:00
+lastmod: 2022-09-22 23:35:20+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- demokratisierung
+- militärputsch
+- mobilisierung
+- russland
+- bürgerkrieg
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Der Artikel klang eigentlich sehr realistisch für mich, bevor Russland die allgemeine Mobilisierung angekündigt hat. Und nicht jeder Militärputsch verschlimmert die Zustände. es gab auch einige die zu einer Demokratisierung geführt haben, z.B.
 
 - https://de.wikipedia.org/wiki/Milit%C3%A4rputsch_in_der_T%C3%BCrkei_1960
@@ -31,4 +41,3 @@ P.S.: Die Mobilmachung betrifft in Russland natürlich vorwiegend die ärmste Be
 > ## [Analyst: Generals most likely to overthrow Russian regime](https://news.err.ee/1608718480/analyst-generals-most-likely-to-overthrow-russian-regime)
 >
 >If there is to be a change of regime in Russia, it will most likely come in the form of a military coup, analyst of Russian politics Vladimir Juškin says. But it will take decades for the imperial mindset to disappear in Russia.
-

@@ -1,20 +1,29 @@
 ---
-title: 'Die Medien der Reichen verraten ...'
+title: Die Medien der Reichen verraten ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-08-27
-lastmod: 2019-08-27T10:58:29+02:00
+lastmod: 2019-08-27 10:58:29+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- medien
+- überschriften
+- reichtum
+- kunst
+- wikipedia
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
-Die Medien der Reichen verraten sich hier an ihren Überschriften.
 
+Die Medien der Reichen verraten sich hier an ihren Überschriften.

@@ -2,20 +2,30 @@
 title: '"Die genaue Analyse seiner Flugbahn ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-06-28
-lastmod: 2018-06-28T13:46:34+02:00
+lastmod: 2018-06-28 13:46:34+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- astrophysics
+- space exploration
+- comets
+- interstellar objects
+- extraterrestrial objects
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 "Die genaue Analyse seiner Flugbahn zeigt nun jedoch eindeutige Abweichungen von der reinen Schwerkraftbahn eines Asteroiden. 'Oumuamua müsse einen zusätzlichen Antrieb gehabt haben, schreiben die Forscher."
 
 Ein Objekt aus einem anderen Sonnensystem mit zusätzlichem Antrieb? Was könnte das wohl sein?
@@ -26,4 +36,3 @@ https://www.heise.de/newsticker/meldung/Flugbahn-Analyse-Interstellarer-Oumuamua
 > ## [Flugbahn-Analyse: Interstellarer 'Oumuamua ist ein Komet, kein Asteroid](https://www.heise.de/newsticker/meldung/Flugbahn-Analyse-Interstellarer-Oumuamua-ist-ein-Komet-kein-Asteroid-4093704.html)
 >
 >Bisher wurde 'Oumuamua als Asteroid eingestuft. Forscher haben nun herausgefunden, dass es sich um einen Kometen handeln könnte – auch wenn der Schweif fehlt.
-

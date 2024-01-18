@@ -1,21 +1,31 @@
 ---
-title: 'Russlands Experten weisen darauf hin, ...'
+title: Russlands Experten weisen darauf hin, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-09-26
-lastmod: 2013-09-26T10:56:31+02:00
+lastmod: 2013-09-26 10:56:31+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wahlen in deutschland
+- transparenz in der politik
+- deutsche parlamentswahlen 2013
+- politische parteien in deutschland
+- finanzierung von wahlkampagnen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Russlands Experten weisen darauf hin, dass die Wahl in Deutschland den Wahlstandards des Europarates und der OSZE nicht voll und ganz entspricht. Nach Auffassung von Politologen bedarf die Wahlgesetzgebung der Bundesrepublik Deutschland einer ernst zu nehmenden Vervollständigung.
 
 """
@@ -25,4 +35,3 @@ Die Wähler erfahren, für wessen Geld die Wahlkampagne dieser oder jener Partei
 
 Da kann man den Russlands Experten nur recht geben.
 > http://german.ruvr.ru/2013_09_23/Russlands-Experten-uber-die-Wahl-in-Deutschland-3128/
-

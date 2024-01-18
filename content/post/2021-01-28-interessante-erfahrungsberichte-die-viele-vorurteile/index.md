@@ -1,21 +1,31 @@
 ---
-title: 'Interessante Erfahrungsberichte die viele Vorurteile ...'
+title: Interessante Erfahrungsberichte die viele Vorurteile ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-01-28
-lastmod: 2021-01-28T22:26:13+01:00
+lastmod: 2021-01-28 22:26:13+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- erfahrungsberichte
+- vorurteile
+- elektromobilität
+- privatladestationen
+- t3n
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Interessante Erfahrungsberichte die viele Vorurteile gegen Elektromobilität widerlegen:
 
 https://t3n.de/news/elektromobilitaet-ohne-private-ladestation-1351108/
@@ -24,4 +34,3 @@ https://t3n.de/news/elektromobilitaet-ohne-private-ladestation-1351108/
 > ## [Elektromobilität ohne private Ladestation: 12 Erfahrungsberichte](https://t3n.de/news/elektromobilitaet-ohne-private-ladestation-1351108/)
 >
 >Häufig heißt es, Elektromobilität sei nur für diejenigen eine Option, die eine private Ladestation haben. Wir haben uns bei Besitzer:innen umgehört.
-

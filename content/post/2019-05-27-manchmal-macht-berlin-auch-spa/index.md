@@ -1,21 +1,31 @@
 ---
-title: 'Manchmal macht Berlin auch Spaß, ...'
+title: Manchmal macht Berlin auch Spaß, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-27
-lastmod: 2019-05-27T22:10:33+02:00
+lastmod: 2019-05-27 22:10:33+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- friedrichhain-kreuzberg
+- berlin
+- wahlen
+- europawahl
+- partei
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Manchmal macht Berlin auch Spaß, z.B. wenn man die Wahlergebnisse zur Europawahl in Friedrichhain-Kreuzberg sieht:
 
 Dort hat die PARTEI fast 9% und ist viertstärkste Kraft. Sie liegt damit vor(!) der CDU, die nur auf 5,7% kommt. Die Grünen kommen auf gewaltige 40%.
@@ -40,4 +50,3 @@ Zusätzlich können zwischen Gleisdreieck und Wittenbergplatz die U2 und zwisch
 Die gleichen Einschränkungen gelten vom 3. Januar bis 25. April 2024. 
 
 Ausgenommen sind 7. März, 28. März und 31. März.
-

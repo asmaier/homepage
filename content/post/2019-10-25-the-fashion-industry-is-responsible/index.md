@@ -2,20 +2,30 @@
 title: '"The fashion industry is responsible ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-25
-lastmod: 2019-10-25T23:13:25+02:00
+lastmod: 2019-10-25 23:13:25+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- textilindustrie
+- klimawandel
+- meeresverschmutzung
+- fast fashion
+- umweltauswirkungen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- english
 ---
+
 "The fashion industry is responsible for 10% of humanity's carbon emissions."
 
 "If the fashion sector continues on its current trajectory, that share of the carbon budget could jump to 26% by 2050"
@@ -30,4 +40,3 @@ slug: ''
 
 Fast Fashion ist ungefähr so gesund für unseren Planeten wie Fast Food für uns. Und Zara und H&M sind wie McDonalds und BurgerKing. Würdet ihr eure Kleidung bei McDonalds kaufen?
 > https://www.businessinsider.de/fast-fashion-environmental-impact-pollution-emissions-waste-water-2019-10
-

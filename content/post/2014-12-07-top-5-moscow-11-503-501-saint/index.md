@@ -2,20 +2,30 @@
 title: 'Top 5: Moscow: 11,503,501 Saint ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-12-07
-lastmod: 2014-12-07T15:50:19+01:00
+lastmod: 2014-12-07 15:50:19+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- population
+- towns
+- cities
+- russia
+- list of cities and towns in russia by population
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- english
 ---
+
 Top 5:
 Moscow:	11,503,501
 Saint Petersburg: 4,879,566
@@ -27,5 +37,3 @@ Nizhny Novgorod: 1,250,619
 > ## [List of cities and towns in Russia by population - Wikipedia](http://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Russia_by_population)
 >
 >
-
-

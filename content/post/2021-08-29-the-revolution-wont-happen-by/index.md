@@ -2,20 +2,30 @@
 title: '"The revolution won’t happen by ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-08-29
-lastmod: 2021-08-29T16:34:42+02:00
+lastmod: 2021-08-29 16:34:42+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ölindustrie
+- treibhausgasemissionen
+- justiz
+- klimawandel
+- advertising
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "The revolution won’t happen by people staying home and being good."
 
 "But the oil companies would like you to think that’s how it works. It turns out that the concept of the “carbon footprint”, that popular measure of personal impact, was the brainchild of an advertising firm working for BP."
@@ -36,4 +46,3 @@ Es gibt nur 100 Firmen auf der Welt, welche für 75% der Treibhausgase verantwor
 > ## [Big oil coined ‘carbon footprints’ to blame us for their greed. Keep them on the hook | Rebecca Solnit](https://www.theguardian.com/commentisfree/2021/aug/23/big-oil-coined-carbon-footprints-to-blame-us-for-their-greed-keep-them-on-the-hook)
 >
 >Climate-conscious individual choices are good – but not nearly enough to save the planet. More than personal virtue, we need collective action
-

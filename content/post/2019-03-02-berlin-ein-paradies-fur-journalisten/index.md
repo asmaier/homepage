@@ -1,21 +1,31 @@
 ---
-title: 'Berlin, ein Paradies für Journalisten, ...'
+title: Berlin, ein Paradies für Journalisten, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-03-02
-lastmod: 2019-03-02T22:27:51+01:00
+lastmod: 2019-03-02 22:27:51+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schulen
+- berlin
+- kita
+- universitäten
+- personalnot
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Berlin, ein Paradies für Journalisten, denn es gibt Mißstände wohin man schaut:
 
 "Es sei dem Träger vor allem um Profit gegangen. In der Ausbauphase habe man die Kita überbelegt. Der Druck auf das Personal sei enorm gewesen, die Bezahlung unter Tarif."
@@ -32,4 +42,3 @@ https://www.morgenpost.de/bezirke/tempelhof-schoeneberg/article216332553/Persona
 > ## [Personalnot: Jedes zweite Kind in Kita in Berlin Tempelhof gekündigt](https://www.morgenpost.de/bezirke/tempelhof-schoeneberg/article216332553/Personalnot-Jedes-zweite-Kind-in-Kita-gekuendigt.html)
 >
 >Eine Einrichtung in Berlin Tempelhof begründet die Kündigungen mit Personalnot. Der Fall sei einmalig, erklärt die Senatsverwaltung.
-

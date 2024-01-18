@@ -1,21 +1,31 @@
 ---
-title: 'Das wird aber auch endlich ...'
+title: Das wird aber auch endlich ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-01-11
-lastmod: 2023-01-11T22:25:26+01:00
+lastmod: 2023-01-11 22:25:26+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technikgesetze
+- steckdosenanschlüsse
+- balkonkraftwerke
+- eu-richtlinie
+- vde
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Das wird aber auch endlich mal Zeit, dass die VDE sich jetzt endlich an die EU-Richtline von 2016 halten möchte. Ich meine, wenn man 7 Jahre langsamer als die EU ist, dann ist man doch bereits scheintod. Allerdings könnten es auch noch 8 oder mehr Jahre werden, denn
 
 "Um die Forderungen des Verband der Elektrotechnik, Elektronik und Informationstechnikum (VDE) unzusetzen, müssen mehrere Gesetze, Verordnungen und Normen geändert werden."
@@ -26,4 +36,3 @@ Warum zur Hölle werden in Deutschland Gesetze gemacht um Steckdosenanschlüsse 
 > ## [Paukenschlag: VDE fordert vereinfachte Regeln für Balkonkraftwerke](https://www.heise.de/news/Paukenschlag-VDE-fordert-vereinfachte-Regeln-fuer-Balkonkraftwerke-7455398.html)
 >
 >Bis zu 800 Watt, Schukostecker, rückdrehende Zähler und einfache Anmeldung: Der VDE will die Regularien für Balkonkraftwerke komplett umkrempeln.
-

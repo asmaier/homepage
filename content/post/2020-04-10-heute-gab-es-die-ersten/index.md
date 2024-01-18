@@ -1,21 +1,31 @@
 ---
-title: 'Heute gab es die ersten ...'
+title: Heute gab es die ersten ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-10
-lastmod: 2020-04-10T00:07:28+02:00
+lastmod: 2020-04-10 00:07:28+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- covid-19
+- studie
+- infektionsrate
+- bevölkerung
+- coronavirus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Heute gab es die ersten Ergebnisse der Studie, welche stichprobenartig die Infektionsrate der Bevölkerung mit Corona in Gangelt, Kreis Heinsberg untersucht hat (https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0). Bisher wurden ca. 500 zufällig ausgewählte Personen von 12.529 untersucht. Das Ergebnis: 15% waren bereits bzw. sind gerade mit Corona infiziert. 0,37% sind daran gestorben. 
 
 Die Zahl 0.37% passt sehr gut zu der Abschätzung aus http://www.rwi-essen.de/unstatistik/101/ , wo für das Kreuzfahrtschiff „Diamond Princess“ eine Letalität von 0.5 +/- 0.25% errechnet wurde. Die Wissenschaft scheint sich also langsam auf einen Letalitätswert von 0.4-0.5% zu einigen.
@@ -32,4 +42,3 @@ Aber wenn wir mal annehmen, das 0.4% tatsächlich die Letalität ist, dann sollt
 > ## [Übergabe erster Ergebnisse des Forschungsprojekts „Covid-19 Case-Cluster-Study“ an die Landesregierung | Land.NRW](https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0)
 >
 >Ministerpräsident Armin Laschet hat die ersten Zwischenergebnisse des laufenden Forschungsprojekts „Covid-19 Case-Cluster-Study“ entgegengenommen. Das einzigartige Corona-Forschungsprojekt zum Infektionsgeschehen des Corona-Virus führt der renommierte Virologe Prof. Dr. Hendrik Streeck, Direktor des Instituts für Virologie am Universitätsklinikum Bonn, mit Unterstützung der Landesregierung derzeit im Landkreis Heinsberg durch.
-

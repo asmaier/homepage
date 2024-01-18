@@ -1,21 +1,31 @@
 ---
-title: 'Von Schweden lernen heißt Mut ...'
+title: Von Schweden lernen heißt Mut ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-07
-lastmod: 2019-10-07T15:01:52+02:00
+lastmod: 2019-10-07 15:01:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- umwelt
+- steuern
+- klimawandel
+- schweden
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Von Schweden lernen heißt Mut lernen. Mut zur Veränderung.
 
 P.S.: Die Klimakosten einer Tonne CO2 werden auf 180 Euro geschätzt (https://www.umweltbundesamt.de/presse/pressemitteilungen/hohe-kosten-durch-unterlassenen-umweltschutz). Somit ist Schwedens Steuer zwar schon hoch, aber immer noch nicht hoch genug.
@@ -24,4 +34,3 @@ P.S.: Die Klimakosten einer Tonne CO2 werden auf 180 Euro geschätzt (https://ww
 > ## [Internationale Nachrichten aus aller Welt](https://www.tagesschau.de/ausland/weltspiegel-schweden-cozwei-101.html)
 >
 >Überblick zu Hintergründen, Analysen und Interviews bei tagesschau.de - die erste Adresse für Nachrichten und umfassende Berichte zu aktuellen Themen.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Wer mal lesen möchte, wie ...'
+title: Wer mal lesen möchte, wie ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-10-27
-lastmod: 2013-10-27T21:51:39+01:00
+lastmod: 2013-10-27 21:51:39+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- legislation
+- germany
+- lobbying
+- real estate industry
+- buyer brokerage
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Wer mal lesen möchte, wie Lobbyisten so vorgehen und wie stolz sie darauf sind, wichtige Gesetze zu verzögern lese hier (unter Kommentare):
 
 http://blog.ivd.net/2013/05/bestellerprinzip-ist-fur-diese-legislaturperiode-vom-tisch
@@ -26,4 +36,3 @@ Der Beschluss im Plenum des Bundesrates war nur die formelle Folge aus den Aussc
 Hier sieht man, wie eine Minderheit (IVD hat laut Wikipedia genau 6000 Mitglieder), Einfluß auf unsere Gesetzgebung nimmt. Sie schreiben jedes Ausschussmitglied (37 Parlamentarier) an und beeinflussen so deren Meinung. Wegen solcher Lobbyverbände werden die Mieter in Deutschland weiterhin Maklergebühren für nichts zahlen, obwohl in anderen Ländern das Bestellerprinzip absolut normal ist: http://en.wikipedia.org/wiki/Buyer%27s_agent
 Vielen Dank!
 > http://blog.ivd.net/2013/05/bestellerprinzip-ist-fur-diese-legislaturperiode-vom-tisch
-

@@ -1,21 +1,31 @@
 ---
-title: 'Eigentlich wollte ich etwas Optimistisches ...'
+title: Eigentlich wollte ich etwas Optimistisches ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-18
-lastmod: 2022-02-18T22:32:40+01:00
+lastmod: 2022-02-18 22:32:40+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- luhansk
+- ukrainisch-russischer konflikt
+- donezk
+- evakuierung von zivilisten
+- russische annexion der krim
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Eigentlich wollte ich etwas Optimistisches zum Thema Ukraine schreiben, aber die russische Regierung macht es einem echt schwer.
 
 Ich frage mich, wenn sie jetzt die Zivilisten nach Russland evakuieren, dann kann Russland doch Donezk und Luhansk an die Ukraine zurückgeben, denn es gibt ja dann keine russische Bevölkerung mehr dort, die den "russischen Schutz" benötigen würde. 
@@ -28,4 +38,3 @@ https://www.tagesschau.de/ausland/europa/ukraine-separatisten-usa-101.html
 > ## [Aktuelle Nachrichten aus Europa](https://www.tagesschau.de/ausland/europa/ukraine-separatisten-usa-101.html)
 >
 >Überblick zu Hintergründen, Analysen und Interviews bei tagesschau.de - die erste Adresse für Nachrichten und umfassende Berichte zu aktuellen Themen.
-

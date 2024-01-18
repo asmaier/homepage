@@ -1,21 +1,31 @@
 ---
-title: 'Mann, Deutsche Bahn! Was seid ...'
+title: Mann, Deutsche Bahn! Was seid ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-04-05
-lastmod: 2022-04-05T21:56:31+02:00
+lastmod: 2022-04-05 21:56:31+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bauarbeiten
+- osterferien
+- fahrpläne
+- bahnverkehr
+- deutsche bahn
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Mann, Deutsche Bahn! Was seid ihr nur für eine Gurkentruppe?Glaubt ihr wirklich es ist eine gute Idee ausgerechnet am ersten Wochenende der Osterferien (die einzigen Schulferien die Deutschlandweit gleich sind) Bauarbeiten auf eurer Schnellstrecke zwischen Berlin und München zu machen?
 
 Und wenn ihr schon den Halt in Coburg komplett streicht vom 8. bis 15. April, könnt ihr diese Information nicht in euer Buchungssystem übernehmen? 
@@ -34,4 +44,3 @@ Wann lässt die Bahn ihre IT endlich mal von Profis machen? Oder dient das alles
 > bauinfos.deutschebahn.com
 > ## [Baubedingte Fahrplanänderungen | Deutsche Bahn AG](https://bauinfos.deutschebahn.com/lf/ba_bamberg-nuernberg_08-15042022.pdf)
 >
-

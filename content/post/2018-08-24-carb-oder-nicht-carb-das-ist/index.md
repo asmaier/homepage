@@ -1,20 +1,29 @@
 ---
-title: 'Carb oder nicht-carb, das ist ...'
+title: Carb oder nicht-carb, das ist ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-08-24
-lastmod: 2018-08-24T09:56:37+02:00
+lastmod: 2018-08-24 09:56:37+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- diät
+- glykämische index
+- nahrungsmittel
+- diabetes
+- ernährung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
-Carb oder nicht-carb, das ist hier die Frage!
 
+Carb oder nicht-carb, das ist hier die Frage!

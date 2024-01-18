@@ -1,21 +1,31 @@
 ---
-title: 'Der Artikel verdient es geteilt ...'
+title: Der Artikel verdient es geteilt ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-08
-lastmod: 2020-04-08T16:09:50+02:00
+lastmod: 2020-04-08 16:09:50+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- impfstoff
+- gesundheitspolitik
+- pandemie
+- coronavirus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Der Artikel verdient es geteilt zu werden. Einer der wenigen Lichtblicke im Dunkel der Nachrichtenlage. 
 
 "Wir werden der bitteren Wirklichkeit ins Auge blicken müssen, Menschenleben mit Freiheit aufzurechnen – wie wir es bei der saisonalen Influenza im kollektiven Unterbewusstsein schon bisher taten. Tausende Grippetote haben wir bisher Jahr für Jahr verschmerzt, gänzlich ohne Whatsapp-Videos, die uns zum Händewaschen animieren, ohne #bleibdaheim-Parolen von Netzbetreibern und Fernsehsendern, ohne Masken im Supermarkt und ohne uns impfen zu lassen. Obwohl wir den Impfstoff von der Apotheke ums Eck nur zum Hausarzt hätten tragen müssen. Vielleicht lehrt uns Corona vor dem kommenden Winter zumindest das. "
@@ -24,4 +34,3 @@ Der Artikel verdient es geteilt zu werden. Einer der wenigen Lichtblicke im Dunk
 > ## [Bei den Corona-Zahlen stehen alle im Dunkeln](https://www.derstandard.at/story/2000116399653/bei-den-corona-zahlen-stehen-alle-im-dunkeln)
 >
 >Daten zu Corona-Infektionen, Todesfällen und Ausbreitung sind durchwegs unzuverlässig. Das stürzt die Politik in ein Dilemma, denn sie muss auf Basis solcher Zahlen handeln
-

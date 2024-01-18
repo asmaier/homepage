@@ -1,21 +1,31 @@
 ---
-title: 'Was gibts neues zu Corona? ...'
+title: Was gibts neues zu Corona? ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-16
-lastmod: 2020-04-16T22:15:59+02:00
+lastmod: 2020-04-16 22:15:59+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- infektionsfälle
+- deutschland
+- covid-19-pandemie in deutschland
+- coronavirus-pandemie
+- weltweit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Was gibts neues zu Corona? Ich teile hier einfach mal, welche Zahlen ich mir hier jeden Tag so angeschaut habe:
 
 1. https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
@@ -40,4 +50,3 @@ Das heißt für mich vor allem, dass man Lockerungen am Besten zuerst in anderen
 > ## [Alarmierende Covid-19-Modellrechnungen: Zehn Tage nach Schulöffnung schnellen die Patientenzahlen hoch](https://www.tagesspiegel.de/wissen/alarmierende-covid-19-modellrechnungen-zehn-tage-nach-schuloeffnung-schnellen-die-patientenzahlen-hoch/25741744.html)
 >
 >Was passiert, wenn verschiedene Maßnahmen in der Coronakrise getroffen oder aufgehoben werden? Ein Modell der TU Berlin simuliert, wie sich dann Covid-19 in der Bevölkerung ausbreitet.
-

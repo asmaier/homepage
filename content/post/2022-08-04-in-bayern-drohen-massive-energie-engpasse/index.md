@@ -2,20 +2,30 @@
 title: '"In Bayern drohen massive Energie-Engpässe, ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-04
-lastmod: 2022-08-04T17:06:20+02:00
+lastmod: 2022-08-04 17:06:20+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bayern
+- energieversorgung
+- solartechnik
+- erneuerbare energien
+- strompreise
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "In Bayern drohen massive Energie-Engpässe, weil die Staatsregierung Gaskraftwerke statt Windräder gebaut und gleichzeitig neue Stromtrassen bekämpft hat."
 
 Ich denke nicht, dass das zu Engpässen führen muß. Die Preise für Strom werden nur furchtbar steigen. Aber Bayern ist wahrscheinlich reich genug, vergoldetes Erdgas aus Norwegen zur Stromversorgung zu verbrennen. 
@@ -25,4 +35,3 @@ Und wenn der Winter sonnig wird, ist alles halb so schlimm. Denn Bayern ist tats
 > ## [ - YouTube](https://www.youtube.com/watch?v=Zcf7KyikWZA)
 >
 >Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
-

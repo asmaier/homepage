@@ -1,25 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2005-01-01"
+date: '2005-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-09-27T21:15:14+02:00"
+lastmod: '2019-09-27T21:15:14+02:00'
 projects: []
 slug: konvertieren
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags:
-- computer
+- dateiformate
+- software
+- bildbearbeitung
+- informatik
 - linux
+- multimedia
+- computer
 categories:
 - old_website
-- deutsch
 title: Konvertieren
+year: '2005'
+languages:
+- deutsch
 ---
+
 <ul>
 <li><em>Umwandeln von PDF-Dateien in PS-Dateien:</em><br />
 Manche PDF-Dateien lassen sich nicht mit <tt>lpr</tt> ausdrucken lassen.

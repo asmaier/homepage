@@ -1,21 +1,31 @@
 ---
-title: 'Die Lärmkarte für Berlin wurde ...'
+title: Die Lärmkarte für Berlin wurde ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-03-05
-lastmod: 2018-03-05T14:17:34+01:00
+lastmod: 2018-03-05 14:17:34+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- urban planning
+- city maps
+- environmental health
+- interactive maps
+- noise pollution
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Die Lärmkarte für Berlin wurde mit neuen Daten von 2017 aktualisiert:
 https://interaktiv.morgenpost.de/laermkarte-berlin/
 Und jetzt funktioniert auch wieder die Adresssuche.
@@ -24,4 +34,3 @@ Und jetzt funktioniert auch wieder die Adresssuche.
 > ## [Lärmkarte Berlin 2018 – So laut ist es vor Ihrer Haustür](https://interaktiv.morgenpost.de/laermkarte-berlin/)
 >
 >Die interaktive Karte der Berliner Morgenpost zeigt die Lärmpegel an allen Berliner Hausfassaden. Checken Sie Ihre Adresse.
-

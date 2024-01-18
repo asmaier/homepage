@@ -1,21 +1,31 @@
 ---
-title: 'Viele sprechen ja über den ...'
+title: Viele sprechen ja über den ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-12-19
-lastmod: 2022-12-19T22:47:25+01:00
+lastmod: 2022-12-19 22:47:25+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- sicherheitsrat russlands
+- ukrainekrieg
+- russische politik
+- nikolai patrushev
+- mitstreiter von putin
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Viele sprechen ja über den Ukrainekrieg als Putins Krieg. Putin wird für alles verantwortlich gemacht und gilt als allmächtiger russischer Bösewicht. Damit machen es sich aber viele zu einfach. Es gibt leider viele Mitstreiter, die Putin beraten und unterstützen. Der russische Staat hat zwar auf den ersten Blick verwirrende bürokratische Strukturen, aber am Ende des Tages ist es doch ganz einfach. Die entscheidende Verbrecherclique sind die Mitglieder des Sicherheitsrates Russlands und dabei ganz besonders die sogenannten permanenten Mitglieder:
 
 http://en.kremlin.ru/structure/security-council/members
@@ -36,4 +46,3 @@ https://www.bbc.com/news/world-europe-60573261
 > ## [Ukraine conflict: Who's in Putin's inner circle and running the war?](https://www.bbc.com/news/world-europe-60573261)
 >
 >Russia's president relies on a small but deeply loyal group of people when he makes key decisions.
-

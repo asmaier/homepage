@@ -2,20 +2,30 @@
 title: '"Und was ist eigentlich mit ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-06-16
-lastmod: 2023-06-16T16:27:13+02:00
+lastmod: 2023-06-16 16:27:13+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- mobilitätsgesetz
+- fahrradverkehr
+- volksbegehren
+- cdu
+- berliner senat
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Und was ist eigentlich mit dem Mobilitätsgesetz? Dieses sieht vor, an allen Hauptverkehrsstraßen geschützte Radstreifen zu errichten. Das 2018 beschlossene Gesetz wird bisher vom Senat ohnehin missachtet - und nun also vollkommen ignoriert. Bereits im Mai hatte Schreiner (C-Partei) angekündigt, das Mobilitätsgesetz zu verschieben und zu überarbeiten."
 
 Krass, das Mobilitätsgesetz wurde damals aufgrund eines Volksbegehrens eingeführt: "Da der Senat in Verhandlungen mit der Initiative und anderen zivilgesellschaftlichen Gruppen die Forderungen weitgehend übernahm, verzichtete die Initiative auf die Durchführung des Volksbegehrens. " (https://de.wikipedia.org/wiki/Initiative_Volksentscheid_Fahrrad)
@@ -26,4 +36,3 @@ Ich denke es wird höchste Zeit, das Volksbegehren jetzt wirklich durchzuführen
 > ## [Sobald ein Auto-Parkplatz wegfällt: Berliner Senat stoppt vorerst Radwegprojekte – heftige Kritik](https://www.tagesspiegel.de/berlin/sobald-auch-nur-ein-parkplatz-wegfallt-berliner-senatsverwaltung-stoppt-vorerst-radwegprojekte-9992884.html)
 >
 >Die Verkehrsverwaltung setzt unter CDU-Senatorin Manja Schreiner neue Prioritäten auf den Straßen. Neben Radwegen ist die Einrichtung von Tempo 30 betroffen. SPD und Grüne sind „sauer“ und „besorgt“.
-

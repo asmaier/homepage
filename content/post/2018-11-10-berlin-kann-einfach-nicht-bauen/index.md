@@ -1,21 +1,31 @@
 ---
-title: 'Berlin kann einfach nicht bauen. ...'
+title: Berlin kann einfach nicht bauen. ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-11-10
-lastmod: 2018-11-10T17:35:36+01:00
+lastmod: 2018-11-10 17:35:36+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- stadtplanung
+- berlin
+- radverkehr
+- straßenverkehr
+- verkehrssicherheit
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Berlin kann einfach nicht bauen. Da wird ein Radweg auf 450m mit Pollern geschützt, was grundsätzlich eine gute Idee ist. Aber:
 
 1. Die Poller sind nicht fest. D.h. ein Auto oder Lastwagen kann sie überfahren. Sie bieten daher keinen echten Unfallschutz.
@@ -27,4 +37,3 @@ Ist die Berliner Stadtplanung wirklich so inkompetent oder ist das schon eine Ve
 
 https://www.rbb24.de/politik/beitrag/2018/11/erster-geschuetzter-radweg-berlin-eingeweiht.html
 > https://www.rbb24.de/politik/beitrag/2018/11/erster-geschuetzter-radweg-berlin-eingeweiht.html
-

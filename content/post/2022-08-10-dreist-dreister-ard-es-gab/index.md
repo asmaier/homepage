@@ -1,21 +1,31 @@
 ---
-title: 'Dreist, dreister, ARD. Es gab ...'
+title: Dreist, dreister, ARD. Es gab ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-10
-lastmod: 2022-08-10T23:03:14+02:00
+lastmod: 2022-08-10 23:03:14+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- programmbeschwerden
+- energiepolitik
+- ard
+- umfragen
+- sendungen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Dreist, dreister, ARD. Es gab vier mögliche Optionen bei einer Umfrage von infratest dimap zum Thema "Energiepolitische Maßnahmen". Die meistgewählte mit 81% "Schnellerer Ausbau der Windenergie" passt der ARD aber offenbar nicht, und daher wird sie in der Sendung einfach weggelassen und aus dem Chart gelöscht. Haben die wirklich geglaubt, dass das keiner merkt? Vor allem, da man auf der Webseite von Infratest Dimap die kompletten Resultate sehen kann: 
 
 https://www.infratest-dimap.de/umfragen-analysen/bundesweit/ard-deutschlandtrend/2022/august/
@@ -31,4 +41,3 @@ P.S.: In diesem Zusammenhang möchte ich auf ein Buch hinweisen, welches wirklic
 "Schnellerer Ausbau der Windenergie"
 die wichtigste energiepolitische Maßnahme.
 In den Tagesthemen wurde diese wichtigste Maßnahme einfach weggelassen.
-

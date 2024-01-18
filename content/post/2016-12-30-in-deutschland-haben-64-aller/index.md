@@ -1,21 +1,31 @@
 ---
-title: 'In Deutschland haben 64% aller ...'
+title: In Deutschland haben 64% aller ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-12-30
-lastmod: 2016-12-30T12:21:36+01:00
+lastmod: 2016-12-30 12:21:36+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- inheritance
+- billionaires
+- germany
+- russia
+- wealth
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 In Deutschland haben 64% aller Milliardäre ihr Vermögen geerbt. Soviel zum Thema "Harte Arbeit lohnt sich." 
 
 Interessant ist auch, dass die Studie https://piie.com/publications/wp/wp16-1.pdf , auf dem die Grafik beruht, zeigt, dass die Anzahl der Milliardäre in Deutschland zwischen 2010 und 2015 um 100 Prozent (von 50 auf jetzt über 100) zugenommen hat. Es gibt jetzt mehr Milliardäre in Deutschland als im Oligarchenparadies Russland.
@@ -24,4 +34,3 @@ Interessant ist auch, dass die Studie https://piie.com/publications/wp/wp16-1.pd
 > ## [The World's Map of Billionaires](https://howmuch.net/articles/billionaires-map)
 >
 >This Map Shows Where the World’s Billionaires Got Their Money
-

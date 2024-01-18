@@ -1,21 +1,31 @@
 ---
-title: 'Enshittification - Wenn ihr schon ...'
+title: Enshittification - Wenn ihr schon ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-06-15
-lastmod: 2023-06-15T20:19:29+02:00
+lastmod: 2023-06-15 20:19:29+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- tiktok
+- soziale medien
+- plattformen
+- online-zeitschriften
+- enshittification
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Enshittification - Wenn ihr schon immer mal wissen wolltet, was mit diesem Begriff gemeint ist, hier ist der Artikel dazu.
 
 Und schreibt mir gerne einen Kommentar, wenn ihr einen Vorschlag habt, wie man Enshittification auf deutsch übersetzen könnte. 
@@ -26,4 +36,3 @@ https://www.wired.com/story/tiktok-platforms-cory-doctorow/
 > ## [The ‘Enshittification’ of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 >
 >Or how, exactly, platforms die.
-

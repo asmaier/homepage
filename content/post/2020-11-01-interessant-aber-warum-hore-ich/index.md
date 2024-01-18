@@ -1,21 +1,31 @@
 ---
-title: 'Interessant. Aber warum höre ich ...'
+title: Interessant. Aber warum höre ich ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-11-01
-lastmod: 2020-11-01T11:20:18+01:00
+lastmod: 2020-11-01 11:20:18+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- test
+- verbraucherschutz
+- medizin
+- pandemie
+- schutzausrüstung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 https://www.srf.ch/news/panorama/labortest-schutzmasken-im-haertetest-die-meisten-filtern-ungenuegend
 
 Interessant. Aber warum höre ich das vom Schweizer Fernsehen und nicht von der Stiftung Warentest? Ist Masken zu testen während einer Pandemie nicht sinnvoll? Was ist mit den ganzen Verbraucherschutzorganisationen in Deutschland? Haben die mal Masken getestet?
@@ -28,4 +38,3 @@ Offenbar sind seit neuestem Fernsehsender für Verbrauchertests zuständig. Das 
 > ## [Labortest - Schutzmasken im Härtetest: Die meisten filtern ungenügend](https://www.srf.ch/news/panorama/labortest-schutzmasken-im-haertetest-die-meisten-filtern-ungenuegend)
 >
 >Das Labor Testex hat Masken unter die Lupe genommen. Keine der Stoffmasken und nur ein Teil der Hygienemasken besteht.
-

@@ -1,21 +1,36 @@
 ---
-title: 'What gave the west an ...'
+title: What gave the west an ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-09-26
-lastmod: 2011-09-26T23:51:19+02:00
+lastmod: 2011-09-26 23:51:19+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- property rights
+- consumer society
+- west
+- six killer apps
+- modern medicine
+- scientific revolution
+- niall ferguson
+- competition
+- work ethic
+- advantage
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- english
 ---
+
 What gave the west an advantage over the rest of the world, the so called six killer apps according to Niall Ferguson:
 
 1. Competition
@@ -29,4 +44,3 @@ Very interesting talk!
 > ted.com
 > ## [Update Browser](http://www.ted.com/talks/niall_ferguson_the_6_killer_apps_of_prosperity.html#.ToDzq07pkhY.facebook)
 >
-

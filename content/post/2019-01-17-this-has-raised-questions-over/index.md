@@ -1,21 +1,31 @@
 ---
-title: 'This has raised questions over ...'
+title: This has raised questions over ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-01-17
-lastmod: 2019-01-17T13:15:26+01:00
+lastmod: 2019-01-17 13:15:26+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- brexit
+- russland
+- referendum
+- außenpolitik
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- english
 ---
+
 This has raised questions over the legal validity of the Brexit referendum: 
 "Arron Banks, the biggest donor to the campaign for leaving, received the offer of a Russian gold mine, and had had a series of meetings with the Russian Ambassador. "
 https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_Brexit_referendum
@@ -24,5 +34,3 @@ https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_Brexit_referendum
 > ## [Russian interference in the 2016 Brexit referendum - Wikipedia](https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_Brexit_referendum)
 >
 >
-
-

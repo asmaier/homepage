@@ -2,20 +2,30 @@
 title: 'Traurige Nachricht für diesen Planeten: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-07-26
-lastmod: 2021-07-26T22:06:19+02:00
+lastmod: 2021-07-26 22:06:19+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bücher
+- theoretische physik
+- atheismus
+- nobelpreis
+- physiker
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Traurige Nachricht für diesen Planeten: Steven Weinberg ist gestorben. 
 
 Er war nach Richard Feynman, Murray Gell-Mann, Stephen Hawking der letzte lebende Gigant der theoretischen Physik des 20ten Jahrhunderts. 
@@ -26,4 +36,3 @@ Weinberg war überzeugter Atheist. Aber das ewige Leben ist ihm durch seine Büc
 
 https://www.scottaaronson.com/blog/?p=5566
 > https://www.scottaaronson.com/blog/?p=5566
-

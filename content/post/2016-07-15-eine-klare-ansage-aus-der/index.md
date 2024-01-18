@@ -1,21 +1,31 @@
 ---
-title: 'Eine klare Ansage aus der ...'
+title: Eine klare Ansage aus der ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-07-15
-lastmod: 2016-07-15T13:52:47+02:00
+lastmod: 2016-07-15 13:52:47+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- deutschland
+- migration
+- auswanderung
+- schweiz
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Eine klare Ansage aus der Schweiz:
 
 "Die Schweiz führt mit 37 Prozent Migranten und Ausländern in Europa. Nicht Fremdenangst, sondern – unabhängig von Hautfarben und Göttern – Offenheit gegenüber Menschen, die ihre Schularbeiten gemacht haben, hält diese Länder vorne, obwohl sie bei den Geburtenzahlen ebenfalls am unteren Limit fahren. Diese unbezahlbare Politikberatung gibt es für Berlin kostenlos."
@@ -24,4 +34,3 @@ Eine klare Ansage aus der Schweiz:
 > ## [Deutschland muss endlich den Abgang von Hochkompetenten stoppen | NZZ](http://www.nzz.ch/meinung/auswanderungsland-deutschland-kompetente-wandern-ab-ld.104291)
 >
 >300 000 Deutsche, die bis 2014 in die Schweiz emigriert sind, helfen der kleinen Demokratie, an der Weltspitze zu bleiben. Deutschland steht dagegen vor gewaltigen Herausforderungen.
-

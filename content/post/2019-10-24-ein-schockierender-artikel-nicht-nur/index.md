@@ -1,21 +1,31 @@
 ---
-title: 'Ein schockierender Artikel nicht nur ...'
+title: Ein schockierender Artikel nicht nur ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-24
-lastmod: 2019-10-24T23:34:43+02:00
+lastmod: 2019-10-24 23:34:43+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- xinjiang-internierungslager
+- chinesische überwachung
+- volksrepublik china
+- umerziehungslager
+- künstliche intelligenz
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ein schockierender Artikel nicht nur wegen der Länge:
 
 "Human Rights Watch berichtet, dass eine künstliche Intelligenz namens IJOP sämtliche Informationen analysiert. Das künstliche neuronale Netz ist von der Volksbefreiungsarmee Chinas im Rahmen seiner neuen digitalen Militärdoktrin C4ISR ins Leben gerufen worden und inzwischen Teil des nationalen Programms Sharp Eyes, das ganz China mit einem Netz aus Überwachungstechnologie abdecken soll. "
@@ -30,4 +40,3 @@ Ein schockierender Artikel nicht nur wegen der Länge:
 > ## [Clockwork Mandarin](https://www.dekoder.org/de/article/uiguren-kasachen-china-xinjiang)
 >
 >Totale Überwachung, grassierende Folter und Umerziehungslager, in denen mehr als eine Million Uiguren und Kasachen interniert sind: Das nordwestchinesische Gebiet Xinjiang ist ein „Gefängnis unter freiem Himmel“, sagt der russische Journalist Schura Burtin. Für Russki Reporter fragt er, weshalb Kasachstan und andere Länder zu der entsetzlichen Tragödie von Xinjiang schweigen – die nun auch durch die China Cables, geleakte Geheimdokumente, belegt ist. Ein Longread. / Quelle: Russki Reporter
-

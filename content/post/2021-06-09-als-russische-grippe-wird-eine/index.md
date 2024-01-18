@@ -2,20 +2,30 @@
 title: '"Als Russische Grippe wird eine ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-06-09
-lastmod: 2021-06-09T16:34:57+02:00
+lastmod: 2021-06-09 16:34:57+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- influenza-epidemie
+- '1978'
+- virus
+- russische grippe
+- '1977'
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Als Russische Grippe wird eine Influenza-Epidemie bezeichnet, die sich in den Jahren 1977 und 1978 ereignete. Weltweit forderte sie – je nach Quelle – 500.000–700.000 Todesopfer.
 ...
 Erstmals isoliert wurde dieser Subtyp im Mai 1977 in Nordchina
@@ -29,4 +39,3 @@ https://de.wikipedia.org/wiki/Russische_Grippe_1977/1978
 > de.wikipedia.org
 > ## [Russische Grippe 1977/1978 – Wikipedia](https://de.wikipedia.org/wiki/Russische_Grippe_1977/1978)
 >
-

@@ -2,20 +2,30 @@
 title: '"Was passiert, wenn die vom ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-08-06
-lastmod: 2020-08-06T16:10:44+02:00
+lastmod: 2020-08-06 16:10:44+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- explosionen
+- hisbollah
+- libanon
+- ammoniumnitrat
+- terrorismus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Was passiert, wenn die vom Iran unterstützte Hisbollah eine Mitverantwortung trägt? Das ist noch nicht abzusehen. Ein Bericht der "Jerusalem Post" rief aber am Mittwoch frühere Funde von Ammoniumnitrat in Erinnerung: Demnach lagerte die Hisbollah in den vergangenen Jahren immer wieder größere Mengen der Substanz im Ausland für Terrorattacken – unter anderem in Großbritannien und Deutschland."
 
 Na da bin ich ja beruhigt.
@@ -24,4 +34,3 @@ Na da bin ich ja beruhigt.
 > ## [Das mysteriöse Schiff mit der explosiven Fracht](https://www.t-online.de/nachrichten/panorama/id_88345294/explosion-in-beirut-mysterioeses-schiff-mit-explosiver-fracht.html)
 >
 >Die gewaltige Explosion in der Hauptstadt des Libanons könnte auf ein verlass...
-

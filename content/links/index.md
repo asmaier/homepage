@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Archive
+      title: Links
       subtitle: ''
       text: |-
         - [Old Blog](http://asmaier.blogspot.de/)

@@ -2,20 +2,30 @@
 title: '"Blackout: Passiert nach den Befürchtungen ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-01-06
-lastmod: 2022-01-06T15:56:28+01:00
+lastmod: 2022-01-06 15:56:28+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verkehrswende
+- rohstoffe
+- autotechnik
+- öffentliche meinung
+- elektromobilität
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Blackout: Passiert nach den Befürchtungen vieler unweigerlich, wenn alle Menschen ihre E-Autos gleichzeitig laden würden. Theoretisch richtig, gilt aber auch für Föns, Kaffeemaschinen oder Backöfen."
 
 "Export: Bricht ein, sobald deutsche Autobauer nicht mehr ungebremst auf deutschen Autobahnen die Glanzstücke deutsche Ingenieurskunst zur Schau stellen können. Damit würde Porsche und BMW ein ähnliches Schicksal drohen wie Ferrari und Lamborghini, denen jegliche Kompetenz in Sachen Sportlichkeit und Geschwindigkeit bekanntlich abzusprechen ist."
@@ -33,5 +43,4 @@ https://www.heise.de/meinung/Kommentar-Das-Bullshit-Bingo-der-Verkehrswende-6316
 > heise.de
 > ## [Kommentar: Das Bullshit-Bingo der Verkehrswende](https://www.heise.de/meinung/Kommentar-Das-Bullshit-Bingo-der-Verkehrswende-6316848.html)
 >
->Ein paar Schlüsselbegriffe, die in jeder Debatte früher oder später auftauchen – und was dahintersteckt. 
-
+>Ein paar Schlüsselbegriffe, die in jeder Debatte früher oder später auftauchen – und was dahintersteckt.

@@ -1,21 +1,31 @@
 ---
-title: 'Was ist die deutsche Bahn ...'
+title: Was ist die deutsche Bahn ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-12-13
-lastmod: 2018-12-13T21:59:58+01:00
+lastmod: 2018-12-13 21:59:58+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- vergleich
+- bahnverbindungen
+- reisezeiten
+- europäische länder
+- schnellfahrstrecken
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Was ist die deutsche Bahn nicht stolz auf die neue Paradestrecke Berlin-München. Statt 6h braucht man jetzt nur noch knapp 4h für die 620 km. Schaut man allerdings in das europäische Ausland macht sich Ernüchterung breit:
 
 Strecke Madrid - Barcelona: 620 km, Fahrzeit 2:30h
@@ -29,4 +39,3 @@ https://www.sueddeutsche.de/wirtschaft/hochgeschwindigkeitsnetz-italien-macht-vo
 > de.wikipedia.org
 > ## [Schnellfahrstrecke Madrid–Barcelona–Französische Grenze – Wikipedia](https://de.wikipedia.org/wiki/Schnellfahrstrecke_Madrid%E2%80%93Barcelona%E2%80%93Franz%C3%B6sische_Grenze)
 >
-

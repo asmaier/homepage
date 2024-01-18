@@ -2,20 +2,30 @@
 title: '"Daisugi ist eine japanische Forst-Technik, ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-11-23
-lastmod: 2022-11-23T22:18:17+01:00
+lastmod: 2022-11-23 22:18:17+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- japanische forsttechnik
+- forstwesen
+- bäume
+- nachhaltigkeit
+- holzgewinnung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 "Daisugi ist eine japanische Forst-Technik, mit der sich nachhaltig Holz gewinnen lässt. Der Clou: Die Bäume werden nicht gefällt, sondern lediglich beschnitten.
 
 Die Waldarbeiter beschneiden die Bäume von Hand, so dass die oberen Äste gerade in die Höhe wachsen und neue Triebe bilden können. Dadurch sieht es so aus, als würden Zedern auf Zedern sprießen.
@@ -28,4 +38,3 @@ Den Niedergang des Fernsehens merkt man auch daran, dass Galileo inzwischen zu d
 > ## [Daisugi: Wie in Japan Holz gewonnen wird - ohne Bäume zu fällen | Galileo](https://www.galileo.tv/natur/daisuigi-wie-in-japan-holz-gewonnen-wird-ohne-baeume-zu-faellen/)
 >
 >Um das Fällen von Bäumen für den Gewinn von Holz zu verringern oder sogar ganz zu stoppen, braucht es eine geniale Idee. Und genau diese können die Japaner uns liefern - hier gibt es nämlich Bäume, die auf Bäumen wachsen!
-

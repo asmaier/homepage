@@ -2,20 +2,30 @@
 title: '"Exklusiv für die Teilnehmer der ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-23
-lastmod: 2020-02-23T22:40:27+01:00
+lastmod: 2020-02-23 22:40:27+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- kapitalismus
+- klimawandel
+- konferenz
+- davos
+- steuer
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Exklusiv für die Teilnehmer der Konferenz wurde der neue Film des Regisseurs David Attenborough gezeigt, ein bewegendes Werk über den Zustand des Planeten. Ich sah Leute, die bei der Vorführung weinten. Und ich dachte: Das ist so scheinheilig! Draußen standen 1500 Privatjets, mit denen diese Leute in die Schweizer Berge geflogen waren, und jetzt weinten sie hier drinnen bei einem Film über die Folgen des Klimawandels. Ich hatte das Ganze so satt."
 
 "Man spricht über alles Mögliche, aber nicht über das, was man selbst zu einer gerechteren Gesellschaft beitragen könnte. Warum man den eigenen Beschäftigten keine anständigen Löhne bezahlt; warum man Gewinne verschiebt, um weniger Steuern bezahlen zu müssen."
@@ -28,4 +38,3 @@ Der Mann hat sowas von recht.
 > ## [Rutger Bregman: "Ich empfand Davos als oberflächlich und hohl"](https://www.zeit.de/2019/12/rutger-bregman-wirtschaftsforum-davos-steuergerechtigkeit)
 >
 >Sein Auftritt vor der Wirtschaftselite in Davos machte Rutger Bregman mit seiner Kritik am Kapitalismus weltweit bekannt. Jetzt träumt er von einer Bewegung.
-

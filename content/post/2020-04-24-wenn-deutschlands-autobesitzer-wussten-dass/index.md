@@ -2,20 +2,30 @@
 title: '"Wenn Deutschlands Autobesitzer wüssten, dass ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-24
-lastmod: 2020-04-24T15:55:53+02:00
+lastmod: 2020-04-24 15:55:53+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- verkehr
+- autos
+- nachhaltigkeit
+- fahrverhalten
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Wenn Deutschlands Autobesitzer wüssten, dass ihr Fahrzeug doppelt so viel Geld im Monat verschlingt, als sie annehmen – würden dann mehr von ihnen auf alternative Verkehrsmittel umsteigen?"
 
 "Sie kalkulierten, dass der Pkw-Besitz in Deutschland im Idealfall um bis zu 37 Prozent sinken könnte oder dass, anders gesagt, 17,6 Millionen Autos abgeschafft würden. Die dadurch bedingten Einsparungen von 37 Millionen Tonnen CO2 pro Jahr könnten den Treibhausgasausstoß des Verkehrssektors um ein Fünftel reduzieren. Die deutschlandweiten Gesamtemissionen würden um 4,3 Prozent schrumpfen."
@@ -28,5 +38,4 @@ Und aus der Studie selbst:
 > spektrum.de
 > ## [Autobesitz: Doppelt so teuer, wie Sie denken](https://www.spektrum.de/news/doppelt-so-teuer-wie-sie-denken/1726254)
 >
->Eine Studie zeigt, wie sich Deutsche bei der Kostenabschätzung systematisch um hunderte Euro vertun  
-
+>Eine Studie zeigt, wie sich Deutsche bei der Kostenabschätzung systematisch um hunderte Euro vertun

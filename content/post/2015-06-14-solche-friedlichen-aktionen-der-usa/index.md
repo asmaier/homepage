@@ -1,21 +1,31 @@
 ---
-title: 'Solche "friedlichen" Aktionen der USA ...'
+title: Solche "friedlichen" Aktionen der USA ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-06-14
-lastmod: 2015-06-14T23:29:31+02:00
+lastmod: 2015-06-14 23:29:31+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- deutschland
+- militärübungen
+- usa
+- proteste
+- nato
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
+
 Solche "friedlichen" Aktionen der USA werden von unseren Medien mal wieder totgeschwiegen. Es geht sogar soweit, dass der entsprechende Wikipedia-Eintrag von einem "Jack O'Neil" die Relevanz abgesprochen und daraufhin gelöscht wurde : http://de.wikipedia.org/wiki/Wikipedia:L%C3%B6schkandidaten/29._M%C3%A4rz_2015#Dragoon_Ride_.28gel.C3.B6scht.29
 
 Nur in der englischen Wikipedia liest man von der Brisanz der Aktion und den Protesten z.B. in Tschechien: https://en.wikipedia.org/wiki/Operation_Dragoon_Ride
@@ -26,4 +36,3 @@ Das es auch in Deutschland Proteste gab, erfährt man nur aus Blogs: http://frie
 > ## [Kein #coldwar2 in Europa, keine Panzerkolonne und #dragoonride in Deutschland! - Online-Petition](https://www.openpetition.de/petition/online/kein-coldwar2-in-europa-kein-dragoonride-in-deutschland)
 >
 >Wir fordern, dass sichergestellt ist, dass die Durchreise der Streitkräfte im Rahmen der Aktion &quot;Dragoon Ride&quot; durch Deutschland mit dem Artikel 1 des Streitkräfteaufenthaltsgesetz vereinbar bleibt und es somit keine öffentlichkeitswirksamen Zwischenhalte in Deutschland geben wird. Die Durchreise hat ausschließlich dem Transport zu dienen. Weiterhin fordern wir die Überprüfung der Aktion auf deren Konformität mit dem GG. https://www.tagesschau.de/ausland/nato-dragoon-ride-101.html (https://www.t
-

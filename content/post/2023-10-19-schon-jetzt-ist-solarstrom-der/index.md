@@ -2,20 +2,30 @@
 title: '"Schon jetzt ist Solarstrom der ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-10-19
-lastmod: 2023-10-19T16:41:15+02:00
+lastmod: 2023-10-19 16:41:15+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ölindustrie
+- stromgewinnung
+- solarenergie
+- nachhaltigkeit
+- energiewende
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "Schon jetzt ist Solarstrom der jetzt vorgestellten Studie zufolge in weiten Teilen Asiens, Europas, Afrikas sowie in Australien die günstigste Art der Stromgewinnung, 2027 wird sie das demnach überall außer in Grönland, Großbritannien und Skandinavien sein, noch einmal drei Jahre später dann ausschließlich in wenigen nordeuropäischen Staaten."
 
 Die Tage der Ölscheichs und Öloligarchen sind gezählt. Die Kriege und Krisen derzeit sind nur Ausdruck davon, dass es mit ihnen zu Ende geht. Bald braucht sie niemand mehr.  
@@ -26,4 +36,3 @@ https://www.heise.de/news/Energiewende-Solarenergie-wird-globalen-Strommix-schon
 > ## [Energiewende: Solarenergie wird globalen Strommix schon bald dominieren](https://www.heise.de/news/Energiewende-Solarenergie-wird-globalen-Strommix-schon-bald-dominieren-9337382.html)
 >
 >Bereits umgesetzte Maßnahmen haben laut einer Studie dazu geführt, dass Solarenergie schon auf dem Weg ist, die Stromerzeugung bald weltweit zu dominieren.
-

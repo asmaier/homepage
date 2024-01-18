@@ -1,21 +1,31 @@
 ---
-title: 'Wahrscheinlich gibt es bald einen ...'
+title: Wahrscheinlich gibt es bald einen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-09-01
-lastmod: 2015-09-01T15:10:59+02:00
+lastmod: 2015-09-01 15:10:59+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- todesursache
+- öffentliche gesundheit
+- rauchen
+- finanzaspekte des rauchens
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
+
 Wahrscheinlich gibt es bald einen neuen Aufdruck auf den Zigarettenschachteln:
 
 "Danke für ihren frühen Tod."
@@ -24,4 +34,3 @@ Wahrscheinlich gibt es bald einen neuen Aufdruck auf den Zigarettenschachteln:
 > ## [Raucherstudie: Raucher entlasten deutsche Gesellschaft durch früheren Tod](http://www.heilpraxisnet.de/naturheilpraxis/makabere-studie-raucher-entlasten-gesellschaft-durch-frueheren-tod-2015090144222)
 >
 >Früherer Tod: Raucher entlasten die Gesellschaft finanziell Wissenschaftler haben ausgerechnet, dass Raucher die deutsche Gesellschaft finanziell entlasten. Dies habe vor
-

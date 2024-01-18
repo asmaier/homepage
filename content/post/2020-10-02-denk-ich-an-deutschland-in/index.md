@@ -1,21 +1,31 @@
 ---
-title: 'Denk ich an Deutschland in ...'
+title: Denk ich an Deutschland in ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-10-02
-lastmod: 2020-10-02T23:12:41+02:00
+lastmod: 2020-10-02 23:12:41+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- traditionen
+- essen
+- tag der wiedervereinigung
+- gerichte
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Denk ich an Deutschland in der Nacht, bin ich um den Schlaf gebracht. Und gerade zum 30ten Jahrestag fällt mir auf, dass es irgendwie überhaupt keine Traditionen zum Tag der Wiedervereinigung gibt. Zu all den kirchlichen Feiertagen gibt es viele Traditionen, insbesondere gibt es viele Gerichte, die an diesen Tagen gegessen werden (müssen) (Weihnachtsgans, Osterlamm, etc...).
 
 Daher meine Idee endlich eine traditionelles Wiedervereinigungsessen zu definieren. Hier mein Vorschlag:
@@ -28,4 +38,3 @@ Daher meine Idee endlich eine traditionelles Wiedervereinigungsessen zu definier
 6. Zum Abendessen, gibt es das dann deutscheste Gericht überhaupt: Toast Hawaii (wahlweise auch Pizza Hawaii oder für die mutigen Currywurst Hawaii). Denn wir sind das Volk, dass vereinigt was zusammengehört! ;-)
 
 P.S.: Was sind eure Lieblingsgerichte zum Tag der Wiedervereinigung? #Wiedervereinigung, #deutschland
-

@@ -1,21 +1,31 @@
 ---
-title: 'Auszüge aus dem Merkblatt zur ...'
+title: Auszüge aus dem Merkblatt zur ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-01-25
-lastmod: 2012-01-25T21:24:59+01:00
+lastmod: 2012-01-25 21:24:59+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- pass
+- ausländer
+- aufenthaltstitel
+- eat
+- biometrie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- deutsch
 ---
+
 Auszüge aus dem Merkblatt zur Einführung des „Elektronischer Aufenthaltstitel (eAT)”
 
 "Zum 01.09.2011 wird der elektronische Aufenthaltstitel (eAT) für ausländische Staatsangehörige, die nicht Unionsbürger sind, eingeführt.
@@ -38,4 +48,3 @@ Mit der Einführung des eAT werden mit Blick auf die erhöhten Produktionskost
 Das heisst, dafür das der eAT nutzlos und umständlich ist, muss man auch noch mehr bezahlen. 
 
 Herzlich Willkommen in Deutschland!
-

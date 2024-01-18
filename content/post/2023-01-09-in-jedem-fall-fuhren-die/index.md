@@ -2,20 +2,30 @@
 title: '"In jedem Fall führen die ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-01-09
-lastmod: 2023-01-09T11:02:27+01:00
+lastmod: 2023-01-09 11:02:27+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schienenverkehr
+- zugverkehr
+- infrastruktur
+- europäische union
+- bahnverkehr
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 "In jedem Fall führen die nationalen Unterschiede in Bahnsteighöhen und Bahnstromversorgung zu erheblichen Mehrkosten und zu den von allen Bahnreisenden gefürchteten "Verzögerungen im Betriebsablauf", etwa durch den Wechsel von Triebwagen bei Nachtzügen an den Systemgrenzen."
 
 Leider nicht nur bei Nachtzügen. Wer mal von Berlin nach Amsterdam mit dem Zug gefahren ist, weiß, dass das auch die normalen Personenzüge betrifft weil die Bahn zu geizig ist, Mehrsystemloks auf dieser Strecke einzusetzen. 
@@ -46,4 +56,3 @@ https://www.investigate-europe.eu/de/2021/entgleist-interview-era-josef-doppelba
 > ## [Josef Doppelbauer, Chef der Europäischen Bahnagentur: „Die EU-Staaten müssen endlich europäisch denken“](https://www.investigate-europe.eu/de/2021/entgleist-interview-era-josef-doppelbauer/)
 >
 >Josef Doppelbauer, Chef der Europäischen Bahnagentur: „Die EU-Staaten müssen endlich europäisch denken“
-

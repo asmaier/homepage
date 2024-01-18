@@ -1,21 +1,31 @@
 ---
-title: '1. Overall, educationally, the United ...'
+title: 1. Overall, educationally, the United ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-08-31
-lastmod: 2012-08-31T10:55:02+02:00
+lastmod: 2012-08-31 10:55:02+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wirtschaft in den vereinigten staaten
+- gesundheit in den vereinigten staaten
+- militärgeschichte der vereinigten staaten
+- bildung in den vereinigten staaten
+- amerikanische geschichte
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- english
 ---
+
 1. Overall, educationally, the United States ranks 19th among 34 industrialized nations.
 2. Out of those 34 countries, the United States ranks 14th in reading, 17th in science and 25th in math.
 3. Almost 20 percent of Americans cannot find the United States on a world map. ("Hey, man, I can just Google it!")
@@ -39,4 +49,3 @@ slug: ''
 
 From Paul Kindlon, a professor of humanities at Moscow University Touro.
 > http://www.themoscowtimes.com/opinion/article/a-letter-to-russian-college-students/467371.html
-

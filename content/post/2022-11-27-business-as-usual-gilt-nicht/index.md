@@ -1,21 +1,31 @@
 ---
-title: 'Business as usual gilt nicht ...'
+title: Business as usual gilt nicht ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-11-27
-lastmod: 2022-11-27T20:32:17+01:00
+lastmod: 2022-11-27 20:32:17+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- moscow elite
+- business as usual
+- western companies in russia
+- iphone purchases
+- eu financial support to ukraine and russia
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Business as usual gilt nicht nur für die Moskauer Oberschicht., die gerne neue iPhones kauft. Man sollte auch daran erinnern, dass nach wie vor viele westliche Firmen nach dem gleichen Motto in Russland unterwegs sind (z.B. Storck mit ihren Schoko Riesen oder Ritter Sport, wie wäre es mit einem Weihnachtsboykott für deren Süßigkeiten?):
 
 https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
@@ -30,4 +40,3 @@ Und da wundern sich alle, warum der Krieg so lange dauert.
 > ## [Wie das iPhone auf dem Schleichweg nach Moskau kommt](https://www.derstandard.at/story/2000140771601/wie-das-iphone-auf-dem-schleichweg-nach-moskau-kommt)
 >
 >Internationale Markenhersteller zogen sich nach dem Überfall auf die Ukraine aus Russland zurück. Zu groß war der moralische Druck. Ihre Produkte sind für russische Konsumenten dennoch erhältlich
-

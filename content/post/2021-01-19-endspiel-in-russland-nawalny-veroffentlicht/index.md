@@ -1,21 +1,31 @@
 ---
-title: 'Endspiel in Russland! Nawalny veröffentlicht ...'
+title: Endspiel in Russland! Nawalny veröffentlicht ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-01-19
-lastmod: 2021-01-19T23:47:05+01:00
+lastmod: 2021-01-19 23:47:05+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- präsident
+- oligarchen
+- russland
+- korruption
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Endspiel in Russland! Nawalny veröffentlicht alles über den "Opa im Bunker". Und es ist wirklich absolut unglaublich.
 
 Der russische Präsident hat sich einen Palast für umgerechnet mehr als eine Milliarde Euro bauen lassen!! Natürlich alles auf Kosten des russischen Staates. Involviert sind alle seine früheren Freunde und die ganze Familie. Jeder trägt seinen Teil dazu bei, dass der russische Zar standesgemäß leben kann, mit Weinbergen, unterirdischen Eishockeyhallen, privatem Casino und Theater, superteuren italienischen Möbeln, geheimen Tunneln zum kilometerweit abgesperrten Privatstrand (mit eigener Flugverbotszone) und, und und...
@@ -28,4 +38,3 @@ Jeder muß dieses Video schauen. Denn auch hier in Deutschland finanzieren wir m
 > ## [Дворец для Путина. История самой большой взятки](https://www.youtube.com/watch?v=ipAnwilMncI)
 >
 >Текст расследования со всеми документами здесь https://palace.navalny.com/Это видео Навальный записал до своего возвращения в Россию, но мы сразу договорилис...
-

@@ -2,20 +2,30 @@
 title: '"Ich will keine Einkaufstipps, ich ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-23
-lastmod: 2020-09-23T11:21:10+02:00
+lastmod: 2020-09-23 11:21:10+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- umwelt
+- globalisierung
+- ökologie
+- nachhaltigkeit
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Ich will keine Einkaufstipps, ich will keine Life-Hacks, und ich will schon gar keine Empfehlungen für nachhaltige Produkte. Das wird die drohende Umweltkatastrophe nicht aufhalten. Ich will wirklich die Umwelt retten, nicht nur selbst das Gefühl haben, "halt irgendwas getan zu haben". Gute Vorsätze und ein Biojoghurt reichen nicht."
 
 "Ich will Abgaben und Besteuerungen für Großkonzerne, die die Globalisierung nutzen, um diesen Planeten in die Hölle zu wirtschaften. Die Regeln, die ich mir wünsche, sollen so streng, so unumgänglich sein, dass selbst der findigste Unternehmensberater keinen Ausweg sieht, als seinen Kunden zu raten: Haltet euch lieber daran.
@@ -30,4 +40,3 @@ Die Österreicherin hat einfach nur recht!
 > ## [Warum Ihr Bio-Einkauf nicht die Welt rettet](https://www.derstandard.at/story/2000120111584/warum-ihr-bio-einkauf-nicht-die-welt-rettet)
 >
 >Individuelle Konsumentscheidungen werden den Planeten nicht retten. Das können nur viel schärfere Gesetze zum Umweltschutz
-

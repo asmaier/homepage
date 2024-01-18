@@ -1,21 +1,31 @@
 ---
-title: 'Warum ich oft die englische ...'
+title: Warum ich oft die englische ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-01-13
-lastmod: 2016-01-13T16:07:57+01:00
+lastmod: 2016-01-13 16:07:57+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- sprache
+- physik
+- wissenschaft
+- optik
+- farben
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Warum ich oft die englische Wikipedia lese:
 
 https://de.wikipedia.org/wiki/Gr%C3%BCn
@@ -30,4 +40,3 @@ Green is a color.
 > de.wikipedia.org
 > ## [Grün – Wikipedia](https://de.wikipedia.org/wiki/Gr%C3%BCn)
 >
-

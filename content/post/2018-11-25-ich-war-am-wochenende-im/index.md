@@ -1,21 +1,31 @@
 ---
-title: 'Ich war am Wochenende im ...'
+title: Ich war am Wochenende im ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-11-25
-lastmod: 2018-11-25T20:33:33+01:00
+lastmod: 2018-11-25 20:33:33+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- flugzeuge im zweiten weltkrieg
+- flughafen tegel
+- rosinenbomber
+- berliner luftbrücke
+- west-alliierte-museum
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Ich war am Wochenende im (West-)Alliierten-Museum in Berlin. Es war überraschend interessant. Zwei Dinge sind mir besonders in Erinnerung geblieben:
 
 1. Die Rosinenbomber sollten eigentlich Kohlebomber heißen, da zwei Drittel der Fracht aus Kohle für die Kraftwerke in Berlin bestand.
@@ -26,4 +36,3 @@ Vielleicht sollten wir die Russen einladen mal wieder Berlin zu blockieren. Dann
 > de.wikipedia.org
 > ## [AlliiertenMuseum – Wikipedia](https://de.wikipedia.org/wiki/AlliiertenMuseum)
 >
-

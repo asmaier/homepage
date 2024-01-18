@@ -1,21 +1,31 @@
 ---
-title: 'Die verbliebenen russischen Intellektuellen erkennen, ...'
+title: Die verbliebenen russischen Intellektuellen erkennen, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-04-09
-lastmod: 2022-04-09T23:24:26+02:00
+lastmod: 2022-04-09 23:24:26+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- intellektuelle
+- kirche und staat
+- russland
+- ideologie
+- kommunismus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Die verbliebenen russischen Intellektuellen erkennen, dass ihr Land ideologisch in eine Sackgasse gelandet ist. Die Forderungen nach Erneuerung werden radikal:
 
 1. Trennung von Kirche und Staat 
@@ -32,4 +42,3 @@ Der Artikel ist eine schonungslose Abrechnung mit der seltsamen Ideologie des Pu
 > ## [Totale Aufarbeitung?](https://www.dekoder.org/de/article/pastuchow-aufarbeitung-ideologie-ukraine-krieg)
 >
 >Welches Gedankengut hat Russlands Krieg in der Ukraine den Boden bereitet – und wie kann eine Aufarbeitung aussehen, wenn der Krieg vorbei ist? Eine kontrovers diskutierte Analyse des Politologen Wladimir Pastuchow in der Novaya Gazeta – kurz bevor diese ihr Erscheinen während des Krieges einstellte. / Quelle: Novaya Gazeta
-

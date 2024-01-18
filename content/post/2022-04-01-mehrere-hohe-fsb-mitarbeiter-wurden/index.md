@@ -1,21 +1,31 @@
 ---
-title: 'Mehrere hohe FSB Mitarbeiter wurden ...'
+title: Mehrere hohe FSB Mitarbeiter wurden ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-04-01
-lastmod: 2022-04-01T22:52:44+02:00
+lastmod: 2022-04-01 22:52:44+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- fsb
+- bestechung
+- militär
+- ukraine
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Mehrere hohe FSB Mitarbeiter wurden nach dem erfolglosen Blitzangriff gegen die Ukraine wegen Veruntreuung von Staatsgeldern in Russland festgenommen. Moment, aber warum wegen Veruntreuung von Geld und nicht etwa wegen Landesverrat oder ähnlichem?
 
 Kurz gesagt geht die Geschichte so:
@@ -34,4 +44,3 @@ April, April! Oder etwa doch nicht? Der Blog-Artikel stammt vom 21. März und be
 > ## [Is Putin's Invasion Failing Because Russian Intelligence Embezzled Billions Intended As Bribes For Ukrainians?](http://www.thelowdownblog.com/2022/03/is-putins-invasion-failing-because.html)
 >
 >It's even  wilder than the headline suggests. The FSB embezzled every dime of the billions in bribe money intended for Ukraine, which they f...
-

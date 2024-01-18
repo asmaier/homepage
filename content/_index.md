@@ -33,8 +33,10 @@ sections:
 
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      # list, compact, card, showcase, masonry, citation
+      # see https://docs.hugoblox.com/getting-started/page-builder/     
+      view: showcase
+      columns: '1'
   - block: collection
     id: featured
     content:
@@ -48,6 +50,6 @@ sections:
         enable: true
         link: stream/    
     design:
-      columns: '2'
+      columns: '1'
       view: card
 ---

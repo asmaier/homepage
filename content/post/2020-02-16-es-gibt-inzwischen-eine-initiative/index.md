@@ -1,21 +1,31 @@
 ---
-title: 'Es gibt inzwischen eine Initiative ...'
+title: Es gibt inzwischen eine Initiative ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-16
-lastmod: 2020-02-16T16:40:00+01:00
+lastmod: 2020-02-16 16:40:00+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- nachtzüge in europa
+- umweltauswirkungen des flugverkehrs
+- klimafreundliche verkehrsmittel
+- initiativen zur förderung von nachtzügen
+- alternativen zum flugverkehr
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- english
 ---
+
 Es gibt inzwischen eine Initiative in der EU mehr Züge  und vor allem mehr Nachtzüge zwischen den Metropolen einzurichten. Das ganze kann man nur begrüßen. Besonders wer mal Züge ins europäische Ausland gebucht hat, weiß, dass das bei weitem nicht so einfach ist wie Flugtickets zu buchen. 
 
 Unter
@@ -47,4 +57,3 @@ has pointed out five areas of priority, where improvements are needed to get
 cross-border long-distance trains in shape to provide alternatives to flights.
 International night trains are identified as a “low-hanging fruit” which can
 turn the tide in favor of climate friendly transportation.
-

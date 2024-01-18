@@ -2,20 +2,30 @@
 title: '- "Den Grundstein für Lithium-Ionen-Batterien ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-10-17
-lastmod: 2019-10-17T14:35:28+02:00
+lastmod: 2019-10-17 14:35:28+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- technologie
+- chemie
+- physik
+- batterie
+- nobelpreis
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 - "Den Grundstein für Lithium-Ionen-Batterien legte der britische Forscher M. Stanley Whittingham in den frühen 1970er-Jahren während der Ölkrise. Er wechselte von der Stanford University zu Exxon, wo er supraleitende Materialien wie Tantaldisulfid untersuchte,..."
 - "Als Öl wieder günstiger wurde, gab Exxon die Forschung an den Batterien auf, und der US-amerikanische Forscher John B. Goodenough übernahm."
 - "Im Westen ließ mit den sinkenden Ölpreisen das Interesse an der Batterieforschung nach, nicht aber in Japan, wo Elektronikfirmen auf der Suche waren nach leichten, wiederaufladbaren Batterien, die Videokameras, schnurlose Telefone oder Computer mit Energie versorgen könnten."
@@ -26,4 +36,3 @@ Billiges Öl behinderte den Fortschritt in der Batterieforschung schon seit Jahr
 > ## [Chemie-Nobelpreis: Batterien zum Nutzen der Menschheit](https://www.pro-physik.de/nachrichten/chemie-nobelpreis-batterien-zum-nutzen-der-menschheit)
 >
 >Der diesjährige Nobelpreis für Chemie geht zu gleichen Teilen an John B. Goodenough, M. Stanley Whittingham und Akira Yoshino für die Entwicklung von Lithium-Ionen-Batterien.
-

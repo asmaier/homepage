@@ -1,21 +1,31 @@
 ---
-title: 'In Frankreich konnte früher auch ...'
+title: In Frankreich konnte früher auch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-12-12
-lastmod: 2011-12-12T17:11:26+01:00
+lastmod: 2011-12-12 17:11:26+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- finanzgeschichte
+- griechische finanzen
+- staatsbankrott
+- historische staatsschulden
+- französische geschichte
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 In Frankreich konnte früher auch noch der Kopf weg sein. Zwischen 1500 und 1800 war der Staat achtmal pleite. Hin und wieder ließen die Herrscher besonders hartnäckige Gläubiger vorbeugend exekutieren, was den Eifer der Überlebenden, ihre Forderungen einzutreiben, deutlich dämpfte.
 
 Die Banken sollten vorsichtig sein mit ihren Forderungen an Griechenland...
@@ -24,4 +34,3 @@ Die Banken sollten vorsichtig sein mit ihren Forderungen an Griechenland...
 > ## [Griechisches Schicksal in der Kultur der Staatspleiten](http://www.abendblatt.de/hamburg/article1491966/Griechisches-Schicksal-in-der-Kultur-der-Staatspleiten.html)
 >
 >Volksrepublik China war erstes Bankrott-Land der Welt. Frankreich war bereits achtmal zahlungsunfähig, genauso oft wie Deutschland.
-

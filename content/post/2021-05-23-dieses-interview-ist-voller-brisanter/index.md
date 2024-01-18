@@ -1,21 +1,31 @@
 ---
-title: 'Dieses Interview ist voller brisanter ...'
+title: Dieses Interview ist voller brisanter ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-23
-lastmod: 2021-05-23T14:42:51+02:00
+lastmod: 2021-05-23 14:42:51+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- china
+- verschwörungstheorien
+- pandemie
+- wissenschaft
+- überwachungsstaat
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Dieses Interview ist voller brisanter Informationen:
 
 "Darin heisst es, man verurteile entschieden Verschwörungstheorien, wonach Covid-19 keinen natürlichen Ursprung habe. Stattdessen lobten die Wissenschaftler die «rasche, offene und transparente» Information der chinesischen Kollegen. Später stellte sich heraus, dass hinter der Stellungnahme der amerikanische Wissenschaftler Peter Daszak stand. Daszak arbeitet seit rund 18 Jahren mit dem Labor von Shi Zhengli in Wuhan zusammen. Als die US-Regierung 2014 für die umstrittene «Gain-of-Function»-Forschung ein Moratorium verhängte, erhielt Daszak eine Ausnahmebewilligung. Er musste sein Forschungsprojekt dafür ins Ausland verlegen – fortan forschte er am Institut für Virologie in Wuhan."
@@ -35,4 +45,3 @@ Das alles sollte nicht notwendig sein, wenn China an einen natürlichen Ursprung
 > ## [Ursprung des Virus: «Die Labortheorie ist vielerorts ein Tabu»](https://www.persoenlich.com/gesellschaft/die-labortheorie-ist-vielerorts-ein-tabu)
 >
 >NZZ-Redaktor Marcel Gyr ist der Theorie nachgegangen, dass Sars-CoV-2 aus einem Labor in Wuhan entwichen sei. Im Interview spricht er über Verschwörungstheorien, die Sicht der Wissenschaft und was es bräuchte, um die Wahrheit herauszufinden.
-

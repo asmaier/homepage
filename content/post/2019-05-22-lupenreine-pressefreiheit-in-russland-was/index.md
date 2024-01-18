@@ -1,21 +1,31 @@
 ---
-title: 'Lupenreine Pressefreiheit in Russland. Was ...'
+title: Lupenreine Pressefreiheit in Russland. Was ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-05-22
-lastmod: 2019-05-22T13:29:48+02:00
+lastmod: 2019-05-22 13:29:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- pressefreiheit
+- journalismus
+- kommersant
+- russland
+- alisher usmanov
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Lupenreine Pressefreiheit in Russland. Was für ein Menschenfreund dieser Alisher Usmanow ist liest man in Artikeln wie:
 
 - http://www.netstudien.de/Russland/usmanow.htm
@@ -29,4 +39,3 @@ Man kann den Mut der Journalisten von Kommersant nur bewundern.
 > ## [Haltet durch, Freunde vom Kommersant!](https://www.dekoder.org/de/article/kommersant-kuendigung-safronow-iwanow)
 >
 >Ein weiterer Schlag gegen die Pressefreiheit in Russland? Die Tageszeitung Kommersant verliert nach einer Kollektivkündigung ihr gesamtes Politikressort. / Quelle: Meduza
-

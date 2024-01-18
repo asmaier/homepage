@@ -1,21 +1,31 @@
 ---
-title: 'Ich kann nicht verstehen wie ...'
+title: Ich kann nicht verstehen wie ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-03-10
-lastmod: 2020-03-10T12:05:32+01:00
+lastmod: 2020-03-10 12:05:32+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- justiz
+- verfassungsgericht
+- personalentscheidungen
+- recht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Ich kann nicht verstehen wie gerade die Grünen dem zustimmen können. Jedenfalls tragen solche Personalentscheidungen nicht dazu bei, dass Vertrauen der Bürger in den Staat zu erhöhen. Vielleicht sollte man vor dem Verfassungsgericht dagegen klagen. Moment...
 > [![](https://www.nachdenkseiten.de/wp-content/uploads/2020/03/200309_titel.jpeg)](https://www.nachdenkseiten.de/?p=59130)
 > nachdenkseiten.de
@@ -28,4 +38,3 @@ Dieser Beitrag ist auch als Audio-Podcast verfügbar.
 
 
 Am 6. Mai 2020 endet die Amtsperiode des jetzigen Präsidenten Andreas Voßkuhle. Sein Nachfolger soll Stephan Harbarth werden. So haben es für d ...
-

@@ -1,25 +1,30 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T23:09:23+02:00"
+lastmod: '2019-10-19T23:09:23+02:00'
 projects: []
 slug: top-level-domains
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
-- computer
+- list of internet top-level domains
 - internet
+- top-level-domain
+- computer
 title: Top-level domains
+year: '2008'
+languages:
+- english
 ---
+
 Some interesting top-level domains:
 
 |  Domain |  unofficial                    |  official                      |

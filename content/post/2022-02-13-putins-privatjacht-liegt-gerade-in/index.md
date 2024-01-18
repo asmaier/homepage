@@ -1,21 +1,31 @@
 ---
-title: 'Putins Privatjacht liegt gerade in ...'
+title: Putins Privatjacht liegt gerade in ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-13
-lastmod: 2022-02-13T23:52:31+01:00
+lastmod: 2022-02-13 23:52:31+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- milliardäre
+- privatjets
+- superyachten
+- klimawandel
+- oligarchen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Putins Privatjacht liegt gerade in Hamburg:
 
 https://www.rnd.de/politik/putins-privatjacht-liegt-in-hamburg-neben-deutschem-kriegsschiff-LPJKHTIBIBF5HJ7X4E46DIBCRM.html
@@ -36,4 +46,3 @@ Wozu brauchen wir eigentlich diese Milliardäre ?
 > ## [SUPERYACHTFAN • Yacht Owners Directory • SuperYachts • Private Jets](https://www.superyachtfan.com/)
 >
 >SuperYacht Fan: All about Superyachts and Luxury Yacht Owners. A super yacht or megayacht is a large and luxurious pleasure vessel. Yacht Owners often also own a private jet.
-

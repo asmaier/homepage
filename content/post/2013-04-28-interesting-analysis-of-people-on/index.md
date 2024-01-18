@@ -1,21 +1,31 @@
 ---
-title: 'Interesting analysis of people on ...'
+title: Interesting analysis of people on ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-04-28
-lastmod: 2013-04-28T13:31:52+02:00
+lastmod: 2013-04-28 13:31:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- facebook
+- wolfram|alpha personal analytics for facebook
+- soziale medien
+- datenanalyse
+- stephen wolfram
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- english
 ---
+
 Interesting analysis of people on facebook. But as Stephen put it:
 
 "Some of this is rather depressingly stereotypical."
@@ -29,4 +39,3 @@ Otherwise you belong to the "depressingly stereotypical" kind of type!
 > ## [Data Science of the Facebook World—Stephen Wolfram Writings](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/)
 >
 >Stephen Wolfram shares interesting Facebook data analysis finds from the Data Donor program of Wolfram|Alpha Personal Analytics for Facebook.
-

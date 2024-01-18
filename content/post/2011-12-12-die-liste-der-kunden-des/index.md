@@ -1,21 +1,31 @@
 ---
-title: 'Die Liste der Kunden des ...'
+title: Die Liste der Kunden des ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-12-12
-lastmod: 2011-12-12T17:06:31+01:00
+lastmod: 2011-12-12 17:06:31+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- päpste
+- fugger
+- handelshaus
+- bank
+- münzrecht
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Die Liste der Kunden des Handels- und Bankhauses der Fugger umfasste im Mittelalter neben den Kaisern des Heiligen Römischen Reiches die Königshäuser der Niederlande und Portugals. Auch Heinrich VIII. oder die Päpste waren Kunden des Hauses. Eines der wichtigsten zu finanzierenden Projekte der damaligen Zeit war der Neubau des Petersdomes in Rom, aber auch der Unterhalt des päpstlichen Armeekorps Schweizergarde.
 
 1486: Das Handelshaus Fugger wird vom Augsburger Rat erstmals als „Bank“ bezeichnet.
@@ -28,4 +38,3 @@ Mmh, wer möchte da noch behaupten Geschichte wiederholt sich nicht...
 > de.wikipedia.org
 > ## [Fürst Fugger Privatbank – Wikipedia](http://de.wikipedia.org/wiki/Fürst_Fugger_Privatbank)
 >
-

@@ -2,20 +2,30 @@
 title: '"Dabei soll auch in Berlin ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-08-07
-lastmod: 2019-08-07T09:49:58+02:00
+lastmod: 2019-08-07 09:49:58+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- berlin
+- tobacco control
+- kinderschutz
+- spielplätze
+- rauchverbot
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Dabei soll auch in Berlin das Qualmen auf Spielplätzen verboten werden. Eigentlich. „Der Schutz von Kindern und Jugendlichen vor dem Passivrauchen ist in Berlin sehr wichtig“, sagt eine Sprecherin der Gesundheitsverwaltung. Eine entsprechende Gesetzesnovelle liegt seit fast einem Jahr im Parlament vor und ist bereits durch verschiedene Ausschüsse gegangen. Doch wann es zu einer Abstimmung kommt, ist noch unklar. Der Thema werde vernachlässigt, kritisiert Spatz. „Die Verwaltung hat nicht genug Biss, es voranzutreiben“, sagt Spatz.
 „Brandenburg, Bremen, NRW, und das Saarland sowie verschiedene Kommunen verbieten das Rauchen auf Spielplätzen“
 "
@@ -30,4 +40,3 @@ Das ist wirklich arm Berlin, und gar nicht sexy.
 > ## [Zigaretten in Berlin: Pfand auf Kippen? - Berliner startet Petition ](https://www.morgenpost.de/berlin/article226694651/Zigaretten-in-Berlin-Pfand-auf-Kippen-Berliner-startet-Petition.html)
 >
 >Stephan von Orlow will, dass auf Zigarettenkippen Pfand erhoben wird. Mit seiner Petition im Netz hat er bereits 49.000 Unterschriften gesammelt. Der Deutsche Zigarettenverband ist dagegen.
-

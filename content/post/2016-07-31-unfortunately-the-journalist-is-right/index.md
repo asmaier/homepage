@@ -2,20 +2,30 @@
 title: 'Unfortunately the journalist is right: ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-07-31
-lastmod: 2016-07-31T23:24:39+02:00
+lastmod: 2016-07-31 23:24:39+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- berlin
+- startup-szene
+- potenzial
+- geschlechtergleichheit
+- frustration
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- english
 ---
+
 Unfortunately the journalist is right:
 
 "...most management teams are male dominated Wurst-Fests..."
@@ -24,4 +34,3 @@ Unfortunately the journalist is right:
 > ## [How the Berlin startup scene is wasting its potential](http://www.thelocal.de/20160729/how-the-berlin-startup-scene-is-wasting-its-potential)
 >
 >Working in the Berlin startup scene has been the most frustrating period of my entire career. This is partly personal, but a chunk of my frustration is watching a city with so much potential flounder so magnificently, writes one industry expert.
-

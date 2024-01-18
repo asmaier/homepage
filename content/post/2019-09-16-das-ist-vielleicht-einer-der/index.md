@@ -1,21 +1,31 @@
 ---
-title: 'Das ist vielleicht einer der ...'
+title: Das ist vielleicht einer der ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-09-16
-lastmod: 2019-09-16T20:29:47+02:00
+lastmod: 2019-09-16 20:29:47+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- quantenmechanik
+- messprozesse
+- decoherenz
+- verschränkung
+- meßapparate
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Das ist vielleicht einer der besten populärwissenschaftlichen Artikel zum Thema Meßprozess in der Quantenmechanik:
 
 "What we understand to be decoherence is not actually a loss of
@@ -28,4 +38,3 @@ Das heißt nichts anderes, als das die Welt quantenmechanisch ist und bleibt. Au
 > ## [The Universe Is Always Looking](https://www.theatlantic.com/science/archive/2018/10/beyond-weird-decoherence-quantum-weirdness-schrodingers-cat/573448/)
 >
 >The one thing you probably understand about quantum physics is actually a poor metaphor for the modern state of the field.
-

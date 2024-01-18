@@ -1,21 +1,31 @@
 ---
-title: 'Oh, die Morgenpost redet Klartext ...'
+title: Oh, die Morgenpost redet Klartext ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-12-05
-lastmod: 2018-12-05T12:50:17+01:00
+lastmod: 2018-12-05 12:50:17+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- tiergarten (berlin)
+- bürgerämter in berlin
+- neujahr in berlin
+- berliner verkehr
+- straßenverkehr in berlin
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Oh, die Morgenpost redet Klartext über Berlin:
 
 "Das wiederkehrende Chaos bei S- und U-Bahnen. Spektakulär dämliche Radwege mit Zickzack-Linienführung. Die Tatsache, dass die sechsspurige Straße des 17. Juni, also die wichtigste West-Ost-Verbindung durch den Tiergarten, alle Nase lang komplett gesperrt wird und der Verkehr kollabiert.
@@ -28,4 +38,3 @@ Einen Vorschlag zur Verbesserung hätte ich gleich parat: Die Straße des 17. Ju
 > ## [Warum Boris Palmer mit seiner Berlin-Schelte auch Recht hat](https://www.morgenpost.de/politik/article215942133/Berlin-Schelte-von-Boris-Palmer-Warum-er-ein-bisschen-recht-hat.htmlDas)
 >
 >Boris Palmer hat in seiner Berlin-Schelte einen Nerv getroffen, weil in Berlin einiges schief läuft. Doch er hat Wichtiges vergessen.
-

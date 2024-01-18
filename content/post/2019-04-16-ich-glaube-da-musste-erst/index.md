@@ -1,21 +1,31 @@
 ---
-title: 'Ich glaube da müsste erst ...'
+title: Ich glaube da müsste erst ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-04-16
-lastmod: 2019-04-16T22:57:13+02:00
+lastmod: 2019-04-16 22:57:13+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- veganer fußballverein
+- öko-fußballverein
+- alkoholfreies bier im stadion
+- veganes catering in stadien
+- sponsoring durch windkraftanlagen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ich glaube da müsste erst die Hölle zufrieren bevor so etwas in Deutschland passiert:
 
 Ein veganer Ökofußballverein gesponsert von einem Gutmenschen, der sein Vermögen mit Windkraftanlagen gemacht hat. 
@@ -30,4 +40,3 @@ In Deutschland wird es ja schon als Skandal angesehen, wenn  alkoholfreies Bier 
 > ## [Lösungskolumne: Der grüne Fußballverein Forest Green Rovers](https://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/forest-green-rovers-fussball-nachhaltigkeit-gruen-oeko-bio-vegan-sport-ernaehrung-umwelt-87124)
 >
 >Klimaneutraler Fußball ohne Bratwurst im Stadion und Kunstdünger für den Rasen? Kann das funktionieren? Ein britischer Profi-Club feiert mit diesem Konzept gerade Erfolge – und könnte bald zum Vorbild werden.
-

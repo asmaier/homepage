@@ -2,20 +2,30 @@
 title: 'Zitat: "Wenn diese Internetdienstleister es ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-10-01
-lastmod: 2011-10-01T19:28:48+02:00
+lastmod: 2011-10-01 19:28:48+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- piratenpartei
+- regulierung
+- verstaatlichung
+- datenschutz
+- internetdienstleister
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Zitat: "Wenn diese Internetdienstleister es nicht schleunigst lernen, uns in ihren Communitys als Bürger zu behandeln statt als Gemüse, werden etliche Regierungen auf der Welt in naher Zukunft Machtworte sprechen." 
 
 Das Problem an der Verstaatlichung von Google oder Facebook ist nur, dass dann der Staat alle unsere Daten hat und nicht ein Unternehmen. Ich weiss nicht, was schlechter ist. 
@@ -25,4 +35,3 @@ Aber in Deutschland ist eh alles schon zu spät: Jeder Bürger ist nummeriert, u
 > ## [Google und Facebook werden irgendwann verstaatlicht](http://www.zeit.de/2011/40/Jon-Callas-ueber-Facebook)
 >
 >Die großen Betreiber von Internetdiensten werden zu Grundversorgern. Sie behandeln ihre Nutzer aber so schlecht, dass sie damit eine strenge Regulierung provozieren.
-

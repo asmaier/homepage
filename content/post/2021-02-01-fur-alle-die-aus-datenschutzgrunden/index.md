@@ -1,21 +1,31 @@
 ---
-title: 'Für alle die aus Datenschutzgründen ...'
+title: Für alle die aus Datenschutzgründen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-02-01
-lastmod: 2021-02-01T11:03:31+01:00
+lastmod: 2021-02-01 11:03:31+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- viccontrol
+- deutsche produkte
+- alternativen zu amazon alexa
+- spracherkennung
+- offline-assistenten
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Für alle die aus Datenschutzgründen derzeit auf dem Einsatz von Amazon Alexa und Co. gerne verzichten gibt es jetzt eine interessante Alternative aus Deutschland. Zu bestellen ist die Platine z.B. bei Conrad. 
 
 https://www.youtube.com/watch?v=WVp7rYuUo_U
@@ -28,4 +38,3 @@ Mehr Infos unter :
 > ## [CC2tv #287 Spracherkennung ohne Kraken](https://www.youtube.com/watch?v=WVp7rYuUo_U)
 >
 >Website: http://www.cc2.tvShop: http://www.cc2.shopSpenden: https://paypal.me/cc2tvvicCONTROL goSpracherkennung erobert immer mehr unserer Lebensbereiche. Di...
-

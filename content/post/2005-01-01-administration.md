@@ -1,25 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2005-01-01"
+date: '2005-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-09-27T21:28:39+02:00"
+lastmod: '2019-09-27T21:28:39+02:00'
 projects: []
 slug: administration
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags:
-- computer
+- superuser
+- x-programme
+- root-rechte
+- passwortänderung
 - linux
+- administratorrechte
+- computer
 categories:
-- deutsch
 - old_website
 title: Administration
+year: '2005'
+languages:
+- deutsch
 ---
+
 <p>Hier stehen Dinge, die man nur als Administrator (Root) bzw.
 Superuser ausführen kann.</p>
 <ul>

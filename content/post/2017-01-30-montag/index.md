@@ -1,25 +1,34 @@
 ---
-title: 'Montag. ...'
+title: Montag. ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2017-01-30
-lastmod: 2017-01-30T11:43:01+01:00
+lastmod: 2017-01-30 11:43:01+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- bilder
+- videos
+- internet
+- community
+- memes
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2017
+languages:
+- english
 ---
+
 Montag.
 > [![](https://i.imgur.com/8ue0geT.jpg?fb)](http://imgur.com/8ue0geT)
 > imgur.com
 > ## [America first? Da können wir nur müde lächeln ..](http://imgur.com/8ue0geT)
 >
 >Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
-

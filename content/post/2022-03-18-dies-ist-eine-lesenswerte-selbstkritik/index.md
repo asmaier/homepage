@@ -1,21 +1,31 @@
 ---
-title: 'Dies ist eine lesenswerte Selbstkritik ...'
+title: Dies ist eine lesenswerte Selbstkritik ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-03-18
-lastmod: 2022-03-18T23:28:07+01:00
+lastmod: 2022-03-18 23:28:07+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- russische journalisten
+- selbstkritik
+- vladimir putin
+- ostdeutschland
+- mediensnobbery
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- english
 ---
+
 Dies ist eine lesenswerte Selbstkritik eines russischen Journalisten.
 
 "We have to take off our masks of snobbishness and admit that it was precisely our snobbishness that helped Putin turn into this
@@ -28,4 +38,3 @@ Mehr Selbstkritik dieser Art würde aber auch deutschen Medienschaffenden gut zu
 > ## [Thread by @ichbinilya on Thread Reader App](https://threadreaderapp.com/thread/1504619176354320384.html)
 >
 >@ichbinilya: Russian writer and economist Maxim Mironov (@mironov_fm) has written an absolutely fascinating critique of the elite Russian media space. Read it here ð if you speak Russian. If you don't, keep reading ...â¦
-

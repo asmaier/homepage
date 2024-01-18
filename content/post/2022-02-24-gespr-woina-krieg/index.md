@@ -1,21 +1,31 @@
 ---
-title: 'Война! (gespr. Woina = Krieg) ...'
+title: Война! (gespr. Woina = Krieg) ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-02-24
-lastmod: 2022-02-24T21:53:10+01:00
+lastmod: 2022-02-24 21:53:10+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- russian military intervention in ukraine
+- siege of chernobyl
+- ukrainian crisis (2013–2014)
+- invasion of ukraine by russia
+- russo-ukrainian war
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Война! (gespr. Woina = Krieg) 
 
 Ich teile hier zwei Quellen, die normalerweise sehr gut und sehr schnell informiert sind:
@@ -30,4 +40,3 @@ Noch ist die Ukraine nicht verloren, aber die Situation ist äußerst kritisch. 
 > ## [Invasion Russia pummels Ukraine with air strikes as troops march deep into the country, advancing into downtown Kyiv — Meduza](https://meduza.io/en/live/2022/02/24/invasion)
 >
 >.
-

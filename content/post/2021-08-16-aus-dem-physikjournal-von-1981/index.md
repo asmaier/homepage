@@ -1,21 +1,31 @@
 ---
-title: 'Aus dem PhysikJournal von 1981(!) ...'
+title: Aus dem PhysikJournal von 1981(!) ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-08-16
-lastmod: 2021-08-16T10:38:54+02:00
+lastmod: 2021-08-16 10:38:54+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- klimawandel
+- fossile brennstoffe
+- zukunft der menschheit
+- geophysik
+- co2-emissionen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Aus dem PhysikJournal von 1981(!) zum Thema Klimawandel durch CO2:
 
 "
@@ -25,4 +35,3 @@ es geht hier  nicht  um  Argumente  fur  einen Wahlkampf  in  der kurzatmigen Ze
 
 Niemand kann sagen, dass Thema sei ganz plötzlich auf der Tagesordnung. Die Wissenschaft warnt seit 40 Jahren!
 > https://onlinelibrary.wiley.com/doi/epdf/10.1002/phbl.19810370714
-

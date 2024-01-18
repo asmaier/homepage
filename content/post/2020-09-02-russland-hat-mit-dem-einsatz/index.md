@@ -1,21 +1,31 @@
 ---
-title: 'Russland hat mit dem Einsatz ...'
+title: Russland hat mit dem Einsatz ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-09-02
-lastmod: 2020-09-02T22:26:52+02:00
+lastmod: 2020-09-02 22:26:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- chemiewaffenkonvention
+- nawalny
+- total (unternehmen)
+- russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Russland hat mit dem Einsatz von Nowitschok gegen Nawalny nicht nur gezeigt, was für ein menschenverachtendes Regime da immer noch an der Macht ist. Sie haben auch erneut gegen die https://de.wikipedia.org/wiki/Chemiewaffenkonvention verstoßen und steht damit in einer Reihe mit Syrien und Nordkorea. 
 
 Weitere Sanktionen werden daher unausweichlich sein. Wer jetzt schon Russland sanktionieren möchte, der tankt am Besten nicht mehr bei Total. Die beziehen nämlich einen großen Teil ihres Stoffes aus Russland (https://www.greenpeace.de/themen/klimawandel/ursachen-des-klimawandels/oelmulti-total-oelpest-sibirien).
@@ -26,4 +36,3 @@ Ceterum censeo, Putinism esse delendam.
 > ## [Aktuelle Nachrichten aus Deutschland](https://www.tagesschau.de/inland/nawalny-nervengift-101.html)
 >
 >Überblick zu Hintergründen, Analysen und Interviews bei tagesschau.de - die erste Adresse für Nachrichten und umfassende Berichte zu aktuellen Themen.
-

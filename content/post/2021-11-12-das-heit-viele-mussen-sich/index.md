@@ -1,25 +1,34 @@
 ---
-title: 'Das heißt viele müssen sich ...'
+title: Das heißt viele müssen sich ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-11-12
-lastmod: 2021-11-12T10:08:07+01:00
+lastmod: 2021-11-12 10:08:07+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- corona-pandemie
+- booster-impfung
+- impfung
+- impfverweigerung
+- solidarität
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Das heißt viele müssen sich jetzt zum dritten Mal impfen lassen, weil andere sich gar nicht impfen wollen? Danke für eure Solidarität, liebe Querdenker.
 > [![](https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/1/3/1/0/2/shutterstock_1295677234-593c14c72270310a.jpg)](https://www.heise.de/news/Berechnung-Rasche-viele-Boosterimpfungen-koennten-vierte-Corona-Welle-brechen-6264620.html)
 > heise.de
 > ## [Berechnung: Rasche, viele Boosterimpfungen könnten vierte Corona-Welle brechen](https://www.heise.de/news/Berechnung-Rasche-viele-Boosterimpfungen-koennten-vierte-Corona-Welle-brechen-6264620.html)
 >
 >Wenn die Kampagne für Booster-Impfungen drastisch an Fahrt aufnimmt und die Impfzahlen vom Sommer übertrifft, könnte das die Impfverweigerung ausgleichen.
-

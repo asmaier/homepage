@@ -1,21 +1,31 @@
 ---
-title: 'Da heute (wenig überraschend) die ...'
+title: Da heute (wenig überraschend) die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-04-15
-lastmod: 2021-04-15T14:41:45+02:00
+lastmod: 2021-04-15 14:41:45+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wohnungspolitik
+- berlin
+- hauptstadt
+- verfassungsgericht
+- mietpreisbremse
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Da heute (wenig überraschend) die Berliner Mietpreisbremse vom Verfassungsgericht gekippt wurde, möchte ich nochmal aus meinem eigenen Post zu dem Thema zitieren:
 
 "Dabei gäbe es viel kreativere Ideen, statt alte Nazigesetze wieder zu beleben (ironischerweise gerade von linken Parteien): 
@@ -29,4 +39,3 @@ https://www.facebook.com/andreas.maier.754918/posts/2343075179071501
 > ## [Mietendeckel in Berlin: Die wichtigsten Fragen und Antworten ](https://www.morgenpost.de/berlin/article226230165/Mietendeckel-in-Berlin-Fragen-und-Antworten-Was-Sie-jetzt-wissen-muessen.html)
 >
 >Anfang 2020 soll der Mietenstopp in Berlin rückwirkend in Kraft treten. Fragen und Antworten zum Mietendeckel in Berlin.
-

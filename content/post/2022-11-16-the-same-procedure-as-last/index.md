@@ -1,21 +1,31 @@
 ---
-title: 'The same procedure as last ...'
+title: The same procedure as last ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-11-16
-lastmod: 2022-11-16T16:00:36+01:00
+lastmod: 2022-11-16 16:00:36+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- wahlgerichtsurteile
+- wahlprobleme und -unregelmäßigkeiten
+- bundestagswahl in deutschland 2021
+- wahlen in berlin
+- berliner abgeordnetenhauswahl 2023
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 The same procedure as last year, James!
 
 Und mein Wahlbezirk muß anscheinend nicht nur die Berlinwahl, sondern auch die Bundestagswahl wiederholen. Wobei ich keine Problem mit der Angabe der Stimme hatte, außer dass die Schlange halt sehr lange war. 
@@ -30,4 +40,3 @@ https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2023/beitraege/berlin-wah
 > ## [Berlin-Wahl muss komplett wiederholt werden](https://www.rbb24.de/politik/wahl/abgeordnetenhaus/agh-2023/beitraege/berlin-wahl-wiederholung-verfassungsgericht-urteil-entscheidung-2021-2023.html)
 >
 >Zum ersten Mal in der Geschichte muss eine Berliner Wahl wiederholt werden. Das hat das Landesverfassungsgericht am Mittwoch entschieden. Grund sind die zahlreichen Pannen bei der Wahl 2021. Nun muss Anfang 2023 erneut gewählt werden.
-

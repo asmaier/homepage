@@ -1,21 +1,31 @@
 ---
-title: 'Deutschland ist offenbar zu feige ...'
+title: Deutschland ist offenbar zu feige ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-09-05
-lastmod: 2018-09-05T09:38:01+02:00
+lastmod: 2018-09-05 09:38:01+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- research_funding
+- elsevier
+- open_access
+- scientific_journals
+- european_commission
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- english
 ---
+
 Deutschland ist offenbar zu feige für diesen notwendigen radikalen Schritt:
 
 "Peter Strohschneider, president of Germany’s national research council, the DFG, says his council hadn't signed because of the way the plan mandates recipients of public funding to specific forms of open access. “We request our researchers to publish their findings from DFG grants open access but we do not mandate them," he said. He also cautioned that if researchers were all told to publish in open-access journals, costs of publishing could increase."
@@ -26,4 +36,3 @@ Stattdessen lässt man sich von Elsevier an der Nase herumführen: https://www.t
 > ## [Radical open-access plan could spell end to journal subscriptions](https://www.nature.com/articles/d41586-018-06178-7)
 >
 >European Commission special envoy Robert-Jan Smits has spearheaded a plan to make all scientific works free to read.
-

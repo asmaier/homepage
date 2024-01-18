@@ -1,24 +1,27 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T22:43:21+02:00"
+lastmod: '2019-10-19T22:43:21+02:00'
 projects: []
 slug: netflix-prize
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
 - machine_learning
 title: Netflix prize
+year: '2008'
+languages:
+- english
 ---
+
 The [Netflix Prize](http://en.wikipedia.org/wiki/Netflix_Prize) will be over soon. As possibly best algorithms emerged:
 
 * [Support Vector Machine (SVN)](http://en.wikipedia.org/wiki/Support_Vector_Machine)

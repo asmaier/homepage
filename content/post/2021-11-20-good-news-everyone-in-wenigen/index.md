@@ -1,21 +1,31 @@
 ---
-title: 'Good News everyone! In wenigen ...'
+title: Good News everyone! In wenigen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-11-20
-lastmod: 2021-11-20T20:18:16+01:00
+lastmod: 2021-11-20 20:18:16+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- impfstoff
+- ema
+- proteinimpfstoffe
+- novavax
+- coronavirus
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Good News everyone! 
 
 In wenigen Wochen entscheidet die europäische Arzneimittelbehörde EMA über die Zulassung eines neuen amerikanischen Impfstoffes der Firma Novavax . 
@@ -30,4 +40,3 @@ https://www.spektrum.de/news/novavax-proteinbasierte-impfstoffe-koennten-die-pan
 > ## [Novavax: Wie proteinbasierte Corona-Impfstoffe die Pandemie verändern könnten](https://www.spektrum.de/news/novavax-proteinbasierte-impfstoffe-koennten-die-pandemie-veraendern/1950172)
 >
 >Neuartige Corona-Impfstoffe von Novavax und anderen Biotech-Unternehmen sind im Kommen
-

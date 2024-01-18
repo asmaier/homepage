@@ -1,21 +1,31 @@
 ---
-title: 'Da die deutschen Medien lieber ...'
+title: Da die deutschen Medien lieber ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-05-01
-lastmod: 2015-05-01T12:30:46+02:00
+lastmod: 2015-05-01 12:30:46+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- clean technology
+- solar energy
+- batteries
+- renewable energy
+- energy storage
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
+
 Da die deutschen Medien lieber Werbung für Tesla machen, entgeht ihnen, was es Gutes im eigenen Land gibt: http://www.sonnenbatterie.de/
 
 Ironischerweise findet man Nachrichten über dieses Unternehmen nur in englischsprachigen Zeitungen nach dem Motto: "The grass is always greener on the other side!" ;-)﻿
@@ -24,4 +34,3 @@ Ironischerweise findet man Nachrichten über dieses Unternehmen nur in englischs
 > ## [Sungevity and Sonnenbatterie to Undercut Tesla and SolarCity on Storage Pricing?](http://www.greentechmedia.com/articles/read/sungevity-and-sonnenbatterie-to-undercut-tesla)
 >
 >A U.S.-German partnership could soon bring a $10,000 storage system to consumers.
-

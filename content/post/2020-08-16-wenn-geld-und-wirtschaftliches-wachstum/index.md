@@ -1,21 +1,31 @@
 ---
-title: 'Wenn Geld und wirtschaftliches Wachstum ...'
+title: Wenn Geld und wirtschaftliches Wachstum ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-08-16
-lastmod: 2020-08-16T22:35:33+02:00
+lastmod: 2020-08-16 22:35:33+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- osteuropa
+- saudi-arabien
+- demokratie
+- europäische union
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Wenn Geld und wirtschaftliches Wachstum die Demokratisierung
 vorantreiben würde, dann wäre Saudi-Arabien der demokratischste Staat der Welt. Das hat die EU leider nicht verstanden. Es nützt nichts den Kleptokratien Osteuropas noch mehr Geld hinterher zu werfen. Das wird die Regime dort nur stabilisieren aber nicht demokratisieren.
 
@@ -25,4 +35,3 @@ Das Video von Martin Sonneborn zu den Auswüchsen, die die lasche EU-Politik dor
 > ## [Fettes Osteuropa-Bashing](https://www.youtube.com/watch?v=paPHtR70u5g)
 >
 >Ein (vollvergeblicher) Zerstörungsversuch ohne Quellenangaben...ACHTUNG: Kann Spuren von POLEMIK enthalten! SchimpfSmiley!Ihr Martin Sonneborn, fraktionslose...
-

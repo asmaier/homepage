@@ -1,21 +1,31 @@
 ---
-title: 'Erst kommt das Geld, dann ...'
+title: Erst kommt das Geld, dann ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-08-04
-lastmod: 2023-08-04T22:34:36+02:00
+lastmod: 2023-08-04 22:34:36+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- privatjets
+- superreiche
+- klimawandel
+- co2-emissionen
+- steuer
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Erst kommt das Geld, dann die Moral. Wer dachte, dass gilt nur für die Armen, kennt unsere Superreichen schlecht. Die denken ganz genauso:
 https://www.blick.ch/ausland/ich-leb-mein-leben-alles-andere-ist-mir-scheissegal-superreiche-lachen-im-privatjet-ueber-klimakleber-id18743116.html
 
@@ -28,4 +38,3 @@ Unser Regierungen befördern geradezu das klimaschädliche Verhalten der Reichen
 
 Worauf warten wir also?
 > https://www.blick.ch/ausland/ich-leb-mein-leben-alles-andere-ist-mir-scheissegal-superreiche-lachen-im-privatjet-ueber-klimakleber-id18743116.html
-

@@ -1,20 +1,29 @@
 ---
-title: 'Gib Word keine Chance! ...'
+title: Gib Word keine Chance! ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-05-31
-lastmod: 2015-05-31T17:11:58+02:00
+lastmod: 2015-05-31 17:11:58+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- sport
+- kunst
+- bildung
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- english
 ---
-Gib Word keine Chance!
 
+Gib Word keine Chance!

@@ -1,21 +1,31 @@
 ---
-title: 'Gerade ist ja mal wieder ...'
+title: Gerade ist ja mal wieder ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-09-30
-lastmod: 2019-09-30T22:25:51+02:00
+lastmod: 2019-09-30 22:25:51+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- weltrekorde
+- ex äquo
+- physik
+- messtechnik im sport
+- leichtathletik-wm
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Gerade ist ja mal wieder Leichtathletik-WM und passend dazu habe ich einen alten Physik-Artikel von 1978 gefunden:
 
 Die Angst vor dem “Ex äquo”?: Meßtechnik im Sport — Eine kritische Betrachtung (https://onlinelibrary.wiley.com/doi/epdf/10.1002/phbl.19780340504)
@@ -25,4 +35,3 @@ Zitat:
 
 Das ist ein interessantes Thema, das kaum diskutiert wird. Die Meßgenauigkeit der Zeit ist oft viel höher als die der Strecke. Deswegen sind viele Zeiten und Rekorde eigentlich gar nicht signifikant unterschiedlich.
 > https://onlinelibrary.wiley.com/doi/epdf/10.1002/phbl.19780340504
-

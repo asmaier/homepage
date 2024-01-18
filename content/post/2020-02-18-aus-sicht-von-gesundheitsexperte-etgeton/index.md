@@ -2,20 +2,30 @@
 title: '"Aus Sicht von Gesundheitsexperte Etgeton ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-18
-lastmod: 2020-02-18T22:25:26+01:00
+lastmod: 2020-02-18 22:25:26+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- versicherungssysteme
+- medizin
+- zweiklassenmedizin
+- österreich
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 "Aus Sicht von Gesundheitsexperte Etgeton zahlen die gesetzlich Versicherten sogar indirekt für die Privaten mit: Der durchschnittliche GKV-Versicherte zahle "jedes Jahr mehr als nötig, damit sich Gutverdiener, Beamte und Selbstständige dem Solidarausgleich entziehen können". Das sei der Preis dafür, dass sich Deutschland als einziges Land in Europa ein duales Krankenversicherungssystem leiste."
 
 "Jedes momentan gesetzlich versicherte Mitglied könnte demnach pro Jahr durchschnittlich 145 Euro sparen, wenn auch Gutverdiener, Beamte und einkommensstarke Selbstständige sich am Solidarsystem der GKV beteiligten."
@@ -26,4 +36,3 @@ Die Zwei-Klassen-Medizin in Deutschland ist ein Übel, das unbedingt abgeschafft
 > ## [Krankenkassen: Abschaffung der Privatkassen würde Versicherte entlasten](https://www.zeit.de/wirtschaft/2020-02/krankenkassen-privatkassen-gesundheit-zwei-klassen-medizin)
 >
 >Die Bertelsmann Stiftung empfiehlt ein Ende der Zweiklassenmedizin: Weil sich gesunde Vielverdiener privat versichern, steige die Finanzlast für Kassenpatienten.
-

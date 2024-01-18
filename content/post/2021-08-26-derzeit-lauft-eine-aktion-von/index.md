@@ -1,21 +1,31 @@
 ---
-title: 'Derzeit läuft eine Aktion von ...'
+title: Derzeit läuft eine Aktion von ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-08-26
-lastmod: 2021-08-26T21:33:53+02:00
+lastmod: 2021-08-26 21:33:53+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- wahlkreise
+- petitionen
+- klimawandel
+- umweltbewegung
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Derzeit läuft eine Aktion von "Schwarm For Future". Diese starten in jedem Wahlkreis Petitionen für mehr Klimaschutz. Den Link für die Petition in eigenen Wahlkreis findet man über deren Seite unter 
 
 https://docs.google.com/spreadsheets/d/16qawWw9bm-HrR-j30I8gZLCo-4pCdL83gnuzXuaajeI/edit#gid=262009058
@@ -33,4 +43,3 @@ Dalai Lama
 > schwarmforfuture.net
 > ## [Schwarm-Wissen | Schwarm For Future](https://schwarmforfuture.net/schwarm-wissen/)
 >
-

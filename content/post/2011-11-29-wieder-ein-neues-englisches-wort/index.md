@@ -1,22 +1,31 @@
 ---
-title: 'Wieder ein neues englisches Wort ...'
+title: Wieder ein neues englisches Wort ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2011-11-29
-lastmod: 2011-11-29T15:32:01+01:00
+lastmod: 2011-11-29 15:32:01+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- romane
+- frauenliteratur
+- literatur für junge erwachsene
+- belletristik
+- komödie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2011
+languages:
+- deutsch
 ---
+
 Wieder ein neues englisches Wort gelernt:
 
 Chick Lit = Frauenporno ;-)
-

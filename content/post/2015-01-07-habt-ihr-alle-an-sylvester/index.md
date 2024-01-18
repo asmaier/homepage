@@ -1,21 +1,31 @@
 ---
-title: 'Habt ihr alle an Sylvester ...'
+title: Habt ihr alle an Sylvester ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2015-01-07
-lastmod: 2015-01-07T10:32:56+01:00
+lastmod: 2015-01-07 10:32:56+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- schaumweinsteuer
+- kriegsflotte
+- wirtschaftskrise
+- finanzierung
+- reichstag
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2015
+languages:
+- deutsch
 ---
+
 Habt ihr alle an Sylvester kräftig auf unsere Flotte angestoßen? 
 
 - "Die Schaumweinsteuer wurde 1902 vom Reichstag zur Finanzierung der kaiserlichen Kriegsflotte eingeführt, weil „bei einer so starken Steigerung der Ausgaben für die Wehrkraft des Landes auch der Schaumwein herangezogen werden muß“"
@@ -25,4 +35,3 @@ Habt ihr alle an Sylvester kräftig auf unsere Flotte angestoßen?
 > de.wikipedia.org
 > ## [Schaumweinsteuer – Wikipedia](http://de.wikipedia.org/wiki/Schaumweinsteuer)
 >
-

@@ -1,21 +1,31 @@
 ---
-title: 'Das dürfte die beste Auswertung ...'
+title: Das dürfte die beste Auswertung ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-09-24
-lastmod: 2021-09-24T11:19:08+02:00
+lastmod: 2021-09-24 11:19:08+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- datenvisualisierung
+- wahlen
+- umfragen
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Das dürfte die beste Auswertung der Wahlumfragen so kurz vor der Wahl sein:
 https://blog.datawrapper.de/data-visualizations-german-election-2021-with-datawrapper/
 Vielleicht überraschend: Nur 2 von 7 möglichen Regierungskoalitionen sind ohne CDU und die große Koalition hätte auch wieder eine Mehrheit.
@@ -26,4 +36,3 @@ Ich hoffe ihr wisst, was ihr am Wahlsonntag zu tun habt!
 > ## [How to visualize polls and results of the German election with Datawrapper - Datawrapper Blog](https://blog.datawrapper.de/data-visualizations-german-election-2021-with-datawrapper/)
 >
 >Nine data visualizations you can use when reporting about the German election on September 26.
-

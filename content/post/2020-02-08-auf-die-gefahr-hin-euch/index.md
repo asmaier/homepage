@@ -1,21 +1,31 @@
 ---
-title: 'Auf die Gefahr hin euch ...'
+title: Auf die Gefahr hin euch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-02-08
-lastmod: 2020-02-08T23:49:18+01:00
+lastmod: 2020-02-08 23:49:18+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- philosophie
+- wissenschaft
+- künstliche intelligenz
+- zukunft
+- superintelligente wesen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Auf die Gefahr hin euch alle zu überfordern hier ein Interview mit einem der tiefsten Denker unserer Zeit: Jürgen Schmidhuber. 
 
 In diesem Interview erklärt er so nebenbei
@@ -29,4 +39,3 @@ Und ich glaube es ist nicht zuviel versprochen wenn ich sage: Alle seine Antwort
 > youtube.com
 > ## [Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs | Lex Fridman Podcast #11](https://www.youtube.com/watch?v=3FIo6evmweo)
 >
-

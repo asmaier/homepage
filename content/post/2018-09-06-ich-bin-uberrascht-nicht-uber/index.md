@@ -1,21 +1,31 @@
 ---
-title: 'Ich bin überrascht. Nicht über ...'
+title: Ich bin überrascht. Nicht über ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-09-06
-lastmod: 2018-09-06T21:58:56+02:00
+lastmod: 2018-09-06 21:58:56+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- verfassungsschutz
+- deutschlandtrend
+- flüchtlinge
+- afd
+- umfragen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 Ich bin überrascht. 
 
 Nicht über das Ergebnis der Umfrage sondern das die Tagesschau auch die Untersuchungsanlage direkt unter den Studienergebnissen postet:
@@ -36,4 +46,3 @@ Genauso gehört es gemacht, liebe Journalisten! Für jede Statistik und Vorhersa
 > ## [DeutschlandTrend: Mehrheit für Beobachtung der AfD](https://www.tagesschau.de/inland/deutschlandtrend-1361.html)
 >
 >Im ARD-DeutschlandTrend stellen die Bürger der deutschen Flüchtlingspolitik kein gutes Zeugnis aus. Bei der Frage, ob der Verfassungsschutz die AfD beobachten sollte, gibt es eine klare Mehrheit. Von Ellen Ehni.
-

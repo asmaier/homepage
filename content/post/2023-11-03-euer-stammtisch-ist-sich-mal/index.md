@@ -1,21 +1,31 @@
 ---
-title: 'Euer Stammtisch ist sich mal ...'
+title: Euer Stammtisch ist sich mal ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-11-03
-lastmod: 2023-11-03T21:30:12+01:00
+lastmod: 2023-11-03 21:30:12+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- klimawandel
+- wasserstoff
+- energieversorgung
+- erdgas
+- energiewende
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 Euer Stammtisch ist sich mal wieder einig, dass das mit der Energiewende nix wird. Wegen Dunkelflaute und weil Habeck die Atomkraftwerke abgeschaltet hat und außerdem weil wir ohne Kohlekraftwerke alle sterben werden. Das einzige was hilft ist aus Protest die A-Partei zu wählen, dann wird alles wieder so wie früher (wobei immer unklar bleibt, wie weit früher: Vor der Einführung des Euro, vor der Wende (DDR ole!), vor dem zweiten Weltkrieg oder gar zurück bis zum Kaiserreich und den Dampfmaschinen?)
 
 Die Zukunft dagegen passiert bereits jetzt und keine A-, C oder F-Partei kann das noch verhindern. Z.B. 
@@ -40,4 +50,3 @@ Die Energiewende kommt und funktioniert. Es wird Zeit das sich euer Stammtisch e
 > ## [Neues Heizkraftwerk in Leipzig liefert Wärme für die Stadt der Zukunft | MDR.DE](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/inbetriebnahme-heizkraftwerk-energie-wasserstoff-100.html)
 >
 >Im Süden von Leipzig wird am Montag ein neues Heizkraftwerk eingeweiht. Das Kraftwerk gilt als eines der saubersten der Welt und ist zudem für den Betrieb mit Wasserstoff ausgelegt.
-

@@ -1,21 +1,31 @@
 ---
-title: 'Nein! Doch! Oh! Ich denke ...'
+title: Nein! Doch! Oh! Ich denke ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-07-24
-lastmod: 2020-07-24T23:07:01+02:00
+lastmod: 2020-07-24 23:07:01+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- europäische unternehmen
+- rechtliche aspekte
+- datenschutz
+- softwareanbieter
+- alternativen
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- deutsch
 ---
+
 Nein! Doch! Oh! 
 
 Ich denke jedem vernünftigen Menschen ist schon seit Jahren klar, dass Datenschutz nach europäischen Standards bei amerikanischen Unternehmen nie und nimmer gewährleistet ist. Jedes Unternehmen oder Behörde in Deutschland (ja ich schaue auch auf euch, liebe Stadt München) die so tut als hätte sie das nicht gewusst, haben nur die Ratschläge ihrer Techniker und Softwareexperten über Jahre ignoriert. Jetzt kommt die Quittung! Google, Amazon, Apple, Microsoft, Facebook und z.B. auch Tesla müssen daher für europäische Unternehmen tabu sein. Es gibt auch Alternativen, nur sind europäische Journalisten zu dämlich und machen nur Werbung für die amerikanischen Firmen.
@@ -42,4 +52,3 @@ https://www.heise.de/meinung/Kommentar-EuGH-Urteil-zu-Privacy-Shield-ist-eine-Ka
 > ## [Kommentar: EuGH-Urteil zu Privacy Shield ist eine Katastrophe mit Ansage](https://www.heise.de/meinung/Kommentar-EuGH-Urteil-zu-Privacy-Shield-ist-eine-Katastrophe-mit-Ansage-4851570.html)
 >
 >Der EuGH hat die Privacy-Shield-Grundsätze für unwirksam erklärt. Obwohl damit zu rechnen war, ist kaum jemand auf die Folgen des Urteils vorbereitet.
-

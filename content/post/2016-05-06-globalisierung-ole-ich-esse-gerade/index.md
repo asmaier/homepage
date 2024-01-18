@@ -1,20 +1,29 @@
 ---
-title: 'Globalisierung ole! Ich esse gerade ...'
+title: Globalisierung ole! Ich esse gerade ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-05-06
-lastmod: 2016-05-06T16:43:04+02:00
+lastmod: 2016-05-06 16:43:04+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- globalisierung
+- handel
+- internationale waren
+- nahrungsmittel
+- supermärkte
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
-Globalisierung ole! Ich esse gerade Erdbeeren aus Kamerun, die ich in einer niederländischen Supermarktkette in Russland gekauft habe.
 
+Globalisierung ole! Ich esse gerade Erdbeeren aus Kamerun, die ich in einer niederländischen Supermarktkette in Russland gekauft habe.

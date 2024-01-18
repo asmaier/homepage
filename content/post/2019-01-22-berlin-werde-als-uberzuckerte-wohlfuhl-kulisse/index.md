@@ -2,20 +2,30 @@
 title: '"Berlin werde als „überzuckerte Wohlfühl-Kulisse ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-01-22
-lastmod: 2019-01-22T17:31:14+01:00
+lastmod: 2019-01-22 17:31:14+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- film
+- berlin
+- tchibo-werbung
+- unverschämtheit
+- überzuckerte wohlfühl-kulisse
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 "Berlin werde als „überzuckerte Wohlfühl-Kulisse (...) mit dem Esprit einer Tchibo-Werbung“" inszeniert."
 "filmgewordene Schuppenflechte"
 "Unverschämtheit"
@@ -23,4 +33,3 @@ slug: ''
 
 Ganz großes Kino also!
 > https://www.berliner-zeitung.de/kultur/film/-berlin--i-love-you---warum-dieser-trailer-die-berliner-aergert-31912556
-

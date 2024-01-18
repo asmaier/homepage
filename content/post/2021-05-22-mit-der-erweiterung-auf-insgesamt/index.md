@@ -2,20 +2,30 @@
 title: '"Mit der Erweiterung auf insgesamt ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-22
-lastmod: 2021-05-22T11:00:28+02:00
+lastmod: 2021-05-22 11:00:28+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- regierungssitze
+- öffentliche gebäude
+- architektur
+- bauprojekte
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Mit der Erweiterung auf insgesamt 50.000 Quadratmeter Grundfläche wäre der deutsche Regierungssitz also 16 Mal größer als das amerikanische und 20 Mal größer als das britische Pendant. Wozu braucht Deutschland eine so große Regierungszentrale?"
 
 "Und siehe da: Es handelt sich um puren Luxus, der hier geplant ist. Der Anbau enthält neun Wintergärten, die sich über fünf Etagen erstrecken und eine 250 Quadratmeter große Kanzlerwohnung, obwohl es im bestehenden Bau schon eine gibt, die noch nie genutzt wurde. Der Kindergarten mit 15 Plätzen kostet mit 2,8 Millionen Euro dreimal so viel wie andere Kitas.
@@ -36,4 +46,3 @@ Und das ganze sieht auch noch furchtbar hässlich aus! 600 Millionen für ein Ge
 > ## [Realer Irrsinn im Kanzleramt: Teure Erweiterung | extra 3 | NDR](https://www.youtube.com/watch?v=q_Wknrfw8zI)
 >
 >Realer Irrsinn in Berlin: Das Kanzleramt soll um einen Neubau erweitert werden - "nüchtern und funktional" hieß es bei der Vorstellung. Insgesamt wird der Ne...
-

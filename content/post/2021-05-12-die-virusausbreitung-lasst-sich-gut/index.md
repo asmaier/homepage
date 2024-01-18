@@ -2,20 +2,30 @@
 title: '"Die Virusausbreitung lässt sich gut ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-05-12
-lastmod: 2021-05-12T11:03:25+02:00
+lastmod: 2021-05-12 11:03:25+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- statistik
+- bundesamt für statistik
+- virusausbreitung
+- coronavirus
+- rki
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Die Virusausbreitung lässt sich gut berechnen, wenn man annimmt, dass die Menschen ihr Verhalten nicht ändern. Das Verhalten ändert sich aber bekanntlich aus vielen Gründen."
 
 Ich würde noch hinzufügen, dass das RKI keineswegs eine Organisation mit Expertise in Statistik ist. Das wäre eher das Bundesamt für Statistik. Warum letzteres nicht die Coronastatistiken erstellt (Das vergleichbare Office for National Statistics in England tut das) ist mir schon lange unklar. Und ohne gute Datengrundlage steht jede Vorhersage auf tönernen Füßen.
@@ -24,4 +34,3 @@ Ich würde noch hinzufügen, dass das RKI keineswegs eine Organisation mit Exper
 > ## [Weshalb sich die Corona-Experten so oft irren](https://www.t-online.de/nachrichten/deutschland/id_90013072/falsche-prognosen-weshalb-sich-die-corona-experten-so-oft-irren.html)
 >
 >Horror-Inzidenzen nach Ostern, überfüllte Intensivstationen, noch mehr Tote: ...
-

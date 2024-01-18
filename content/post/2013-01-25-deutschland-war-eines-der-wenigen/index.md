@@ -1,21 +1,31 @@
 ---
-title: 'Deutschland war eines der wenigen ...'
+title: Deutschland war eines der wenigen ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-01-25
-lastmod: 2013-01-25T10:23:41+01:00
+lastmod: 2013-01-25 10:23:41+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- botschaften in russland
+- visazentren
+- eu-länder in russland
+- frankreich und spanien
+- deutschland und russland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Deutschland war eines der wenigen großen Ländern der EU, deren Botschaften in der russischen Hauptstadt kein eigenes Visazentrum hatte. Frankreich und Spanien haben dieses bereits seit mehreren Jahren. "
 
 Endlich tut sich was! Wahnsinn! 
@@ -28,4 +38,3 @@ http://germania-online.ru/gesellschaft/obshchestvo-detal/datum/2013/01/10/posols
 
 Schade nur das der Rest der deutschen Medien wie üblich solch positive Nachrichten aus/über Russland ignoriert...
 > http://german.ruvr.ru/2013_01_12/Neues-Visazentrum-in-Moskau/
-

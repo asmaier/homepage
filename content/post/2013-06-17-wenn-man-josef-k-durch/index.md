@@ -1,21 +1,31 @@
 ---
-title: 'Wenn man Josef K. durch ...'
+title: Wenn man Josef K. durch ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-06-17
-lastmod: 2013-06-17T10:53:32+02:00
+lastmod: 2013-06-17 10:53:32+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- kafka
+- abitur
+- rapmusik
+- schule
+- literatur
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Wenn man Josef K. durch Gustl M. ersetzt, ist es geradezu aktuell:
 
 "Gustl M., Du bist verhaftet und egal, was du machst / es gibt keinen Ausweg, also rein in die Schlacht / Du bist verhaftet, (Ich will leben!), ziehst dich selbst in den Bann / hast du keine Einsicht, bist du ewig gefangen (Lass mich raus!).
@@ -28,4 +38,3 @@ Wenn man Josef K. durch Gustl M. ersetzt, ist es geradezu aktuell:
 > ## [HipHop fürs Abitur: Schüler schreibt Rap-Song über Kafka](http://www.spiegel.de/schulspiegel/abi/hiphop-fuers-abitur-schueler-schreibt-rap-song-ueber-kafka-a-905283.html)
 >
 >Die Abi-Pflichtlektüre "Der Proceß" war ihm zu langweilig, und so dichtete der Mannheimer Schüler Tobias Stoll, 18, die Inhaltsanalyse in einen Rap-Song um. Sein Deutschlehrer urteilte: eine Eins plus.
-

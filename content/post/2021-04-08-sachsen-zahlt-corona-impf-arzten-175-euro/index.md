@@ -1,21 +1,31 @@
 ---
-title: 'Sachsen zahlt Corona-Impf-Ärzten 175 Euro ...'
+title: Sachsen zahlt Corona-Impf-Ärzten 175 Euro ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-04-08
-lastmod: 2021-04-08T11:27:10+02:00
+lastmod: 2021-04-08 11:27:10+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- medizin
+- impfung
+- gehalt
+- corona-impfung
+- hausarzt
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Sachsen zahlt Corona-Impf-Ärzten 175 Euro Stundenlohn: https://www.mdr.de/nachrichten/sachsen/hohe-impfhonorare-aerzte-kritik-interview-kugler-100.html
 
 Zum Vergleich: Ein Hausarzt bekommt für eine Grippeimpfung 7,60 Euro von der Krankenkasse: https://www.praktischarzt.de/arzt/hausarzt-gehalt/
@@ -26,4 +36,3 @@ Beides ist eigentlich absurd. Ersteres ist absurd hoch und letzteres absurd nied
 > ## [Hausarzt Gehalt: Was verdient ein Hausarzt pro Patient?](https://www.praktischarzt.de/arzt/hausarzt-gehalt/)
 >
 >Was verdient ein Hausarzt pro Patient? Wie viel verdient ein Hausarzt im Vergleich mit anderen Ärzten? Alles zum Allgemeinmediziner Gehalt.
-

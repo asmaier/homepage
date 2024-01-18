@@ -1,21 +1,31 @@
 ---
-title: 'Unbedingt anschauen! Die perfekte Diagnose! ...'
+title: Unbedingt anschauen! Die perfekte Diagnose! ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-08-08
-lastmod: 2016-08-08T23:18:34+02:00
+lastmod: 2016-08-08 23:18:34+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- meinungsfreiheit
+- aristoteles
+- demarchie
+- demokratie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Unbedingt anschauen! Die perfekte Diagnose! Die Lösung ist allerdings auch schon lange bekannt:
 
 „Ich bin beispielsweise der Meinung, dass es als demokratisch anzusehen ist, wenn die Herrschenden durch das Los bestimmt werden, während Wahlen als oligarchisch betrachtet werden müssen.“ (Aristoteles)
@@ -26,4 +36,3 @@ https://de.wikipedia.org/wiki/Demarchie﻿
 > ## [Rainer Mausfeld: „Warum schweigen die Lämmer?“ - Techniken des Meinungs- und Empörungsmanagements](https://www.youtube.com/watch?v=Rx5SZrOsb6M)
 >
 >- mit verbeserter Tonqualität: https://youtu.be/QlMsEmpdC0E -Vortrag an der Christian Albrechts Universität Kiel, am 22.06.2015:Warum schweigen die Lämmer? D...
-

@@ -1,21 +1,31 @@
 ---
-title: 'Heute nur eine kleine Sammlung ...'
+title: Heute nur eine kleine Sammlung ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-08-29
-lastmod: 2022-08-29T00:00:22+02:00
+lastmod: 2022-08-29 00:00:22+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- ammoniak
+- batterien
+- autos
+- erneuerbare energien
+- power-to-gas
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Heute nur eine kleine Sammlung guter Nachrichten/Ideen:
 
 "Wie Studienleiter Mark Z. Jacobson, Engineering-Professor an der Stanford University im Magazin The Hill erklärt, würde die Umstellung der globalen Energiesysteme auf Wind-, Wasser- und Solarkraft sowie der Bau von Speichersystemen insgesamt 62 Billionen US-Dollar (etwa 660.628.064.000.000 Euro) kosten. Diese enorme Investition würde sich laut Jacobson in nur sechs Jahren vollständig amortisieren, weil dadurch Kosten von etwa 11 Billionen US-Dollar jährlich eingespart werden könnten."
@@ -34,5 +44,4 @@ Wobei ich der Meinung bin, dass Power-To-Gas als Pufferspeicher eigentlich besse
 > forschung-und-wissen.de
 > ## [100 Prozent erneuerbare Energie global möglich](https://www.forschung-und-wissen.de/nachrichten/umwelt/100-prozent-erneuerbare-energie-global-moeglich-13376523)
 >
->Das globale Energie-System könnte für 62 Billionen US-Dollar komplett auf Wind-, Wasser- und Solarkraft umgebaut werden. 
-
+>Das globale Energie-System könnte für 62 Billionen US-Dollar komplett auf Wind-, Wasser- und Solarkraft umgebaut werden.

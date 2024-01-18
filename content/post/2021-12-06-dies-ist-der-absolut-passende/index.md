@@ -1,21 +1,31 @@
 ---
-title: 'Dies ist der absolut passende ...'
+title: Dies ist der absolut passende ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-12-06
-lastmod: 2021-12-06T20:07:23+01:00
+lastmod: 2021-12-06 20:07:23+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- rechte
+- afd
+- internet
+- bayern
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Dies ist der absolut passende Kommentar dazu von einem Leser unter dem Artikel:
 
 "Ich sehe meine Rechte nicht beschränkt oder bedroht - Ich sehe mich bedroht durch Rechte und Beschränkte. 
@@ -23,4 +33,3 @@ Lieber glaube ich Wissenschaftlern, die sich auch mal irren, als Irren, die glau
 
 Ein Zitat zum an die Wand hängen.
 > https://www.br.de/nachrichten/bayern/afd-bayern-interner-chat-zeigt-radikalitaet,SqEpXK5
-

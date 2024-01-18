@@ -1,21 +1,31 @@
 ---
-title: 'Putin hat heute gesagt, die ...'
+title: Putin hat heute gesagt, die ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2022-03-05
-lastmod: 2022-03-05T22:34:02+01:00
+lastmod: 2022-03-05 22:34:02+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- sanktionen
+- russland
+- zukunft
+- wirtschaft
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2022
+languages:
+- deutsch
 ---
+
 Putin hat heute gesagt, die Sanktionen gegen Russland seien analog zu einer Kriegserklärung.
 
 <Sarkasmus Anfang>
@@ -28,4 +38,3 @@ Aber auch ohne Sarkasmus sieht die Zukunft Russlands nicht besonders rosig aus. 
 > ## [Economic meltdown gives Putin a route back to Soviet repression](https://www.politico.eu/article/economic-meltdown-russia-putin-soviet-repression/)
 >
 >Facing economic isolation, the danger is that Russia’s leader will just choose to turn back the clock to a darker era.
-

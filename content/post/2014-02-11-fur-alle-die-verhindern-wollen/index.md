@@ -1,21 +1,31 @@
 ---
-title: 'Für alle die verhindern wollen, ...'
+title: Für alle die verhindern wollen, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2014-02-11
-lastmod: 2014-02-11T19:41:31+01:00
+lastmod: 2014-02-11 19:41:31+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- banking
+- religion
+- bundesregierung
+- datenschutz
+- formulare
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2014
+languages:
+- deutsch
 ---
+
 Für alle die verhindern wollen, das ihre Bank Zugriff auf die Daten zu ihrer Religion bekommt (siehe https://www.facebook.com/andreas.maier.754918/posts/658984487480587?stream_ref=10) gibt es hier das Formular:
 
 https://www.formulare-bfinv.de/ffw/catalog/openForm.do?path=catalog%3A%2F%2FBuerger%2Fkirch%2F010156
@@ -26,4 +36,3 @@ Offenbar soll es so schwer wie möglich gemacht werden, dem Verfahren zu widersp
 > formulare-bfinv.de
 > ## [Formular-Management-System der Bundesfinanzverwaltung](https://www.formulare-bfinv.de/ffw/catalog/openForm.do?path=catalog%3A%2F%2FBuerger%2Fkirch%2F010156)
 >
-

@@ -1,21 +1,31 @@
 ---
-title: 'Da soll mal einer sagen, ...'
+title: Da soll mal einer sagen, ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-05-31
-lastmod: 2013-05-31T16:15:52+02:00
+lastmod: 2013-05-31 16:15:52+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- werbung
+- kritik
+- öffentlich-rechtlicher rundfunk
+- finanzierung
+- radio
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Da soll mal einer sagen, Doktorarbeiten werden nicht gelesen! Diese hier scheint lesenswert, zumindest die Zitate daraus machen Lust auf mehr:
 
 "Im Ergebnis kann angenommen werden, dass den Rundfunkanstalten bislang wesentlich höhere Mittel zur Verfügung standen, als unter den Prämissen der Wirtschaftlichkeit und Sparsamkeit zur Auftragserfüllung notwendig gewesen wären."
@@ -26,4 +36,3 @@ Da soll mal einer sagen, Doktorarbeiten werden nicht gelesen! Diese hier scheint
 
 Ergebnis: Summa cum laude!
 > http://www.spiegel.de/kultur/tv/ndr-mitarbeiterin-anna-terschueren-klagt-ard-und-zdf-in-dissertation-an-a-902943.htmlscheint
-

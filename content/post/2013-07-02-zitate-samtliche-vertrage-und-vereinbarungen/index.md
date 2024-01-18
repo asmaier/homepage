@@ -2,20 +2,30 @@
 title: 'Zitate: "Sämtliche Verträge und Vereinbarungen, ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2013-07-02
-lastmod: 2013-07-02T16:02:03+02:00
+lastmod: 2013-07-02 16:02:03+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- überwachung
+- historische ereignisse
+- deutschland
+- rechtsstaatlichkeit
+- nato
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2013
+languages:
+- deutsch
 ---
+
 Zitate:
 "Sämtliche Verträge und Vereinbarungen, sämtliche Gesetze und Verfassungsänderungen, die Grundlage für die Fortführung der alliierten Kontrollen waren und sind, wurden weder geändert, noch gekündigt, sondern gelten bis heute unverändert fort, so die deutsch-alliierte Verwaltungsvereinbarung zum G 10 Gesetz von 1968.
 
@@ -36,4 +46,3 @@ Es steht also im Prinzip im Grundgesetz, dass die Alliierten in Deutschland sovi
 > ## [Historiker Josef Foschepoth über den systematischen Bruch des Postgeheimnisses in der Bundesrepublik](http://www.badische-zeitung.de/deutschland-1/historiker-josef-foschepoth-ueber-den-systematischen-bruch-des-postgeheimnisses-in-der-bundesrepubli--68953735.html)
 >
 >Überwachtes Deutschland"&#8211; so heißt eine Studie des Freiburger Geschichtsprofessors Josef Foschepoth (65), der aus deutschen Geheimarchiven Erstaunliches zutage förderte. Wir sprachen mit ihm.
-

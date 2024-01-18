@@ -1,24 +1,33 @@
 ---
-title: 'The European Commission has collected ...'
+title: The European Commission has collected ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-06-23
-lastmod: 2016-06-23T09:01:49+02:00
+lastmod: 2016-06-23 09:01:49+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politics
+- myths
+- eu referendum
+- european commission
+- european union
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- english
 ---
+
 The European Commission has collected and debunked Euromyths from 1992 to 2012. People considering leaving the EU should read this before they cast their vote ;-)
 > wayback.archive-it.org
 > ## [European Commission in the UK - European Commission](http://blogs.ec.europa.eu/ECintheUK/euromyths-a-z-index/)
 >
 >Keeping you up-to-date with the latest news from the European Commission Representation in the UK
-

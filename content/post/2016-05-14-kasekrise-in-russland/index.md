@@ -1,20 +1,29 @@
 ---
-title: 'Käsekrise in Russland! ...'
+title: Käsekrise in Russland! ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-05-14
-lastmod: 2016-05-14T18:39:40+02:00
+lastmod: 2016-05-14 18:39:40+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- krise
+- versorgungsprobleme
+- nahrungsmittel
+- russland
+- käse
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- unknown
 ---
-Käsekrise in Russland!
 
+Käsekrise in Russland!

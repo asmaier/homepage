@@ -1,21 +1,31 @@
 ---
-title: 'In Zeiten wie diesen lese ...'
+title: In Zeiten wie diesen lese ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2023-07-23
-lastmod: 2023-07-23T17:33:43+02:00
+lastmod: 2023-07-23 17:33:43+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- beatrix von storch
+- sven von storch
+- afd
+- politiker
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2023
+languages:
+- deutsch
 ---
+
 In Zeiten wie diesen lese ich ab und zu auch Nachrichten von der Gegenseite, spricht ich nutze Google Translate um eines der übelsten Propagandablätter des Kreml, die Komsomolskaya Prawda (wörtl. "Bauernwahrheit"), zu lesen. 
 
 Ihr könnt euch meine Überraschung vielleicht vorstellen, als ich dort ein Interview eines Deutschen lesen konnte, der das Narrativ des Kreml voll unterstützt: 
@@ -37,4 +47,3 @@ P.S.: Es sollte offensichtlich sein. Die A-Partei steckt bis zum Anschlag im A..
 > ## [Россию пытаются убрать с "великой шахматной доски", но народ Европы против: названы истинные цели Запада на Украине](https://www.kp.ru/daily/27531/4796646/)
 >
 >Политолог фон Шторх: Большинство в Европе выступают против конфликта с Россией
-

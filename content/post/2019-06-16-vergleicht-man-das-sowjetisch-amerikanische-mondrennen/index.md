@@ -1,21 +1,31 @@
 ---
-title: 'Vergleicht man das sowjetisch-amerikanische "Mondrennen" ...'
+title: Vergleicht man das sowjetisch-amerikanische "Mondrennen" ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-06-16
-lastmod: 2019-06-16T16:38:17+02:00
+lastmod: 2019-06-16 16:38:17+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- history_of_science
+- nuclear_physics
+- apollo_program
+- manhattan_project
+- world_war_ii
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Vergleicht man das sowjetisch-amerikanische "Mondrennen" und das deutsch-amerikanische "Atomrennen" so gibt es tatsächlich eine Gemeinsamkeit, wie in untiger faszinierender Geschichte zum deutschen Atomprojekt schön herausgearbeitet:
 
 "In science, as in other fundamentally human pursuits, we would do well to remember that we are only truly at our best and most equipped to tackle grand challenges when we put our differences aside and work together."
@@ -26,4 +36,3 @@ Es ist nämlich tatsächlich so, dass in beiden Fällen die Amerikaner deswegen 
 > ## [Tracking the journey of a uranium cube](https://physicstoday.scitation.org/doi/10.1063/PT.3.4202)
 >
 >A mysterious object led two physicists to investigate the German quest and failure to build a working nuclear reactor during World War II.
-

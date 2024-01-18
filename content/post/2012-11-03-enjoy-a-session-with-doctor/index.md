@@ -1,20 +1,29 @@
 ---
-title: 'Enjoy a session with doctor ...'
+title: Enjoy a session with doctor ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2012-11-03
-lastmod: 2012-11-03T23:23:08+01:00
+lastmod: 2012-11-03 23:23:08+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- aquarium
+- fische
+- wellness
+- natürliche heilmethoden
+- pediküre
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2012
+languages:
+- english
 ---
-Enjoy a session with doctor fish!
 
+Enjoy a session with doctor fish!

@@ -2,20 +2,30 @@
 title: 'Videokonferenzsoftware im Test: "Durchgefallen sind ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-02-19
-lastmod: 2021-02-19T21:55:30+01:00
+lastmod: 2021-02-19 21:55:30+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- onlinekommunikation
+- softwaretest
+- datenschutz
+- kollaborationssoftware
+- videokonferenzsoftware
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 Videokonferenzsoftware im Test:
 
 "Durchgefallen sind laut Datenschutzbeauftragter Zoom, TeamViewer, die Microsoft-Dienste Skype und Teams, GoToMeeting, Google Meet, Cisco Webex"
@@ -43,4 +53,3 @@ P.S.: Das PDF der Berliner Datenschutzbeauftragten mit noch mehr Infos gibt es u
 > ## [Viel Rot: Berliner Datenschutzbeauftragte aktualisiert Videokonferenz-Liste](https://www.heise.de/news/Viel-Rot-Berliner-Datenschutzbeauftragte-aktualisiert-Videokonferenz-Liste-5060322.html)
 >
 >Laut einem erneuten Test der gängigen Videokonferenzsysteme durch die Berliner Datenschutzbehörde bestehen nach wie vor zahlreiche Mängel.
-

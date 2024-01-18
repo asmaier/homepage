@@ -2,20 +2,30 @@
 title: '"Denn wer Whatsapp nutze, erlaube ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2018-02-28
-lastmod: 2018-02-28T22:45:35+01:00
+lastmod: 2018-02-28 22:45:35+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- signal (messenger)
+- rechtswidrigkeit
+- whatsapp
+- datenschutz
+- thüringens datenschützer
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2018
+languages:
+- deutsch
 ---
+
 "Denn wer Whatsapp nutze, erlaube dem Dienst, alle Kontaktdaten seines Smartphones auszulesen. Diese Zustimmung dürfe jemand Whatsapp aber nur geben, wenn alle Menschen, die im Adressbuch des Nutzers stehen, dem zugestimmt hätten.
 
 Da es solche vollständigen Einwilligungen aber in der Realität praktisch nie gebe, sei die Nutzung des Dienstes in der Regel rechtswidrig,..."
@@ -26,4 +36,3 @@ Ich empfehle jedem schon seit Jahren auf https://de.wikipedia.org/wiki/Signal_(M
 > ## [Thüringens Datenschützer: Whatsapp wird meist rechtswidrig genutzt](https://www.heise.de/newsticker/meldung/Thueringens-Datenschuetzer-Whatsapp-wird-meist-rechtswidrig-genutzt-3983437.html)
 >
 >99 Prozent der deutschen Whatsapp-Nutzer verhielten sich "deliktisch", weil sie dem Dienst Zugang zu den Daten ihrer Kontakte geben, sagt Thüringens Chef-Datenschützer Lutz Hasse.
-

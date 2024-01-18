@@ -1,21 +1,31 @@
 ---
-title: 'Wo findet man im Internet ...'
+title: Wo findet man im Internet ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2016-09-23
-lastmod: 2016-09-23T14:46:05+02:00
+lastmod: 2016-09-23 14:46:05+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- teletext
+- online-informationsdienste
+- zdf
+- videotext
+- ard
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2016
+languages:
+- deutsch
 ---
+
 Wo findet man im Internet die aktuelle Wassertemperatur am Urlaubsort? 
 
 ZDF Videotext Seite 191 (http://module.zdf.de/teletext/master.html)
@@ -27,4 +37,3 @@ Und das sogar ohne Werbeeinblendung, nervende Popups und lange Klickorgien.
 > ## [Was ist eigentlich mit - Videotext?](http://www.teltarif.de/was-ist-mit-videotext/news/62468.html)
 >
 >Der Videotext mit seiner Klötzchen-Grafik ist out? 41 Millionen Nutzer des ARD-Textes jährlich sind da wohl anderer Ansicht.
-

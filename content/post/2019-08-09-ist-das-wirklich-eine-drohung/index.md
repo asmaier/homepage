@@ -1,21 +1,31 @@
 ---
-title: 'Ist das wirklich eine Drohung? ...'
+title: Ist das wirklich eine Drohung? ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2019-08-09
-lastmod: 2019-08-09T10:56:20+02:00
+lastmod: 2019-08-09 10:56:20+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- politik
+- militär
+- truppenabzug
+- usa
+- deutschland
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2019
+languages:
+- deutsch
 ---
+
 Ist das wirklich eine Drohung? Am Ende des Artikels verweist Standard passend auf einen anderen Artikel mit der Überschrift:
 
 Fast jeder zweite Deutsche für Abzug der US (https://www.derstandard.de/story/2000083241540/fast-jeder-zweite-deutsche-laut-umfrage-fuer-abzug-der-us)
@@ -29,4 +39,3 @@ Vielleicht sollte unsere Regierung mal diese Gegendrohung versuchen ;-)
 > ## [USA drohen mit Truppenabzug aus Deutschland](https://www.derstandard.de/story/2000107227169/usa-drohen-mit-truppenabzug-aus-deutschland)
 >
 >Kurz vor Trumps Europa-Reise drängt die US-Regierung Deutschland zu höheren Verteidigungsausgaben und überlegt, ihre Truppen nach Polen zu verlegen
-

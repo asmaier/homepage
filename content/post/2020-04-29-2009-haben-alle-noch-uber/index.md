@@ -1,21 +1,31 @@
 ---
-title: '2009 haben alle noch über ...'
+title: 2009 haben alle noch über ...
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2020-04-29
-lastmod: 2020-04-29T18:56:09+02:00
+lastmod: 2020-04-29 18:56:09+02:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- public health
+- emergency preparedness
+- medical device
+- invention
+- lingerie
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2020
+languages:
+- english
 ---
+
 2009 haben alle noch über die Erfindung dieser Dame gelacht. 2020 haben wir plötzlich Maskenknappheit und wären froh, wenn diese patentierte Erfindung sich weiter durchgesetzt hätte. ;-)
 
 https://youtu.be/Kxf3HK21BWI?t=175
@@ -30,4 +40,3 @@ https://www.theguardian.com/education/2010/mar/09/ignobel-tour-winner-emergency-
 > ## [Improbable Research Collection #128: The 2009 Ig Nobel Prize for Public Health](https://youtu.be/Kxf3HK21BWI?t=175)
 >
 >At the 2009 Ig Nobel Prize ceremony, Public Health Prize winner Dr. Elena Bodnar demonstrates her invention - a brassiere that, in an emergency, can be quick...
-

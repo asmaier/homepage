@@ -2,20 +2,30 @@
 title: '"Haftpflichtpolice für ein Atomkraftwerk wäre ...'
 subtitle: ''
 summary: ''
-authors: ["admin"]
+authors:
+- admin
 date: 2021-03-11
-lastmod: 2021-03-11T19:01:01+01:00
+lastmod: 2021-03-11 19:01:01+01:00
 categories:
 - facebook
-tags: []
-featured: no
+tags:
+- haftpflichtversicherung
+- energiepreise
+- finanzmathematik
+- atomkraft
+- strompreis
+featured: false
 image:
   placement: 1
   caption: ''
-  focal_point: 'Smart'
+  focal_point: Smart
   preview_only: true
 slug: ''
+year: 2021
+languages:
+- deutsch
 ---
+
 "Haftpflichtpolice für ein Atomkraftwerk wäre - 72 Milliarden Euro jährlich. Praktisch sind die Meiler also nicht zu versichern. Es sei denn, der Strompreis kletterte auf das Zwanzigfache."
 
 So siehts aus, meine Damen und Herren. Und daher ist Atomkraft tot, ein totes Pferd von dem man die Welt endlich absteigen muß, selbst wenn Bill Gates das immer noch nicht kapiert hat.
@@ -24,4 +34,3 @@ So siehts aus, meine Damen und Herren. Und daher ist Atomkraft tot, ein totes Pf
 > ## [Risiko Atomkraft: Die teuerste Haftpflichtpolice der Welt](https://www.manager-magazin.de/finanzen/versicherungen/a-761954.html)
 >
 >Finanzmathematiker haben erstmals errechnet, wie teuer eine Haftpflichtpolice für ein Atomkraftwerk wäre - 72 Milliarden Euro jährlich. Praktisch sind die Meiler also nicht zu versichern. Es sei denn, der Strompreis kletterte auf das Zwanzigfache.
-

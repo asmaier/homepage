@@ -1,25 +1,33 @@
 ---
 author: admin
 authors: []
-date: "2008-01-01"
+date: '2008-01-01'
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-lastmod: "2019-10-19T21:10:05+02:00"
+lastmod: '2019-10-19T21:10:05+02:00'
 projects: []
 slug: knowledge-paths
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 categories:
 - old_wiki
-- english
 tags:
-- machine_learning
+- mathematik
 - big_data
+- machine_learning
+- wissenschaftsgeschichte
+- bibliometrie
+- digitale bibliotheken
+- informatik
 title: Knowledge Paths
+year: '2008'
+languages:
+- english
 ---
+
 The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:
 
 * [PaperCube](http://papercube.peterbergstrom.com)

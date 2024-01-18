@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infectious diseases | Das Blog</title>
+    <link>/tag/infectious-diseases/</link>
+      <atom:link href="/tag/infectious-diseases/index.xml" rel="self" type="application/rss+xml" />
+    <description>infectious diseases</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>infectious diseases</title>
+      <link>/tag/infectious-diseases/</link>
+    </image>
+    
+    <item>
+      <title>Das Coronavirus ist in Deutschland ...</title>
+      <link>/post/2020-02-28-das-coronavirus-ist-in-deutschland/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-02-28-das-coronavirus-ist-in-deutschland/</guid>
+      <description>&lt;p&gt;Das Coronavirus ist in Deutschland angekommen. Grund zur Panik? Nun, es kommt drauf an.&lt;/p&gt;
+&lt;p&gt;Erst einmal die schlechte Nachricht. Die Sterberate von Krankheiten wird zu Beginn einer Epidemie oft unterschätzt. Der Grund ist falsche Statistik. Es ist nämlich falsch, die Anzahl der Todesfälle durch die Anzahl der Erkrankten zu teilen. Richtig ist vielmehr die Anzahl der Todesfälle durch die Summe der (genesenen Personen + die Todesfälle) zu teilen. Macht man diese Berechnung richtig (im Gegensatz zur WHO, Journalisten und auch vielen Ärzten in Deutschland) dann ergibt sich für das Coronavirus eine 10mal höhere Sterberate von ca 1.5% (und damit 10mal höher als bei Grippe). Das wird recht ausführlich unter &lt;a href=&#34;https://blog.zorinaq.com/case-fatality-ratio-ncov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.zorinaq.com/case-fatality-ratio-ncov/&lt;/a&gt; erläutert.&lt;/p&gt;
+&lt;p&gt;Jetzt die für manche gute Nachricht: Nach den Erfahrungen aus China hängt die Sterberate sehr stark vom Alter ab. Nach &lt;a href=&#34;https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/&lt;/a&gt;
+liegt die Sterberate für Menschen unter 50 bei 0.3% und damit ähnlich wie bei einer Grippe. Diese steigt aber für Menschen über 80 Jahre auf 15% an. Interessant ist auch, das es bisher keinen einzigen Todesfall bei Kindern bis 10 Jahren weltweit gibt.&lt;/p&gt;
+&lt;p&gt;Insofern braucht ihr euch nicht mehr Sorgen als üblich zu machen, es sei denn ihr seid weit über 60 Jahre alt und Raucher (Raucher gehören bei allen Lungenkrankheiten wie Grippe und Corona zu den Risikogruppen). Wer aber schon 60 Jahre geraucht hat, hat sich vermutlich sowieso noch nie Sorgen um seine Gesundheit gemacht.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.zorinaq.com/case-fatality-ratio-ncov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://blog.zorinaq.com/case-fatality-ratio-ncov/../assets/ghani_fig3a.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+blog.zorinaq.com&lt;/p&gt;
+&lt;h2 id=&#34;the-case-fatality-ratio-of-the-novel-coronavirus-2019-ncovhttpsblogzorinaqcomcase-fatality-ratio-ncov&#34;&gt;&lt;a href=&#34;https://blog.zorinaq.com/case-fatality-ratio-ncov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Case Fatality Ratio of the Novel Coronavirus (2019-nCoV)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Estimating the case fatality ratio (CFR) of the 2019 novel coronavirusis crucial to inform policy makers and help them make the best decisions.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

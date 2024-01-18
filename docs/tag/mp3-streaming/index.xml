@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mp3-streaming | Das Blog</title>
+    <link>/tag/mp3-streaming/</link>
+      <atom:link href="/tag/mp3-streaming/index.xml" rel="self" type="application/rss+xml" />
+    <description>mp3-streaming</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2009 22:23:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>mp3-streaming</title>
+      <link>/tag/mp3-streaming/</link>
+    </image>
+    
+    <item>
+      <title>SanFM.ru</title>
+      <link>/post/2009-11-18-sanfmru/</link>
+      <pubDate>Wed, 18 Nov 2009 22:23:00 +0000</pubDate>
+      <guid>/post/2009-11-18-sanfmru/</guid>
+      <description>
+Hab gerade ein richtig guten russischen Internetradiosender in iTunes Radio entdeckt:&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://sanfm.ru&#34;&gt;sanfm.ru&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Es gibt 6 verschiedene Channels (Live, Pop, Relax, Alternative, Trance, Drum and Bass) als MP3 Stream in 128kbps (in iTunes wird anscheinend nur SanFM Pop aufgelistet). Die Qualität ist echt gut (keine Aussetzer in der Übertragung und ähnliches). Einfach mal reinhören. Lohnt sich!&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

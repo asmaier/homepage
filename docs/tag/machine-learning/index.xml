@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Das Blog</title>
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>machine learning</title>
+      <link>/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>&#34;DeepCoder uses machine learning to ...</title>
+      <link>/post/2017-02-28-deepcoder-uses-machine-learning-to/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-02-28-deepcoder-uses-machine-learning-to/</guid>
+      <description>&lt;p&gt;&amp;ldquo;DeepCoder uses machine learning to scour databases of source code and sort the fragments according to its view of their probable usefulness. All this makes the system much faster than its predecessors. DeepCoder created working programs in fractions of a second&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.newscientist.com/wp-content/uploads/2017/02/22180000/ff3ywn-1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+newscientist.com&lt;/p&gt;
+&lt;h2 id=&#34;ai-learns-to-write-its-own-code-by-stealing-from-other-programshttpswwwnewscientistcomarticlemg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs&#34;&gt;&lt;a href=&#34;https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI learns to write its own code by stealing from other programs&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Software called DeepCoder has solved simple programming challenges by piecing together bits of borrowed code&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thank you, scientists! ...</title>
+      <link>/post/2016-10-09-thank-you-scientists/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-10-09-thank-you-scientists/</guid>
+      <description>&lt;p&gt;Thank you, scientists!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2016/09/21/scientists-teach-machines-to-hunt-and-kill-humans-in-doom-deathmatch-mode/?ncid=rss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://techcrunch.com/wp-content/uploads/2016/02/14810867549_86907a635d_o.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+techcrunch.com&lt;/p&gt;
+&lt;h2 id=&#34;scientists-teach-machines-to-hunt-and-kill-humans--in-doom-deathmatch-mode--techcrunchhttpstechcrunchcom20160921scientists-teach-machines-to-hunt-and-kill-humans-in-doom-deathmatch-modencidrss&#34;&gt;&lt;a href=&#34;https://techcrunch.com/2016/09/21/scientists-teach-machines-to-hunt-and-kill-humans-in-doom-deathmatch-mode/?ncid=rss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientists teach machines to hunt and kill humans — in Doom deathmatch mode | TechCrunch&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;You know how sometimes you look at a piece of research and think, &amp;ldquo;I suppose it&amp;rsquo;s an interesting technical problem, but isn&amp;rsquo;t teaching an AI to hunt and kill humans a pursuit fundamentally dangerous to the continued existence of mankind?&amp;rdquo; This is one of those times.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This series of videos on ...</title>
+      <link>/post/2016-05-11-this-series-of-videos-on/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-05-11-this-series-of-videos-on/</guid>
+      <description>&lt;p&gt;This series of videos on deep learning is worth watching. It offers a very good overview of the topic and also discusses useful libraries and platforms.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=b99UVkWzYTQ&amp;amp;list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=b99UVkWzYTQ&amp;list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=b99UVkWzYTQ&amp;amp;list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ytimg.com/vi/b99UVkWzYTQ/maxresdefault.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+youtube.com&lt;/p&gt;
+&lt;h2 id=&#34;deep-learning-simplified-the-series-intro---ep-1httpswwwyoutubecomwatchvb99uvkwzytqlistpljjh1vlseygvgod9wwiydumyl8hoxixnu&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=b99UVkWzYTQ&amp;amp;list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning SIMPLIFIED: The Series Intro - Ep. 1&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Are you overwhelmed by overly-technical explanations of Deep Learning? If so, this series will bring you up to speed on this fast-growing field – without any&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Algorithmen die herauszufinden, ...</title>
+      <link>/post/2015-12-06-deep-learning-algorithmen-die-herauszufinden/</link>
+      <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-12-06-deep-learning-algorithmen-die-herauszufinden/</guid>
+      <description>&lt;p&gt;Deep Learning Algorithmen die herauszufinden, welche Bilder am Besten im Gedächtnis haften bleiben. Die Boulevardpresse und Social Media Marketer werden es lieben!﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;memorability.csail.mit.edu&lt;/p&gt;
+&lt;h2 id=&#34;large-scale-image-memorabilityhttpmemorabilitycsailmitedu&#34;&gt;&lt;a href=&#34;http://memorability.csail.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Large-Scale Image Memorability&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;homepage&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A crazy idea worth spreading! ...</title>
+      <link>/post/2015-07-29-a-crazy-idea-worth-spreading/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-29-a-crazy-idea-worth-spreading/</guid>
+      <description>&lt;p&gt;A crazy idea worth spreading!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@samim/ted-rnn-machine-generated-ted-talks-3dd682b894c0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:1200/1*FriYcPokXLSiZE97JrTTFA.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+medium.com&lt;/p&gt;
+&lt;h2 id=&#34;ted-rnn--machine-generated-ted-talkshttpsmediumcomsamimted-rnn-machine-generated-ted-talks-3dd682b894c0&#34;&gt;&lt;a href=&#34;https://medium.com/@samim/ted-rnn-machine-generated-ted-talks-3dd682b894c0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED-RNN — Machine generated TED-Talks&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ideas worth generating&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>If you are interested in ...</title>
+      <link>/post/2015-04-20-if-you-are-interested-in/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-04-20-if-you-are-interested-in/</guid>
+      <description>&lt;p&gt;If you are interested in the future of news, see this talk by Prismatic (&lt;a href=&#34;http://getprismatic.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getprismatic.com/&lt;/a&gt;) Engineer Jenny Finkel:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.infoq.com/presentations/machine-learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is a good summary of the talk:
+&lt;a href=&#34;http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2013-09.html#e2013-09-22T15_51_52.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2013-09.html#e2013-09-22T15_51_52.htm&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.infoq.com/presentations/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://res.infoq.com/presentations/machine-learning-story/en/smallimage/mason.JPG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+infoq.com&lt;/p&gt;
+&lt;h2 id=&#34;machine-learning-a-love-story-httpwwwinfoqcompresentationsmachine-learning&#34;&gt;&lt;a href=&#34;http://www.infoq.com/presentations/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning: A Love Story &lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hilary Mason presents the history of machine learning covering some of the most significant developments taking place over the last two decades, especially the fundamental math and algorithmic tools employed. She also exemplifies how machine learning is used by bit.ly to discover various statistical information about users.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Mining Algorithms</title>
+      <link>/post/data-mining-algorithms/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/data-mining-algorithms/</guid>
+      <description>&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.cs.uh.edu/~ceick/ML/DM_Top10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wu (2008):Top 10 algorithms in data mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=wl_it_dp_o?ie=UTF8&amp;amp;coliid=I16YL2T3XDP0DR&amp;amp;colid=3IFPI6FN6Y8YX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Segaran (2007): Programming Collective Intelligence: Building Smart Web 2.0 Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

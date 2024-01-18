@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | Das Blog</title>
+    <link>/tag/software/</link>
+      <atom:link href="/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>software</title>
+      <link>/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>Frohes neues Jahr? Nein. Laut ...</title>
+      <link>/post/2022-01-03-frohes-neues-jahr-nein-laut/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-01-03-frohes-neues-jahr-nein-laut/</guid>
+      <description>&lt;p&gt;Frohes neues Jahr? Nein. Laut Microsoft ist heute der 34. Dezember 2021!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.derstandard.at/story/2000132265174/jahr-2022-bug-microsoft-verlaengert-das-jahr-2021-um-massives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ds.at/Qj8YzA/rs:fill:1200:600/plain/2022/01/02/nadella4.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+derstandard.at&lt;/p&gt;
+&lt;h2 id=&#34;jahr-2022-bug-microsoft-verlängert-2021-um-massives-mail-server-problem-in-den-griff-zu-bekommenhttpswwwderstandardatstory2000132265174jahr-2022-bug-microsoft-verlaengert-das-jahr-2021-um-massives&#34;&gt;&lt;a href=&#34;https://www.derstandard.at/story/2000132265174/jahr-2022-bug-microsoft-verlaengert-das-jahr-2021-um-massives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Jahr 2022 Bug&amp;rdquo;: Microsoft verlängert 2021, um massives Mail-Server-Problem in den Griff zu bekommen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Unternehmen liefert einen neuen, eher &amp;ldquo;kreativen&amp;rdquo; Workaround, mit dem auch die Malware-Engine bei Exchange wieder funktioniert. Aus dem 2. Jänner wird der 33. Dezember&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Viele Schulen sind ja nach ...</title>
+      <link>/post/2020-12-28-viele-schulen-sind-ja-nach/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-12-28-viele-schulen-sind-ja-nach/</guid>
+      <description>&lt;p&gt;Viele Schulen sind ja nach wie vor völlig ahnungslos im Neuland unterwegs. Da wird ohne Not Microsoft Teams und Office 365 oder gar Zoom eingesetzt, obwohl das nach deutschem Datenschutzrecht illegal ist.
+Typisch deutsch(?) daran ist, dass die Behörden zwar völlig überfordert sind, Schulen rechtzeitig die notwendige Infrastruktur bereitzustellen, aber gleichzeitig sind sie sehr schnell dabei, die Schulen wegen Datenschutzverstößen abzumahnen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/news/Schulen-brauchen-Klarheit-beim-Datenschutz-4993139.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.heise.de/news/Schulen-brauchen-Klarheit-beim-Datenschutz-4993139.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Daher hier als mein kleiner Beitrag eine kleine Liste von datenschutzkonformen Lösungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bbbserver.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bbbserver.de/&lt;/a&gt; (JAR Media GmbH)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://schul.cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://schul.cloud/&lt;/a&gt; (heinekingmedia GmbH, stashcat gmbh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hpi-schul-cloud.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpi-schul-cloud.de/&lt;/a&gt; (Hasso-Plattner-Institut für Digital Engineering gGmbH / SAP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Falls ihr Eltern seid und die Schulen eurer Kinder das mit dem Internet und Datenschutz im Jahre 2020 einfach nicht gebacken kriegt, weißt sie doch bitte auf die Lösungen oben hin.&lt;/p&gt;
+&lt;p&gt;Und falls ihr Schüler seid und gerne die Ferien verlängern wollt, zeigt eure Schule einfach beim Datenschutzbeauftragten an, falls sie immer noch so einen Quatsch wie Zoom oder Microsoft etc. einsetzen.&lt;/p&gt;
+&lt;p&gt;P.S.: Noch mehr Infos gibt es wie immer in der Wikipedia (&lt;a href=&#34;https://de.wikipedia.org/wiki/Schul-Cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Schul-Cloud&lt;/a&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://hpi-schul-cloud.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dbildungscloud.de/images/logo/logo-dBildungscloud.8344347.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+dbildungscloud.de&lt;/p&gt;
+&lt;h2 id=&#34;dbildungscloudhttpshpi-schul-cloudde&#34;&gt;&lt;a href=&#34;https://hpi-schul-cloud.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dBildungscloud&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Diese Seite konnte nicht geladen werden&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Was zu Hölle? Microsoft Teams ...</title>
+      <link>/post/2020-09-15-was-zu-holle-microsoft-teams/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-09-15-was-zu-holle-microsoft-teams/</guid>
+      <description>&lt;p&gt;Was zu Hölle? Microsoft Teams wird an bayrischen Schulen genutzt?&lt;/p&gt;
+&lt;p&gt;&amp;quot;&amp;quot;&amp;quot;
+Zuvor hatte ein Sprecher des bayerischen Datenschutzbeauftragten Thomas Petri gegenüber heise online erklärt, dass es etwa zur Anwendung der Teams-Software an Schulen des Landes zumindest noch &amp;ldquo;offene Fragen&amp;rdquo; gebe. Zu einem &amp;ldquo;Kurzgutachten zur Verwendung von Office 365 unter Windows 10 an Schulen&amp;rdquo; eines Nürnberger Rechtsanwalts, wonach die enthaltene Software in erheblichem Umfang auf intransparente Weise Nutzerdaten an Microsoft übermittelt, wollte sich die Behörde nicht äußern.
+&amp;quot;&amp;quot;&amp;quot;&lt;/p&gt;
+&lt;p&gt;Da verweise ich nochmal auf &lt;a href=&#34;https://www.heise.de/news/Berliner-Datenschutzbeauftragte-Schlechte-Noten-fuer-grosse-Videokonferenzdienste-4835808.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.heise.de/news/Berliner-Datenschutzbeauftragte-Schlechte-Noten-fuer-grosse-Videokonferenzdienste-4835808.html&lt;/a&gt;
+Keiner der amerikanischen Anbieter Skype, Microsoft Teams, Google Meet, Zoom, GoToMeeting, CiscoWebEx, BigBlueButton sind datenschutzrechtlich zulässig. Einzig die OpenSource-Software &lt;a href=&#34;https://meet.jit.si/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meet.jit.si/&lt;/a&gt;  genügt den europäischen Anforderungen. Schreibt euch das hinter die Ohren!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/news/Datenschuetzer-sehen-Microsoft-365-in-Behoerden-als-nicht-rechtskonform-an-4893604.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/9/6/6/4/9/8/shutterstock_377764417-5319d322e328ecdf.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;datenschützer-sehen-microsoft-365-in-behörden-als-nicht-rechtskonform-anhttpswwwheisedenewsdatenschuetzer-sehen-microsoft-365-in-behoerden-als-nicht-rechtskonform-an-4893604html&#34;&gt;&lt;a href=&#34;https://www.heise.de/news/Datenschuetzer-sehen-Microsoft-365-in-Behoerden-als-nicht-rechtskonform-an-4893604.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datenschützer sehen Microsoft 365 in Behörden als nicht rechtskonform an&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein Arbeitskreis der Datenschutzkonferenz von Bund und Ländern hält einen rechtskonformen Einsatz von Microsoft 365 in öffentlichen Institutionen für unmöglich.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Die selbsternannte Digital-Hauptstadt mal wieder. ...</title>
+      <link>/post/2019-10-29-die-selbsternannte-digital-hauptstadt-mal-wieder/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-10-29-die-selbsternannte-digital-hauptstadt-mal-wieder/</guid>
+      <description>&lt;p&gt;Die selbsternannte Digital-Hauptstadt mal wieder.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Ein dem Tagesspiegel vorliegendes Gutachten belegt, dass Experten die Abschaffung des auf dem Betriebssystem Windows 95 basierenden Programms bereits im Jahr 2017 gefordert hatten. Passiert ist, zumindest mit Blick auf das Kammergericht, bis heute nichts.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Nun, dass was die Experten nicht geschafft haben, hat der Trojaner jetzt geschafft.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tagesspiegel.de/berlin/experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage/25163810.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.tagesspiegel.de/berlin/images/tagesspiegel-59753/alternates/BASE_16_9_W1400/tagesspiegel-5975.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+tagesspiegel.de&lt;/p&gt;
+&lt;h2 id=&#34;experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansagehttpswwwtagesspiegeldeberlinexperten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage25163810html&#34;&gt;&lt;a href=&#34;https://www.tagesspiegel.de/berlin/experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage/25163810.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Experten warnten schon 2017: IT-Katastrophe am Berliner Kammergericht kam mit Ansage&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein Virus legt das IT-System am Kammergericht lahm. Fachleute sahen schon vor zwei Jahren ein Sicherheitsrisiko – die Software war hoffnungslos veraltet.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Da ich seit 13 Jahren ...</title>
+      <link>/post/2018-08-12-da-ich-seit-13-jahren/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-08-12-da-ich-seit-13-jahren/</guid>
+      <description>&lt;p&gt;Da ich seit 13 Jahren kein Windows mehr verwende und noch nie in einer Firma gearbeitet habe, die Windows einsetzt, vergesse ich oft, dass der Rest der Welt immer noch vollkommen abhängig ist von diesem Monopolkonzern.&lt;/p&gt;
+&lt;p&gt;Und es wird sogar noch schlimmer als es je war. Seht euch mal dieses Video an. Vielen Dank an die IT-Analphabeten der EU und unserer Regierung!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dailymotion.com/video/x6hak2r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.dailymotion.com/video/x6hak2r&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Nach der Wahl aber muss ...</title>
+      <link>/post/2017-09-20-nach-der-wahl-aber-muss/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-09-20-nach-der-wahl-aber-muss/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Nach der Wahl aber muss ein grundsätzliches Umdenken stattfinden: Von öffentlicher Hand bezahlte Software soll künftig auch öffentlich einsehbar und überprüfbar sein – insbesondere bei der Wahlauswertung, aber auch darüber hinaus.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Wäre der CCC eine Partei, ich würde ihn wählen!&lt;/p&gt;
+&lt;p&gt;Unterstützen könnt ihr die Arbeit des CCC auf jeden Fall unter &lt;a href=&#34;https://www.ccc.de/de/support&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ccc.de/de/support&lt;/a&gt; .&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ccc.de/de/updates/2017/pc-wahl-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.ccc.de/images/header.png?1329577825&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+ccc.de&lt;/p&gt;
+&lt;h2 id=&#34;ccc--open-source-spende-ccc-schließt-größte-schwachstelle-in-pc-wahlhttpswwwcccdedeupdates2017pc-wahl-again&#34;&gt;&lt;a href=&#34;https://www.ccc.de/de/updates/2017/pc-wahl-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCC | Open-Source-Spende: CCC schließt größte Schwachstelle in PC-Wahl&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein Bericht des Chaos Computer Clubs über die zur Stimmenauswertung bei der Bundestagswahl genutzte Software „PC-Wahl“ zeigte zahlreiche Schwachstellen. Mit einem Update vom 13. September 2017 versuchte der Hersteller erfolglos, das größte Einfallstor für Angreifer zu schließen. Fünf Tage vor der Bundestagswahl leistet der Chaos Computer Club nun „Erste Hilfe“ beim Stopfen der gröbsten Löcher: eine Open-Source-Spende, die das Einspielen manipulierter Updates wirkungsvoll verhindert.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Nicht die Stimmen auf den ...</title>
+      <link>/post/2017-09-08-nicht-die-stimmen-auf-den/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-09-08-nicht-die-stimmen-auf-den/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Nicht die Stimmen auf den Wahlzetteln sind entscheidend sondern derjenige der sie auszählt.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Joseph Stalin&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter/komplettansicht&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+zeit.de&lt;/p&gt;
+&lt;h2 id=&#34;bundestagswahl-die-bundestagswahl-kann-manipuliert-werdenhttpwwwzeitdedigitaldatenschutz2017-09bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiterkomplettansicht&#34;&gt;&lt;a href=&#34;http://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter/komplettansicht&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bundestagswahl: Die Bundestagswahl kann manipuliert werden&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Die Software der Bundestagwahl ist unsicher, Ergebnisse können gefälscht werden. Das haben Fachleute ZEIT ONLINE demonstriert. Bundeswahlleiter und BSI sind alarmiert.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dieses 3D VR Designtool scheint ...</title>
+      <link>/post/2015-10-31-dieses-3d-vr-designtool-scheint/</link>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-10-31-dieses-3d-vr-designtool-scheint/</guid>
+      <description>&lt;p&gt;Dieses 3D VR Designtool scheint aus der Zukunft zu sein. Sieht echt klasse aus.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.tiltbrush.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.tiltbrush.com/static/images/header/vr-home.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+tiltbrush.com&lt;/p&gt;
+&lt;h2 id=&#34;tilt-brush-by-googlehttpwwwtiltbrushcom&#34;&gt;&lt;a href=&#34;http://www.tiltbrush.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tilt Brush by Google&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tilt Brush by Google&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wundervoll! Leider gibts das nicht ...</title>
+      <link>/post/2015-06-16-wundervoll-leider-gibts-das-nicht/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-06-16-wundervoll-leider-gibts-das-nicht/</guid>
+      <description>&lt;p&gt;Wundervoll! Leider gibts das nicht für Android. Wem es etwas sagt: das ist u.a. von Kai Krause.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://fract.al/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://d1j2f71bsuadlj.cloudfront.net/assets/hero/icon800-a5964d2b7d162d54cd3b04e3f383acc35c2abe44cfa6825766a1bbb0ecefd3bb.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+fr.ax&lt;/p&gt;
+&lt;h2 id=&#34;frax---explore-the-infinitehttpfractal&#34;&gt;&lt;a href=&#34;http://fract.al/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frax - Explore the Infinite&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;An amazing interactive app for creating beautiful and unique fractal images.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wow!! Seit Jahren warte ich ...</title>
+      <link>/post/2012-02-02-wow-seit-jahren-warte-ich/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-02-02-wow-seit-jahren-warte-ich/</guid>
+      <description>&lt;p&gt;Wow!! Seit Jahren warte ich darauf endlich handschriftlich mathematische Formeln in den Computer eingeben zu können und sie automatisch in Latex umwandeln zu können, siehe meinen alten Artikel:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://asmaier.blogspot.com/2009/10/inlage-endlich-latex-formeln.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://asmaier.blogspot.com/2009/10/inlage-endlich-latex-formeln.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die bisherige beste Online-Lösung war &lt;a href=&#34;http://detexify.kirelabs.org/classify.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://detexify.kirelabs.org/classify.html&lt;/a&gt;
+aber die Lösung von VisionObjects ist wesentlich besser, denn sie erkennt ganze Gleichungen und nicht nur einzelne Symbole. Ich habe es gerade mal ausprobiert mit den Formeln für Fouriertransformationen, Kettenbrüchen und Integralen. Und obwohl ich es per Maus gezeichnet habe, hat das System die Formeln sehr gut erkannt. Das ist wirklich ein großer Schritt vorwärts. Wo kann man Aktien dieser Firma kaufen?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://webdemo.visionobjects.com/equation.html?locale=default&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://webdemo.visionobjects.com/equation.html?locale=default&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synergy</title>
+      <link>/post/2009-10-22-synergy/</link>
+      <pubDate>Thu, 22 Oct 2009 13:00:00 +0000</pubDate>
+      <guid>/post/2009-10-22-synergy/</guid>
+      <description>
+&lt;a onblur=&#34;try {parent.deselectBloggerImageGracefully();} catch(e) {}&#34; href=&#34;http://synergy2.sourceforge.net/images/warp.gif&#34;&gt;&lt;img style=&#34;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 400px; height: 192px;&#34; src=&#34;http://synergy2.sourceforge.net/images/warp.gif&#34; border=&#34;0&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Heute hat mir eine Arbeitskollegin folgendes cooles Tool gezeigt:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://synergy2.sourceforge.net/&#34;&gt;Synergy&lt;/a&gt; (bzw. die Weiterentwicklung &lt;a href=&#34;http://code.google.com/p/synergy-plus/&#34;&gt;Synergy+&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;Mit Synergy kann man alle Computer auf seinem Schreibtisch zu einem virtuellen Screen verbinden und zwar unabhängig(!) vom Betriebsystem. Man verbindet dazu die Maus und Tastatur nur mit einem Computer und sagt Synergy die Position der Monitore die man auf dem Schreibtisch hat (z.B. Mac-Laptop links vom Linux-PC). Dann kann man die Maus einfach von einem Bildschirm auf den anderen bewegen (siehe Bild). Auch Copy&amp;amp;Paste funktioniert zwischen beiden Desktops. Ziemlich cool! Für Mac OS X gibt es auch ein GUI:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&#34;moz-txt-link-freetext&#34; href=&#34;http://sourceforge.net/projects/synergykm/&#34;&gt;http://sourceforge.net/projects/synergykm/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Jetzt brauch ich nur noch einen oderer mehrere Laptops um das ganze auch mal selbst ausprobieren zu können! ;-)</description>
+    </item>
+    
+    <item>
+      <title>Inlage: Endlich Latex-Formeln handschriftlich eingeben!!!</title>
+      <link>/post/2009-10-01-inlage-endlich-latex-formeln/</link>
+      <pubDate>Thu, 01 Oct 2009 19:10:00 +0000</pubDate>
+      <guid>/post/2009-10-01-inlage-endlich-latex-formeln/</guid>
+      <description>
+&lt;div&gt;Bereits seit langem (siehe &lt;a href=&#34;http://asmaier.blogspot.com/2006/08/handschrifterkennung-mathematischer.html&#34;&gt;mein Artikel von 2006&lt;/a&gt;) bin ich auf der Suche nach einem Programm, dass handschriftliche mathematische Formeln in Latex umwandeln kann. Es scheint, als ob man meine Gebete erhört wurden. In &lt;a href=&#34;http://de.wikipedia.org/wiki/Microsoft_Windows_7&#34;&gt;Windows 7&lt;/a&gt; ist es möglich, handschriftlich mathematische Formeln einzugeben:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/e7/archive/2009/04/23/ink-input-and-tablet.aspx&#34;&gt;Engineering Windows 7&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Allerdings werden diese in &lt;a href=&#34;http://de.wikipedia.org/wiki/Mathematical_Markup_Language&#34;&gt;MathML&lt;/a&gt; ausgegeben, ein ziemlich besch..eidenes Format (siehe z.B. die Bemerkungen in der &lt;a href=&#34;http://tbookdtd.sourceforge.net/tbookman/MathML-v_002e-simplified-LaTeX.html#MathML-v_002e-simplified-LaTeX&#34;&gt;tbook-Anleitung&lt;/a&gt;). Aber wie bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://social.technet.microsoft.com/Forums/en-US/w7itprogeneral/thread/dc8daeaf-64d8-4dfe-87a7-03320e12715d&#34;&gt;Microsoft TechNet: How Can I Use the Math Input Panel?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://bauforum.wirklichewelt.de/mix_entry.php?nr=5067&#34;&gt;Offenes Forum Bauingenieurwesen - Bauforum: Mathe-Eingabebereich in Windows 7 als grafischer Formeleditor&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;bereits angekündigt, gibt es jetzt das geniale Tool Inlage (&#34;Intelligent Latex Generator&#34;) :&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.inlage.com/&#34;&gt;http://www.inlage.com/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.inlage.com/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.pcwelt.de/specials/windows_7/ratgeber/2100935/formeln_eingeben_ueber_den_mathematik_eingabebereich/&#34;&gt;PCWelt: Formeln eingeben über den Mathematik-Eingabebereich&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Es erlaubt die MathML-Ausgabe der Mathematikeingabe von Windows 7 direkt in Latex umzuwandeln. Leider kann ich es mangels Windows 7 und Tablet-PC nicht ausprobieren, aber wenn es hält was es verspricht ist das wirklich ein Durchbruch. Ein Traum vieler Wissenschaftler dürfte damit in Erfüllung gehen. Und das ermöglicht ausgerechnet Microsoft! Schande über Apple! Wenn sie dieses Feature von Windows 7/Inlage nicht bald kopieren werde ich wohl wieder zum Windows-Jünger. &lt;/div&gt;&lt;div&gt;Ok, es gibt Alternativen:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.inftyproject.org/&#34;&gt;Inftyproject&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://research.cs.queensu.ca/drl/ffes/&#34;&gt;The Freehand Formula Entry System&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.enventra.com/products/mobomath/mapletips.htm&#34;&gt;Mobomath for Maple&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://scientificcomputing.blogspot.com/2006/02/maple-handwriting-recognition-useful.html&#34;&gt;Maple handwriting recognition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Wie gesagt, leider kann ich sie mangels Tablet-PC nicht selbst testen. Wer hat mehr Erfahrung mit den genannten Systemen. Ist die Windows7/Inlage-Lösung wirklich die Beste derzeit auf dem Markt? Und welchen günstigen Tablet-PC mit Windows7 könnt ihr empfehlen (Am günstigsten erschien mir bisher der &lt;a href=&#34;http://www.golem.de/0908/68882.html&#34;&gt;Intel Classmate&lt;/a&gt;)? &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;P.S.: Was man als Wissenschaftler sonst noch so mit einem Tablet-PC anstellen kann steht z.B. bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.nonequilibrium.net/307-scientists-gadgets-tablet-pc-recognition/&#34;&gt;www.nonequilibrium.net: Tablet PC and handwriting formulae recognition&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.physicsforums.com/blog.php?b=103&#34;&gt;www.physicsforum.com: TabletPCs for Science and Science Teachin&lt;/a&gt;g&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Konvertieren</title>
+      <link>/post/konvertieren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/konvertieren/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von PDF-Dateien in PS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Manche PDF-Dateien lassen sich nicht mit &lt;tt&gt;lpr&lt;/tt&gt; ausdrucken lassen.
+Am einfachsten ist es dann, diese Dateien mit
+&lt;pre&gt;&gt; acroread -toPostScript dateiname.pdf &lt;/pre&gt;
+in Postscriptdateien umzuwandeln. Mehr zu den Kommandozeilenparametern
+des Acrobat Reader unter Linux findet man mit
+&lt;pre&gt;&gt; acroread -help&lt;/pre&gt;
+oder
+&lt;pre&gt;&gt; acroread -helpall&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von (einseitigen) PS-Dateien in GIF-Dateien:&lt;/em&gt;&lt;br /&gt;
+Zum Umwandeln von PS-Dateien in GIF-Dateien verwendet man am besten
+die ImageMagick-Tools. Sind diese installiert, so kann man eine einzelne
+PS-Datei z.B. mit folgendem Befehl in eine GIF-Datei umwandeln:
+&lt;pre&gt;&gt; convert -density 100x100 -rotate -90 -resize 768x576 datei.ps datei.gif&lt;/pre&gt;
+Die Optionen im einzelnen:
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;-density 100x100&lt;/tt&gt;: Die PS-Datei wird mit jeweils 100 dpi in x- und y-Richtung
+gerendert, bevor sie konvertiert wird.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-rotate -90&lt;/tt&gt;: Das Bild wird vor der Konvertierung um 90 Grad nach links rotiert.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-resize 768x576&lt;/tt&gt;: Das Bild wird von 100x100 dpi auf PAL-Auflösung von
+768x576 Pixel skaliert.&lt;/li&gt;
+&lt;/ul&gt;
+Will man mehrere PS-Dateien in GIF-Dateien umwandeln, so kann man dies mit
+&lt;pre&gt;&gt; mogrify -verbose -density 100x100 -rotate -90 -resize 768x576 -format gif *.ps&lt;/pre&gt;
+erledigen. Wichtig dabei ist die zusätzliche Option &lt;tt&gt;-format gif&lt;/tt&gt;. Ohne diese würde
+&lt;tt&gt;mogrify&lt;/tt&gt; die Orginal-PS-Dateien überschreiben. Mit der Option &lt;tt&gt;-verbose&lt;/tt&gt;
+schließlich gibt &lt;tt&gt;mogrify&lt;/tt&gt; genauer aus, wie die Konvertierung voranschreitet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von JPEG-Dateien in EPS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Am einfachsten gelingt das mit dem ImageMagick-Tool &lt;tt&gt;mogrify&lt;/tt&gt;:
+&lt;pre&gt;
+mogrify -format eps2 [name]*.jpeg
+&lt;/pre&gt;
+Dieser Befehl wandelt alle JPEG-Dateien in einem Verzeichnis,
+die mit dem Prefix &lt;tt&gt;[name]&lt;/tt&gt; beginnen, in EPS-Dateien um (genauer gesagt in
+EPS Version 2, welches intern nochmals komprimiert wird und daher wesentlich kompaktere
+Dateien erzeugt). &lt;br /&gt;
+Als Alternative wird oft &lt;a href=&#34;http://imgtops.sourceforge.net/&#34;&gt;&lt;tt&gt;imgtops&lt;/tt&gt;&lt;/a&gt;
+angegeben. Allerdings ist &lt;tt&gt;imgtops&lt;/tt&gt; 
+ein veraltetes Python-Skript aus dem Jahre 2003, welches auch nicht mehr gepflegt wird.
+Bei meinen Versuchen stellte sich heraus, dass  im Gegensatz zu 
+den ImageMagick-Tools keine validen EPS2-Dateien erzeugt. Fügt man die mit 
+&lt;tt&gt;imgtops&lt;/tt&gt; erzeugten Dateien über Latex in ein PDF ein, so werden auf einmal 
+Schriftarten falsch angezeigt. Auch sind die mit &lt;tt&gt;imgtops&lt;/tt&gt; erzeugten Dateien
+wesentlich größer als die durch &lt;tt&gt;convert&lt;/tt&gt; bzw. &lt;tt&gt;mogrify&lt;/tt&gt; generierten 
+EPS-Dateien. Darum Finger weg vom &lt;tt&gt;imgtops&lt;/tt&gt;, die ImageMagick-Tools machen es 
+besser und können zudem noch eine ganze Menge mehr.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von Farb- in Graustufen-EPS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Es gibt verwirrend viele Möglichkeiten mit den ImageMagick-Tools ein Farb- in ein 
+Graustufenbild umzuwandeln (siehe 
+&lt;a href=&#34;http://www.imagemagick.org/Usage/color/#grayscale&#34;&gt;Converting Color to Gray-Scale&lt;/a&gt;).
+Aber die einfachste Lösung ist die Benutzung der Option &lt;tt&gt;-type&lt;/tt&gt; wie bei 
+&lt;a href=&#34;http://fightpc.blogspot.com/2007/03/grayscale-with-imagemagick.html&#34;&gt;fightpc.blogspot.com&lt;/a&gt;
+beschrieben:
+&lt;pre&gt;
+&gt; convert color.eps -type grayscale -compress jpeg eps2:gray.eps
+&lt;/pre&gt;
+Zusätzlich ist hier durch Angabe von &lt;tt&gt;eps2:&lt;/tt&gt; noch sichergestellt, dass die generierte 
+EPS-Datei im EPS2-Format gespeichert wird, was es möglich macht über die Option &lt;tt&gt;-compress jpeg&lt;/tt&gt; 
+anzugeben, dass intern in der EPS-Datei das Bild JPEG-komprimiert gespeichert wird. Dies sollte man
+immer machen, denn die so erzeugten EPS-Dateien sind wesentlich platzsparender.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umwandeln von (einseitigen) PS-Dateien in EPS-Dateien:&lt;/em&gt;&lt;br /&gt;
+Auch dazu verwendet man am einfachsten das ImageMagick-Tool &lt;tt&gt;convert&lt;/tt&gt;:
+&lt;pre&gt;
+&gt; convert datei.ps datei.eps
+&lt;/pre&gt;
+So sollte es funktionieren, aber
+leider hat die mit SUSE 9.3 mitgelieferte Version der 
+Image-Magick-Tools eine Bug und man bekommt nur die folgende Fehlermeldung zu sehen:
+&lt;pre&gt;
+Unknown device: nodevice
+convert: Delegate failed `&#34;gs&#34; -q -dBATCH -dSAFER -dMaxBitmap=500000000 
+-dNOPAUSE -dAlignToPixels=0 -sDEVICE=&#34;nodevice&#34; -sOutputFile=&#34;%o&#34; -f&#34;%i&#34;&#39;.
+&lt;/pre&gt;
+Grund ist eine fehlerhafte Konfiguration von ImageMagick in Bezug auf Ghostview.
+PS,PDF und EPS-Dateien werden nämlich nicht von &lt;tt&gt;convert&lt;/tt&gt; selbst behandelt,
+stattdessen ruft es intern Ghostview auf und verwendet es zum Konvertieren der Dateien.
+Die Kommandozeile für den Ghostviewaufruf entnimmt &lt;tt&gt;convert&lt;/tt&gt; der Datei
+&lt;tt&gt;delegates.xml&lt;/tt&gt; (unter Suse 9.3 zu finden unter 
+&lt;tt&gt;/usr/lib/ImageMagick-6.1.8/config&lt;/tt&gt;). Seltsamerweise sind in dieser Datei
+sämliche Aufrufe für das Konvertieren von PS, PDF und EPS-Dateien ineinander
+fehlerhaft. Dort wo &lt;tt&gt;-sDEVICE=&#34;epswrite&#34;&lt;/tt&gt; bzw. &lt;tt&gt;-sDEVICE=&#34;pswrite&#34;&lt;/tt&gt; 
+oder &lt;tt&gt;-sDEVICE=&#34;pdfwrite&#34;&lt;/tt&gt; verwendet werden sollte, steht, wie aus obiger 
+Fehlermeldung bereits zu sehen, &lt;tt&gt;-sDEVICE=&#34;nodevice&#34;&lt;/tt&gt;. Ist man kein Administrator,
+kann man an dieser Situation auch nichts ändern, denn leider liest ImageMagick
+die Konfigurationsdateien in der falschen Reihenfolge
+(siehe &lt;a href=&#34;http://www.imagemagick.org/script/resources.php&#34;&gt;Resources-Seite&lt;/a&gt; der 
+Image-Magick-Tools), so dass man nicht durch eine eigene Datei &lt;tt&gt;delegates.xml&lt;/tt&gt; im lokalen
+Konfigurationsverzeichnis &lt;tt&gt;~/.magick&lt;/tt&gt; die fehlerhafte Datei im Verzeichnis
+&lt;tt&gt;/usr/lib/ImageMagick-6.1.8/config&lt;/tt&gt; verdecken kann. Hat man Administratorrechte, so
+sollte man sich an der neusten (und fehlerbereinigten) Version der Datei 
+&lt;a href=&#34;http://www.imagemagick.org/source/delegates.xml&#34;&gt;delegates.xml&lt;/a&gt; von oben bereits
+genannter Homepage orientieren und in der lokalen Datei sämtliche Einträge von 
+&lt;tt&gt;-sDEVICE=&#34;nodevice&#34;&lt;/tt&gt; durch die entsprechenden &lt;tt&gt;-sDEVICE=&#34;epswrite&#34;&lt;/tt&gt; bzw. 
+&lt;tt&gt;-sDEVICE=&#34;pswrite&#34;&lt;/tt&gt; oder &lt;tt&gt;-sDEVICE=&#34;pdfwrite&#34;&lt;/tt&gt; ersetzen. Nach dieser
+Prozedur funktioniert das Konvertieren von PS zu EPS-Dateien (und auch das von PDF in EPS-Dateien)
+wieder reibungslos. &lt;br /&gt;
+Unter Suse 9.1 gab es übrigens einen anderen Bug beim Konvertieren von PS nach EPS-Dateien.
+Zwar funktionierte hier der Aufruf von Ghostscript reibungslos, jedoch wurde die Bounding-Box-Werte
+im erzeugten EPS-File falsch gesetzt. Die richtigen Werte muß man unter Suse 9.1 durch eine
+Extraaufruf von Ghostscript herausbekommen und diese dann manuell an die entsprechende 
+Stelle in der EPS-Datei eintragen. Diese Prozedur ist 
+&lt;a href=&#34;http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=205102&#34;&gt;hier&lt;/a&gt; beschrieben.&lt;/li&gt;  
+&lt;/ul&gt;
+&lt;h5&gt;Erstellen von Filmen und Animationen&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Erstellen von GIF-Animationen mit &lt;tt&gt;gifsicle&lt;/tt&gt;:&lt;/em&gt;&lt;br /&gt;
+Das Einfügen von Videos in OpenOffice V1.x/Impress funktioniert unter
+Linux leider nicht. Als Workaround kann man jedoch GIF-Animationen verwenden,
+da diese als Bilder eingefügt werden können. Erstellen kann man diese
+mit dem &lt;tt&gt;gifsicle&lt;/tt&gt;-Befehl, z.B.:
+&lt;pre&gt;&gt; gifsicle --delay=4 --colors=256 --loopcount=forever *.gif &gt; anim.gif&lt;/pre&gt;
+Dieser Befehl erstellt aus allen GIF-Dateien in einem Verzeichnis eine
+GIF-Animation namens &lt;tt&gt;anim.gif&lt;/tt&gt;. Mithilfe der Option
+&lt;tt&gt;--delay=4&lt;/tt&gt; wird dabei die Anzeigedauer eines Bildes zu 4 Hunderstelsekunden
+(1/25 Sekunde) festgelegt, so dass die Animation mit einer
+Geschwindigkeit von 25 Bildern/s abgespielt wird. Die Option
+&lt;tt&gt;--loopcount=forever&lt;/tt&gt; gibt an, dass die Animation unendlich oft wiederholt
+werden soll und die Option &lt;tt&gt;--colors=256&lt;/tt&gt; sorgt für die Angleichung der
+Farbpaletten der Einzelbilder, so dass jedes Einzelbild dieselbe Farbpalette mit
+256 Farben hat.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Erstellen von Divx-Filmen aus PNG-Dateien mit &lt;tt&gt;mencoder&lt;/tt&gt;:&lt;/em&gt;&lt;br /&gt;
+Folgende Kommandozeile kann man zum Erstellen von Divx-Filmen mit dem &lt;tt&gt;mencoder&lt;/tt&gt;
+verwenden:
+&lt;pre&gt;
+&gt; mencoder mf://*.png -mf w=800:h=600:fps=5:type=png -ovc lavc -lavcopts vcodec=mpeg4 -oac copy -ffourcc DX50 -o film.avi
+&lt;/pre&gt;
+Dieser Befehl erstellt aus allen PNG-Dateien in einem Verzeichnis (&lt;tt&gt;mf://*.png&lt;/tt&gt;) einen 
+Film mit dem Namen &#34;film.avi&#34; (&lt;tt&gt;-o film.avi&lt;/tt&gt;) mit der Auflösung 800x600px und 
+einer Bildwiederholrate von 5 Bildern pro Sekunde (&lt;tt&gt;-mf w=800:h=600:fps=5:type=png&lt;/tt&gt;). 
+Zum Kodieren wird die &lt;tt&gt;libavcodec&lt;/tt&gt; des &lt;tt&gt;FFmpeg&lt;/tt&gt;-Systems verwendet (&lt;tt&gt;-ovc lavc&lt;/tt&gt;). 
+Von denen mit &lt;tt&gt;libavcodec&lt;/tt&gt; möglichen Videoformaten wird Divx ausgewählt 
+(&lt;tt&gt;-lavcopts vcodec=mpeg4&lt;/tt&gt;). Eventuell vorhandene Audiodaten (in PNG sind natürlich keine gespeichert!) 
+werden einfach kopiert ohne nochmal kodiert zu werden (&lt;tt&gt;-oac copy&lt;/tt&gt;). &lt;em&gt;Unbedingt&lt;/em&gt; 
+erforderlich ist auch die Option &lt;tt&gt;-ffourcc DX50&lt;/tt&gt;. Diese setzt die richtige Dateikennung 
+&lt;tt&gt;DX50&lt;/tt&gt; für den Divx-Film. Ohne diese kann der Divx-Film ansonsten nur vom &lt;tt&gt;mplayer&lt;/tt&gt;, 
+jedoch nicht(!) von sämtlichen anderen unter Windows verbreiteten Divx-Playern abgespielt werden.
+Mehr dazu und zur Kodierung mit dem MPlayer gibt es auf
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nasauber.de/linux_know_how/lang/mencoder.php&#34;&gt;nasauber.de: Filme mit mencoder rippen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://de.gentoo-wiki.com/MEncoder&#34;&gt;MEncoder - Gentoo Linux Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mplayerhq.hu/DOCS/HTML/en/mencoder.html&#34;&gt;Online documentation: Basic Usage of MEncoder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wichtige Bildauflösungen:&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;PAL: 768 x 576 Pixel (Verhältnis 4:3)&lt;/li&gt;
+&lt;li&gt;D1 (DVD-Auflösung): 720 x 576 Pixel (Verhältnis 5:4)&lt;/li&gt;
+&lt;li&gt;HD 720 : 1280 × 720 (Verhältnis 16:9)&lt;/li&gt;
+&lt;li&gt;HD 1080 : 1920 × 1080 (Verhältnis 16:9)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Verschiedenes zum Thema Dateiformat&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Dateiformat einer Datei mit unbekannter Endung oder ohne Endung herausfinden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; file [datei]
+[datei]: HTML document text
+&lt;/pre&gt;
+Im diesem Beispiel sieht man, das man mit dem Kommando &lt;tt&gt;file&lt;/tt&gt; sehr einfach herausfinden kann, dass die Datei
+&lt;tt&gt;[datei]&lt;/tt&gt; eine HTML Datei ist. Das ganze funktioniert auch z.B. bei Verzeichnissen:
+&lt;pre&gt;
+&gt; file [verzeichnis]
+[verzeichnis]: directory
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, ob eine XML-Datei valide ist:&lt;/em&gt;&lt;br /&gt;
+Um zu sehen, ob eine XML-Datei valide ist, d.h. entsprechende einem Schema z.B. im XSD-Format vorliegt, benutzt man
+&lt;pre&gt;
+&gt; xmllint -noout Output.xml --schema ../schema/output_2.5.xsd
+&lt;/pre&gt;
+In diesem Beispiel wird getestet, ob die Datei &lt;tt&gt;Output.xml&lt;/tt&gt; dem Schema &lt;tt&gt;output_2.5.xsd&lt;/tt&gt; entspricht. Gibt das
+Kommando keine weiter Ausgabe zurück ist die Datei tatsächlich valide, ansonsten erscheinen Fehlermeldungen über die
+entsprechenden fehlerhaften Zeilen. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, ob ein Programm für 32 oder 64bit, dynamisch oder statisch gelinkt kompiliert wurde:&lt;/em&gt;&lt;br /&gt;
+Auch das gelingt mit dem &lt;tt&gt;file&lt;/tt&gt;-Kommando:
+&lt;pre&gt;
+&gt; file ssh
+ssh: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), for GNU/Linux 2.6.9,
+dynamically linked (uses shared libs), for GNU/Linux 2.6.9, not stripped
+&lt;/pre&gt;
+Detailliertere Informatione bekommt man in diesem Fall mit 
+&lt;pre&gt;
+&gt; readelf -h ssh
+ELF Header:
+  Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00
+  Class:                             ELF32
+  Data:                              2&#39;s complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              EXEC (Executable file)
+  Machine:                           Intel 80386
+  Version:                           0x1
+  Entry point address:               0x80508d0
+  Start of program headers:          52 (bytes into file)
+  Start of section headers:          1960868 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               52 (bytes)
+  Size of program headers:           32 (bytes)
+  Number of program headers:         8
+  Size of section headers:           40 (bytes)
+  Number of section headers:         37
+  Section header string table index: 34
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lrz | Das Blog</title>
+    <link>/tag/lrz/</link>
+      <atom:link href="/tag/lrz/index.xml" rel="self" type="application/rss+xml" />
+    <description>lrz</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>lrz</title>
+      <link>/tag/lrz/</link>
+    </image>
+    
+    <item>
+      <title>Das wars! Gestern war mein ...</title>
+      <link>/post/2010-10-30-das-wars-gestern-war-mein/</link>
+      <pubDate>Sat, 30 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/post/2010-10-30-das-wars-gestern-war-mein/</guid>
+      <description>&lt;p&gt;Das wars! Gestern war mein letzter Arbeitstag hier in München am LRZ. Jetzt gehts auf nach Berlin. Habe dort ab 01.12 eine neue Stelle :-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

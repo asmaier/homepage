@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>it-dienstleistungen | Das Blog</title>
+    <link>/tag/it-dienstleistungen/</link>
+      <atom:link href="/tag/it-dienstleistungen/index.xml" rel="self" type="application/rss+xml" />
+    <description>it-dienstleistungen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>it-dienstleistungen</title>
+      <link>/tag/it-dienstleistungen/</link>
+    </image>
+    
+    <item>
+      <title>Einen Chatbot brauchen wir. Mit ...</title>
+      <link>/post/2018-08-26-einen-chatbot-brauchen-wir-mit/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-08-26-einen-chatbot-brauchen-wir-mit/</guid>
+      <description>&lt;p&gt;Einen Chatbot brauchen wir. Mit künstlicher Intelligenz, das hat jetzt jeder, haben sie auf der Konferenz gesagt. Dann muss es stimmen. Lass uns einen Chatbot bauen. Wie? Unsere IT Experten sagen, dass ist extrem aufwendig und kostet viel Geld? Dann kaufen wir ihn einfach extern bei Startup XY ein. Das wird super!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

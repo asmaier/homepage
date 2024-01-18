@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optik | Das Blog</title>
+    <link>/tag/optik/</link>
+      <atom:link href="/tag/optik/index.xml" rel="self" type="application/rss+xml" />
+    <description>optik</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Sep 2018 20:16:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>optik</title>
+      <link>/tag/optik/</link>
+    </image>
+    
+    <item>
+      <title>Kurzsichtigkeit - Neues aus der Wissenschaft</title>
+      <link>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</link>
+      <pubDate>Mon, 17 Sep 2018 20:16:00 +0000</pubDate>
+      <guid>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</guid>
+      <description>
+&lt;div dir=&#34;ltr&#34; style=&#34;text-align: left;&#34; trbidi=&#34;on&#34;&gt;Nach meinem Artikel von &lt;a href=&#34;https://asmaier.blogspot.com/2009/11/ursachen-der-kurzsichtigkeit.html&#34;&gt;2009&lt;/a&gt;&amp;nbsp;über Ursachen der Kurzsichtigkeit und dem von &lt;a href=&#34;https://asmaier.blogspot.com/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34;&gt;2015&lt;/a&gt;&amp;nbsp;über mögliche Therapieansätze habe ich in der Zwischenzeit&amp;nbsp;ein paar neue Erkenntnisse zu dem Thema gesammelt:&lt;br /&gt;&lt;br /&gt;Eine Studie mit 300000 Teilnehmern hat eine positive Korrelation zwischen Brille tragen und höherer Intelligenz gefunden (siehe &lt;a href=&#34;https://www.heilpraxisnet.de/naturheilpraxis/forschung-sind-brillentraeger-wirklich-von-natur-aus-schlauer-20180531411836&#34;&gt;https://www.heilpraxisnet.de/naturheilpraxis/forschung-sind-brillentraeger-wirklich-von-natur-aus-schlauer-20180531411836&lt;/a&gt; ). Das höre ich natürlich gerne, aber es wäre ziemlich unintelligent sich die ganze Sache nicht doch etwas genauer anzusehen. Im Gegensatz zu dem Heilpraxisartikel, wo der Journalist wie üblich natürlich &lt;a href=&#34;https://de.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc&#34;&gt;Korrelation und Kausation verwechselt&lt;/a&gt;, betonen die Wissenschaftler, dass es sich nur um eine Korrelation handelt. Viele Brillenträger sind intelligenter (wobei die Definition von Intelligenz wie üblich sehr problematisch ist). Das bedeutet aber nicht, dass man seine Intelligenz erhöhen kann, indem man Brille trägt. Interessant ist auch, dass eine höhere Intelligenz nur mit Kurzsichtigkeit positiv korreliert ist, mit Weitsichtigkeit aber negativ:&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;&#34;The result for myopia (short-sightedness; rg = 0.32) was consistent with previous evidence of a positive phenotypic and genetic correlation between this trait and cognitive function. Less genetic work has investigated the links between hyperopia (long-sightedness) and cognitive function, although our finding, a genetic correlation of rg = −0.21, was consistent with the negative phenotypic association between these variables reported in previous literature&#34; (&lt;a href=&#34;https://www.nature.com/articles/s41467-018-04362-x&#34;&gt;https://www.nature.com/articles/s41467-018-04362-x&lt;/a&gt;)&lt;/blockquote&gt;&lt;br /&gt;&lt;a name=&#39;more&#39;&gt;&lt;/a&gt;&lt;br /&gt;Die Forscher haben jedoch auch andere Korrelationen gefunden, z.B. korreliert auch eine schnelle Reaktionszeit mit höherer Intelligenz:&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;We found a genetic correlation (rg) of 0.247 (P = 1.28 × 10−30) between reaction time and general cognitive function.&lt;/blockquote&gt;Aber wie wir alle wissen ist nicht jeder Torwart oder 100m Sprinter auch ein Nobelpreisträger. Insgesamt finde ich, dass solche Korrelationsstudien im allgemeinen wenig nützlich sind und mehr Fragen aufwerfen als Antworten geben.&lt;br /&gt;&lt;br /&gt;Viel interessanter dagegen ist jedoch eine Studie der Uni Tübingen. Diese wollen nämlich herausgefunden haben, warum Lesen kurzsichtig macht:&lt;br /&gt;&lt;br /&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li&gt;&lt;a href=&#34;http://www.eye-tuebingen.de/the-institute/news-events/news/news-article/60-why-might-reading-make-myopic/&#34;&gt;Universitätsklinikum Tübingen: Why might reading make myopic?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/Studie-von-Tuebinger-Augenheilkundlern-Warum-macht-Lesen-kurzsichtig,tuebinger-erklaeren-kurzsichtigkeit-100.html&#34;&gt;Studie von Tübinger Augenheilkundlern: Warum macht Lesen kurzsichtig?&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Kurz gesagt haben sie den Einfluß des Lesens von schwarzem Text auf weißem Grund und weißem Text auf schwarzem Grund auf die Entwicklung der &lt;a href=&#34;https://de.wikipedia.org/wiki/Aderhaut&#34;&gt;Aderhaut&lt;/a&gt;&amp;nbsp;gemessen. Dabei zeigte sich, dass nur 30 Minuten Lesen von Schwarzem Text auf weißem Grund die Aderhaut verdünnt, was zu einem Längenwachstum und damit zu Kurzsichtigkeit führen kann. Umgedreht führte das Lesen von hellem Text auf dunklem Untergrund zu einer Verdickung der Aderhaut und würde also zu einer Hemmung der Kurzsichtigkeit führen. Würde das stimmen, wäre es sensationell und es gäbe eine sehr einfach Möglichkeit der Kurzsichtigkeit vorzubeugen: Statt Bücher zu lesen sollte man besser am Computer mit umgedrehten Kontrast lesen (z.B. &lt;a href=&#34;https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/&#34;&gt;Apples neuer Dark Mode&lt;/a&gt;). Einen Haken hat die Studie aber doch (was die Journalisten natürlich wieder verschwiegen haben): Insgesamt waren nur sieben Kandidaten beteiligt:&lt;/div&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;Seven young adult subjects participated, subject 1 was Asian, the others Caucasian, subjects 3 and 6 male, subject 3 wore contact lenses, subjects 1, 2, and 7 spectacles. Ages ranged from 23 to 29 years. Subjects had no known ocular pathologies other than mild or moderate myopia (&lt;a href=&#34;https://www.nature.com/articles/s41598-018-28904-x&#34;&gt;https://www.nature.com/articles/s41598-018-28904-x&lt;/a&gt;).&lt;/blockquote&gt;Damit ist die Studie meiner Meinung nach leider noch viel zu klein um sie wirklich ernst zu nehmen. Würde sich aber in einer größeren Studie mit vielleicht hunderten oder tausenden Teilnehmer ein ähnliches Ergebnis ergeben, dann hätte das meiner Meinung nach den Nobelpreis der Medizin verdient. Wer nicht so lange warten möchte und bereits jetzt seine Augen beim Lesen schonen möchte, dem kann ich das DarkReader Plugin für den Browser empfehlen: &lt;a href=&#34;https://darkreader.org/&#34;&gt;https://darkreader.org/ &lt;/a&gt;. Zusammen mit dem &lt;a href=&#34;https://chrome.google.com/webstore/detail/slinky-elegant/bmanlajnpdncmhfkiccmbgeocgbncfln&#34;&gt;Slinky Elegant Theme&lt;/a&gt; für den Chrome Browser bleibt der Bildschirm beim Internetsurfen dunkel und die Augen werden geschont. Auch auf dem Smartphone kann man schon jetzt oft einen DarkMode nutzen (unter iOS z.B. unter Allgemein-&amp;gt;Bedienhilfen-&amp;gt;Display-Anpassungen-&amp;gt;Farben umkehren -&amp;gt; Intelligent) und spart damit auf einem modernen OLED-Display sogar &lt;a href=&#34;https://appleinsider.com/articles/17/11/10/extreme-test-shows-oled-iphone-x-with-dark-mode-saves-nearly-60-battery-over-3-hours&#34;&gt;signifikant Energie&lt;/a&gt;. Also nutzt den DarkMode auf eurem Computer/Smartphone. Er ist gut für die Umwelt und schon eure Augen.&lt;br /&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Geiles Video! Der Beweis dafür, ...</title>
+      <link>/post/2017-09-27-geiles-video-der-beweis-dafur/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-09-27-geiles-video-der-beweis-dafur/</guid>
+      <description>&lt;p&gt;Geiles Video! Der Beweis dafür, dass Schallwellen nicht nur schön klingen sondern auch gut aussehen können!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Q3oItpVa9fs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ytimg.com/vi/Q3oItpVa9fs/maxresdefault.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+youtube.com&lt;/p&gt;
+&lt;h2 id=&#34;cymatics-science-vs-music---nigel-stanfordhttpswwwyoutubecomwatchvq3oitpva9fs&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Q3oItpVa9fs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CYMATICS: Science Vs. Music - Nigel Stanford&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;► NEW VIDEO Automatica: &lt;a href=&#34;http://nigelstanford.com/y/Cytext-Automatica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://nigelstanford.com/y/Cytext-Automatica&lt;/a&gt;► Album, Apple Music, CDs &amp;amp; 4k Video: &lt;a href=&#34;http://nigelstanford.com/y/Cytext-Cymatics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://nigelstanford.com/y/Cytext-Cymatics&lt;/a&gt;► Spotify&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Warum ich oft die englische ...</title>
+      <link>/post/2016-01-13-warum-ich-oft-die-englische/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-01-13-warum-ich-oft-die-englische/</guid>
+      <description>&lt;p&gt;Warum ich oft die englische Wikipedia lese:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Gr%C3%BCn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Gr%C3%BCn&lt;/a&gt;
+Grün ist der Farbreiz, der wahrgenommen wird, wenn Licht mit einer spektralen Verteilung ins Auge fällt, bei der fast nur Wellenlängen zwischen 520 und 565 nm vorkommen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Green&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Green&lt;/a&gt;
+Green is the color between blue and yellow on the spectrum of visible light.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simple.wikipedia.org/wiki/Green&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://simple.wikipedia.org/wiki/Green&lt;/a&gt;
+Green is a color.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Gr%C3%BCn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Innervillgraten_-_Oberstalleralm_-_Rastplatz.jpg/1200px-Innervillgraten_-_Oberstalleralm_-_Rastplatz.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+de.wikipedia.org&lt;/p&gt;
+&lt;h2 id=&#34;grün--wikipediahttpsdewikipediaorgwikigrc3bcn&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Gr%C3%BCn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grün – Wikipedia&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The following very interesting article ...</title>
+      <link>/post/2015-12-24-the-following-very-interesting-article/</link>
+      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-12-24-the-following-very-interesting-article/</guid>
+      <description>&lt;p&gt;The following very interesting article states that 12% of all woman actually have four cone types in their eyes. But because in most cases the sensitivity to color of the fourth cone is not(!) very different from the red and green cone their brain cannot see more colors than people with just three cones. However in their study with seven woman, which have four cones, one of the woman actually could see more colors than usual. If that is representative it means that 12/7 = 1.7%(!) of all woman actually can distinguish more colors than the average person with only three cones in their retina.&lt;/p&gt;
+&lt;p&gt;I wish you a colorful christmas!﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Die Idee mit diesem speziellen ...</title>
+      <link>/post/2014-12-06-die-idee-mit-diesem-speziellen/</link>
+      <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-12-06-die-idee-mit-diesem-speziellen/</guid>
+      <description>&lt;p&gt;Die Idee mit diesem speziellen Brillenglas das Fortschreiten der Kurzsichtigkeit im Kinderalter zu verlangsamen scheint ja laut Studie zu funktionieren. Aber warum braucht Zeiss dann so lange MyoVision auch außerhalb Asiens auf den Markt zu bringen? Fürchten die Optiker hier etwa um ihre Einnahmen?&lt;/p&gt;
+&lt;p&gt;Mehr Infos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zeiss.de/corporate/de_de/ueber-zeiss/aktuelles/wussten-sie-dass/72--ausgabe-von-wussten-sie--dass---.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.zeiss.de/corporate/de_de/ueber-zeiss/aktuelles/wussten-sie-dass/72--ausgabe-von-wussten-sie--dass---.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zeiss.com/vision-care/en_de/products-services/spectacle-lenses/single-vision-lenses/single-vision-myovision.html#details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.zeiss.com/vision-care/en_de/products-services/spectacle-lenses/single-vision-lenses/single-vision-myovision.html#details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deanoptometrist.com.au/zeiss-myovision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.deanoptometrist.com.au/zeiss-myovision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://precisionoptics2013.wordpress.com/category/controlling-myopia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://precisionoptics2013.wordpress.com/category/controlling-myopia/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.optikerschuetz.de/blog/myovision-innovatives-brillenglas-fuer-kinder-verlangsamt-das-wachstum-einer-kurzsichtigkeit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.optikerschuetz.de/blog/myovision-innovatives-brillenglas-fuer-kinder-verlangsamt-das-wachstum-einer-kurzsichtigkeit&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;The system is intended to ...</title>
+      <link>/post/2014-05-21-the-system-is-intended-to/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-05-21-the-system-is-intended-to/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The system is intended to &amp;ldquo;create the illusion of life-size, full colour, 3D moving images. &amp;hellip;The system was created and patented by Uwe Maass&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This guy is from Germany. But his technology seems basically unknown here. There is not even a german Wikipedia entry let alone any news article covering his invention. German Technikangst?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Musion_Eyeliner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Peppers_Ghost.jpg/1200px-Peppers_Ghost.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+en.wikipedia.org&lt;/p&gt;
+&lt;h2 id=&#34;peppers-ghost---wikipediahttpenwikipediaorgwikimusion_eyeliner&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Musion_Eyeliner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pepper&amp;rsquo;s ghost - Wikipedia&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tarnschirme und Metamaterialien</title>
+      <link>/post/2006-10-30-tarnschirme-und-metamaterialien/</link>
+      <pubDate>Mon, 30 Oct 2006 16:03:00 +0000</pubDate>
+      <guid>/post/2006-10-30-tarnschirme-und-metamaterialien/</guid>
+      <description>
+Es ist immer wieder erstaunlich wie schnell aus Fiction Science werden kann. Wäre man vor 10-20 Jahren noch ausgelacht worden, wenn man laut über die physikalische Möglichkeit von Tarnschirmen nachgedacht hätte, die das Licht um den Träger herumlenken, scheint es heutzutage physikalisch nicht mehr unmöglich und damit prinzipiell technisch machbar. Eine primitive Version eines solchen Tarnschirms wurde gar vor kurzem von &lt;span class=&#34;klein&#34;&gt;David Smith (Duke-Universität Durham) in einem Experiment getestet:&lt;br /&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.wissenschaft.de/wissenschaft/news/271046.html&#34;&gt;wissenschaft.de: Unsichtbar in der Mikrowelle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.spiegel.de/wissenschaft/mensch/0,1518,443579,00.html&#34;&gt;spiegel.de:Forscher bauen erste Tarnkappe&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Zwar funktioniert das ganze bisher nur in zwei Dimensionen und für Mikrowellen genau einer Frequenz, aber physikalisch spricht nichts dagegen, dass dies auch in drei Dimensionen und für sichtbares Licht möglich ist. Möglich macht dies die Entwicklung von &lt;a href=&#34;http://de.wikipedia.org/wiki/Metamaterial&#34;&gt;Metamaterialien&lt;/a&gt; mit negativem Brechungsindex (das ist etwas vereinfacht, eigentlich spricht man von gleichzeitig negativer Permeabilität und negativer Permittivität, was zur Folge hat, dass in diesen Materialen Gruppen- und Phasengeschwindigkeit der Lichtwellen nicht mehr in die gleiche Richtung zeigen,  die Kausalität aber trotzdem nicht verletzt sein soll). Die technischen Möglichkeiten, die sich aus diesen Materialen ergeben sind mehr als überraschend und kaum abzusehen. Die Entdecker dieser Materialien (theoretische Beschreibung von &lt;a href=&#34;http://de.wikipedia.org/wiki/Victor_Veselago&#34;&gt;Veselago&lt;/a&gt; 1967, experimentelle Realisierung von &lt;a href=&#34;http://en.wikipedia.org/wiki/John_Pendry&#34;&gt;Pendry&lt;/a&gt; 1999) sind meiner Meinung nach daher mit die heißesten Anwärter für den Physiknobelpreis in den nächsten Jahren.</description>
+    </item>
+    
+  </channel>
+</rss>

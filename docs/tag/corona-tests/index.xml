@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>corona-tests | Das Blog</title>
+    <link>/tag/corona-tests/</link>
+      <atom:link href="/tag/corona-tests/index.xml" rel="self" type="application/rss+xml" />
+    <description>corona-tests</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>corona-tests</title>
+      <link>/tag/corona-tests/</link>
+    </image>
+    
+    <item>
+      <title>Das Internetz, alles Neuland. Unser ...</title>
+      <link>/post/2021-03-19-das-internetz-alles-neuland-unser/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-03-19-das-internetz-alles-neuland-unser/</guid>
+      <description>&lt;p&gt;Das Internetz, alles Neuland. Unser Staat und unsere Behörden sind offenbar IT-Analphabeten: Über 130 000 Schnelltest-Ergebnisse ungeschützt im Netz!&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Um die vollständigen Daten aller Getesteten live einzusehen, brauchte man sich nur einen Account für einen Covid-19-Test anzulegen. Die URL für das Testergebnis enthält die Nummer des Tests. Wurde diese Zahl hoch- oder runtergezählt, wurden die &amp;ldquo;Testzertifikate&amp;rdquo; anderer Personen frei zugänglich. Im Testzertifikat stehen neben dem Testergebnis auch Name, Geburtsdatum, Anschrift, Staatsbürgerschaft und Ausweisnummer der Betroffenen.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;So einen Fehler können Skriptkiddies ausnutzen und das bei hochsensiblen Gesundheitsdaten.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Das Testportal von 21Dx bei medicus.ai liegt hinter Cloudflare, d.h. alle Testergebnisse und personenbezogenen Daten werden einmal durch ein US-Unternehmen geleitet.
+Ebenfalls sind Tracking-Skripte von sowohl Google als auch dem Zahlungsdienstleister Stripe eingebunden, die jeden Seitenaufruf analysieren.
+Alle drei tauchen nicht in der Datenschutzerklärung von 21dx.medicus.ai auf.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Ich bin ja der Meinung, der Firma medicus gehört eine saftige Strafe aufgebrummt, so dass sich ihre Corona-Gewinne in Verluste umwandeln. Und die zuständigen Gesundheitsbehörden sollten alle mal einen IT-Grundkurs machen. Wie öffne ich einen Browser. Was ist eine URL. Was sind sensible Daten&amp;hellip; etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Peinlich, peinlich.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zerforschung.org/posts/medicus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zerforschung.org/p/medicus/notsecure.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+zerforschung.org&lt;/p&gt;
+&lt;h2 id=&#34;wir-wissen-wie-du-diesen-winter-getestet-wurdest-ein-corona-drama-in-sechs-aktenhttpszerforschungorgpostsmedicus&#34;&gt;&lt;a href=&#34;https://zerforschung.org/posts/medicus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wir wissen, wie du diesen Winter getestet wurdest. Ein Corona-Drama in sechs Akten&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Wie wir nur mal kurz einen Corona-Test machen wollten und versehentlich in ein Nest voller Sicherheitslücken gefallen sind.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Seit dem 8. März gibt es in Berlin »kostenlose Bürger*innen-Tests«. Über das Portal test-to-go.berlin kann man ein Testzentrum finden und einen Termin buchen.
+Schon kurz nach Veröffentlichung der Testzentren-Übersicht der Berliner Senatsverwaltung für Gesundheit, Pflege und Gleichstellung waren wir irritiert: Alles an diesem Online-Portal machte auf uns den Eindruck, doch etwas hastig zusammengestrickt worden zu sein – und das nach nur einem Jahr Pandemie.
+Anscheinend ist Internet für das @SenGPG immer noch Neuland und sie haben noch nie von Domainsquatting gehört, denn jetzttesten​.​berlin sowie tests-to-go​.​berlin (&amp;amp; test2go​ &amp;amp; tests2go &amp;amp; test-togo …) sind noch frei.Das ist besonders bei mündlicher Weitergabe problematisch. pic.twitter.com/Ai9avSldvo— zerforschung (@zerforschung) March 7, 2021&lt;/p&gt;
+&lt;p&gt;Da wir ohnehin einen Test machen wollten, konnten wir dieses neue Angebot gleich mal ausprobieren.
+Am Testzentrum angekommen wunderten wir uns, dass wir sehr energisch auf die Online-Registrierung hingewiesen wurden.
+Wir standen doch schon am Eingang!
+Aufgrund der Menge persönlicher Daten, die in der WebApp abgefragt wurden, hätten wir eine Online-Erfassung eigentlich gern vermieden.
+Nach dem Test freuten wir uns nicht nur über das negative Ergebnis – sondern guckten dabei, wie üblich, auch kurz mit auf den Datenverkehr. Bei einigen URLs hatten wir schon im ersten Moment ein mulmiges Gefühl. Das mulmige Gefühl würde in den nächsten Minuten blankem Entsetzen weichen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

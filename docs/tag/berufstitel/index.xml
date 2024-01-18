@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>berufstitel | Das Blog</title>
+    <link>/tag/berufstitel/</link>
+      <atom:link href="/tag/berufstitel/index.xml" rel="self" type="application/rss+xml" />
+    <description>berufstitel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>berufstitel</title>
+      <link>/tag/berufstitel/</link>
+    </image>
+    
+    <item>
+      <title>Wer will nochmal, wer hat ...</title>
+      <link>/post/2012-03-04-wer-will-nochmal-wer-hat/</link>
+      <pubDate>Sun, 04 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-03-04-wer-will-nochmal-wer-hat/</guid>
+      <description>&lt;p&gt;Wer will nochmal, wer hat noch nicht? Bei Groupon gibts jetzt Doktor- und Professorentitel mit Rabatt. Oder steckt da doch die Titanic dahinter?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.groupon.de/deals/berlin/doktortitel-kaufende/3742337&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.groupon.de/deals/berlin/doktortitel-kaufende/3742337&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

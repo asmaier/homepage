@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 | Das Blog</title>
+    <link>/tag/2017/</link>
+      <atom:link href="/tag/2017/index.xml" rel="self" type="application/rss+xml" />
+    <description>2017</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2009 21:28:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2017</title>
+      <link>/tag/2017/</link>
+    </image>
+    
+    <item>
+      <title>Ehrliche Wahlwerbung</title>
+      <link>/post/2009-09-25-ehrliche-wahlwerbung/</link>
+      <pubDate>Fri, 25 Sep 2009 21:28:00 +0000</pubDate>
+      <guid>/post/2009-09-25-ehrliche-wahlwerbung/</guid>
+      <description>
+&lt;a onblur=&#34;try {parent.deselectBloggerImageGracefully();} catch(e) {}&#34; href=&#34;http://2.bp.blogspot.com/_DbIMFgzpPfU/S9CkInxN4pI/AAAAAAAAABM/1uDrhfmI-rY/s1600/DSC00021.jpg&#34;&gt;&lt;img style=&#34;display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 240px; height: 320px;&#34; src=&#34;http://2.bp.blogspot.com/_DbIMFgzpPfU/S9CkInxN4pI/AAAAAAAAABM/1uDrhfmI-rY/s320/DSC00021.jpg&#34; alt=&#34;&#34; id=&#34;BLOGGER_PHOTO_ID_5463046816021734034&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Das einzige ehrliche Wahlplakat in diesem Wahlkampf! (Gefunden in Unterschleissheim)</description>
+    </item>
+    
+  </channel>
+</rss>

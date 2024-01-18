@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trackers (internet) | Das Blog</title>
+    <link>/tag/trackers-internet/</link>
+      <atom:link href="/tag/trackers-internet/index.xml" rel="self" type="application/rss+xml" />
+    <description>trackers (internet)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>trackers (internet)</title>
+      <link>/tag/trackers-internet/</link>
+    </image>
+    
+    <item>
+      <title>When you are browsing the ...</title>
+      <link>/post/2017-04-05-when-you-are-browsing-the/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-04-05-when-you-are-browsing-the/</guid>
+      <description>&lt;p&gt;When you are browsing the web, you leave unique fingerprints everywhere.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://panopticlick.eff.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://coveryourtracks.eff.org/static/images/cyt-banner.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+coveryourtracks.eff.org&lt;/p&gt;
+&lt;h2 id=&#34;cover-your-trackshttpspanopticlickefforg&#34;&gt;&lt;a href=&#34;https://panopticlick.eff.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cover Your Tracks&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;See how trackers view your browser&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

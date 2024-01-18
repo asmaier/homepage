@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zeitung | Das Blog</title>
+    <link>/tag/zeitung/</link>
+      <atom:link href="/tag/zeitung/index.xml" rel="self" type="application/rss+xml" />
+    <description>zeitung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>zeitung</title>
+      <link>/tag/zeitung/</link>
+    </image>
+    
+    <item>
+      <title>Gute Nachrichten: Die &#34;Bild&#34; hat ...</title>
+      <link>/post/2015-12-13-gute-nachrichten-die-bild-hat/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-12-13-gute-nachrichten-die-bild-hat/</guid>
+      <description>&lt;p&gt;Gute Nachrichten: Die &amp;ldquo;Bild&amp;rdquo; hat mit 16 Jahren eine der niedrigsten Halbwertszeiten. Für &amp;ldquo;die Zeit&amp;rdquo; dagegen geht es sogar aufwärts.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.opendatacity.de/der-zerfall-der-printmedien/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.opendatacity.de/der-zerfall-der-printmedien/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

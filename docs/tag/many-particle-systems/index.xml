@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>many-particle systems | Das Blog</title>
+    <link>/tag/many-particle-systems/</link>
+      <atom:link href="/tag/many-particle-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>many-particle systems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>many-particle systems</title>
+      <link>/tag/many-particle-systems/</link>
+    </image>
+    
+    <item>
+      <title>Classical limit of quantum mechanics</title>
+      <link>/post/classical-limit-of-quantum-mechanics/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/classical-limit-of-quantum-mechanics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The semi-classical limit corresponds to $ h\rightarrow 0$, which can be seen to be equivalent to $ m\rightarrow\infty $ , the mass increasing so that it behaves classically. (from &lt;a href=&#34;http://en.wikipedia.org/wiki/Dynamical_billiards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://en.wikipedia.org/wiki/Dynamical_billiards&lt;/a&gt;  )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An increasing mass can be seen as an increase in the number $ N $ of involved particles with mass $ m_0 $. So is the limit of a $N$-particle quantum system for  $ N\rightarrow\infty $ a classical system??&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See also:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;a href=&#34;http://www.sciencemag.org/cgi/content/abstract/325/5941/722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.sciencemag.org/cgi/content/abstract/325/5941/722&lt;/a&gt;  &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/30/30882/1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.heise.de/tp/r4/artikel/30/30882/1.html&lt;/a&gt;  &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Je mehr Strompakete der Schwingkreis enthält, beobachten die Autoren, desto schneller scheint er sie auch wieder zu verlieren. Der quantenmechanische Zauber zeigt sich, so die allgemeine Beobachtung, nur für sehr gut kontrollierte Systeme mit wenig Teilchen. Es wäre interessant zu verstehen, wie groß das größte System sein kann, an dem man die Quantenmechanik noch beobachten kann. Das nämlich würde uns besser erklären, warum diese mysteriösen Phänomene in unserer Alltagswelt keine Rolle spielen. Und obwohl vier keine große Zahl zu sein scheint, ist dieses Ergebnis doch ein großer Schritt auf dem Weg dorthin.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

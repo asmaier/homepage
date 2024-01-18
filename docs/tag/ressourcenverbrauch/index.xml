@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ressourcenverbrauch | Das Blog</title>
+    <link>/tag/ressourcenverbrauch/</link>
+      <atom:link href="/tag/ressourcenverbrauch/index.xml" rel="self" type="application/rss+xml" />
+    <description>ressourcenverbrauch</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ressourcenverbrauch</title>
+      <link>/tag/ressourcenverbrauch/</link>
+    </image>
+    
+    <item>
+      <title>Hoffentlich läuft dieser 3D-Drucker nicht ...</title>
+      <link>/post/2011-04-13-hoffentlich-lauft-dieser-3d-drucker-nicht/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-04-13-hoffentlich-lauft-dieser-3d-drucker-nicht/</guid>
+      <description>&lt;p&gt;Hoffentlich läuft dieser 3D-Drucker nicht in eine Endlosschleife. Er und seine Replikate würden sich selbst replizieren, bis alle Rohstoffe verbraucht sind&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.golem.de/0806/60182.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.golem.de/0806/60182.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

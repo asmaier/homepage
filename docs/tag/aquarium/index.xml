@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aquarium | Das Blog</title>
+    <link>/tag/aquarium/</link>
+      <atom:link href="/tag/aquarium/index.xml" rel="self" type="application/rss+xml" />
+    <description>aquarium</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>aquarium</title>
+      <link>/tag/aquarium/</link>
+    </image>
+    
+    <item>
+      <title>Enjoy a session with doctor ...</title>
+      <link>/post/2012-11-03-enjoy-a-session-with-doctor/</link>
+      <pubDate>Sat, 03 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-11-03-enjoy-a-session-with-doctor/</guid>
+      <description>&lt;p&gt;Enjoy a session with doctor fish!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

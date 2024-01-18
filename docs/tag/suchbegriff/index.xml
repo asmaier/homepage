@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>suchbegriff | Das Blog</title>
+    <link>/tag/suchbegriff/</link>
+      <atom:link href="/tag/suchbegriff/index.xml" rel="self" type="application/rss+xml" />
+    <description>suchbegriff</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>suchbegriff</title>
+      <link>/tag/suchbegriff/</link>
+    </image>
+    
+    <item>
+      <title>Google ergänzt den Suchbegriff &#34;Putin ...</title>
+      <link>/post/2017-10-31-google-erganzt-den-suchbegriff-putin/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-10-31-google-erganzt-den-suchbegriff-putin/</guid>
+      <description>&lt;p&gt;Google ergänzt den Suchbegriff &amp;ldquo;Putin Berater&amp;rdquo; geradezu prophetisch. Hat jemand noch Interesse an dem Job? ;-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

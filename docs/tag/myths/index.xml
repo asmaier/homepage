@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>myths | Das Blog</title>
+    <link>/tag/myths/</link>
+      <atom:link href="/tag/myths/index.xml" rel="self" type="application/rss+xml" />
+    <description>myths</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>myths</title>
+      <link>/tag/myths/</link>
+    </image>
+    
+    <item>
+      <title>The European Commission has collected ...</title>
+      <link>/post/2016-06-23-the-european-commission-has-collected/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-06-23-the-european-commission-has-collected/</guid>
+      <description>&lt;p&gt;The European Commission has collected and debunked Euromyths from 1992 to 2012. People considering leaving the EU should read this before they cast their vote ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;wayback.archive-it.org&lt;/p&gt;
+&lt;h2 id=&#34;european-commission-in-the-uk---european-commissionhttpblogseceuropaeuecintheukeuromyths-a-z-index&#34;&gt;&lt;a href=&#34;http://blogs.ec.europa.eu/ECintheUK/euromyths-a-z-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Commission in the UK - European Commission&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Keeping you up-to-date with the latest news from the European Commission Representation in the UK&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

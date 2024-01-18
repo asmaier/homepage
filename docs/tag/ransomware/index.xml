@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ransomware | Das Blog</title>
+    <link>/tag/ransomware/</link>
+      <atom:link href="/tag/ransomware/index.xml" rel="self" type="application/rss+xml" />
+    <description>ransomware</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ransomware</title>
+      <link>/tag/ransomware/</link>
+    </image>
+    
+    <item>
+      <title>Habt ihr auch alle Bitcoin? ...</title>
+      <link>/post/2022-01-10-habt-ihr-auch-alle-bitcoin/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-01-10-habt-ihr-auch-alle-bitcoin/</guid>
+      <description>&lt;p&gt;Habt ihr auch alle Bitcoin? Ich schon lange nicht mehr. Bitcoin spielt leider keine positive Rolle auf unserem Planeten. Im Gegenteil, es verbraucht nutzlos Unmengen Energie und wird hauptsächlich zur Steuervermeidung, Spekulation und Geldwäsche genutzt. Und neue Verbrechensformen wie Ransomware sind durch Bitcoin erst im großen Maßstab ermöglicht worden. Daran will ich mich einfach nicht beteiligen, auch wenn man damit eventuell hohe Gewinne erzielen kann. Aber hohe Gewinne erzielt man auch z.B. beim Drogenverkauf oder im Waffenhandel. Nur weil etwas hohe Gewinne erlaubt, macht es die Sache nicht gut. Und Bitcoin ist leider ebenfalls nicht gut.&lt;/p&gt;
+&lt;p&gt;Stattdessen möchte ich hier kurz auf ein anderes vielversprechendes Projekt aus der Schweiz verweisen, welches mir wesentlich interessanter als Bitcoin erscheint: GNU Taler &lt;a href=&#34;https://taler.net/de/features.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://taler.net/de/features.html&lt;/a&gt;
+Das Projekt ist noch nicht ganz fertig, aber im Gegensatz zu Bitcoin, kann man damit wirklich im großen Stil bezahlen. Besonders schön daran finde ich, dass &amp;ldquo;Kunden, die Taler als Bezahlsystem verwenden, müssen kein Kundenkonto erstellen und können ihre Waren ohne Preisgabe ihrer Identität erwerben.&amp;rdquo; Das ist wie mit Bargeld. Allerdings und im Gegensatz zu Bitcoin können die Verkäufer ihr Einkommen nicht vor dem Fiskus verbergen. Taler verhindert Schwarzmarkt und illegale Geschäfte ohne das wir dazu einen gläsernen Kunden brauchen.  Ich finde die Idee jedenfalls elegant und hoffe, das wir bald mehr davon sehen und hören werden.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://taler.net/de/features.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://taler.net/favicon.ico&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+taler.net&lt;/p&gt;
+&lt;h2 id=&#34;gnu-taler---taxable-anonymous-libre-electronic-reserveshttpstalernetdefeatureshtml&#34;&gt;&lt;a href=&#34;https://taler.net/de/features.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GNU Taler - Taxable Anonymous Libre Electronic Reserves&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Das Bezahlsystem GNU Taler ermÃ¶glicht das schnelle und einfache GeldÃ¼berweisen mit Datenschutz und hoher technischer Sicherheit.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;DarkSide, like a great many ...</title>
+      <link>/post/2021-05-18-darkside-like-a-great-many/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-05-18-darkside-like-a-great-many/</guid>
+      <description>&lt;p&gt;&amp;ldquo;DarkSide, like a great many other malware strains, has a hard-coded do-not-install list of countries which are the principal members of the Commonwealth of Independent States (CIS) — former Soviet satellites that all currently have favorable relations with the Kremlin&amp;hellip; Simply put, countless malware strains will check for the presence of one of these languages on the system, and if they’re detected the malware will exit and fail to install.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Die dunkle Seite installiert keine Malware auf der dunklen Seite!&lt;/p&gt;
+&lt;p&gt;Sprich, man installiert einfach einen russischen Tastaturtreiber und schon ist man sicher vor Malware aus Russland.&lt;/p&gt;
+&lt;p&gt;Solche hardgecodeden Einschränkungen der Malware sind auch ziemlich offensichtliche Anzeichen, woher eine Malware kommt. Denn es wird ja oft gesagt, niemand könne beweisen, dass die Hacker Russen waren. Doch, genau das kann man zeigen, wenn eine Malware sich überall auf der Welt aktiviert, nur ausgerechnet in Russland nicht. So ein seltsamer Zufall.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://krebsonsecurity.com/wp-content/uploads/2021/05/%d0%bb%d1%83%d0%bd%d1%8b%d1%86%d1%88%d0%b5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+krebsonsecurity.com&lt;/p&gt;
+&lt;h2 id=&#34;try-this-one-weird-trick-russian-hackers-hatehttpskrebsonsecuritycom202105try-this-one-weird-trick-russian-hackers-hate&#34;&gt;&lt;a href=&#34;https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Try This One Weird Trick Russian Hackers Hate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In a Twitter discussion last week on ransomware attacks, KrebsOnSecurity noted that virtually all ransomware strains have a built-in failsafe designed to cover the backsides of the malware purveyors: They simply will not install on a Microsoft Windows computer that…&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

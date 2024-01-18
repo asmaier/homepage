@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untertitel | Das Blog</title>
+    <link>/tag/untertitel/</link>
+      <atom:link href="/tag/untertitel/index.xml" rel="self" type="application/rss+xml" />
+    <description>untertitel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>untertitel</title>
+      <link>/tag/untertitel/</link>
+    </image>
+    
+    <item>
+      <title>„Warum steht da nichts geschrieben? ...</title>
+      <link>/post/2018-07-02-warum-steht-da-nichts-geschrieben/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-07-02-warum-steht-da-nichts-geschrieben/</guid>
+      <description>&lt;p&gt;„Warum steht da nichts geschrieben? Wozu? Ist auch so allen alles klar.“&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ressourcen | Das Blog</title>
+    <link>/tag/ressourcen/</link>
+      <atom:link href="/tag/ressourcen/index.xml" rel="self" type="application/rss+xml" />
+    <description>ressourcen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Apr 2010 22:10:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ressourcen</title>
+      <link>/tag/ressourcen/</link>
+    </image>
+    
+    <item>
+      <title>InstantShift</title>
+      <link>/post/2010-04-10-instantshift/</link>
+      <pubDate>Sat, 10 Apr 2010 22:10:00 +0000</pubDate>
+      <guid>/post/2010-04-10-instantshift/</guid>
+      <description>
+&lt;div&gt;Vielleicht die interessanteste Seite für Webdesigner und solche die es mal werden wollen:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.instantshift.com/&#34;&gt;InstantShift | Web Designers and Developers Daily Resource.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Alleine schon die Artikel unter&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.instantshift.com/category/tools/&#34;&gt;InstantShift | Tools&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;sind wirklich bemerkenswert, z.B.&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.instantshift.com/2009/12/17/50-useful-mac-applications-for-freelancers-and-professional-designers/&#34;&gt;50+ Useful Mac Applications for Freelancers and Professional Designers&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;aber auch alle anderen Artikel auf dieser Seite sind wahre Schätze für Kenner.&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

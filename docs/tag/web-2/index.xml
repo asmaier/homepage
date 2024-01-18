@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web 2 | Das Blog</title>
+    <link>/tag/web-2/</link>
+      <atom:link href="/tag/web-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>web 2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>web 2</title>
+      <link>/tag/web-2/</link>
+    </image>
+    
+    <item>
+      <title>Data Mining Algorithms</title>
+      <link>/post/data-mining-algorithms/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/data-mining-algorithms/</guid>
+      <description>&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.cs.uh.edu/~ceick/ML/DM_Top10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wu (2008):Top 10 algorithms in data mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=wl_it_dp_o?ie=UTF8&amp;amp;coliid=I16YL2T3XDP0DR&amp;amp;colid=3IFPI6FN6Y8YX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Segaran (2007): Programming Collective Intelligence: Building Smart Web 2.0 Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

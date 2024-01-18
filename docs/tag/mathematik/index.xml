@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematik | Das Blog</title>
+    <link>/tag/mathematik/</link>
+      <atom:link href="/tag/mathematik/index.xml" rel="self" type="application/rss+xml" />
+    <description>mathematik</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>mathematik</title>
+      <link>/tag/mathematik/</link>
+    </image>
+    
+    <item>
+      <title>Bienen legen ihre Waben als ...</title>
+      <link>/post/2023-04-18-bienen-legen-ihre-waben-als/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023-04-18-bienen-legen-ihre-waben-als/</guid>
+      <description>&lt;p&gt;Bienen legen ihre Waben als gleichmäßige Sechsecke an. Das weiß doch jedes Kind. Und wer in Mathematik aufgepasst hat, der wird sich vielleicht noch daran erinnern, dass das daran liegt, dass Sechsecke bzw. Hexagons das optimale Verhältnis von Wandmaterial zu Volumen bieten und eine Fläche lückenlos parkettieren können.&lt;/p&gt;
+&lt;p&gt;Leider falsch! Bienen legen ihre Waben nicht als Sechsecke an, Bienen denken dreidimensional, ihre Larven sind ja nicht platt. Bienenwaben sind daher keine Hexagons, sondern es sind Rhombendodekaeder (genauer gesagt, halbe Rhombendodekaeder, eine Seite ist offen, damit die Larven schlüpfen können) . Denn diese parkettieren nicht die Fläche, sondern den dreidimensionalen Raum optimal.&lt;/p&gt;
+&lt;p&gt;Jetzt denkt ihr euch sicher, dass ist nur wieder so eine Spitzfindigkeit, die ich mir ausgedacht habe um auf Facebook den Besserwisser spielen zu können. Aber nein, das Ganze ist bereits von Kepler 1610 gezeigt worden. 1610! Als ich das gelesen habe, konnte ich es nicht glauben. Seit 400 Jahren ist das bekannt und trotzdem scheint das nicht in das Allgemeinwissen übergegangen zu sein.&lt;/p&gt;
+&lt;p&gt;Krass daran ist auch, dass schon die alten Griechen &amp;ldquo;wussten&amp;rdquo;, dass Bienen sechseckige Waben bauen. Aber es hat über tausend Jahre gedauert, bis Kepler auf die Idee kam sich einmal auch den Boden der Waben anzuschauen (Ein Experiment, etwas wozu sich die Griechen zu fein waren). Und dieser Boden ist eben nicht flach, sondern bildet ein Rhombendodekaeder.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Dumm&amp;rdquo; war nur, dass Kepler um etwa die gleiche Zeit auch gezeigt hat, dass sich die Planeten auf Ellipsenbahnen um die Sonne drehen (Keplersche Gesetze) und darüber seine  Erkenntnisse zu Bienenwaben offenbar in Vergessenheit gerieten.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.maa.org/book/export/html/3405562&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.maa.org/book/export/html/3405562&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycomb.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycomb.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycombmin.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycombmin.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycomb.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://www.matematicasvisuales.com/images/appimg/geometry/honeycomb.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+matematicasvisuales.com&lt;/p&gt;
+&lt;h2 id=&#34;matematicasvisuales--rhombic-dodecahedron-1-honeycombshttpwwwmatematicasvisualescomenglishhtmlgeometryrhombicdodecahedronhoneycombhtml&#34;&gt;&lt;a href=&#34;http://www.matematicasvisuales.com/english/html/geometry/rhombicdodecahedron/honeycomb.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;matematicasVisuales | Rhombic Dodecahedron (1): honeycombs&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;matematicasVisuales | Humankind has always been fascinated by how bees build their honeycombs. Kepler related honeycombs with a polyhedron called Rhombic Dodecahedron.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wie wir alle wissen ist ...</title>
+      <link>/post/2019-12-09-wie-wir-alle-wissen-ist/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-12-09-wie-wir-alle-wissen-ist/</guid>
+      <description>&lt;p&gt;Wie wir alle wissen ist Schulmathematik total nutzlos. Nützliche Mathematik gibt es nur auf YouTube, selbst für Weihnachten.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NwmHHLdDBSA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ytimg.com/vi/NwmHHLdDBSA/maxresdefault.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+youtube.com&lt;/p&gt;
+&lt;h2 id=&#34;mathematical-present-wrappinghttpswwwyoutubecomwatchvnwmhhlddbsa&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=NwmHHLdDBSA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematical Present Wrapping&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Mathematician Katie Steckles takes you through some mathematically satisfying ways to wrap presents using paper.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Im Gegensatz zum Fußball sind ...</title>
+      <link>/post/2018-08-01-im-gegensatz-zum-fuball-sind/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-08-01-im-gegensatz-zum-fuball-sind/</guid>
+      <description>&lt;p&gt;Im Gegensatz zum Fußball sind wir dieses Jahr in der Mathematik Weltmeister! Vielleicht sollte man mal über die Gehälter im Fußball und der Mathematik nachdenken.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.general-anzeiger-bonn.de/news/wissen-und-bildung/wissenschaft/Bonner-Mathematiker-Peter-Scholze-gewinnt-Fields-Medaille-article3912247.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://ga.de/imgs/93/6/2/2/9/5/8/1/9/tok_33c98ba4bc3b52290ab10af988cec7be/w1200_h630_x757_y667_99e26a0d8779ad44.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+ga.de&lt;/p&gt;
+&lt;h2 id=&#34;zweiter-deutscher-preisträger-goldmedaille-für-bonner-mathematiker-peter-scholzehttpswwwgeneral-anzeiger-bonndenewswissen-und-bildungwissenschaftbonner-mathematiker-peter-scholze-gewinnt-fields-medaille-article3912247html&#34;&gt;&lt;a href=&#34;https://www.general-anzeiger-bonn.de/news/wissen-und-bildung/wissenschaft/Bonner-Mathematiker-Peter-Scholze-gewinnt-Fields-Medaille-article3912247.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zweiter deutscher Preisträger: Goldmedaille für Bonner Mathematiker Peter Scholze&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Die Vorhersagen haben sich bewahrheitet: Der Bonner Mathematiker Peter Scholze hat die Fields-Medaille erhalten, den weltweit bedeutendsten Fachpreis seiner Disziplin. Der 30-Jährige ist erst der zweite deutsche Preisträger überhaupt.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nach dem Jahr-2000-Problem und dem ...</title>
+      <link>/post/2018-01-09-nach-dem-jahr-2000-problem-und-dem/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-01-09-nach-dem-jahr-2000-problem-und-dem/</guid>
+      <description>&lt;p&gt;Nach dem Jahr-2000-Problem und dem Jahr-2038-Problem kommt das Jahr-4813-Problem:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Deswegen müssen wir entsprechende Korrekturen einfügen: Alle vier Jahre hat sich der Fehler auf fast 24 Stunden summiert, und wir führen einen zusätzlichen Schalttag ein. Damit gibt es aber wieder einen neuen Fehler, weil es eben nur fast 24 Stunden sind und nicht exakt. Wir müssen die Korrektur alle 100 Jahre aussetzen, um den Fehler zu minimieren – und selbst dann passt der Kalender nicht völlig. Alle 400 Jahre verzichten wir also auf die Korrektur der Korrektur und immer noch ist die Übereinstimmung zwischen dem realen Umlauf der Erde um die Sonne und unserem Kalender nicht perfekt. Wir müssen uns mit dem arrangieren, was das Sonnensystem uns vorgegeben hat – aber dank der Mathematik haben wir nun einen Kalender, bei dem wir uns erst im Jahr 4813 wieder um eine weitere Korrektur Gedanken machen müssen!&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.spektrum.de/kolumne/die-mathematik-der-schaltjahre/1529809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://static.spektrum.de/fm/912/f1920x1080/Kalender-iStock-508283730_olm26250.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+spektrum.de&lt;/p&gt;
+&lt;h2 id=&#34;freistetters-formelwelt-die-mathematik-der-schaltjahrehttpwwwspektrumdekolumnedie-mathematik-der-schaltjahre1529809&#34;&gt;&lt;a href=&#34;http://www.spektrum.de/kolumne/die-mathematik-der-schaltjahre/1529809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freistetters Formelwelt: Die Mathematik der Schaltjahre&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Warum wir alle vier Jahre den Kalender ergänzen müssen&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hilarious - A paper about ...</title>
+      <link>/post/2017-02-07-hilarious-a-paper-about/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-02-07-hilarious-a-paper-about/</guid>
+      <description>&lt;p&gt;Hilarious - A paper about &amp;ldquo;Astrology in the Era of Exoplanets&amp;rdquo;! &lt;a href=&#34;https://arxiv.org/pdf/1603.09496.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/1603.09496.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;arxiv.org&lt;/p&gt;
+&lt;h2 id=&#34;160309496httpsarxivorgpdf160309496pdf&#34;&gt;&lt;a href=&#34;https://arxiv.org/pdf/1603.09496.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1603.09496&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das gibt es auch in ...</title>
+      <link>/post/2016-11-02-das-gibt-es-auch-in/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-11-02-das-gibt-es-auch-in/</guid>
+      <description>&lt;p&gt;Das gibt es auch in Deutschland und nennt sich &lt;a href=&#34;https://de.wikipedia.org/wiki/Planetenweg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Planetenweg&lt;/a&gt; .&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/139407849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.vimeocdn.com/video/535226062-36d770242aea2bfc1eca4592db82e153a2ceba254291cbc570fbb7b6d6608426-d?f=webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+vimeo.com&lt;/p&gt;
+&lt;h2 id=&#34;to-scale-the-solar-systemhttpsvimeocom139407849&#34;&gt;&lt;a href=&#34;https://vimeo.com/139407849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;To Scale: The Solar System&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;On a dry lakebed in Nevada, a group of friends build the first scale model of the solar system with complete planetary orbits: a true illustration of our place in…&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ein Fall von Exzess des ...</title>
+      <link>/post/2016-10-21-ein-fall-von-exzess-des/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-10-21-ein-fall-von-exzess-des/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://derstandard.at/2000046106789/Ein-Fall-von-Exzess-des-Mathematischen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://derstandard.at/2000046106789/Ein-Fall-von-Exzess-des-Mathematischen&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://derstandard.at/2000046106789/Ein-Fall-von-Exzess-des-Mathematischen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://at.staticfiles.at/img/meta/meta_image_1200x630-4d0796cf00.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+derstandard.at&lt;/p&gt;
+&lt;h2 id=&#34;ein-fall-von-exzess-des-mathematischenhttpderstandardat2000046106789ein-fall-von-exzess-des-mathematischen&#34;&gt;&lt;a href=&#34;http://derstandard.at/2000046106789/Ein-Fall-von-Exzess-des-Mathematischen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ein Fall von Exzess des Mathematischen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Vor hundert Jahren erschoss Friedrich Adler, Physiker, Politiker und Einsteins Doppelgänger, den Ministerpräsidenten Graf Stürgkh&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wow, I didnt know about ...</title>
+      <link>/post/2015-07-24-wow-i-didnt-know-about/</link>
+      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-24-wow-i-didnt-know-about/</guid>
+      <description>&lt;p&gt;Wow, I didn&amp;rsquo;t know about that. This is so cool!﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1200/1*VigrxIzP3-wH7oxoPULjrA.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+blog.jupyter.org&lt;/p&gt;
+&lt;h2 id=&#34;jupyter-bloghttpblogjupyterorg20150507rendering-notebooks-on-github&#34;&gt;&lt;a href=&#34;http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jupyter Blog&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Jupyter Blog.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frohe Ostern! ...</title>
+      <link>/post/2015-04-02-frohe-ostern/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-04-02-frohe-ostern/</guid>
+      <description>&lt;p&gt;Frohe Ostern!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Fibonacci-Folge#Modell_einer_Kaninchenpopulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/7/78/FibonacciGertschMuseum.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+de.wikipedia.org&lt;/p&gt;
+&lt;h2 id=&#34;fibonacci-folge--wikipediahttpsdewikipediaorgwikifibonacci-folgemodell_einer_kaninchenpopulation&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Fibonacci-Folge#Modell_einer_Kaninchenpopulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fibonacci-Folge – Wikipedia&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maybe I have shared this ...</title>
+      <link>/post/2014-03-14-maybe-i-have-shared-this/</link>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-03-14-maybe-i-have-shared-this/</guid>
+      <description>&lt;p&gt;Maybe I have shared this talk already in the past, but it is too good not be shared again. Enjoy!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ted.com&lt;/p&gt;
+&lt;h2 id=&#34;update-browserhttpwwwtedcomtalksmurray_gell_mann_on_beauty_and_truth_in_physics&#34;&gt;&lt;a href=&#34;http://www.ted.com/talks/murray_gell_mann_on_beauty_and_truth_in_physics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Browser&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wow!! Seit Jahren warte ich ...</title>
+      <link>/post/2012-02-02-wow-seit-jahren-warte-ich/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-02-02-wow-seit-jahren-warte-ich/</guid>
+      <description>&lt;p&gt;Wow!! Seit Jahren warte ich darauf endlich handschriftlich mathematische Formeln in den Computer eingeben zu können und sie automatisch in Latex umwandeln zu können, siehe meinen alten Artikel:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://asmaier.blogspot.com/2009/10/inlage-endlich-latex-formeln.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://asmaier.blogspot.com/2009/10/inlage-endlich-latex-formeln.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die bisherige beste Online-Lösung war &lt;a href=&#34;http://detexify.kirelabs.org/classify.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://detexify.kirelabs.org/classify.html&lt;/a&gt;
+aber die Lösung von VisionObjects ist wesentlich besser, denn sie erkennt ganze Gleichungen und nicht nur einzelne Symbole. Ich habe es gerade mal ausprobiert mit den Formeln für Fouriertransformationen, Kettenbrüchen und Integralen. Und obwohl ich es per Maus gezeichnet habe, hat das System die Formeln sehr gut erkannt. Das ist wirklich ein großer Schritt vorwärts. Wo kann man Aktien dieser Firma kaufen?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://webdemo.visionobjects.com/equation.html?locale=default&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://webdemo.visionobjects.com/equation.html?locale=default&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulation der gesamten Menschheit - Wissenschaft oder Fiktion?</title>
+      <link>/post/2011-11-05-simulation-der-gesamten-menschheit/</link>
+      <pubDate>Sat, 05 Nov 2011 22:55:00 +0000</pubDate>
+      <guid>/post/2011-11-05-simulation-der-gesamten-menschheit/</guid>
+      <description>
+&lt;div dir=&#34;ltr&#34; style=&#34;text-align: left;&#34; trbidi=&#34;on&#34;&gt;Krass, man denkt inzwischen darüber nach, dass Verhalten der gesamten Menschheit in Computern zu simulieren:&lt;br /&gt;&lt;br /&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li&gt;&lt;a href=&#34;http://www.wissenschaft-online.de/artikel/1127823&amp;amp;_z=859070&#34;&gt;Wissenschaft-Online: Der Erdsimulator&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Ausgehend von Seuchenmodellen (in dem bereits das Verhalten der Bevölkerung der USA virtuell simuliert wurde) sollen jetzt Modelle für den ganzen Planeten erstellt werden und zwar nicht nur für die Ausbreitung von Seuchen, sondern auch für die Ausbreitung von Finanz- und politischen Krisen.&lt;br /&gt;&lt;br /&gt;Der Witz ist, dass dass bei den heute zur Verfügung stehenden Rechen- und Speicherleistungen nicht unrealistisch ist. Wenn man das Verhalten eines jeden Menschen vereinfacht durch 10 Fließkommazahlen (double-precision, 8Byte) beschreibt, braucht man 80 Byte mal 7 Milliarden Menschen also etwa 560 Gigabyte Speicherplatz um die gesamte Menschheit zu beschreiben. Das passt locker in den Hauptspeicher heutiger Supercomputer ( see &lt;a href=&#34;http://en.wikipedia.org/wiki/IBM_Roadrunner&#34;&gt;IBM_Roadrunner&lt;/a&gt; : 100 TB Hauptspeicher!!). Mit 100 TB Hauptspeicher könnte man jeden Bürger sogar mit mehr als 1000 Zahlen (8000 Byte) beschreiben.&lt;br /&gt;Wenn wir mal kurz annehmen, dass die Weltbürger sich dynamisch wie ein Fluid beschreiben lassen, könnte man also eine 2D-Simulation mit 90000 x 90000 = 8.1 Milliarden Gitterpunkten ansetzen. Für d-dimensionale Fluidsimulation gilt die Abschätzung (Frisch 1995):&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;(größte Skala/kleinste Skala)^d = Reynoldszahl^(d*3/4)&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Das ergibt eine Reynoldszahl &lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;Re = 90000^(2*4/6) = 90000^(4/3) ~ 4 * 10^6&lt;/span&gt; für dieses Fluid aus Weltbürgern. Für eine 3D-Strömung entspräche das &lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;Re = (4 * 10^6)^(2/3) ~ 25000&lt;/span&gt; Strömungen mit derartigen Reynoldszahlen treten z.B. beim Vogelflug auf (siehe &lt;a href=&#34;http://de.wikipedia.org/wiki/Reynolds-Zahl&#34;&gt;Wikipedia: Reynolds-Zahl&lt;/a&gt; ) und können auf heutigen Supercomputern direkt simuliert werden. Die Abschätzung für die notwendige Anzahl an Rechenoperationen N für eine Zeiteinheit ist&lt;br /&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;N = &lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;(größte Skala/kleinste Skala)^(d+1) = (90000)^3 = 730 * 10^12&lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;d.h. 730 TeraFLOP.&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt; Eine Zeiteinheit könnte man definieren als &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;t = Sqrt(Erdoberfläche)/90000/(durchschnittl. Geschwindigkeit eines Menschen) &lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;= sqrt(510*10^6 km^2) / 90000 / 10 km/h = 0.025 h = 1.5 min &lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;D.h. um 1.5 Minuten zu simulieren bräuchte man 730 TeraFLOP. D.h. eine Simulation von auf einem Rechner mit&lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;730 TeraFLOP/(1.5*60 sek.) = 8.1 TeraFLOP/s&lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: &amp;quot;courier new&amp;quot; , &amp;quot;courier&amp;quot; , monospace;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;Leistung könnte die Bewegung der Menschheitsflüssigkeit auf der Erdoberfläche in Echtzeit simulieren. Nimmt man an, dass man 1-10% der tatsächlichen Peakleistung von 1 PetaFLOP/s heutiger Superrechner in einer Simulation erreicht, sind das 10 - 100 TeraFLOP/s, die man heutzutage auf Superrechnern schaffen kann. Im besten Fall schafft man heute also bereits 10*Realtime. Man kann also 10 Tage der Menschheit an einem Tag vorausberechnen. Das ist in etwa wie bei der Wettervorhersage. &lt;/span&gt;&lt;br /&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-family: inherit;&#34;&gt;Werden wir als in Zukunft Nachrichten bekommen wie: Revolutionswahrscheinlichkeit in Ägypten in den nächsten 10 Tagen liegt bei 65%. Wahrscheinlichkeit einer Hungersnot in Somalia bei 85% in der nächsten Woche. Wirtschaftskrise in Lateinamerika zu 25% in den nächsten drei Tagen. Wahrscheinlichkeit für Krieg zwischen Indien und Pakistan bei 45% in den nächsten Tagen.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Das klingt revolutionär, entspricht es doch praktisch einer Umsetzung dessen was als &lt;a href=&#34;http://de.wikipedia.org/wiki/Psychohistorik&#34;&gt;Psychohistorik&lt;/a&gt; von Isaac Asimovs im &lt;a href=&#34;http://de.wikipedia.org/wiki/Foundation-Zyklus&#34;&gt;Foundation-Zyklus&lt;/a&gt; für die ferne Zukunft der Menschheit bereits angedacht wurde. Und wie von Asimov beschrieben, werden die Vorhersagen natürlich nur dann eintreffen können, wenn die Betroffenen von der Vorhersage nichts wissen, d.h es entsteht eventuell ein Interesse der simulierenden Regierungen niemanden anderen von der Simulation und den Ergebnissen wissen zu lassen, wenn die Vorhersage günstig ist.&lt;br /&gt;Aber eventuell passiert das bereits! Wie wird eigentlich die Terrorwarnstufe der USA berechnet? Was macht eigentlich die NSA in der Freizeit so? Vielleicht Revolutionswahrscheinlichkeiten in Arabischen Staaten ausrechen? Technisch möglich wäre das bereits... (&lt;b&gt;UPDATE&lt;/b&gt;: Sowas in der Art macht nicht die NSA, sondern ORSA “Operations Research Systems Analysis”, siehe &lt;a href=&#34;http://frank.geekheim.de/?p=976&#34;&gt;Krieg nach Zahlen&lt;/a&gt; )&lt;br /&gt;&lt;br /&gt;Werden die Ergebnisse nicht geheim gehalten sind zwei Effekte denkbar: Eine Beschleunigung, d.h die Hungerkatastrophe kommt aufgrund von Hamsterkäufen bereits in 2 Tagen statt in der nächsten Woche (selbsterfüllende Prophezeiung). Oder zweitens, durch rechtzeitige prophylaktische Gegenmassnahmen der Politik werden die Ereignisse gerade noch verhindert. Ob letzteres immer möglich ist, darf bezweifelt werden. Wie beim Wetter sind manche Dinge unvermeidlich, man kann sich nur durch entsprechende Kleidung oder im schlimmsten Fall Evakuierungen darauf vorbereiten.&lt;br /&gt;&lt;br /&gt;Auf jeden Fall ist die Büchse der Pandora bereits weit offen. Die Wahrscheinlichkeit, dass entsprechende Simulationen in der nächsten Dekade durchgeführt werden (ob geheim oder öffentlich) dürfte bei weit mehr als 50% liegen. Das ist das Ergebnis einer Weltsimulation durchgeführt auf meinem privaten Möchtegern-Super-Computer BRAIN.         &lt;br /&gt;&lt;br /&gt;P.S.: Wer jetzt auch an die Weltmodelle des Club of Rome denkt, für den sind vielleicht auch folgende Anmerkungen interessant: &lt;a href=&#34;http://maierandi.wikidot.com/limits-to-growth&#34;&gt;http://maierandi.wikidot.com/limits-to-growth&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;P.P.S.: Gerade habe ich noch folgenden Link gefunden: &lt;a href=&#34;http://www.sueddeutsche.de/wissen/physik-der-menschlichen-gesellschaft-formeln-der-freiheit-1.1061313&#34;&gt;http://www.sueddeutsche.de/wissen/physik-der-menschlichen-gesellschaft-formeln-der-freiheit-1.1061313&lt;/a&gt; . Abgesehen von der Nachhersage, dass einige arabische Staaten (die weniger von Öl abhängen) jetzt reif sind sich zu demokratisieren, sagt er eine Demokratisierung für China bis 2015 voraus. Da dürfen wir also gespannt sein... &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Auf so etwas kann auch ...</title>
+      <link>/post/2011-09-19-auf-so-etwas-kann-auch/</link>
+      <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-09-19-auf-so-etwas-kann-auch/</guid>
+      <description>&lt;p&gt;Auf so etwas kann auch nur ein Schweizer kommen!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.npr.org/blogs/krulwich/2011/09/12/140394807/extreme-tidying-up&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.npr.org/blogs/krulwich/2011/09/12/140394807/extreme-tidying-up&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Most IMPORTANT Video Youll ...</title>
+      <link>/post/2010-11-20-the-most-important-video-youll/</link>
+      <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/post/2010-11-20-the-most-important-video-youll/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=F-QA2rkpBSY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ytimg.com/vi/F-QA2rkpBSY/hqdefault.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+youtube.com&lt;/p&gt;
+&lt;h2 id=&#34;the-most-important-video-youll-ever-see-part-1-of-8httpwwwyoutubecomwatchvf-qa2rkpbsy&#34;&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=F-QA2rkpBSY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Most IMPORTANT Video You&amp;rsquo;ll Ever See (part 1 of 8)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;5 million views for an old codger giving a lecture about arithmetic?? What&amp;rsquo;s going on?  You&amp;rsquo;ll just have to watch to see what&amp;rsquo;s so damn amazing about what he&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StackExchange</title>
+      <link>/post/2009-11-22-stackexchange/</link>
+      <pubDate>Sun, 22 Nov 2009 13:23:00 +0000</pubDate>
+      <guid>/post/2009-11-22-stackexchange/</guid>
+      <description>
+Ich bin großer Fan von &lt;a href=&#34;http://stackexchange.com/&#34;&gt;StackExchange&lt;/a&gt;-Webseiten, insbesondere natürlich von &lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/&#34;&gt;StackOverflow.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Aber auch die Geschwisterseiten zu &lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_Overflow&#34;&gt;StackOverflow&lt;/a&gt; sind einfach gut und nützlich:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://serverfault.com/&#34;&gt;serverfault.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://superuser.com/&#34;&gt;superuser.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://doctype.com/&#34;&gt;doctype.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Inzwischen gibt es eine ganze Reihe von weiteren Frageseiten nach dem &lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_Overflow&#34;&gt;StackOverflow-Prinzip&lt;/a&gt;, eine Liste davon findet findet man bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://meta.stackexchange.com/questions/4/list-of-stackexchange-sites/5#5&#34;&gt;List of StackExchange sites&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Besonders interessant finde ich dabei:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://sciencestack.com/&#34;&gt;ScienceStack.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://physics.stackexchange.com/&#34;&gt;physics.stackexchange.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://mathoverflow.net/&#34;&gt;mathoverflow.net&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inlage: Endlich Latex-Formeln handschriftlich eingeben!!!</title>
+      <link>/post/2009-10-01-inlage-endlich-latex-formeln/</link>
+      <pubDate>Thu, 01 Oct 2009 19:10:00 +0000</pubDate>
+      <guid>/post/2009-10-01-inlage-endlich-latex-formeln/</guid>
+      <description>
+&lt;div&gt;Bereits seit langem (siehe &lt;a href=&#34;http://asmaier.blogspot.com/2006/08/handschrifterkennung-mathematischer.html&#34;&gt;mein Artikel von 2006&lt;/a&gt;) bin ich auf der Suche nach einem Programm, dass handschriftliche mathematische Formeln in Latex umwandeln kann. Es scheint, als ob man meine Gebete erhört wurden. In &lt;a href=&#34;http://de.wikipedia.org/wiki/Microsoft_Windows_7&#34;&gt;Windows 7&lt;/a&gt; ist es möglich, handschriftlich mathematische Formeln einzugeben:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/e7/archive/2009/04/23/ink-input-and-tablet.aspx&#34;&gt;Engineering Windows 7&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Allerdings werden diese in &lt;a href=&#34;http://de.wikipedia.org/wiki/Mathematical_Markup_Language&#34;&gt;MathML&lt;/a&gt; ausgegeben, ein ziemlich besch..eidenes Format (siehe z.B. die Bemerkungen in der &lt;a href=&#34;http://tbookdtd.sourceforge.net/tbookman/MathML-v_002e-simplified-LaTeX.html#MathML-v_002e-simplified-LaTeX&#34;&gt;tbook-Anleitung&lt;/a&gt;). Aber wie bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://social.technet.microsoft.com/Forums/en-US/w7itprogeneral/thread/dc8daeaf-64d8-4dfe-87a7-03320e12715d&#34;&gt;Microsoft TechNet: How Can I Use the Math Input Panel?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://bauforum.wirklichewelt.de/mix_entry.php?nr=5067&#34;&gt;Offenes Forum Bauingenieurwesen - Bauforum: Mathe-Eingabebereich in Windows 7 als grafischer Formeleditor&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;bereits angekündigt, gibt es jetzt das geniale Tool Inlage (&#34;Intelligent Latex Generator&#34;) :&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.inlage.com/&#34;&gt;http://www.inlage.com/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.inlage.com/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.pcwelt.de/specials/windows_7/ratgeber/2100935/formeln_eingeben_ueber_den_mathematik_eingabebereich/&#34;&gt;PCWelt: Formeln eingeben über den Mathematik-Eingabebereich&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Es erlaubt die MathML-Ausgabe der Mathematikeingabe von Windows 7 direkt in Latex umzuwandeln. Leider kann ich es mangels Windows 7 und Tablet-PC nicht ausprobieren, aber wenn es hält was es verspricht ist das wirklich ein Durchbruch. Ein Traum vieler Wissenschaftler dürfte damit in Erfüllung gehen. Und das ermöglicht ausgerechnet Microsoft! Schande über Apple! Wenn sie dieses Feature von Windows 7/Inlage nicht bald kopieren werde ich wohl wieder zum Windows-Jünger. &lt;/div&gt;&lt;div&gt;Ok, es gibt Alternativen:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.inftyproject.org/&#34;&gt;Inftyproject&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://research.cs.queensu.ca/drl/ffes/&#34;&gt;The Freehand Formula Entry System&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.enventra.com/products/mobomath/mapletips.htm&#34;&gt;Mobomath for Maple&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://scientificcomputing.blogspot.com/2006/02/maple-handwriting-recognition-useful.html&#34;&gt;Maple handwriting recognition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Wie gesagt, leider kann ich sie mangels Tablet-PC nicht selbst testen. Wer hat mehr Erfahrung mit den genannten Systemen. Ist die Windows7/Inlage-Lösung wirklich die Beste derzeit auf dem Markt? Und welchen günstigen Tablet-PC mit Windows7 könnt ihr empfehlen (Am günstigsten erschien mir bisher der &lt;a href=&#34;http://www.golem.de/0908/68882.html&#34;&gt;Intel Classmate&lt;/a&gt;)? &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;P.S.: Was man als Wissenschaftler sonst noch so mit einem Tablet-PC anstellen kann steht z.B. bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.nonequilibrium.net/307-scientists-gadgets-tablet-pc-recognition/&#34;&gt;www.nonequilibrium.net: Tablet PC and handwriting formulae recognition&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.physicsforums.com/blog.php?b=103&#34;&gt;www.physicsforum.com: TabletPCs for Science and Science Teachin&lt;/a&gt;g&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Paths</title>
+      <link>/post/knowledge-paths/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/knowledge-paths/</guid>
+      <description>&lt;p&gt;The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://papercube.peterbergstrom.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pathway.screenager.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PathWay&lt;/a&gt;, see also &lt;a href=&#34;http://download.cnet.com/8301-2007_4-9823587-12.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNET: New Mac Review: Keep Wikipedia research focused with Pathway&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also helpful would be a Google Scholar API, but it does not exist yet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/google-ajax-apis/issues/detail?id=109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google-ajax-apis: Issue 109: Please add Google Scholar to the API, including # of citations and BibTex reference.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linklens.blogspot.com/2009/04/google-scholar-api-and-papercube.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar API and PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But here is a python receipe, which allows to retrieve results from Google Scholar as dictionary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.activestate.com/recipes/523047/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ActiveState Code: Recipe 523047: Search Google scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Papier falten</title>
+      <link>/post/2006-08-24-papier-falten/</link>
+      <pubDate>Thu, 24 Aug 2006 22:17:00 +0000</pubDate>
+      <guid>/post/2006-08-24-papier-falten/</guid>
+      <description>
+Immer wieder hört und liest man (z.B. &lt;a href=&#34;http://www.code-knacker.de/papierdin.htm&#34;&gt;hier&lt;/a&gt;), dass man ein Papier nicht mehr als siebenmal falten könnte. Wer auch immer diese Mär in die Welt gesetzt hat (in obigem Link wird z.B. der Brockhaus zitiert) liegt falsch. Gezeigt wurde dies 2001 von einer amerikanischen Schülerin, die nicht nur eine mathematische Gleichung für die Dicke von gefaltetem Papier hergeleitet, sondern auch eine 12-fache Faltung realisiert hat. Nachzulesen unter:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://mathworld.wolfram.com/Folding.html&#34;&gt;Mathworld - Folding&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://www.zeit.de/2004/36/Stimmts_Papierfalten&#34;&gt;Zeit online -Wissen: Magische Sieben&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Handschrifterkennung mathematischer Formeln</title>
+      <link>/post/2006-08-24-handschrifterkennung-mathematischer/</link>
+      <pubDate>Thu, 24 Aug 2006 20:36:00 +0000</pubDate>
+      <guid>/post/2006-08-24-handschrifterkennung-mathematischer/</guid>
+      <description>
+Jeder der viele mathematische Formeln in den Computer eingeben muss weiß das es eine echte Qual ist. Mit der Maus ist es in allen Formeleditoren ein mühseliges Geklicke, und über die Tastatur ist es selbst mit der raffinierten Syntax von Latex noch sehr mühsam. Wäre es nicht genial, wenn man mathematische Formeln direkt handschriftlich, z.B. über ein &lt;a href=&#34;http://de.wikipedia.org/wiki/Digitizer&#34;&gt;Grafiktablett&lt;/a&gt; eingeben könnte und diese würden vom Computer automatisch erkannt und in Latex für den perfekten Ausdruck umgewandelt? Geht nicht, gibts nicht? Dachte ich auch, bis ich vom &lt;a href=&#34;http://www.inftyproject.org/en/&#34;&gt;Infty Project&lt;/a&gt; gehört habe. Im Rahmen des Infty Project versucht ein Zusammenschluss vieler japanischer Universitäten die Probleme der automatisierten Erkennung gedruckter und handschriftlicher mathematischer Formeln zu lösen. Und der vom Infty Project entwickelte &lt;a href=&#34;http://www.inftyproject.org/en/software.html#InftyEditor&#34;&gt;Infty Editor&lt;/a&gt; mit eingebauter Handschrifterkennung ist sogar kostenlos erhältlich. Begeistert habe ich ihn in der Version 2.0 getestet. Leider mit ernüchterndem Ergebnis. Die Handschrifterkennung des Infty Editors ist leider kaum brauchbar. Zwar konnte ich die Formeln nur über die Maus eingeben, aber selbst mit dem besten Grafiktablett dürfte die Erkennungsrate immer noch miserabel sein. Schade, also geht doch (noch) nicht. Aber es gibt noch andere Projekte, die zwar nicht unbedingt die direkte Wandlung in Latex versprechen, aber doch die Eingabe mathematischer oder auch chemischer Formeln erleichtern wollen. Eine gute Übersicht dazu gibt es im &lt;a href=&#34;http://www.physicsforums.com/blog.php?b=103&#34;&gt;Physics Blog&lt;/a&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>/post/latex/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/latex/</guid>
+      <description>&lt;p&gt;Wer schon immer mal wissen wollte, was man mit Latex eigentlich alles machen kann,
+findet im &lt;a href=&#34;http://tug.org/texshowcase/&#34;&gt;Texshowcase&lt;/a&gt; einige außergewöhnliche Beispiele.&lt;/p&gt;
+&lt;h6&gt;Anleitungen und FAQs zu Latex:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/lshort/&#34;&gt;lshort&lt;/a&gt; : Kurze Einfuehrung in Latex&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/l2tabu/&#34;&gt;l2tabu&lt;/a&gt; : Über veraltete Befehle, Pakete und andere Fehler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/math/voss/mathmode/&#34;&gt;mathmode&lt;/a&gt; : Alles zu mathematischem Formelsatz&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/epslatex/&#34;&gt;epslatex&lt;/a&gt; : Ausführliches zum Thema Grafiken und Bilder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/l2picfaq/german/&#34;&gt;l2picfaq&lt;/a&gt; : Bilder-HowTo fuer LaTeX (nur auf deutsch)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/info/symbols/comprehensive/&#34;&gt;symbols&lt;/a&gt; : Liste aller(!) Zeichen und Symbole&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dante.de/faq/de-tex-faq/&#34;&gt;de-tex-faq&lt;/a&gt; : Deutsches FAQ zu sehr vielen Fragen rund um Tex/Latex&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fernuni-hagen.de/zmi/katalog/A026.shtml&#34;&gt;A026&lt;/a&gt; : Latex-Kurs der Fernuni Hagen, Teil 1, teilweise veraltet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fernuni-hagen.de/zmi/katalog/A027.shtml&#34;&gt;A027&lt;/a&gt; : Latex-Kurs der Fernuni Hagen, Teil 2, teilweise veraltet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/bgteubner/&#34;&gt;bgteubner&lt;/a&gt; : Vorlage und Anleitung zum Erstellen von Büchern für den Teubner-Verlag,
+enthält Hinweise und Tipps für professionelles Buchdesign.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/base/&#34;&gt;cyrguide&lt;/a&gt; : Erklärt die Verwendung kyrillischer Schriften in Latex 
+(siehe auch &lt;a href=&#34;http://home.vrweb.de/~was/x/pmcyr.pdf&#34;&gt;Kyrillisch für arme Leute (pmcyr.pdf)&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Wichtige &#34;Packages&#34; fuer Latex:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script/&#34;&gt;koma-script&lt;/a&gt; : Schoeneres, &#34;deutscheres&#34; Layout durch neue Dokumentklassen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/beamer/&#34;&gt;beamer&lt;/a&gt; : Ermöglich das Erstellen von professionellen Vorträgen (mit Bild, Ton, Video und Effekten (!)) im PDF-Format &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/&#34;&gt;amsmath&lt;/a&gt; : Mehr mathematische Zeichen und bessere mathematische Umgebungen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/&#34;&gt;graphicx&lt;/a&gt; : Zum Einfuegen von Bildern&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/required/babel/&#34;&gt;babel&lt;/a&gt; : Neue deutsche Trennmuster mittels &lt;pre&gt;\usepackage[ngerman]{babel}&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/base/&#34;&gt;inputenc&lt;/a&gt; : Direkte Eingabe von Umlauten mitttels &lt;pre&gt;\usepackage[utf8]{inputenc}&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Nicht so wichtige &#34;Packages&#34;, die aber das Leben mit Latex einfacher machen:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/&#34;&gt;natbib&lt;/a&gt; : Ermöglicht &#34;schönere&#34;, flexiblere Referenzen und ein &#34;schöneres&#34; Literaturverzeichnis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/subfig/&#34;&gt;subfig&lt;/a&gt; : Vereinfacht die Gruppierung mehrerer Grafiken, ersetzt das veraltete
+&lt;a href=&#34;http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure/&#34;&gt;subfigure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/fancyhdr/&#34;&gt;fancyhdr&lt;/a&gt; : Ermöglicht &#34;schönere&#34; Kopf- und Fusszeilen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/fancybox/&#34;&gt;fancybox&lt;/a&gt; : Ermöglicht &#34;schönere&#34; Rahmen (z.B. mit Schatten)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/caption/&#34;&gt;caption&lt;/a&gt; : Erlaubt einfaches Aendern des Designs der Bildunterschriften, ersetzt das veraltete
+&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/caption/&#34;&gt;caption2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/titlesec/&#34;&gt;titlesec&lt;/a&gt; : Ermöglicht Designänderungen an den Kapitelüberschriften&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex209/contrib/picins/&#34;&gt;picins&lt;/a&gt; und 
+&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/floatflt/&#34;&gt;floatflt&lt;/a&gt; : Erlauben es Grafiken von Text umfliessen zu lassen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/required/psnfss/&#34;&gt;psnfss&lt;/a&gt; : Mehr Schriftarten für Latex&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/units/&#34;&gt;units&lt;/a&gt; : Ermöglicht besseren Umgang mit physikalischen Einheiten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/isotope/&#34;&gt;isotope&lt;/a&gt; : Erleichtert das Eingeben chemischer Elemente mit 
+Kernladungszahl und Massenzahl&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/cv/&#34;&gt;cv&lt;/a&gt; : Vereinfacht das Erstellen eines Lebenslaufes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Gute Latex-Editoren:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.texniccenter.org/&#34;&gt;TexnicCenter&lt;/a&gt; : Sehr guter, kostenloser und frei verfügbarer Editor für Windows.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.winedt.com/&#34;&gt;WinEdt&lt;/a&gt; : Ebenfalls guter Editor für Windows, leider nicht kostenlos.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kile.sourceforge.net/&#34;&gt;Kile&lt;/a&gt; : Bester Editor speziell für Latex unter Linux (KDE); dem TexnicCenter ebenbürtig. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;nützliche Tools:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jam-software.de/freeware/index.shtml&#34;&gt;Excel2Latex&lt;/a&gt; : wandelt Excel-Tabellen in Latex-Quellcode, sehr nuetzlich, da bei grossen Tabellen die Eingabe von Daten in Excel einfach schneller geht&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://texpoint.necula.org/&#34;&gt;TexPoint&lt;/a&gt; : ist ein PlugIn fuer Powerpoint um Latex-Formeln in Powerpointfolien
+einzufuegen und schlichtweg genial&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leider ist TexPoint in der neuesten Version nicht mehr kostenlos, aber eine alte, frei verfügbare Version
+gibt es &lt;a href=&#34;usefulthings/TexPoint-latest.msi&#34;&gt;hier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Seit neuestem gibt es zudem ein kostenloses und frei verfügbares Analogon zu TexPoint für OpenOffice:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ooolatex.sourceforge.net/&#34;&gt;OOoLatex&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dieses hat gegenüber TexPoint den Vorteil, dass man es auch in der Textverarbeitung von OpenOffice verwenden kann. TexPoint
+hingegen funktioniert nur mit Powerpoint, nicht mit Word.&lt;/p&gt;
+&lt;p&gt;Weitere nützliche Tools zum Download gibts auf den Seiten der 
+&lt;a href=&#34;http://www.uni-salzburg.at/portal/page?_pageid=138,456791&amp;amp;_dad=portal&amp;amp;_schema=PORTAL&#34;&gt;Uni Salzburg&lt;/a&gt;.&lt;/p&gt;
+&lt;h6&gt;Vorlagen von mir:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;documents/vorlage.tex&#34;&gt;vorlage.tex&lt;/a&gt; : neueste allgemeine Latex-Vorlage von mir,
+verwendet Koma-Script und andere Schriftarten ( übernommen von:
+&lt;a href=&#34;usefulthings/l2tabu.tex&#34;&gt;l2tabu.tex&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;documents/thesis_template.zip&#34;&gt;thesis_template.zip&lt;/a&gt; :
+Layoutvorlage für meine Masterthesis; Beispiel dafür, wie man mehrere
+Latexfiles in einer Datei kombinieren kann.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;documents/application.zip&#34;&gt;application.zip&lt;/a&gt; : Vorlage für ein Bewerbungsschreiben
+mit Deckblatt, Anschreiben, Lebenslauf, gescannten Zeugnissen und Referenzen in einem PDF. Die Vorlage 
+ist sowohl in Englisch als auch auf Deutsch verfügbar und berücksichtigt z.B. die andere Form des 
+Lebenslaufs in englischsprachigen Bewerbungen. Vor dem Verwenden der Vorlagen bitte die enthaltenen 
+Dateien README.txt bzw. LIESMICH.txt lesen. Wie das Ergebnis dann aussieht, zeigen die PDFs
+&lt;a href=&#34;documents/application_german.pdf&#34;&gt;application_german.pdf&lt;/a&gt; bzw
+&lt;a href=&#34;documents/application_english.pdf&#34;&gt;application_english.pdf&lt;/a&gt;.
+&lt;/ul&gt;
+&lt;h6&gt;Weitere Tipps von mir:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;Leider erklärt das oben genannte &lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/base/&#34;&gt;cyrguide&lt;/a&gt; nicht, wie man kyrillische Zeichen
+ohne kyrillisches Tastaturlayout eingeben kann. Natürlich kann man immer ein kyrillisches Tastaturlayout am Bildschirm einblenden,
+aber einfacher ist es die Wörter in lateinischer Transliteration einzugeben. Dies ist in Latex mithilfe des 
+&lt;tt&gt;/foreignlanguage{}&lt;/tt&gt;-Befehls möglich und wird von Walter Schmidt in 
+&lt;a href=&#34;http://home.vrweb.de/~was/x/pmcyr.pdf&#34;&gt;Kyrillisch für arme Leute (pmcyr.pdf)&lt;/a&gt; hervorragend 
+erklärt. Wie so etwas aussehen kann zeigt folgende von mir erstellte Seite mit allen kyrillischen Buchstaben in Druck und Schreibschrift 
+nach ihrer &#34;lateinischen Aussprache&#34; sortiert: &lt;a href=&#34;documents/rusalph.pdf&#34;&gt;rusalph.pdf&lt;/a&gt;. 
+Die zugehörige Latex-Datei in &lt;a href=&#34;documents/rusalph.zip&#34;&gt;rusalph.zip&lt;/a&gt; (nur mit &lt;tt&gt;pdflatex&lt;/tt&gt; zu übersetzen)
+zeigt zudem, wie man in Latex Bilder in eine Tabelle einfügen kann, eine nicht ganz triviale Sache, die aber zum Glück im
+&lt;a href=&#34;http://www.ctan.org/tex-archive/info/l2picfaq/german/&#34;&gt;Bilder-HowTo fuer LaTeX (l2picfaq)&lt;/a&gt; erklärt ist.&lt;/li&gt;
+&lt;li&gt;Nützliche Hinweise bei Problemen mit UTF-8 in Latex bei Verwendung von Kile gibt es in einem Thread bei 
+&lt;a href=&#34;http://www.kofler.cc/forum/forumthread.php?rootID=3368&#34;&gt;www.kofler.cc&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Wie man Mathematica-Schriftarten in MikTex installiert, so dass man von Mathematica generierte 
+Latex-Dokumente mit MikTex kompilieren kann, steht auf den Seiten von
+&lt;a href=&#34;http://support.wolfram.com/mathematica/interface/export/miktex22.html&#34;&gt;support.wolfram.com&lt;/a&gt;
+beschrieben.
+&lt;li&gt;Adobe Photoshop produziert in älteren Versionen keine korrekten *.eps-Grafiken mit Bounding-Box,
+was beim Einbinden in Latex zu Problemen fuehrt. Mein Workaround:
+&lt;a href=&#34;http://www.jasc.com&#34;&gt;Jasc Paint Shop Pro&lt;/a&gt; verwenden!&lt;/li&gt;
+&lt;li&gt;Wenn man Plots aus Mathematica nicht als Bitmap sondern als *.eps-File speichern moechte
+(braucht weniger Speicherplatz und hat bessere Qualitaet, da Vektorgrafik) wird man feststellen,
+das Sonderzeichen, z.B. griechische Buchstaben, in der Achsenbeschriftung nicht korrekt uebertragen
+werden, da die Mathematicaschriften nicht in das *.eps eingebettet werden. Mein Workaround:
+Saemtliche Sonderzeichen in Plots mithilfe der Option &lt;pre&gt;FormatType-&gt;OutputForm&lt;/pre&gt; vermeiden.
+Bsp:&lt;pre&gt;In[1]:=Plot[Sin[x], {x, 0, 2 Pi}, Ticks -&gt; {{Pi/2, Pi, 3/2Pi, 2 Pi},
+	Automatic}, FormatType -&gt; OutputForm];&lt;/pre&gt;
+Von Johannes Grosse bekam ich den Tipp es alternativ mit
+&lt;pre&gt;
+Plot[..., TextStyle-&gt;{FontFamily-&gt;&#34;Times&#34;}]
+Export[..., ConversionOptions-&gt;{&#34;IncludeSpecialFonts&#34;-&gt;True}]
+&lt;/pre&gt;
+zu versuchen. Wer es jedoch noch professioneller haben möchte, der sollte mal einen Blick auf das Mathematica-Paket 
+&lt;a href=&#34;http://wwwth.mppmu.mpg.de/members/jgrosse/mathpsfrag/&#34;&gt;MathPSfrag&lt;/a&gt; (ebenfalls von Johannes Grosse)
+werfen. Damit ist es möglich Mathematicaplots mit Latex-Formeln und Symbolen zu beschriften.&lt;/li&gt;
+&lt;li&gt;Wenn man EPS-Dateien mit &lt;tt&gt;xmgrace&lt;/tt&gt; und der Option &lt;tt&gt;Tight Bounding Box&lt;/tt&gt;
+erstellt (betrifft eventuell auch mit Framemaker erstellte EPS-Bilder),
+und diese als Bilder in Latex einbinden will, so überlagert in der aus der Latex-Datei
+mit &lt;tt&gt;dvips&lt;/tt&gt; erzeugten PS-Datei das Bild teilweise den Text. Grund dafür ist, dass
+&lt;tt&gt;xmgrace&lt;/tt&gt; mit der Option &lt;tt&gt;Tight Bounding Box&lt;/tt&gt; folgendes in die EPS-Datei
+schreibt:
+&lt;pre&gt;
+%% Bounding Box (atend)
+...
+%% Bounding Box 11 13 768 483
+&lt;/pre&gt;
+Anscheinend kan &lt;tt&gt;dvips&lt;/tt&gt; mit der Option &lt;tt&gt;(atend)&lt;/tt&gt; nicht richtig umgehen und ignoriert
+die Angaben zur Bounding Box am Ende der Datei (Mehr dazu &lt;a href=&#34;http://flex.ee.uec.ac.jp/texi/dvips/dvips_28.html&#34;&gt;hier&lt;/a&gt;).
+Dabei hilft es komischerweise auch nicht, die Bounding Box Zeile vom Ende der Datei an den Anfang zu kopieren. 
+Jedoch muß man trotzdem nicht auf die Option &lt;tt&gt;Tight Bounding Box&lt;/tt&gt; verzichten, wenn man die problematischen EPS-Dateien
+folgendermaßen in Latex einbindet:
+&lt;pre&gt;
+\includegraphics[clip]{dateiname.eps}
+&lt;/pre&gt;
+Die Option &lt;tt&gt;clip&lt;/tt&gt; sorgt dabei dafür, dass alle Teile der Grafik außerhalb des
+&#34;Viewing Area&#34; abgeschnitten werden (siehe auch &lt;a href=&#34;http://www.ctan.org/tex-archive/info/epslatex/&#34;&gt;epslatex&lt;/a&gt;).
+Damit werden die EPS-Dateien dann korrekt eingebunden.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Weitere Links:&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tex.loria.fr/&#34;&gt;tex.loria.fr&lt;/a&gt; : Latex-Navigator, fast so gut wie meine Seite ;-)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.christine.oppe.info/blog/category/schreiben/latex/&#34;&gt;www.christine.oppe.info&lt;/a&gt; : Nützliche Tipps zu Latex im Blog von Christine Oppe&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;ftp://ftp.edpsciences.org/pub/aa/readme.html&#34;&gt;ftp.edpsciences.org&lt;/a&gt; : Latex-Vorlage für Veröffentlichungen in Astronomy &amp;amp; Astrophysics (A&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://schnorchelfabrik.de/latex/ltxvorlagen.shtml&#34;&gt;schnorchelfabrik.de&lt;/a&gt; : Latex-Vorlage für Diplomarbeiten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tm.uka.de/~bless/latexhints.html&#34;&gt;www.tm.uka.de&lt;/a&gt; : Noch eine Latex-Vorlage für Diplomarbeiten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.wisc.edu/~ghost/&#34;&gt;www.cs.wisc.edu&lt;/a&gt; : Die neusesten Versionen von Ghostscript, Ghostview and GSview&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tug.org&#34;&gt;tug.org&lt;/a&gt; : Die &#34;TeX Users Group&#34;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ctan.org/&#34;&gt;www.ctan.org&lt;/a&gt; : Das &#34;Comprehensive TeX Archive Network&#34;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://komascript.de/&#34;&gt;komascript.de&lt;/a&gt; : Infos und Dokumentation zu den KOMA-Script Klassen für Latex&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

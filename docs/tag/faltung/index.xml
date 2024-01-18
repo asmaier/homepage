@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>faltung | Das Blog</title>
+    <link>/tag/faltung/</link>
+      <atom:link href="/tag/faltung/index.xml" rel="self" type="application/rss+xml" />
+    <description>faltung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2006 22:17:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>faltung</title>
+      <link>/tag/faltung/</link>
+    </image>
+    
+    <item>
+      <title>Papier falten</title>
+      <link>/post/2006-08-24-papier-falten/</link>
+      <pubDate>Thu, 24 Aug 2006 22:17:00 +0000</pubDate>
+      <guid>/post/2006-08-24-papier-falten/</guid>
+      <description>
+Immer wieder hört und liest man (z.B. &lt;a href=&#34;http://www.code-knacker.de/papierdin.htm&#34;&gt;hier&lt;/a&gt;), dass man ein Papier nicht mehr als siebenmal falten könnte. Wer auch immer diese Mär in die Welt gesetzt hat (in obigem Link wird z.B. der Brockhaus zitiert) liegt falsch. Gezeigt wurde dies 2001 von einer amerikanischen Schülerin, die nicht nur eine mathematische Gleichung für die Dicke von gefaltetem Papier hergeleitet, sondern auch eine 12-fache Faltung realisiert hat. Nachzulesen unter:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://mathworld.wolfram.com/Folding.html&#34;&gt;Mathworld - Folding&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://www.zeit.de/2004/36/Stimmts_Papierfalten&#34;&gt;Zeit online -Wissen: Magische Sieben&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

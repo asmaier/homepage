@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>würzburg | Das Blog</title>
+    <link>/tag/wurzburg/</link>
+      <atom:link href="/tag/wurzburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>würzburg</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>würzburg</title>
+      <link>/tag/wurzburg/</link>
+    </image>
+    
+    <item>
+      <title>Ich lästere ja gerne, dass ...</title>
+      <link>/post/2019-06-18-ich-lastere-ja-gerne-dass/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-06-18-ich-lastere-ja-gerne-dass/</guid>
+      <description>&lt;p&gt;Ich lästere ja gerne, dass die Startups in Berlin nix können außer Pizza und Klamotten liefern. Hier habe ich aber mal ein interessanteres gefunden:
+&lt;a href=&#34;https://ptscientists.com/about/history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ptscientists.com/about/history/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Die machen tatsächlich &amp;ldquo;Rocket science&amp;rdquo; im wahrsten Sinne des Wortes. Ihre Software für die Satelliten entwickeln sie auf dem &lt;a href=&#34;https://de.wikipedia.org/wiki/Rodos_%28Betriebssystem%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Rodos_(Betriebssystem)&lt;/a&gt;
+Das ist von der Uni Würzburg, und da kommen ja bekanntlich nur kompetente Menschen her, dass muss also gut sein.&lt;/p&gt;
+&lt;p&gt;Allerdings habe ich gerade in ihre Timeline geschaut. Und da steht tatsächlich, dass sie stolz sind 2018 den Cloud Edge Moonlight shoe designed zu haben. Ist also doch nur eines der üblichen Berliner Startups ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://ptscientists.com/about/history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ptscientists.com/about/history/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

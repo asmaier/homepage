@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lieder | Das Blog</title>
+    <link>/tag/lieder/</link>
+      <atom:link href="/tag/lieder/index.xml" rel="self" type="application/rss+xml" />
+    <description>lieder</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>lieder</title>
+      <link>/tag/lieder/</link>
+    </image>
+    
+    <item>
+      <title>Ich so: &#34;Ich will Sonne ...</title>
+      <link>/post/2020-01-27-ich-so-ich-will-sonne/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-01-27-ich-so-ich-will-sonne/</guid>
+      <description>&lt;p&gt;Ich so: &amp;ldquo;Ich will Sonne und Schnee, Berge und See!&amp;rdquo;
+Österreich nur so: &amp;ldquo;Das geht sich aus.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

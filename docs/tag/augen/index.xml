@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>augen | Das Blog</title>
+    <link>/tag/augen/</link>
+      <atom:link href="/tag/augen/index.xml" rel="self" type="application/rss+xml" />
+    <description>augen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Sep 2018 20:16:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>augen</title>
+      <link>/tag/augen/</link>
+    </image>
+    
+    <item>
+      <title>Kurzsichtigkeit - Neues aus der Wissenschaft</title>
+      <link>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</link>
+      <pubDate>Mon, 17 Sep 2018 20:16:00 +0000</pubDate>
+      <guid>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</guid>
+      <description>
+&lt;div dir=&#34;ltr&#34; style=&#34;text-align: left;&#34; trbidi=&#34;on&#34;&gt;Nach meinem Artikel von &lt;a href=&#34;https://asmaier.blogspot.com/2009/11/ursachen-der-kurzsichtigkeit.html&#34;&gt;2009&lt;/a&gt;&amp;nbsp;über Ursachen der Kurzsichtigkeit und dem von &lt;a href=&#34;https://asmaier.blogspot.com/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34;&gt;2015&lt;/a&gt;&amp;nbsp;über mögliche Therapieansätze habe ich in der Zwischenzeit&amp;nbsp;ein paar neue Erkenntnisse zu dem Thema gesammelt:&lt;br /&gt;&lt;br /&gt;Eine Studie mit 300000 Teilnehmern hat eine positive Korrelation zwischen Brille tragen und höherer Intelligenz gefunden (siehe &lt;a href=&#34;https://www.heilpraxisnet.de/naturheilpraxis/forschung-sind-brillentraeger-wirklich-von-natur-aus-schlauer-20180531411836&#34;&gt;https://www.heilpraxisnet.de/naturheilpraxis/forschung-sind-brillentraeger-wirklich-von-natur-aus-schlauer-20180531411836&lt;/a&gt; ). Das höre ich natürlich gerne, aber es wäre ziemlich unintelligent sich die ganze Sache nicht doch etwas genauer anzusehen. Im Gegensatz zu dem Heilpraxisartikel, wo der Journalist wie üblich natürlich &lt;a href=&#34;https://de.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc&#34;&gt;Korrelation und Kausation verwechselt&lt;/a&gt;, betonen die Wissenschaftler, dass es sich nur um eine Korrelation handelt. Viele Brillenträger sind intelligenter (wobei die Definition von Intelligenz wie üblich sehr problematisch ist). Das bedeutet aber nicht, dass man seine Intelligenz erhöhen kann, indem man Brille trägt. Interessant ist auch, dass eine höhere Intelligenz nur mit Kurzsichtigkeit positiv korreliert ist, mit Weitsichtigkeit aber negativ:&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;&#34;The result for myopia (short-sightedness; rg = 0.32) was consistent with previous evidence of a positive phenotypic and genetic correlation between this trait and cognitive function. Less genetic work has investigated the links between hyperopia (long-sightedness) and cognitive function, although our finding, a genetic correlation of rg = −0.21, was consistent with the negative phenotypic association between these variables reported in previous literature&#34; (&lt;a href=&#34;https://www.nature.com/articles/s41467-018-04362-x&#34;&gt;https://www.nature.com/articles/s41467-018-04362-x&lt;/a&gt;)&lt;/blockquote&gt;&lt;br /&gt;&lt;a name=&#39;more&#39;&gt;&lt;/a&gt;&lt;br /&gt;Die Forscher haben jedoch auch andere Korrelationen gefunden, z.B. korreliert auch eine schnelle Reaktionszeit mit höherer Intelligenz:&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;We found a genetic correlation (rg) of 0.247 (P = 1.28 × 10−30) between reaction time and general cognitive function.&lt;/blockquote&gt;Aber wie wir alle wissen ist nicht jeder Torwart oder 100m Sprinter auch ein Nobelpreisträger. Insgesamt finde ich, dass solche Korrelationsstudien im allgemeinen wenig nützlich sind und mehr Fragen aufwerfen als Antworten geben.&lt;br /&gt;&lt;br /&gt;Viel interessanter dagegen ist jedoch eine Studie der Uni Tübingen. Diese wollen nämlich herausgefunden haben, warum Lesen kurzsichtig macht:&lt;br /&gt;&lt;br /&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li&gt;&lt;a href=&#34;http://www.eye-tuebingen.de/the-institute/news-events/news/news-article/60-why-might-reading-make-myopic/&#34;&gt;Universitätsklinikum Tübingen: Why might reading make myopic?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/Studie-von-Tuebinger-Augenheilkundlern-Warum-macht-Lesen-kurzsichtig,tuebinger-erklaeren-kurzsichtigkeit-100.html&#34;&gt;Studie von Tübinger Augenheilkundlern: Warum macht Lesen kurzsichtig?&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Kurz gesagt haben sie den Einfluß des Lesens von schwarzem Text auf weißem Grund und weißem Text auf schwarzem Grund auf die Entwicklung der &lt;a href=&#34;https://de.wikipedia.org/wiki/Aderhaut&#34;&gt;Aderhaut&lt;/a&gt;&amp;nbsp;gemessen. Dabei zeigte sich, dass nur 30 Minuten Lesen von Schwarzem Text auf weißem Grund die Aderhaut verdünnt, was zu einem Längenwachstum und damit zu Kurzsichtigkeit führen kann. Umgedreht führte das Lesen von hellem Text auf dunklem Untergrund zu einer Verdickung der Aderhaut und würde also zu einer Hemmung der Kurzsichtigkeit führen. Würde das stimmen, wäre es sensationell und es gäbe eine sehr einfach Möglichkeit der Kurzsichtigkeit vorzubeugen: Statt Bücher zu lesen sollte man besser am Computer mit umgedrehten Kontrast lesen (z.B. &lt;a href=&#34;https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/&#34;&gt;Apples neuer Dark Mode&lt;/a&gt;). Einen Haken hat die Studie aber doch (was die Journalisten natürlich wieder verschwiegen haben): Insgesamt waren nur sieben Kandidaten beteiligt:&lt;/div&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;Seven young adult subjects participated, subject 1 was Asian, the others Caucasian, subjects 3 and 6 male, subject 3 wore contact lenses, subjects 1, 2, and 7 spectacles. Ages ranged from 23 to 29 years. Subjects had no known ocular pathologies other than mild or moderate myopia (&lt;a href=&#34;https://www.nature.com/articles/s41598-018-28904-x&#34;&gt;https://www.nature.com/articles/s41598-018-28904-x&lt;/a&gt;).&lt;/blockquote&gt;Damit ist die Studie meiner Meinung nach leider noch viel zu klein um sie wirklich ernst zu nehmen. Würde sich aber in einer größeren Studie mit vielleicht hunderten oder tausenden Teilnehmer ein ähnliches Ergebnis ergeben, dann hätte das meiner Meinung nach den Nobelpreis der Medizin verdient. Wer nicht so lange warten möchte und bereits jetzt seine Augen beim Lesen schonen möchte, dem kann ich das DarkReader Plugin für den Browser empfehlen: &lt;a href=&#34;https://darkreader.org/&#34;&gt;https://darkreader.org/ &lt;/a&gt;. Zusammen mit dem &lt;a href=&#34;https://chrome.google.com/webstore/detail/slinky-elegant/bmanlajnpdncmhfkiccmbgeocgbncfln&#34;&gt;Slinky Elegant Theme&lt;/a&gt; für den Chrome Browser bleibt der Bildschirm beim Internetsurfen dunkel und die Augen werden geschont. Auch auf dem Smartphone kann man schon jetzt oft einen DarkMode nutzen (unter iOS z.B. unter Allgemein-&amp;gt;Bedienhilfen-&amp;gt;Display-Anpassungen-&amp;gt;Farben umkehren -&amp;gt; Intelligent) und spart damit auf einem modernen OLED-Display sogar &lt;a href=&#34;https://appleinsider.com/articles/17/11/10/extreme-test-shows-oled-iphone-x-with-dark-mode-saves-nearly-60-battery-over-3-hours&#34;&gt;signifikant Energie&lt;/a&gt;. Also nutzt den DarkMode auf eurem Computer/Smartphone. Er ist gut für die Umwelt und schon eure Augen.&lt;br /&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>The following very interesting article ...</title>
+      <link>/post/2015-12-24-the-following-very-interesting-article/</link>
+      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-12-24-the-following-very-interesting-article/</guid>
+      <description>&lt;p&gt;The following very interesting article states that 12% of all woman actually have four cone types in their eyes. But because in most cases the sensitivity to color of the fourth cone is not(!) very different from the red and green cone their brain cannot see more colors than people with just three cones. However in their study with seven woman, which have four cones, one of the woman actually could see more colors than usual. If that is representative it means that 12/7 = 1.7%(!) of all woman actually can distinguish more colors than the average person with only three cones in their retina.&lt;/p&gt;
+&lt;p&gt;I wish you a colorful christmas!﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://theneurosphere.com/2015/12/17/the-mystery-of-tetrachromacy-if-12-of-women-have-four-cone-types-in-their-eyes-why-do-so-few-of-them-actually-see-more-colours/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allen Kurzsichtigen und die es ...</title>
+      <link>/post/2015-11-29-allen-kurzsichtigen-und-die-es/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-11-29-allen-kurzsichtigen-und-die-es/</guid>
+      <description>&lt;p&gt;Allen Kurzsichtigen und die es mal werden wollen, sei folgender Artikel recht herzlich empfohlen. Es gibt spannende Neuigkeiten in diesem Gebiet, z.B. könnte Schokolade tatsächlich ein Gegenmittel zur Kurzsichtigkeit sein. Viel Spass damit!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://asmaier.blogspot.de/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://asmaier.blogspot.de/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://asmaier.blogspot.de/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://asmaier.blogspot.com//www.blogger.com/img/blogger_logo_round_35.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+asmaier.blogspot.com&lt;/p&gt;
+&lt;h2 id=&#34;kurzsichtigkeit---stand-der-wissenschafthttpasmaierblogspotde201511kurzsichtigkeit-stand-der-wissenschafthtml&#34;&gt;&lt;a href=&#34;http://asmaier.blogspot.de/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kurzsichtigkeit - Stand der Wissenschaft&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ich gebe gleich zu, der Titel ist etwas reißerisch formuliert. Er sollte eher lauten &amp;ldquo;Kurzsichtigkeit - Stand meines Wissens&amp;rdquo;. Aber jetzt&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Endlich ein Gegenmittel zur Kurzsichtigkeit!? ...</title>
+      <link>/post/2015-11-19-endlich-ein-gegenmittel-zur-kurzsichtigkeit/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-11-19-endlich-ein-gegenmittel-zur-kurzsichtigkeit/</guid>
+      <description>&lt;p&gt;Endlich ein Gegenmittel zur Kurzsichtigkeit!?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sciencedaily.com/releases/2015/11/151116212649.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.sciencedaily.com/images/scidaily-icon.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+sciencedaily.com&lt;/p&gt;
+&lt;h2 id=&#34;nearsightedness-progression-in-children-slowed-down-by-medicated-eye-dropshttpwwwsciencedailycomreleases201511151116212649htm&#34;&gt;&lt;a href=&#34;http://www.sciencedaily.com/releases/2015/11/151116212649.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearsightedness progression in children slowed down by medicated eye drops&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Atropine .01 percent eye drops slow down nearsightedness by roughly 50 percent in five-year clinical trial on Singaporean children. Researchers suggest low-dose drops safe as &amp;lsquo;first line&amp;rsquo; defense against rapid development of nearsightedness in children.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

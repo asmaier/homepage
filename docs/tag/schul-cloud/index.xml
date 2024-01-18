@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schul-cloud | Das Blog</title>
+    <link>/tag/schul-cloud/</link>
+      <atom:link href="/tag/schul-cloud/index.xml" rel="self" type="application/rss+xml" />
+    <description>schul-cloud</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>schul-cloud</title>
+      <link>/tag/schul-cloud/</link>
+    </image>
+    
+    <item>
+      <title>Viele Schulen sind ja nach ...</title>
+      <link>/post/2020-12-28-viele-schulen-sind-ja-nach/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-12-28-viele-schulen-sind-ja-nach/</guid>
+      <description>&lt;p&gt;Viele Schulen sind ja nach wie vor völlig ahnungslos im Neuland unterwegs. Da wird ohne Not Microsoft Teams und Office 365 oder gar Zoom eingesetzt, obwohl das nach deutschem Datenschutzrecht illegal ist.
+Typisch deutsch(?) daran ist, dass die Behörden zwar völlig überfordert sind, Schulen rechtzeitig die notwendige Infrastruktur bereitzustellen, aber gleichzeitig sind sie sehr schnell dabei, die Schulen wegen Datenschutzverstößen abzumahnen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/news/Schulen-brauchen-Klarheit-beim-Datenschutz-4993139.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.heise.de/news/Schulen-brauchen-Klarheit-beim-Datenschutz-4993139.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Daher hier als mein kleiner Beitrag eine kleine Liste von datenschutzkonformen Lösungen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bbbserver.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bbbserver.de/&lt;/a&gt; (JAR Media GmbH)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://schul.cloud/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://schul.cloud/&lt;/a&gt; (heinekingmedia GmbH, stashcat gmbh)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hpi-schul-cloud.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hpi-schul-cloud.de/&lt;/a&gt; (Hasso-Plattner-Institut für Digital Engineering gGmbH / SAP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Falls ihr Eltern seid und die Schulen eurer Kinder das mit dem Internet und Datenschutz im Jahre 2020 einfach nicht gebacken kriegt, weißt sie doch bitte auf die Lösungen oben hin.&lt;/p&gt;
+&lt;p&gt;Und falls ihr Schüler seid und gerne die Ferien verlängern wollt, zeigt eure Schule einfach beim Datenschutzbeauftragten an, falls sie immer noch so einen Quatsch wie Zoom oder Microsoft etc. einsetzen.&lt;/p&gt;
+&lt;p&gt;P.S.: Noch mehr Infos gibt es wie immer in der Wikipedia (&lt;a href=&#34;https://de.wikipedia.org/wiki/Schul-Cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Schul-Cloud&lt;/a&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://hpi-schul-cloud.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dbildungscloud.de/images/logo/logo-dBildungscloud.8344347.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+dbildungscloud.de&lt;/p&gt;
+&lt;h2 id=&#34;dbildungscloudhttpshpi-schul-cloudde&#34;&gt;&lt;a href=&#34;https://hpi-schul-cloud.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dBildungscloud&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Diese Seite konnte nicht geladen werden&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

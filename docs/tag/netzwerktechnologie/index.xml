@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netzwerktechnologie | Das Blog</title>
+    <link>/tag/netzwerktechnologie/</link>
+      <atom:link href="/tag/netzwerktechnologie/index.xml" rel="self" type="application/rss+xml" />
+    <description>netzwerktechnologie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>netzwerktechnologie</title>
+      <link>/tag/netzwerktechnologie/</link>
+    </image>
+    
+    <item>
+      <title>SSH</title>
+      <link>/post/ssh/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/ssh/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;SSH-Verbindung mit Weiterleitung grafischer Ausgaben (X-Tunneling):&lt;/em&gt;
+&lt;pre&gt;&gt; ssh -X -l username computername&lt;/pre&gt;
+Die Option &lt;tt&gt;-X&lt;/tt&gt; aktiviert dabei das X-Tunneling. Ein kleines &lt;tt&gt;-x&lt;/tt&gt;
+würde hingegen X-Tunneling explizit abschalten.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kopieren mit SCP:&lt;/em&gt;
+&lt;pre&gt;&gt; scp -r username@computername:pfad .&lt;/pre&gt;
+Das erste Argument von &lt;tt&gt;scp&lt;/tt&gt; ist immer die Quelldatei (bzw. Verzeichnis), 
+das zweite das Zielverzeichnis (hier &lt;tt&gt;.&lt;/tt&gt;, das aktuelle Verzeichnis). Die
+Option &lt;tt&gt;-r&lt;/tt&gt; erlaubt das rekursive Kopieren ganzer Verzeichnisse; ohne diese
+Option kommt es beim Kopieren von Verzeichnissen zu einer Fehlermeldung.&lt;/li&gt;  
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

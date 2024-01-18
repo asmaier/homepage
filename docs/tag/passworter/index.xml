@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>passwörter | Das Blog</title>
+    <link>/tag/passworter/</link>
+      <atom:link href="/tag/passworter/index.xml" rel="self" type="application/rss+xml" />
+    <description>passwörter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2009 23:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>passwörter</title>
+      <link>/tag/passworter/</link>
+    </image>
+    
+    <item>
+      <title>Gute Passwörter, die man sich merken kann</title>
+      <link>/post/2009-10-15-gute-passworter-die-man-sich-merken/</link>
+      <pubDate>Thu, 15 Oct 2009 23:30:00 +0000</pubDate>
+      <guid>/post/2009-10-15-gute-passworter-die-man-sich-merken/</guid>
+      <description>
+&lt;div&gt;Nachdem ich den Artikel &lt;a href=&#34;http://arstechnica.com/business/news/2009/10/30-years-of-failure-the-user-namepassword-combination.ars&#34;&gt;30 years of failure: the username/password combination - Ars Technica&lt;/a&gt; gelesen hatte, dachte ich, ich muß mal verraten, wie man sichere Passwörter generiert, damit die nächsten 30 Jahre vielleicht doch etwas besser werden.&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;http://arstechnica.com/business/news/2009/10/30-years-of-failure-the-user-namepassword-combination.ars&#34;&gt;&lt;/a&gt;Zwei Methoden kenne ich, gute Passwörter zu generieren, die man sich auch leicht merken kann:&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;1. Die Anfangsbuchstaben eines Satzes der auch Zahlen enthält, z.B.:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;I&lt;/b&gt;ch &lt;b&gt;b&lt;/b&gt;in &lt;b&gt;31,5&lt;/b&gt; &lt;b&gt;J&lt;/b&gt;ahre &lt;b&gt;a&lt;/b&gt;lt&lt;b&gt;!&lt;/b&gt; = Ib31,5Ja!&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;2. Mathematische Ausdrücke, z.B.:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;4,5+8=12,5&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Noch sicherer sind natürlich falsche Ergebnisse:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;2*2=4+3=neun&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Aber am allersichersten dürften wohl Latex-Formeln sein:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;\sum \frac{1}{n^2} = \frac{pi^2}{6}&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Schließlich fällt mir gerade noch eine dritte Methode ein, &lt;a href=&#34;http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck&#34;&gt;Regular Expressions&lt;/a&gt;:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;/(bb|[^b]{2})/&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Oder auf deutsch: &#34;Two b or not two b! (Gefunden auf &lt;a href=&#34;http://stackoverflow.com/questions/20448/what-is-the-most-brilliant-regex-youve-ever-used&#34;&gt;Stackoverflow.com&lt;/a&gt; )&lt;/div&gt;&lt;div&gt;Natürlich hilft alles nix, wenn man sich einen KeyLogger eingefangen hat...Aber vielleicht könnte man auf TouchScreens wie beim iPhone Gesten als Passwort einführen! Z.B. zwei Finger rauf, dann einmal überkreuz und am Ende einen Klick in die linke untere Ecke. Wäre sicher auch ganz witzig wenn man sowas in Zukunft an Geldautomaten einführen würde. Aber das hilft dann auch wieder nicht, wenn heimlich Kameras installiert sind. Dann vielleicht Augenbewegungen, dass könnte man auch gleich mit einem Irisscan kombinieren. Oder, aber... Die nächsten 30 Jahre werden jedenfalls interessant bleiben.&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Neuer Fingerabdruck leicht gemacht!</title>
+      <link>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</link>
+      <pubDate>Fri, 25 Aug 2006 20:58:00 +0000</pubDate>
+      <guid>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</guid>
+      <description>
+In der biometrischen Zukunft sollen wir uns ja überall statt mit Passwort einfach mit Fingerabdruck anmelden können. Doch was tun, wenn der eigene Fingerabdruck gehackt wurde, man diesen zur Identifizierung nicht mehr verwenden kann? Bei Passwörtern ist das kein Problem. Das alte Passwort wird gesperrt und ein Neues verwendet. Und bei Fingerabdrücken? Ebenfalls kein Problem! Der &lt;a href=&#34;http://www.ccc.de&#34;&gt;Chaos Computer Club&lt;/a&gt; zeigt wie man sich ganz einfach einen neuen Fingerabdruck machen kann:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.ccc.de/biometrie/fingerabdruck_kopieren.xml&#34;&gt;CCC - Fingerabdruck kopieren&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soviel zum Thema schöne neue Biometrie-Welt. Und wer glaubt, dass Biometriedaten so sicher verwahrt werden, dass obiges Szenario extrem unwahrscheinlich sei, der möge mal folgende Artikel über die wahnsinnige Sicherheit biometrischer Daten holländischer, aber auch deutscher und österreichischer Pässe lesen: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/21/21907/1.html&#34;&gt;Telepolis: Biometrie-Pass erfolgreich gehackt&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/meldung/69127&#34;&gt;Heise online - ePass-Hack&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://futurezone.orf.at/it/stories/86706/&#34;&gt;Futurezone - Biometriechip gecrackt&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Schöne neue Welt! Ich geh mir dann schon mal eine Reihe Fingerabdrücke herstellen und mich vielleicht auch noch nach Kontaktlinsen mit Ersatz-Irisaufdruck erkundigen.</description>
+    </item>
+    
+  </channel>
+</rss>

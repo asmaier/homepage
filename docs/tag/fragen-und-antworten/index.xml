@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fragen und antworten | Das Blog</title>
+    <link>/tag/fragen-und-antworten/</link>
+      <atom:link href="/tag/fragen-und-antworten/index.xml" rel="self" type="application/rss+xml" />
+    <description>fragen und antworten</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>fragen und antworten</title>
+      <link>/tag/fragen-und-antworten/</link>
+    </image>
+    
+    <item>
+      <title>Eine sehr interessante Seite mit ...</title>
+      <link>/post/2013-07-04-eine-sehr-interessante-seite-mit/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-07-04-eine-sehr-interessante-seite-mit/</guid>
+      <description>&lt;p&gt;Eine sehr interessante Seite mit Fragen an und direkten Antworten von der Kanzlerin.
+Die Seite ist eine von vielen des Startups direktzu
+&lt;a href=&#34;http://www.gruenderszene.de/datenbank/unternehmen/direktzu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.gruenderszene.de/datenbank/unternehmen/direktzu&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.direktzurkanzlerin.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.direktzurkanzlerin.de/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

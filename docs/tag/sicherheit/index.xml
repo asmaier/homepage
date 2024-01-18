@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sicherheit | Das Blog</title>
+    <link>/tag/sicherheit/</link>
+      <atom:link href="/tag/sicherheit/index.xml" rel="self" type="application/rss+xml" />
+    <description>sicherheit</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>sicherheit</title>
+      <link>/tag/sicherheit/</link>
+    </image>
+    
+    <item>
+      <title>&#34;DarkSide, like a great many ...</title>
+      <link>/post/2021-05-18-darkside-like-a-great-many/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-05-18-darkside-like-a-great-many/</guid>
+      <description>&lt;p&gt;&amp;ldquo;DarkSide, like a great many other malware strains, has a hard-coded do-not-install list of countries which are the principal members of the Commonwealth of Independent States (CIS) — former Soviet satellites that all currently have favorable relations with the Kremlin&amp;hellip; Simply put, countless malware strains will check for the presence of one of these languages on the system, and if they’re detected the malware will exit and fail to install.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Die dunkle Seite installiert keine Malware auf der dunklen Seite!&lt;/p&gt;
+&lt;p&gt;Sprich, man installiert einfach einen russischen Tastaturtreiber und schon ist man sicher vor Malware aus Russland.&lt;/p&gt;
+&lt;p&gt;Solche hardgecodeden Einschränkungen der Malware sind auch ziemlich offensichtliche Anzeichen, woher eine Malware kommt. Denn es wird ja oft gesagt, niemand könne beweisen, dass die Hacker Russen waren. Doch, genau das kann man zeigen, wenn eine Malware sich überall auf der Welt aktiviert, nur ausgerechnet in Russland nicht. So ein seltsamer Zufall.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://krebsonsecurity.com/wp-content/uploads/2021/05/%d0%bb%d1%83%d0%bd%d1%8b%d1%86%d1%88%d0%b5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+krebsonsecurity.com&lt;/p&gt;
+&lt;h2 id=&#34;try-this-one-weird-trick-russian-hackers-hatehttpskrebsonsecuritycom202105try-this-one-weird-trick-russian-hackers-hate&#34;&gt;&lt;a href=&#34;https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Try This One Weird Trick Russian Hackers Hate&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In a Twitter discussion last week on ransomware attacks, KrebsOnSecurity noted that virtually all ransomware strains have a built-in failsafe designed to cover the backsides of the malware purveyors: They simply will not install on a Microsoft Windows computer that…&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Der #AmaGAU! &#34;Die Sprachaufzeichnungen stammen ...</title>
+      <link>/post/2018-12-20-der-amagau-die-sprachaufzeichnungen-stammen/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-12-20-der-amagau-die-sprachaufzeichnungen-stammen/</guid>
+      <description>&lt;p&gt;Der #AmaGAU!&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Die Sprachaufzeichnungen stammen hörbar aus der Intimsphäre fremder Personen, beispielsweise aus Wohnzimmer, Schlafzimmer und Bad. Anhand des Inhalts der Aufzeichnungen, etwa der Nennung von Namen und Abfragen lokaler Wettervorhersagen, konnte c’t den Echo-Besitzer identifizieren. Dieser fiel aus allen Wolken, denn Amazon hatte ihn nicht über das Datenleck informiert, obwohl man dort bereits davon wusste.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Amazon-gibt-intime-Sprachdateien-preis-4254716.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/5/6/4/5/2/4/urn-newsml-dpa-com-20090101-180308-99-390130_large_4_3-b390bffdfbfbe9d1.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;amazon-gibt-intime-alexa-sprachdateien-preishttpswwwheisedenewstickermeldungamazon-gibt-intime-sprachdateien-preis-4254716html&#34;&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Amazon-gibt-intime-Sprachdateien-preis-4254716.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon gibt intime Alexa-Sprachdateien preis&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Durch einen Fehler von Amazon.de fielen rund 1700 Alexa-Sprachaufzeichnungen in die Hände eines Unbefugten.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ich denke jede Website sollte ...</title>
+      <link>/post/2018-04-22-ich-denke-jede-website-sollte/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-04-22-ich-denke-jede-website-sollte/</guid>
+      <description>&lt;p&gt;Ich denke jede Website sollte so abgeschottet werden.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/facebookcontainer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.mozilla.org/media/protocol/img/logos/firefox/browser/og.4ad05d4125a5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+mozilla.org&lt;/p&gt;
+&lt;h2 id=&#34;facebook-container-for-firefox--prevent-facebook-from-seeing-what-websites-you-visithttpswwwmozillaorgen-usfirefoxfacebookcontainer&#34;&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/facebookcontainer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Nach der Wahl aber muss ...</title>
+      <link>/post/2017-09-20-nach-der-wahl-aber-muss/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-09-20-nach-der-wahl-aber-muss/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Nach der Wahl aber muss ein grundsätzliches Umdenken stattfinden: Von öffentlicher Hand bezahlte Software soll künftig auch öffentlich einsehbar und überprüfbar sein – insbesondere bei der Wahlauswertung, aber auch darüber hinaus.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Wäre der CCC eine Partei, ich würde ihn wählen!&lt;/p&gt;
+&lt;p&gt;Unterstützen könnt ihr die Arbeit des CCC auf jeden Fall unter &lt;a href=&#34;https://www.ccc.de/de/support&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ccc.de/de/support&lt;/a&gt; .&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ccc.de/de/updates/2017/pc-wahl-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.ccc.de/images/header.png?1329577825&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+ccc.de&lt;/p&gt;
+&lt;h2 id=&#34;ccc--open-source-spende-ccc-schließt-größte-schwachstelle-in-pc-wahlhttpswwwcccdedeupdates2017pc-wahl-again&#34;&gt;&lt;a href=&#34;https://www.ccc.de/de/updates/2017/pc-wahl-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCC | Open-Source-Spende: CCC schließt größte Schwachstelle in PC-Wahl&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein Bericht des Chaos Computer Clubs über die zur Stimmenauswertung bei der Bundestagswahl genutzte Software „PC-Wahl“ zeigte zahlreiche Schwachstellen. Mit einem Update vom 13. September 2017 versuchte der Hersteller erfolglos, das größte Einfallstor für Angreifer zu schließen. Fünf Tage vor der Bundestagswahl leistet der Chaos Computer Club nun „Erste Hilfe“ beim Stopfen der gröbsten Löcher: eine Open-Source-Spende, die das Einspielen manipulierter Updates wirkungsvoll verhindert.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Nicht die Stimmen auf den ...</title>
+      <link>/post/2017-09-08-nicht-die-stimmen-auf-den/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-09-08-nicht-die-stimmen-auf-den/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Nicht die Stimmen auf den Wahlzetteln sind entscheidend sondern derjenige der sie auszählt.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Joseph Stalin&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter/komplettansicht&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+zeit.de&lt;/p&gt;
+&lt;h2 id=&#34;bundestagswahl-die-bundestagswahl-kann-manipuliert-werdenhttpwwwzeitdedigitaldatenschutz2017-09bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiterkomplettansicht&#34;&gt;&lt;a href=&#34;http://www.zeit.de/digital/datenschutz/2017-09/bundestagswahl-wahlsoftware-hackerangriff-sicherheit-bsi-bundeswahlleiter/komplettansicht&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bundestagswahl: Die Bundestagswahl kann manipuliert werden&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Die Software der Bundestagwahl ist unsicher, Ergebnisse können gefälscht werden. Das haben Fachleute ZEIT ONLINE demonstriert. Bundeswahlleiter und BSI sind alarmiert.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quellen-TKÜ = Bundestrojaner beschlossen. Danke ...</title>
+      <link>/post/2017-06-23-quellen-tku-bundestrojaner-beschlossen-danke/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-06-23-quellen-tku-bundestrojaner-beschlossen-danke/</guid>
+      <description>&lt;p&gt;Quellen-TKÜ = Bundestrojaner beschlossen. Danke Frau Dr. Merkel! Endlich fühle ich mich sicher in Deutschland.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bundestag.de/dokumente/textarchiv/2017/kw25-de-aenderung-stgb/511182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bundestag.de/dokumente/textarchiv/2017/kw25-de-aenderung-stgb/511182&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bundestag.de/dokumente/textarchiv/2017/kw25-de-aenderung-stgb/511182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.bundestag.de/resource/image/511184/3x2/475/316/5617b8069528a909121842c8dc35ed82/1752D9FD518F89DCBB8388855C0B1195/kw25_de_aenderung_stgb_bild.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+bundestag.de&lt;/p&gt;
+&lt;h2 id=&#34;deutscher-bundestag---bundestag-gibt-strafermittlern-neue-instrumente-in-die-handhttpswwwbundestagdedokumentetextarchiv2017kw25-de-aenderung-stgb511182&#34;&gt;&lt;a href=&#34;https://www.bundestag.de/dokumente/textarchiv/2017/kw25-de-aenderung-stgb/511182&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deutscher Bundestag - Bundestag gibt Strafermittlern neue Instrumente in die Hand&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Der Bundestag gibt Strafermittlern neue Instrumente in die Hand, um verschlüsselte Kommunikation von Verdächtigen abfangen und die Speicher ihrer Rechner unbemerkt durchsuchen zu können&amp;hellip;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neue Ideen für die Fahrradsicherheit</title>
+      <link>/post/2015-11-26-neue-ideen-fur-die-fahrradsicherheit/</link>
+      <pubDate>Thu, 26 Nov 2015 22:36:00 +0000</pubDate>
+      <guid>/post/2015-11-26-neue-ideen-fur-die-fahrradsicherheit/</guid>
+      <description>
+&lt;div dir=&#34;ltr&#34; style=&#34;text-align: left;&#34; trbidi=&#34;on&#34;&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Mein letzter &lt;a href=&#34;http://asmaier.blogspot.de/2012/06/gute-fahrradschlosser-gibt-es-fast.html&#34;&gt;Post zum Thema Fahrradschlösser&lt;/a&gt; ist schon ein etwas länger her, daher wollte ich unbedingt mal wissen, ob es vielleicht etwas Neues gibt zum Thema.&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;1. Es gibt immer noch Leute die verkaufen für teures Geld angeblich unknackbare Schlösser (z.B. ForeverLock) und diese werden dann mit Schlagschlüssel in Sekunden geknackt:&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; class=&#34;YOUTUBE-iframe-video&#34; data-thumbnail-src=&#34;https://i.ytimg.com/vi/H4f1H6mYHOI/0.jpg&#34; frameborder=&#34;0&#34; height=&#34;266&#34; src=&#34;https://www.youtube.com/embed/H4f1H6mYHOI?feature=player_embedded&#34; width=&#34;320&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;a name=&#39;more&#39;&gt;&lt;/a&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;2. Das hochgehypte Berliner Startup Lock8, welches das ultimativ sicherste Schloss entwickeln wollte, gibt auf:&lt;/div&gt;&lt;/div&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li style=&#34;text-align: left;&#34;&gt;http://www.gruenderszene.de/allgemein/lock8-hardware-umstrukturierung&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Das ist gut so. Dann muss ich hier nicht erklären, warum ihr Schloss nicht wirklich sicher war, trotz GPS und anderer Gimmiks.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;3. Ein GPS Tracker im Fahrrad einzubauen, finde ich aber trotzdem eine coole Idee. Das ganze scheint inzwischen einigermaßen ausgereift zu sein:&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; class=&#34;YOUTUBE-iframe-video&#34; data-thumbnail-src=&#34;https://i.ytimg.com/vi/XUPh4418B3E/0.jpg&#34; frameborder=&#34;0&#34; height=&#34;266&#34; src=&#34;https://www.youtube.com/embed/XUPh4418B3E?feature=player_embedded&#34; width=&#34;320&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Am meisten empfohlen wird die sogenannte SpyLamp&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;http://www.fahrrad-diebstahl.com/spybike-tracker-velocate/273/spylamp-2.0-fahrrad-diebstahl-gps-tracker&#34;&gt;http://www.fahrrad-diebstahl.com/spybike-tracker-velocate/273/spylamp-2.0-fahrrad-diebstahl-gps-tracker&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Sollte sich das allerdings unter den Fahrraddieben herumsprechen, dann wird das Fahrradlicht sicher als erstes vom Fahrrad abgebaut, bevor das Fahrrad mitgenommen wird. Ein wirklich bombensicherer GPS-Tracker ist daher in den Rahmen eingebaut&lt;/div&gt;&lt;/div&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;http://www.fahrrad-diebstahl.com/spybike-tracker-velocate/32/spybike-topcap-tracker&#34;&gt;http://www.fahrrad-diebstahl.com/spybike-tracker-velocate/32/spybike-topcap-tracker&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Leider gibt es auch bei dieser Sache einen Haken: Nicht nur das der Spytracker 160 Euro kostet, man muss auch noch eine monatliche Gebühr von 5 Euro zahlen, damit das Fahrrad auch tatsächlich ständig verfolgt werden kann.&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;4. Im Auftrag der New York Times hat mal jemand versucht in aller Öffentlichkeit Fahrräder zu klauen:&lt;/div&gt;&lt;/div&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li style=&#34;text-align: left;&#34;&gt;&lt;a href=&#34;http://www.nytimes.com/video/opinion/100000001423494/bike-thief.html&#34;&gt;http://www.nytimes.com/video/opinion/100000001423494/bike-thief.html&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;5. Die europäische Meisterschaft im Fahrraddiebstahl, zeigt noch eine interessante Idee um Fahrraddiebe etwas zu ärgern: &lt;a href=&#34;https://de.wikipedia.org/wiki/Farbbombe&#34;&gt;Farbbomben&lt;/a&gt;!&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; class=&#34;YOUTUBE-iframe-video&#34; data-thumbnail-src=&#34;https://i.ytimg.com/vi/-yTFiP_co0U/0.jpg&#34; frameborder=&#34;0&#34; height=&#34;266&#34; src=&#34;https://www.youtube.com/embed/-yTFiP_co0U?feature=player_embedded&#34; width=&#34;320&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Es lohnt sich ab und ...</title>
+      <link>/post/2015-11-19-es-lohnt-sich-ab-und/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-11-19-es-lohnt-sich-ab-und/</guid>
+      <description>&lt;p&gt;Es lohnt sich ab und zu die eigenen Datenschutzeinstellungen bei Google zu überprüfen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://myaccount.google.com/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://myaccount.google.com/privacy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Insbesondere sollte man sämtliche Suchverläufe und Aktivitäten hier abschalten:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/settings/accounthistory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.google.com/settings/accounthistory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bereits existierende Daten kann man unter&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://history.google.com/history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://history.google.com/history/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;löschen. Dazu unter &amp;ldquo;Löschoptionen&amp;rdquo; auf &amp;ldquo;Erweitert&amp;rdquo; und dann unter &amp;ldquo;Datum auswählen&amp;rdquo; den Eintrag &amp;ldquo;Immer&amp;rdquo; selektieren. Damit werden dann alle Einträge gelöscht.
+Abgesehen vom Webverlauf sollte man auch unbedingt den Standortverlauf löschen und die Aufzeichnung zu deaktivieren:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/timeline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.google.com/maps/timeline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Unter&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/settings/u/0/ads/authenticated&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.google.com/settings/u/0/ads/authenticated&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;kann man zu guter Letzt auch die Einstellung für die Werbung ändern, die einem Google präsentiert.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;accounts.google.com&lt;/p&gt;
+&lt;h2 id=&#34;sign-in---google-accountshttpswwwgooglecomsettingsaccounthistory&#34;&gt;&lt;a href=&#34;https://www.google.com/settings/accounthistory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sign in - Google Accounts&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Und wer warnt uns vor ...</title>
+      <link>/post/2015-01-14-und-wer-warnt-uns-vor/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-01-14-und-wer-warnt-uns-vor/</guid>
+      <description>&lt;p&gt;Und wer warnt uns vor den Gefahren durch dumme Menschen?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.heise.de/newsticker/meldung/Wissenschaftler-warnen-vor-den-Gefahren-intelligenter-Maschinen-2517207.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/1/4/1/5/1/4/4/KI-461dd704415dcba9.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;wissenschaftler-warnen-vor-den-gefahren-intelligenter-maschinenhttpwwwheisedenewstickermeldungwissenschaftler-warnen-vor-den-gefahren-intelligenter-maschinen-2517207html&#34;&gt;&lt;a href=&#34;http://www.heise.de/newsticker/meldung/Wissenschaftler-warnen-vor-den-Gefahren-intelligenter-Maschinen-2517207.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wissenschaftler warnen vor den Gefahren intelligenter Maschinen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Wenn die KI-Forschung die Sicherheit ihrer Entwicklungen nicht im Auge behält, könnte sie eines Tages Systeme erschaffen, die außer Kontrolle geraten. Vor dieser Gefahr warnen nun eine ganze Reihe namhafter Forscher sich und ihre Kollegen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gute Fahrradschlösser gibt es fast ...</title>
+      <link>/post/2012-06-11-gute-fahrradschlosser-gibt-es-fast/</link>
+      <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-06-11-gute-fahrradschlosser-gibt-es-fast/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://asmaier.blogspot.com/2012/06/gute-fahrradschlosser-gibt-es-fast.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://asmaier.blogspot.com//resources.blogblog.com/img/blank.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+asmaier.blogspot.com&lt;/p&gt;
+&lt;h2 id=&#34;gute-fahrradschlösser-gibt-es-fast-nichthttpasmaierblogspotcom201206gute-fahrradschlosser-gibt-es-fasthtml&#34;&gt;&lt;a href=&#34;http://asmaier.blogspot.com/2012/06/gute-fahrradschlosser-gibt-es-fast.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gute Fahrradschlösser gibt es fast nicht&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Nachdem mein altes Fahrrad geklaut wurde, wollte ich für mein neues Fahrrad keine halben Sachen machen und habe mir ein vermeintlich gutes &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wer schon immer mal wissen ...</title>
+      <link>/post/2011-10-10-wer-schon-immer-mal-wissen/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-10-10-wer-schon-immer-mal-wissen/</guid>
+      <description>&lt;p&gt;Wer schon immer mal wissen wollte, warum am Flughafen immer der Laptop kontrolliert wird:
+&amp;ldquo;Bei dem Landshuter Ermittlungsverfahren installierten Ermittler das Spähprogramm wohl bei einer Kontrolle am Flughafen - Zollbeamte nahmen das Laptop des später Überwachten kurz in einen Nebenraum mit.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Das schafft doch Vertrauen in den Staat!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.spiegel.de/netzwelt/netzpolitik/0,1518,790960,00.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cdn.prod.www.spiegel.de/images/b1b63b34-0001-0004-0000-000000269996_w1200_r1.778_fpx71.1_fpy55.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+spiegel.de&lt;/p&gt;
+&lt;h2 id=&#34;überwachungssoftware-der-staatstrojaner-kommt-aus-bayernhttpwwwspiegeldenetzweltnetzpolitik0151879096000html&#34;&gt;&lt;a href=&#34;http://www.spiegel.de/netzwelt/netzpolitik/0,1518,790960,00.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Überwachungssoftware: Der Staatstrojaner kommt aus Bayern&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Bayerns Innenminister Herrmann bestätigt, dass vom Chaos Computer Club analysierte Schüffelsoftware von bayerischen Behörden eingesetzt wurde. Das dürfte noch für einige Verwerfungen sorgen, denn die Software enthält Funktionen, die als verfassungswidrig eingestuft werden können.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gute Passwörter, die man sich merken kann</title>
+      <link>/post/2009-10-15-gute-passworter-die-man-sich-merken/</link>
+      <pubDate>Thu, 15 Oct 2009 23:30:00 +0000</pubDate>
+      <guid>/post/2009-10-15-gute-passworter-die-man-sich-merken/</guid>
+      <description>
+&lt;div&gt;Nachdem ich den Artikel &lt;a href=&#34;http://arstechnica.com/business/news/2009/10/30-years-of-failure-the-user-namepassword-combination.ars&#34;&gt;30 years of failure: the username/password combination - Ars Technica&lt;/a&gt; gelesen hatte, dachte ich, ich muß mal verraten, wie man sichere Passwörter generiert, damit die nächsten 30 Jahre vielleicht doch etwas besser werden.&lt;/div&gt;&lt;div&gt;&lt;a href=&#34;http://arstechnica.com/business/news/2009/10/30-years-of-failure-the-user-namepassword-combination.ars&#34;&gt;&lt;/a&gt;Zwei Methoden kenne ich, gute Passwörter zu generieren, die man sich auch leicht merken kann:&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;1. Die Anfangsbuchstaben eines Satzes der auch Zahlen enthält, z.B.:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;&lt;b&gt;I&lt;/b&gt;ch &lt;b&gt;b&lt;/b&gt;in &lt;b&gt;31,5&lt;/b&gt; &lt;b&gt;J&lt;/b&gt;ahre &lt;b&gt;a&lt;/b&gt;lt&lt;b&gt;!&lt;/b&gt; = Ib31,5Ja!&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;2. Mathematische Ausdrücke, z.B.:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;4,5+8=12,5&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Noch sicherer sind natürlich falsche Ergebnisse:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;2*2=4+3=neun&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Aber am allersichersten dürften wohl Latex-Formeln sein:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;\sum \frac{1}{n^2} = \frac{pi^2}{6}&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Schließlich fällt mir gerade noch eine dritte Methode ein, &lt;a href=&#34;http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck&#34;&gt;Regular Expressions&lt;/a&gt;:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;blockquote&gt;/(bb|[^b]{2})/&lt;/blockquote&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Oder auf deutsch: &#34;Two b or not two b! (Gefunden auf &lt;a href=&#34;http://stackoverflow.com/questions/20448/what-is-the-most-brilliant-regex-youve-ever-used&#34;&gt;Stackoverflow.com&lt;/a&gt; )&lt;/div&gt;&lt;div&gt;Natürlich hilft alles nix, wenn man sich einen KeyLogger eingefangen hat...Aber vielleicht könnte man auf TouchScreens wie beim iPhone Gesten als Passwort einführen! Z.B. zwei Finger rauf, dann einmal überkreuz und am Ende einen Klick in die linke untere Ecke. Wäre sicher auch ganz witzig wenn man sowas in Zukunft an Geldautomaten einführen würde. Aber das hilft dann auch wieder nicht, wenn heimlich Kameras installiert sind. Dann vielleicht Augenbewegungen, dass könnte man auch gleich mit einem Irisscan kombinieren. Oder, aber... Die nächsten 30 Jahre werden jedenfalls interessant bleiben.&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Neuer Fingerabdruck leicht gemacht!</title>
+      <link>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</link>
+      <pubDate>Fri, 25 Aug 2006 20:58:00 +0000</pubDate>
+      <guid>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</guid>
+      <description>
+In der biometrischen Zukunft sollen wir uns ja überall statt mit Passwort einfach mit Fingerabdruck anmelden können. Doch was tun, wenn der eigene Fingerabdruck gehackt wurde, man diesen zur Identifizierung nicht mehr verwenden kann? Bei Passwörtern ist das kein Problem. Das alte Passwort wird gesperrt und ein Neues verwendet. Und bei Fingerabdrücken? Ebenfalls kein Problem! Der &lt;a href=&#34;http://www.ccc.de&#34;&gt;Chaos Computer Club&lt;/a&gt; zeigt wie man sich ganz einfach einen neuen Fingerabdruck machen kann:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.ccc.de/biometrie/fingerabdruck_kopieren.xml&#34;&gt;CCC - Fingerabdruck kopieren&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soviel zum Thema schöne neue Biometrie-Welt. Und wer glaubt, dass Biometriedaten so sicher verwahrt werden, dass obiges Szenario extrem unwahrscheinlich sei, der möge mal folgende Artikel über die wahnsinnige Sicherheit biometrischer Daten holländischer, aber auch deutscher und österreichischer Pässe lesen: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/21/21907/1.html&#34;&gt;Telepolis: Biometrie-Pass erfolgreich gehackt&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/meldung/69127&#34;&gt;Heise online - ePass-Hack&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://futurezone.orf.at/it/stories/86706/&#34;&gt;Futurezone - Biometriechip gecrackt&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Schöne neue Welt! Ich geh mir dann schon mal eine Reihe Fingerabdrücke herstellen und mich vielleicht auch noch nach Kontaktlinsen mit Ersatz-Irisaufdruck erkundigen.</description>
+    </item>
+    
+    <item>
+      <title>KDE</title>
+      <link>/post/kde/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/kde/</guid>
+      <description>&lt;h6&gt;Killerfeature: FISH&lt;/h6&gt;
+&lt;p&gt;Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen
+über das &lt;a href=&#34;http://de.wikipedia.org/wiki/FISH_(Protokoll)&#34;&gt;FISH-Protokoll&lt;/a&gt;.
+Einfach unter Netzwerkbrowser &#34;Netzwerkordner hinzufügen&#34; auswählen und im folgenden Dialog
+ssh auswählen 
+&lt;br /&gt;
+&lt;img src=&#34;fish1.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH1&#34; /&gt; 
+&lt;br /&gt;
+und im folgenden Dialogfenster
+&lt;br /&gt;
+&lt;img src=&#34;fish2.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH2&#34; /&gt;
+&lt;br /&gt;
+die Daten des SSH-Servers eingeben. Aufpassen muß man nur, dass FISH anscheinend keine relativen
+Verzeichnisse wie &lt;tt&gt;~&lt;/tt&gt; mag. Also für das Homeverzeichnis auf dem SSH-Server immer 
+&lt;tt&gt;/home/[benutzername]&lt;/tt&gt; oder entsprechendes eingeben. 
+Dann kann man das angegebene Verzeichnis wie ein lokales Verzeichnis benutzen,
+&lt;br /&gt;
+&lt;img src=&#34;fish4.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH4&#34; /&gt;
+&lt;br /&gt;
+z.B. kann man Dateien auf dem fremden Server auswählen, aber lokal über KDE drucken, ohne dass man erst per 
+&lt;tt&gt;scp&lt;/tt&gt; die Datei auf den eigenen Rechner kopieren muß. Oder man editiert die Datei mit dem 
+bevorzugten Editor (z.B. Kate) lokal und ein Klick auf speichern speichert die Datei wieder auf dem entfernten Netzwerkverzeichnis, obwohl der Editor nativ gar kein SSH unterstützt (Reibungslos funktioniert das leider nur mit Programmen die den KDE-Dateiauswahldialog benutzen. GIMP z.B. benötigt eine lokale Kopie der Datei :-( ). Echt cool! Aber das coolste ist, dass das bei jedem Server funktioniert der SSH unterstützt, es werden keine weiteren Netzwerkprotokolle ala FTP, NFS oder SMB benötigt, welche aus Sicherheitsgründen meist geblockt sind. Daher ist die FISH-Integration in KDE eine echte
+Arbeitserleichterung für alle die häufig auf Servern unterwegs sind, die aus Sicherheitsgründen nur 
+SSH zulassen.
+&lt;br /&gt;
+P.S.: Das Feature ist so cool, dass Google vergleichbares in MAC OS X integriert hat (siehe
+&lt;a href=&#34;http://google-code-updates.blogspot.com/2007/01/macfuse-fuse-for-mac-os-x.html&#34;&gt;google-code-updates.blogspot.com&lt;/a&gt;).
+Die neueste Version von diesem sog. MacFUSE gibts &lt;a href=&#34;http://code.google.com/p/macfuse/&#34;&gt;hier&lt;/a&gt;. Eine grafische Benutzeroberfläche dazu gibts unter &lt;a href=&#34;http://www.macfusionapp.org/&#34;&gt;www.macfusionapp.org&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Autostart unter KDE&lt;/h6&gt;
+&lt;p&gt;Programme die beim Start von KDE automatisch ausgeführt werden sollen, müssen unter
+&lt;pre&gt;~/.kde/Autostart&lt;/pre&gt;
+liegen. Am einfachsten erzeugt man über das Kontextmenü unter &lt;tt&gt;Neu erstellen/Verknüpfung zu Programm&lt;/tt&gt;
+einen Link zu dem aufzurufenden Programm indem man in sich öffnenden Dialogfenter im Tab &lt;tt&gt;Programm&lt;/tt&gt;
+den Pfad zum entsprechenden Programm unter &lt;tt&gt;Befehl&lt;/tt&gt; eingibt. 
+&lt;br /&gt;
+Will man mehr Kontrolle über die 
+aufzurufenden Programme hilft &lt;tt&gt;kstart&lt;/tt&gt; (Hilfe zu dem Befehl gibt es mit &lt;tt&gt;kstart --help&lt;/tt&gt;). 
+Um z.B. ein Programm nur auf nur auf der fünften Arbeitsfläche zu öffnen, kann man statt dem einfachen Pfad 
+zum Programm den Befehl
+&lt;pre&gt;kstart --desktop 5 programmname&lt;/pre&gt;
+unter &lt;tt&gt;Befehl&lt;/tt&gt; eingeben. Daran sieht man auch, dass die Verküpfungen unter KDE die man über das Kontextmenü
+erzeugen kann mehr sind als nur symbolische Links, wie man sie von der Kommandozeile kennt. Stattdessen steht
+jede Verknüpfung für eine &lt;tt&gt;*.desktop&lt;/tt&gt;-Text-Datei, die von KDE je nach Inhalt unterschiedlich interpretiert 
+werden kann.
+&lt;br /&gt;
+Will man auch die Reihenfolge der gestarteten Programme kontrollieren muß man ein kleines Shellskript schreiben und
+als ausführbare Datei unter &lt;/tt&gt;~/.kde/Autostart&lt;/tt&gt; ablegen, z.B.:
+&lt;pre&gt;
+#!/bin/bash
+kstart --desktop 5 thunderbird
+sleep 3
+kstart --desktop 6 --activate programm
+&lt;/pre&gt;
+Diese Skript startet &lt;tt&gt;Thunderbird&lt;/tt&gt; auf Arbeitsfläche 5, und danach das Programm &lt;tt&gt;programm&lt;/tt&gt; auf 
+Arbeitsfläche 6 und springt auch von Thunderbird zu dem Programm auf Arbeitsfläche 6. Der Aufruf von &lt;tt&gt;sleep 3&lt;/tt&gt;
+garantiert dabei, dass das zweite Programm mit 3 Sekunden Verzögerung gestartet wird. Ohne &lt;tt&gt;sleep&lt;/tt&gt; erlaubt 
+Thunderbird seltsamerweise nicht, dass der Focus zum zweiten Programm auf Arbeitsfläche 6 springt.
+&lt;/p&gt;
+&lt;h6&gt;Weitere Tipps&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Verschieben von Fenstern:&lt;/em&gt;&lt;br /&gt;
+Manchmal passiert es, dass man ausversehen ein Fenster soweit
+nach oben verschoben hat, dass die Titelleiste nicht mehr
+sichtbar ist. Einfaches Anklicken und Ziehen des Fensters
+an der Titelleiste ist dann nicht mehr möglich. Hält man jedoch
+die Taste &lt;tt&gt;[[Alt]]&lt;/tt&gt; (nicht &lt;tt&gt;[[Alt Gr]]&lt;/tt&gt; ) gedrückt,
+so kann man das Fenster mit der linken Maustaste an einer beliebigen
+Stelle greifen und so das Fenster wieder nach unten verschieben.&lt;br /&gt;
+Tipp: Weitere Befehle findet man im KDE Control Module unter
+&#34;Window Behaviour/Actions&#34;. Diese Einstellungen erreicht man auch
+durch Klick auf die linke obere Ecke eines Fensters, wenn man im
+sich darauf öffnenden Menü &#34;Configure Window Behaviour...&#34; aufruft.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fenster in den Hintergrund klicken&lt;/em&gt;&lt;br /&gt;
+Jedem dürfte bekannt sein, dass man durch Klicken 
+mit der linken Maustaste auf die Fensterleiste
+ein Fenster aktivieren und in den Vordergrund holen kann. 
+Wie holt man jedoch Fenster in den Vordergrund die durch ein
+anderes Fenster komplett verdeckt sind? Ganz einfach unter KDE:&lt;br /&gt;
+Durch Anklicken der Fensterleiste des gerade aktiven Fensters mit der
+mittleren Maustaste wird das gerade aktive Fenster in den Hintergrund 
+geschickt und eventuell verdeckte Fenster kommen zum Vorschein.
+Wer das einmal ausprobiert hat, wird diese Funktion nicht mehr missen
+wollen.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Taskmanager unter KDE aufrufen:&lt;/em&gt;&lt;br /&gt;
+Das Programm &lt;tt&gt;kpm&lt;/tt&gt;, welches dem Taskmanager unter Windows gleicht,
+kan man unter KDE mit der Tastenkombination
+&lt;pre&gt;[[Ctrl]]-[[Esc]]&lt;/pre&gt;
+aufrufen. Durch Anklicken des Knopfes &#34;Kill&#34; (in dt. &#34;Beenden&#34;)
+kann man dann die markierten Prozesse beenden. Alternativ kann man
+&lt;tt&gt;kpm&lt;/tt&gt; auch über die Konsole mit
+&lt;pre&gt;&gt; kpm &amp;amp;&lt;/pre&gt;
+oder auch das komplette Systemüberwachungsprogramm (von dem &lt;tt&gt;kpm&lt;/tt&gt;
+nur ein Unterprogramm ist) mittels
+&lt;pre&gt;&gt; ksysguard &amp;amp;&lt;/pre&gt;
+aufrufen. Letzteres findet man auch über das Startmenü unter
+&#34;System/Überwachung/Systemüberwachung&#34;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;KDE-Taskleiste anzeigen:&lt;/em&gt;&lt;br /&gt;
+Manchmal passiert es unter KDE dass die Taskleiste sich nicht mehr einblendet, wenn
+man die Maus an den unteren Bildschirmrand bewegt. In diesem Fall kann man sie mit
+&lt;tt&gt;[[Alt]]-[[F1]]&lt;/tt&gt; wieder hervorholen. Wenn man so wie ich keine weiteren Icons auf 
+dem Bildschirm hat, kann &lt;tt&gt;[[Alt]]-[[F1]]&lt;/tt&gt; daher &#34;lebensrettend&#34; sein, denn oft bleibt die 
+Taskleiste auch nach dem Reboot verschwunden und das System ist praktisch unbedienbar.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weitere Tastenbefehle unter KDE:&lt;/em&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Esc]]&lt;/tt&gt; : Taskmanager&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Alt]]-[[Esc]]&lt;/tt&gt; : löscht Fenster in KDE (killt aber nicht
+den dazugehörigen Prozess)&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Alt]]-[[F2]]&lt;/tt&gt; : Analog zu &#34;Befehl ausführen&#34; unter Windows;
+öffnet ein einzeiliges Terminal in dem man den Befehl zum Starten eines
+Programmes eingeben kann&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Fx]]&lt;/tt&gt; : Umschalten auf den virtuellen Desktop Nummer &#34;x&#34;&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Alt]]-[[L]]&lt;/tt&gt; : Bildschirm sperren&lt;/li&gt;
+&lt;/ul&gt;
+Noch mehr Tastenbefehle findet man u.a. in der &lt;a href=&#34;http://linuxwiki.de/KDE&#34;&gt;Linuxwiki&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tastenbefehle für den X-Server:&lt;/em&gt;&lt;br /&gt;
+Die Auflösung des X-Servers zur Laufzeit (also ohne Neustart) kann mit den
+Tastenkombinationen
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Ziffernblock-Plus]]&lt;/pre&gt;
+bzw.
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Ziffernblock-Minus]]&lt;/pre&gt;
+geändert werden. Mit der Kombination
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Backspace]]&lt;/pre&gt;
+wird der X-Server &lt;em&gt;sofort&lt;/em&gt; beendet. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probleme mit dem Papierkorb (Trashcan):&lt;/em&gt;&lt;br /&gt;
+Es kann unter KDE passieren, dass der Papierkorb, obwohl er geleert wurde,
+noch Dateien enthält, welche jedoch auf dem Desktop nicht angezeigt werden
+(auch bei aktiviertem &#34;versteckte Dateien anzeigen&#34;).
+Diese Dateien muss man dann per Hand löschen. Man findet die Dateien im Papierkorb 
+im eigenen Homeverzeichnis unter
+&lt;pre&gt;.local/share/Trash/files&lt;/pre&gt;
+Mittel &lt;tt&gt;&gt; rm -rf *&lt;/tt&gt; kann man dann dort alle Dateien endgültig löschen und
+damit den Papierkorb wirklich leeren.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kompare:&lt;/em&gt;&lt;br /&gt;
+Diese Programm findet man unter Suse Linux im Paket &lt;tt&gt;kdesdk3&lt;/tt&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

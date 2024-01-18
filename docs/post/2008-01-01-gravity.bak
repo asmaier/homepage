@@ -1,0 +1,46 @@
+---
+author: admin
+authors: []
+date: "2008-01-01"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-10-19T12:28:40+02:00"
+projects: []
+slug: gravity
+subtitle: ""
+summary: ""
+categories:
+- old_wiki
+- english
+tags:
+- physics
+title: Gravity
+---
+The basic equations are:
+$$G\_{\mu \nu} + \Lambda g\_{\mu \nu}= \frac{8\pi G}{c^4} T\_{\mu \nu}$$
+with
+$$G\_{\mu\nu} = R\_{\mu\nu} - \frac{1}{2} g\_{\mu\nu}R$$
+and
+$$T\_{\mu \nu} = g\_{\mu \alpha} g\_{\nu \beta} T^{\alpha \beta}$$
+and
+$$T^{\alpha \beta} \, = \left(\rho + \frac{p}{c^2}\right)u^{\alpha}u^{\beta} + p g^{\alpha \beta}$$
+
+Eq.([[eref field]]) is the famous Einstein field equation connecting the Einstein tensor ([[eref ein]]) with the energy-momentum tensor ([[eref energy]]). The energy-momentum tensor in the form here is the stress-energy tensor of fluid (and I think this is the form Einstein used originally) and basically represent the relativistic euler equations.
+
+So the right  hand side of Einsteins field equation is originally based on fluid dynamics.   What about the left hand side?
+
+But first what do we (or I ;-) ) mean based on fluid mechanics? The non-relativistic fluid mechanic equations can be derived from the Boltzmann equation via so called Chapman-Enskog expansion (what about Lattice-Boltzmann methods?). I'm not sure at the moment if something similar can or has been done in the relativistic case, so starting from some relativistic Boltzmann equation deriving the relativistic energy.momentum tensor.
+
+(But see for example here: [http://arxiv.org/abs/0708.3252])
+
+However, if we can derive the right hand side of Einsteins field equations from a relativistic Boltzmann equation, wouldn't it be logical to assume the same about the left hand side? So can we find an underlying Boltzmann equation to space time??
+
+I believe this is an intriguing question! It would also render attempt to somehow quantize gravity useless, in the same sense as it is useless to try to quantize the fluid dynamic equations.
+
+Remarks:
+
+* The equilibrium distribution of the non-relativistic Boltzmann equation it the Maxwell-Boltzmann distribution.
+* The equilibrium distribution of the relativistic Boltzmann equation is the Jüttner distribution!

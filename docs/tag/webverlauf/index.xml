@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webverlauf | Das Blog</title>
+    <link>/tag/webverlauf/</link>
+      <atom:link href="/tag/webverlauf/index.xml" rel="self" type="application/rss+xml" />
+    <description>webverlauf</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>webverlauf</title>
+      <link>/tag/webverlauf/</link>
+    </image>
+    
+    <item>
+      <title>Es lohnt sich ab und ...</title>
+      <link>/post/2015-11-19-es-lohnt-sich-ab-und/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-11-19-es-lohnt-sich-ab-und/</guid>
+      <description>&lt;p&gt;Es lohnt sich ab und zu die eigenen Datenschutzeinstellungen bei Google zu überprüfen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://myaccount.google.com/privacy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://myaccount.google.com/privacy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Insbesondere sollte man sämtliche Suchverläufe und Aktivitäten hier abschalten:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/settings/accounthistory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.google.com/settings/accounthistory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bereits existierende Daten kann man unter&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://history.google.com/history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://history.google.com/history/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;löschen. Dazu unter &amp;ldquo;Löschoptionen&amp;rdquo; auf &amp;ldquo;Erweitert&amp;rdquo; und dann unter &amp;ldquo;Datum auswählen&amp;rdquo; den Eintrag &amp;ldquo;Immer&amp;rdquo; selektieren. Damit werden dann alle Einträge gelöscht.
+Abgesehen vom Webverlauf sollte man auch unbedingt den Standortverlauf löschen und die Aufzeichnung zu deaktivieren:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/timeline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.google.com/maps/timeline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Unter&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/settings/u/0/ads/authenticated&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.google.com/settings/u/0/ads/authenticated&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;kann man zu guter Letzt auch die Einstellung für die Werbung ändern, die einem Google präsentiert.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;accounts.google.com&lt;/p&gt;
+&lt;h2 id=&#34;sign-in---google-accountshttpswwwgooglecomsettingsaccounthistory&#34;&gt;&lt;a href=&#34;https://www.google.com/settings/accounthistory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sign in - Google Accounts&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

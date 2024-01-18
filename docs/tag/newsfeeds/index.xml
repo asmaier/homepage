@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>newsfeeds | Das Blog</title>
+    <link>/tag/newsfeeds/</link>
+      <atom:link href="/tag/newsfeeds/index.xml" rel="self" type="application/rss+xml" />
+    <description>newsfeeds</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>newsfeeds</title>
+      <link>/tag/newsfeeds/</link>
+    </image>
+    
+    <item>
+      <title>Der Erfinder von Keras beschreibt ...</title>
+      <link>/post/2019-02-15-der-erfinder-von-keras-beschreibt/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-15-der-erfinder-von-keras-beschreibt/</guid>
+      <description>&lt;p&gt;Der Erfinder von Keras beschreibt hier die wichtigsten Probleme
+und mögliche Lösungen für die Anwendung von AI.
+Ein absoluter Must-Read-Artikel:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The issue is not AI itself. &lt;em&gt;The issue is control.&lt;/em&gt;
+&amp;hellip;.
+Here’s an idea — any algorithmic newsfeed with significant adoption should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transparently convey what objectives the feed algorithm is currently
+optimizing for, and how these objectives are affecting your
+information diet.&lt;/li&gt;
+&lt;li&gt;Give you intuitive tools to set these goals yourself. For instance,
+it should be possible for you to configure your newsfeed to maximize
+learning and personal growth — in specific directions.&lt;/li&gt;
+&lt;li&gt;Feature an always-visible measure of how much time you are spending
+on the feed.&lt;/li&gt;
+&lt;li&gt;Feature tools to stay control of how much time you’re spending on
+the feed — such as a daily time target, past which the algorithm will
+seek to get you off the feed.
+&amp;hellip;
+What if newsfeed algorithms didn’t operate like casino operators or
+propagandists? What if instead, they were closer to a mentor or a good
+librarian,
+&amp;hellip;
+In the far future, such products will likely take the form of AI assistants.
+&amp;hellip;
+Build search engines and digital assistants, not social newsfeeds.
+Make your recommendation engines transparent, configurable, and
+constructive, rather than slot-like machines that maximize
+“engagement” and wasted hours of human time.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:1200/1*3wYZx58yisCrrACIc9Wd2w.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+medium.com&lt;/p&gt;
+&lt;h2 id=&#34;what-worries-me-about-aihttpsmediumcomfrancoischolletwhat-worries-me-about-ai-ed9df072b704&#34;&gt;&lt;a href=&#34;https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What worries me about AI&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Disclaimer: These are my own personal views. I do not speak for my employer. If you quote this article, please have the honesty to present…&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

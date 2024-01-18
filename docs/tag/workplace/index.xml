@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workplace | Das Blog</title>
+    <link>/tag/workplace/</link>
+      <atom:link href="/tag/workplace/index.xml" rel="self" type="application/rss+xml" />
+    <description>workplace</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>workplace</title>
+      <link>/tag/workplace/</link>
+    </image>
+    
+    <item>
+      <title>Its not depressing, it is ...</title>
+      <link>/post/2013-03-31-its-not-depressing-it-is/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-03-31-its-not-depressing-it-is/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s not depressing, it is consistent with the &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Dilbert_principle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://en.wikipedia.org/wiki/The_Dilbert_principle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fancy bear | Das Blog</title>
+    <link>/tag/fancy-bear/</link>
+      <atom:link href="/tag/fancy-bear/index.xml" rel="self" type="application/rss+xml" />
+    <description>fancy bear</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>fancy bear</title>
+      <link>/tag/fancy-bear/</link>
+    </image>
+    
+    <item>
+      <title>Inzwischen sind auch die ersten ...</title>
+      <link>/post/2016-09-20-inzwischen-sind-auch-die-ersten/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-09-20-inzwischen-sind-auch-die-ersten/</guid>
+      <description>&lt;p&gt;Inzwischen sind auch die ersten deutschen Athleten vom WADA-Hack betroffen und Ergebnisse ihrer positiven Dopingproben wurden veröffentlicht. Für jede diese positiven Dopingproben gabs offenbar eine ärztliche Ausnahmegenehmigung. Deswegen wurden sie nicht gesperrt. Ob das alles glaubwürdig ist, müsst ihr selbst entscheiden. Warum man darüber in den deutschen Medien aber nichts erfährt, ist mir unklar.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://fancybear.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fancybear.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

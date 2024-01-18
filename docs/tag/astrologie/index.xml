@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>astrologie | Das Blog</title>
+    <link>/tag/astrologie/</link>
+      <atom:link href="/tag/astrologie/index.xml" rel="self" type="application/rss+xml" />
+    <description>astrologie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>astrologie</title>
+      <link>/tag/astrologie/</link>
+    </image>
+    
+    <item>
+      <title>Hilarious - A paper about ...</title>
+      <link>/post/2017-02-07-hilarious-a-paper-about/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-02-07-hilarious-a-paper-about/</guid>
+      <description>&lt;p&gt;Hilarious - A paper about &amp;ldquo;Astrology in the Era of Exoplanets&amp;rdquo;! &lt;a href=&#34;https://arxiv.org/pdf/1603.09496.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/1603.09496.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;arxiv.org&lt;/p&gt;
+&lt;h2 id=&#34;160309496httpsarxivorgpdf160309496pdf&#34;&gt;&lt;a href=&#34;https://arxiv.org/pdf/1603.09496.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1603.09496&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Der erste Künstliche-Intelligenz-Astrologe! ...</title>
+      <link>/post/2015-08-05-der-erste-kunstliche-intelligenz-astrologe/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-08-05-der-erste-kunstliche-intelligenz-astrologe/</guid>
+      <description>&lt;p&gt;Der erste Künstliche-Intelligenz-Astrologe!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://watson-pi-demo.mybluemix.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://watson-pi-demo.mybluemix.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

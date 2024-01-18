@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>illusion | Das Blog</title>
+    <link>/tag/illusion/</link>
+      <atom:link href="/tag/illusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>illusion</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>illusion</title>
+      <link>/tag/illusion/</link>
+    </image>
+    
+    <item>
+      <title>I call this the Facebook ...</title>
+      <link>/post/2015-11-06-i-call-this-the-facebook/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-11-06-i-call-this-the-facebook/</guid>
+      <description>&lt;p&gt;I call this the Facebook illusion.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/graphics/business/wonkblog/majority-illusion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.washingtonpost.com/graphics/business/wonkblog/majority-illusion/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

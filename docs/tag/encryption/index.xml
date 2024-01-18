@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encryption | Das Blog</title>
+    <link>/tag/encryption/</link>
+      <atom:link href="/tag/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <description>encryption</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>encryption</title>
+      <link>/tag/encryption/</link>
+    </image>
+    
+    <item>
+      <title>Eine Abschätzung darüber welche Schlüssellängen ...</title>
+      <link>/post/2013-07-12-eine-abschatzung-daruber-welche-schlussellangen/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-07-12-eine-abschatzung-daruber-welche-schlussellangen/</guid>
+      <description>&lt;p&gt;Eine Abschätzung darüber welche Schlüssellängen die NSA wohl knacken kann.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;asmaier.blogspot.com&lt;/p&gt;
+&lt;h2 id=&#34;liebe-nsa---ich-habe-euch-unterschätzthttpasmaierblogspotcom201307liebe-nsa-ich-habe-euch-unterschatzthtml&#34;&gt;&lt;a href=&#34;http://asmaier.blogspot.com/2013/07/liebe-nsa-ich-habe-euch-unterschatzt.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liebe NSA - Ich habe euch unterschätzt&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Liebe NSA, ich habe euch unterschätzt. Bis vor kurzem glaubte ich, dass ihr unmöglich eine größere Rechenleistung als die größten Supercomp&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

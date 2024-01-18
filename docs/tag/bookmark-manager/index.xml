@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bookmark-manager | Das Blog</title>
+    <link>/tag/bookmark-manager/</link>
+      <atom:link href="/tag/bookmark-manager/index.xml" rel="self" type="application/rss+xml" />
+    <description>bookmark-manager</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2006 20:32:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>bookmark-manager</title>
+      <link>/tag/bookmark-manager/</link>
+    </image>
+    
+    <item>
+      <title>Bookmarks online verwalten</title>
+      <link>/post/2006-08-21-bookmarks-online-verwalten/</link>
+      <pubDate>Mon, 21 Aug 2006 20:32:00 +0000</pubDate>
+      <guid>/post/2006-08-21-bookmarks-online-verwalten/</guid>
+      <description>
+Um Bookmarks offline unter Windows zu verwalten gibt es ja das schöne&lt;br /&gt;kostenlose Tool &lt;a href=&#34;http://bkm.sourceforge.net/de/&#34;&gt;Bookmark-Manager&lt;/a&gt; (ich finde &lt;a href=&#34;http://www.inforce.de/Solutions/BookmarksMan.html&#34;&gt;Inforce XE Bookmarks&lt;/a&gt; ein bisschen zu viel des Guten). Aber um eine vernünftige Onlinebookmarkverwaltung zu finden musste ich lange suchen. Schließlich habe ich den &lt;a href=&#34;http://www.onlinebookmarkmanager.de&#34;&gt;Onlinebookmarkmanager&lt;/a&gt; gefunden. Im Gegensatz zu &lt;a href=&#34;http://www.oneview.de&#34;&gt;Oneview&lt;/a&gt; ist er schnell, im Gegensatz zu &lt;a href=&#34;http://www.ebiene.de&#34;&gt;ebiene&lt;/a&gt; bekommt man keinen Augenkrebs und im Gegensatz zu allen &lt;a href=&#34;http://www.google.com/Top/World/Deutsch/Computer/Internet/WWW/Web-Anwendungen/Bookmarkverwaltung/&#34;&gt;anderen&lt;/a&gt; kann man einen Teil oder alle der eigenen Bookmarks für alle öffentlich sichtbar stellen. Und daher könnt ihr ab sofort in meinem Blog hier unter Links/Meine Bookmarks meine gesammelten (derzeit über 600 Bookmarks) bewundern. Ach ja, fast hätte ich vergessen zu erwähnen, dass es für den Onlinebookmarkmanager ein Firefox-Plugin (funktioniert ab Firefox 1.5) zum synchronisieren der Bookmarks gibt und man es sogar in die personalisierte Google-Startseite einbinden kann. Und wer jetzt immer noch nicht überzeugt ist und stattdessen zu den Social-Bookmarks-Anhängern von &lt;a href=&#34;http://del.icio.us/&#34;&gt;del.icio.us&lt;/a&gt; und &lt;a href=&#34;http://de.wikipedia.org/wiki/Social_Bookmarks&#34;&gt;Co.&lt;/a&gt; gehört, dem sei gesagt:&lt;br /&gt;Social Bookmarks sind eine Erfindung des Teufels die einen nur dazu verleiten noch mehr Zeit im Internet zu verbringen! ;-)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webtechnologien | Das Blog</title>
+    <link>/tag/webtechnologien/</link>
+      <atom:link href="/tag/webtechnologien/index.xml" rel="self" type="application/rss+xml" />
+    <description>webtechnologien</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>webtechnologien</title>
+      <link>/tag/webtechnologien/</link>
+    </image>
+    
+    <item>
+      <title>Das ist wirklich unglaublich nützlich. ...</title>
+      <link>/post/2019-02-06-das-ist-wirklich-unglaublich-nutzlich/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-06-das-ist-wirklich-unglaublich-nutzlich/</guid>
+      <description>&lt;p&gt;Das ist wirklich unglaublich nützlich. Alle sollten das kennen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://techify.de/google-mail-alias-der-trick-mit-dem-pluszeichen-in-der-gmail-adresse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://techify.de/google-mail-alias-der-trick-mit-dem-pluszeichen-in-der-gmail-adresse/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge generation machines</title>
+      <link>/post/knowledge-generation-machines/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/knowledge-generation-machines/</guid>
+      <description>&lt;p&gt;At the moment we can use internet search machines to find knowledge, that was explicitly written on some webpage. But in my opinion the future of internet search will not be in finding better algorithms to search for this explicit knowledge. Instead I expect a paradigm shift in that future search machines will generate new knowledge, by discovering the implicit associations between webpages. In that sense future search machines will also be knowledge generation machines!&lt;/p&gt;
+&lt;p&gt;Some search machines that are already heading towards this paradigm shift:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wolframalpha.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WolframAlpha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eyeplorer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eyeplorer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dbpedia.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://relfinder.dbpedia.org/app.swf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DBpedia Relation Finder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pedia.directededge.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Directed Edge Encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wdm.cs.waikato.ac.nz:8080/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia Miner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Related to this is &lt;a href=&#34;/post/knowledge-paths/&#34;&gt;knowledgepaths&lt;/a&gt; , the art of finding connections or paths between webpages and/or scientific publications.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stanford.edu/~dramage/papers/wikiwalk-textgraphs09.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yeh (2009): WikiWalk: Random walks on Wikipedia for Semantic Relatedness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/smalheiser_statusreport_2005.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smalheiser (2005): Arrowsmith Project: 2005 Status Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arrowsmith.psych.uic.edu/arrowsmith_uic/tutorial/swanson_smalheiser_cmpb_1998.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smalheiser (1998): Using ARROWSMITH: a computer-assisted approach to formulating and assessing scientiﬁc hypotheses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=16352693654480481586&amp;amp;hl=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar: Citations of Smalheiser (1998): Using ARROWSMITH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-2.cs.cmu.edu/afs/cs/user/valdes/Mosaic/Elsewhere/swanson.ps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swanson (1997) An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.de/scholar?cites=8385295288451703491&amp;amp;hl=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar: Citations of Swanson (1997): An interactive system for finding complementary literatures: a stimulus to scientific discovery&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

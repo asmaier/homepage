@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>online-terminbuchung | Das Blog</title>
+    <link>/tag/online-terminbuchung/</link>
+      <atom:link href="/tag/online-terminbuchung/index.xml" rel="self" type="application/rss+xml" />
+    <description>online-terminbuchung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>online-terminbuchung</title>
+      <link>/tag/online-terminbuchung/</link>
+    </image>
+    
+    <item>
+      <title>Neulich kam ich auf die ...</title>
+      <link>/post/2018-12-02-neulich-kam-ich-auf-die/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-12-02-neulich-kam-ich-auf-die/</guid>
+      <description>&lt;p&gt;Neulich kam ich auf die Idee über Jameda einen Termin online beim Arzt auszumachen.
+Das hat auch geklappt, nachdem ich dort Name, Email und Mobilfunknummer eingegeben habe. Dann habe ich eine TAN per SMS auf mein Handy bekommen, welche ich dann nochmal eingeben musste. Am Ende bekam ich eine Email mit der Terminbestätigung, die ich auch gleich in meinen Google Kalender eingetragen habe.&lt;/p&gt;
+&lt;p&gt;Soweit so gut. Leider bekam ich dann ca. 30 min später einen Anruf der Praxis. Der gewünschte Termin sei leider nicht verfügbar, die Ärztin hätte eine längere Behandlung an diesem Tag geplant. Ich habe dann wie üblich am Telefon einen anderen Termin ausgemacht. Danach bekam ich dann nochmal eine Email in der ich die Terminabsage und den Alternativtermin bestätigen musste.&lt;/p&gt;
+&lt;p&gt;Insgesamt hat mich der Spaß wahrscheinlich eine Stunde gekostet, was ich am Telefon in 5 min besprochen hätte. Außerdem musste ich meine Daten an Jameda weitergeben.&lt;/p&gt;
+&lt;p&gt;So wird das nix. Das ist zwar digital, ergibt aber keinen Mehrwert. Viel sinnvoller wäre es, wenn ich online gleich eine Übersicht der freien Termine bei allen Ärzten in meiner Umgebung hätte. Dass würde mir ersparen dutzende Ärzte anzurufen. Stattdessen gibts bei Jameda und bei vielen Arztpraxen diese völlig sinnbefreiten Onlinetermine (meist realisiert über irgendwelche HTML-Formulare wie aus dem 90ern) für eine einzelne Arztpraxis, die nie funktionieren, da die Ärzte vergessen die dort angezeigten freien Termine mit der Realität abzugleichen. Warum funktioniert bei Ärzten nicht, was bei Hotelzimmern gut funktioniert? Die kann ich auch über Metasuchmaschinen wie Expedia oder Holidaycheck suchen und freie Zimmer finden. Warum ist das so ein Neuland hier in Deutschland? In den USA gibt es da z.B.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docasap.com/find-a-doctor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docasap.com/find-a-doctor&lt;/a&gt;
+&lt;a href=&#34;https://www.zocdoc.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.zocdoc.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Diese Webseiten sehen auch nicht aus wie aus dem vorherigen Jahrhundert. Sowas muss doch in Deutschland auch möglich sein!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

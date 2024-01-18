@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schlecker | Das Blog</title>
+    <link>/tag/schlecker/</link>
+      <atom:link href="/tag/schlecker/index.xml" rel="self" type="application/rss+xml" />
+    <description>schlecker</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>schlecker</title>
+      <link>/tag/schlecker/</link>
+    </image>
+    
+    <item>
+      <title>Schlecker will keine Kunden mit ...</title>
+      <link>/post/2011-10-27-schlecker-will-keine-kunden-mit/</link>
+      <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-10-27-schlecker-will-keine-kunden-mit/</guid>
+      <description>&lt;p&gt;Schlecker will keine Kunden mit hohem Bildungsniveau? Gut, dann geh ich halt in eine andere Drogerie&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

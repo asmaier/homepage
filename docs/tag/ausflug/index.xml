@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ausflug | Das Blog</title>
+    <link>/tag/ausflug/</link>
+      <atom:link href="/tag/ausflug/index.xml" rel="self" type="application/rss+xml" />
+    <description>ausflug</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ausflug</title>
+      <link>/tag/ausflug/</link>
+    </image>
+    
+    <item>
+      <title>Unterwegs auf Berlins verrücktestem Radweg. ...</title>
+      <link>/post/2018-08-08-unterwegs-auf-berlins-verrucktestem-radweg/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-08-08-unterwegs-auf-berlins-verrucktestem-radweg/</guid>
+      <description>&lt;p&gt;Unterwegs auf Berlins verrücktestem Radweg. In Zehlendorf. Weiß gar nicht, was die Berliner sich so darüber aufregen. Das ist eine gute Übung für den Gleichgewichtssinn ;-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

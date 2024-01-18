@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physik-journal | Das Blog</title>
+    <link>/tag/physik-journal/</link>
+      <atom:link href="/tag/physik-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>physik-journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>physik-journal</title>
+      <link>/tag/physik-journal/</link>
+    </image>
+    
+    <item>
+      <title>Zwei interessante Diagramme aus dem ...</title>
+      <link>/post/2015-02-01-zwei-interessante-diagramme-aus-dem/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-02-01-zwei-interessante-diagramme-aus-dem/</guid>
+      <description>&lt;p&gt;Zwei interessante Diagramme aus dem Physik-Journal zum Thema Stromspeichertechnologien und Reichweite von Elektroautos.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sepa | Das Blog</title>
+    <link>/tag/sepa/</link>
+      <atom:link href="/tag/sepa/index.xml" rel="self" type="application/rss+xml" />
+    <description>sepa</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>sepa</title>
+      <link>/tag/sepa/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Sehr geehrter Herr Maier, sie ...</title>
+      <link>/post/2014-03-05-sehr-geehrter-herr-maier-sie/</link>
+      <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-03-05-sehr-geehrter-herr-maier-sie/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Sehr geehrter Herr Maier,
+sie haben möglicherweise schon aus den Medien erfahren, dass das deutsche Zahlungswesen auf SEPA umgestellt wird&amp;hellip;
+Was bedeutet das für Sie?
+Sie brauchen nichts weiter zu veranlassen. &amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Warum bekomme ich jetzt schon seit einem halben Jahr schwachsinnige Briefe dieser Art? Werde ich in Zukunft bei jedem Softwareupdate in irgendeiner Firma benachrichtigt werden? Wozu diese ganze Papierverschwendung? Aber selbst eine Email wäre zu viel. Wenn sich für mich nix ändert, will ich auch nix darüber wissen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

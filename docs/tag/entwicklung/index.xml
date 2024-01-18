@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entwicklung | Das Blog</title>
+    <link>/tag/entwicklung/</link>
+      <atom:link href="/tag/entwicklung/index.xml" rel="self" type="application/rss+xml" />
+    <description>entwicklung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>entwicklung</title>
+      <link>/tag/entwicklung/</link>
+    </image>
+    
+    <item>
+      <title>Europa kommt sehr spät auf ...</title>
+      <link>/post/2018-01-25-europa-kommt-sehr-spat-auf/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-01-25-europa-kommt-sehr-spat-auf/</guid>
+      <description>&lt;p&gt;Europa kommt sehr spät auf dieser Idee :&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Ein weiteres wichtiges Ziel ist die Entwicklung der ersten Generation eines europäischen Mikroprozessors mit geringem Stromverbrauch.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Und wenn man ihn nicht von den Chinesen kopiert (die haben nämlich schon lange ihre eigenen Prozessoren), dann dauert die Umsetzung vermutlich solange wie der Bau des Berliner Flughafens.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pro-physik.de/details/physiknews/10818800/Europas_Weg_zum_High-Performer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pro-physik.de/details/physiknews/10818800/Europas_Weg_zum_High-Performer.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

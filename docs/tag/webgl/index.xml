@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webgl | Das Blog</title>
+    <link>/tag/webgl/</link>
+      <atom:link href="/tag/webgl/index.xml" rel="self" type="application/rss+xml" />
+    <description>webgl</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Apr 2010 22:08:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>webgl</title>
+      <link>/tag/webgl/</link>
+    </image>
+    
+    <item>
+      <title>Quake2 im Browser: HTML5 und WebGL machens möglich!</title>
+      <link>/post/2010-04-06-quake2-im-browser-html5-und-webgl/</link>
+      <pubDate>Tue, 06 Apr 2010 22:08:00 +0000</pubDate>
+      <guid>/post/2010-04-06-quake2-im-browser-html5-und-webgl/</guid>
+      <description>
+&lt;div&gt;Webseiten der Zukunft werden nichts mehr mit den statischen Seiten unserer Zeit zu tun haben. &lt;/div&gt;&lt;div&gt;Einen kleinen Vorgeschmack darauf liefert das Beispiel von Quake im Browser (ohne Plugins!):&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://arstechnica.com/web/news/2010/04/html5-and-webgl-bring-quake-to-the-browser.ars&#34;&gt;HTML5 and WebGL bring Quake to the browser&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Um das möglich zu machen wurde Quake2 von C nach Java portiert und mit dem &lt;a href=&#34;http://de.wikipedia.org/wiki/Google_Web_Toolkit&#34;&gt;Google Web Toolkit&lt;/a&gt; nach Javascript  (mit HTML5 und WebGL) kompiliert. Verrückt, aber es zeigt, was möglich ist. Mehr Infos dazu gibt es bei:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://timepedia.blogspot.com/2010/04/gwtquake-taking-web-to-next-level.html&#34;&gt;Ray Cromwell&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/quake2-gwt-port/&#34;&gt;developer&#39;s website&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://blog.j15r.com/2010/04/quake-ii-in-html5-what-does-this-really.html&#34;&gt;http://blog.j15r.com/2010/04/quake-ii-i ... eally.html&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Man sieht auch, dass die Webbrowser der Zukunft sich mehr und mehr zu virtuellen (JavaScript-) Maschinen entwickeln. Aber eigentlich ist das eine Entwicklung, die die Idee der Java-VM nur wiederholt. Würde man mit der Java-VM Webseiten anzeigen können, braeuchte man keine Browser mit JavaScript und das Kompilieren von Java in Javascript wäere auch nicht nötig. Vielleicht ist die Zeit reif für einen in Java programmierten Webbrowser, der Java-Code direkt ausführen kann:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://lobobrowser.org/java-browser.jsp&#34;&gt;Lobo: Java Web Browser&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://jaxenter.com/do-we-need-a-jvm-based-web-browser-10399.html&#34;&gt;Should we be Following the Example of HotJava and Lobo?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://2ality.blogspot.com/2010/03/is-it-time-for-jvm-based-web-browser.html&#34;&gt;http://2ality.blogspot.com/2010/03/is-it-time-for-jvm-based-web-browser.html…&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

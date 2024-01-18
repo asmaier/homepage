@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dateipfad | Das Blog</title>
+    <link>/tag/dateipfad/</link>
+      <atom:link href="/tag/dateipfad/index.xml" rel="self" type="application/rss+xml" />
+    <description>dateipfad</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>dateipfad</title>
+      <link>/tag/dateipfad/</link>
+    </image>
+    
+    <item>
+      <title>Shell-Skripte</title>
+      <link>/post/shell-skripte/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/shell-skripte/</guid>
+      <description>&lt;p&gt;Um Shell-Skripte für die Bash-Shell zu schreiben sind folgende Schritte
+nötig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Eine Textdatei erzeugen mit Namen
+&lt;pre&gt; dateiname.sh&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Die erste Zeile der Textdatei muß lauten:
+&lt;pre&gt;#!/bin/sh&lt;/pre&gt;
+Im Anschluss an diese Zeile schreibt man das
+Shell-Skript. 
+Aber Achtung: Bei der Angabe von Dateinamen in Skripten sollte
+man immer den vollen Dateipfad angeben, sonst funktioniert das Skript nicht von
+jedem Verzeichnis aus. Dies ist z.B. nötig, wenn ein Skript als Icon im
+KDE-Panel gestartet werden soll.&lt;/li&gt;
+&lt;li&gt;Ausführen des Skripts
+	&lt;ul&gt;
+	&lt;li&gt;Ohne Executable-Bit wird das Skript mithilfe des &lt;tt&gt;sh&lt;/tt&gt;-Kommandos
+	gestartet:
+	&lt;pre&gt;&gt; sh dateiname.sh&lt;/pre&gt;&lt;/li&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;li&amp;gt;Man kann ein Skript auch direkt ausführen, wenn man mit
+&amp;lt;pre&amp;gt;&amp;gt; chmod u+x dateiname.sh&amp;lt;/pre&amp;gt;
+das Skript vorher ausführbar gemacht hat
+(Mehr zum &amp;lt;tt&amp;gt;chmod&amp;lt;/tt&amp;gt;-Befehl gibt es 
+&amp;lt;a href=&amp;quot;http://eva-marbach.net/handbuch/u-chmod.htm&amp;quot;&amp;gt;hier&amp;lt;/a&amp;gt;.).
+Danach kann man es direkt starten mittels
+&amp;lt;pre&amp;gt;&amp;gt; ./dateiname.sh&amp;lt;/pre&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/ol&gt;
+&lt;p&gt;Mehr zur Syntax der Shell-Skript-Programmierung gibt es z.B. auf den Seiten der 
+&lt;a href=&#34;http://www.chemie.fu-berlin.de/chemnet/general/topics/scripts_sh.html&#34;&gt;
+FU Berlin&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

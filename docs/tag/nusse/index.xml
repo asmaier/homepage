@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nüsse | Das Blog</title>
+    <link>/tag/nusse/</link>
+      <atom:link href="/tag/nusse/index.xml" rel="self" type="application/rss+xml" />
+    <description>nüsse</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Aug 2005 21:13:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>nüsse</title>
+      <link>/tag/nusse/</link>
+    </image>
+    
+    <item>
+      <title>Paranußeffekt endlich geklärt!</title>
+      <link>/post/2005-08-10-paranueffekt-endlich-geklrt/</link>
+      <pubDate>Wed, 10 Aug 2005 21:13:00 +0000</pubDate>
+      <guid>/post/2005-08-10-paranueffekt-endlich-geklrt/</guid>
+      <description>
+Der &lt;a href=&#34;http://de.wikipedia.org/wiki/Paranuss-Effekt&#34;&gt;Paranußeffekt&lt;/a&gt; (engl. &lt;a href=&#34;http://en.wikipedia.org/wiki/Brazil_nut_effect&#34;&gt;brazil nut effect&lt;/a&gt;) verblüfft: Schwere, große Nüsse, welche in einer Schachtel aus leichteren Nüssen liegen wandern durch Schütteln an die Oberfläche und fallen nicht auf den Boden wie es ihnen die Gravitation eigentlich vorschreiben sollte. Nachdem sich die Physiker seit den 30er Jahren abmühten das zu erklären, glaubte man in den 80er Jahren des letzten Jahrhunderts die Lösung gefunden zu haben: Durch das Schütteln sollten die kleineren Teilchen einfacher unter die großen Teilchen rutschen und dadurch die großen effektiv nach oben wandern.&lt;br /&gt;Dummerweise fand man in den 90ern heraus, dass es auch den &lt;span style=&#34;font-style: italic;&#34;&gt;umgekehrten Paranußeffekt&lt;/span&gt; gibt, bei dem durch Schütteln schwere Teilchen nach unten sinken. Wieder wurden alle möglichen Erklärungsvorschläge gemacht und 2001 glaubten sich einige am Ziel:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/11/11194/1.html&#34;&gt;Telepolis: Dicke Nüsse liegen obenauf&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.zeit.de/archiv/2001/33/200133_paranuss.xml&#34;&gt;Zeit: Das Paranuß-Problem&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Die Idee war, dass unter bestimmten Verhältnissen die schweren, großen Teilchen praktisch einem Kristall gleichen und dann in der &#34;Flüssigkeit&#34; der kleinen Teilchen wie ein Stein im Wasser nach unten sinken. Oberhalb einer gewissen Schmelztemperatur (abhängig von Größe, Gewicht und Rüttelstärke) verhalten sich die schweren, großen Teilchen jedoch wie eine leichte Flüssigkeit und sollten daher nach oben schwimmen.&lt;br /&gt;Dummerweise haben vor kurzem einige Forscher nun auch einen &lt;span style=&#34;font-style: italic;&#34;&gt;horizontalen Paranußeffekt&lt;/span&gt; experimentell nachgewiesen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://seneca.fis.ucm.es/brito/migration/&#34;&gt;Horizontal Brazil Nut Effect and its Reverse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Dieser Versuch zeigt unter anderem, dass weder die Schwerkraft, noch der Luftdruck oder die Oberflächenbeschaffenheit (wie früher angenommen) einen Einfluss hat. Vielmehr scheint es einzig von der trägen Masse der großen, schweren Teilchen abzuhängen, in welche Richtung sie durch das Schütteln bewegt werden. Sind die Teilchen sehr träge, dann bewegen sie sich in Richtung der größeren Umgebungsdichte (d.h. dort wo die kleineren Teilchen dichter zusammenliegen, im Versuch war das in der Mitte des runden Tisches, in der Nüssepackung wäre das am Boden), sind die Teilchen jedoch leichter und damit weniger träge, bewegen sie sich in Richtung der niedrigeren Umgebungsdichte. Die Lösung des Problems scheint damit mal wieder viel einfacher zu sein als viele dachten.</description>
+    </item>
+    
+  </channel>
+</rss>

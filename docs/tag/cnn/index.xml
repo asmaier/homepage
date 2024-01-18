@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cnn | Das Blog</title>
+    <link>/tag/cnn/</link>
+      <atom:link href="/tag/cnn/index.xml" rel="self" type="application/rss+xml" />
+    <description>cnn</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cnn</title>
+      <link>/tag/cnn/</link>
+    </image>
+    
+    <item>
+      <title>Immer interessant zu lesen was ...</title>
+      <link>/post/2011-02-19-immer-interessant-zu-lesen-was/</link>
+      <pubDate>Sat, 19 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-02-19-immer-interessant-zu-lesen-was/</guid>
+      <description>&lt;p&gt;Immer interessant zu lesen was man im Ausland so über Deutschland denkt. Aber die CNN-Reporter verstehen unter Deutschland hauptsächlich Berlin ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;edition.cnn.com&lt;/p&gt;
+&lt;h2 id=&#34;editioncnncomspecials2010ilisthttpeditioncnncomspecials2010ilist&#34;&gt;&lt;a href=&#34;http://edition.cnn.com/SPECIALS/2010/ilist/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edition.cnn.com/SPECIALS/2010/ilist/&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digitale fotografie | Das Blog</title>
+    <link>/tag/digitale-fotografie/</link>
+      <atom:link href="/tag/digitale-fotografie/index.xml" rel="self" type="application/rss+xml" />
+    <description>digitale fotografie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2007 09:35:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>digitale fotografie</title>
+      <link>/tag/digitale-fotografie/</link>
+    </image>
+    
+    <item>
+      <title>Gigapixel-Fotographie</title>
+      <link>/post/2007-02-01-gigapixel-fotographie/</link>
+      <pubDate>Thu, 01 Feb 2007 09:35:00 +0000</pubDate>
+      <guid>/post/2007-02-01-gigapixel-fotographie/</guid>
+      <description>
+Während durchschnittliche Konsumerkameras inzwischen gerade bei 10 Megapixel Auflösung angelangt sind, haben findige Tüftler inzwischen schon Bilder von mehrere Gigapixel Auflösung  (siehe Wikipedia &lt;a href=&#34;http://en.wikipedia.org/wiki/Gigapixel&#34;&gt;hier&lt;/a&gt; und &lt;a href=&#34;http://en.wikipedia.org/wiki/Largest_photographs_in_the_world&#34;&gt;hier&lt;/a&gt;) erzeugt. Wie das geht? Es gibt zwei Verfahren:&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Mehrere Bilder zu einem Panorama zusammensetzen. Dies kann im Prinzip jeder Besitzer einer Digitalkamera tun (100 Bilder mit einer 10 Megapixelkamera zu einem Panorama zusammengesetzt geben bereits ein Bild mit Gigapixelauflösung). Mit diesem Verfahren hat Max Lyons bereits 2003 &lt;a href=&#34;http://www.tawbaware.com/maxlyons/gigapixel.htm&#34;&gt;eines der ersten Digitalbilder mit Gigapixelauflösung&lt;/a&gt; erstellt. Nachteil dieses Verfahrens ist natürlich, dass die Szene sich während man die vielen Hundert Einzelaufnahmen macht natürlich möglichst nicht verändern darf. Für Aufnahmen von Bewegungen (z.B. Wellen) ist das Verfahren daher völlig ungeeignet.&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Die Nutzung von Analogkameras mit extrem großen Negativen, wie sie für die Spionage im zweiten Weltkrieg, aber auch für die Astronome entwickelt wurden.  Da man jedoch ohne Auflösungsverlust von derartigen Negativen keine Positive erzeugen kann (es gibt einfach keine Linsen die für eine derartige Auflösung geeignet sind), digitalisiert man die so erzeugten Negative stückweise mit hochauflösenden Scannern und erzeugt so Digitalbilder mit Gigapixelauflösung. Dieses Verfahren verwenden u.a. das&lt;a href=&#34;http://www.gigapxl.org/&#34;&gt; GigaPxl Projekt&lt;/a&gt; und &lt;a href=&#34;http://cliffordross.com/R1/gigapixel.html&#34;&gt;Clifford Ross&lt;/a&gt;.&lt;/li&gt;&lt;/ol&gt;Die Aufnahme von solch hochauflösenden Fotos ist bereit eine Herausforderung, den nur unter günstigen athmospärischen Bedingungen kann man überhaupt eine derartige Auflösung erzielen (mehr dazu &lt;a href=&#34;http://www.gigapxl.org/technology-atmosphere.htm&#34;&gt;hier&lt;/a&gt;). Die Ausgabe dieser Fotos ist aber ebenfalls nur schwer möglich. Eines der besten Tools scheint mir in diesem Zusammenhang das auf Flash basierende &lt;a href=&#34;http://www.zoomify.com/&#34;&gt;Zoomify&lt;/a&gt; zu sein. Es wurde unter anderem von der TNO zur Darstellung ihres &lt;a href=&#34;http://triton.tpd.tno.nl/gigazoom/Delft2.htm&#34;&gt;2,5 GigaPixel-Fotos&lt;/a&gt; verwendet. Im Gegensatz zu der auf Google-Map-Technologie basierenden Lösung von &lt;a href=&#34;http://www.xrez.com/&#34;&gt;xRez.com&lt;/a&gt; ist Zoomify wesentlich flüssiger und performanter. Flash scheint in diesem Fall doch zu etwas nütze ;-) . Allerdings dürfte die Google-Technologie wesentlich skalierbarer sein, denn schließlich dürfte das Bild der Erdoberfläche von Google Map, als ein Bild interpretiert, wahrscheinlich das höchstauflösende &#34;Foto&#34; überhaupt sein.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>empfehlungsalgorithmen | Das Blog</title>
+    <link>/tag/empfehlungsalgorithmen/</link>
+      <atom:link href="/tag/empfehlungsalgorithmen/index.xml" rel="self" type="application/rss+xml" />
+    <description>empfehlungsalgorithmen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>empfehlungsalgorithmen</title>
+      <link>/tag/empfehlungsalgorithmen/</link>
+    </image>
+    
+    <item>
+      <title>Das hat man davon, wenn ...</title>
+      <link>/post/2021-10-14-das-hat-man-davon-wenn/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-10-14-das-hat-man-davon-wenn/</guid>
+      <description>&lt;p&gt;Das hat man davon, wenn man den Sohn Kinderlieder auf Spotify mit dem eigenen Account hören lässt. Die Empfehlungsalgorithmen sind völlig durcheinander und ich bekomme nur noch Pipi Langstrumpf, Biene Maja und Sendung mit der Maus empfohlen.&lt;/p&gt;
+&lt;p&gt;Amazon löst das Problem der Mehrfachnutzung eines Account meiner Meinung nach besser. Sie scheinen die Daten erstmal
+nach unterschiedlichem Verhalten zu clustern und dann aus jedem Cluster eine Empfehlung zu geben. Spotify dagegen orientiert sich nur daran was zuletzt am häufigsten gehört wurde.&lt;/p&gt;
+&lt;p&gt;Jetzt muß ich stundenlang erst wieder meine eigene Musik hören bis die Empfehlungen für mich wieder Sinn machen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

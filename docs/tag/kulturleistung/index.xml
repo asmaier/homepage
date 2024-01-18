@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kulturleistung | Das Blog</title>
+    <link>/tag/kulturleistung/</link>
+      <atom:link href="/tag/kulturleistung/index.xml" rel="self" type="application/rss+xml" />
+    <description>kulturleistung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>kulturleistung</title>
+      <link>/tag/kulturleistung/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Berlin ist das Detroit Deutschlands ...</title>
+      <link>/post/2017-05-16-berlin-ist-das-detroit-deutschlands/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-05-16-berlin-ist-das-detroit-deutschlands/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Berlin ist das Detroit Deutschlands und gehört für 200 Zloty an Polen verkauft.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Übertrieben, aber doch eine kleine Kulturleistung, diese Schimpftirade gegen Berlin.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.politikarena.net/showthread.php?t=25463&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.politikarena.net/showthread.php?t=25463&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

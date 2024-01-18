@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digitale schreibmethoden | Das Blog</title>
+    <link>/tag/digitale-schreibmethoden/</link>
+      <atom:link href="/tag/digitale-schreibmethoden/index.xml" rel="self" type="application/rss+xml" />
+    <description>digitale schreibmethoden</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2006 20:36:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>digitale schreibmethoden</title>
+      <link>/tag/digitale-schreibmethoden/</link>
+    </image>
+    
+    <item>
+      <title>Handschrifterkennung mathematischer Formeln</title>
+      <link>/post/2006-08-24-handschrifterkennung-mathematischer/</link>
+      <pubDate>Thu, 24 Aug 2006 20:36:00 +0000</pubDate>
+      <guid>/post/2006-08-24-handschrifterkennung-mathematischer/</guid>
+      <description>
+Jeder der viele mathematische Formeln in den Computer eingeben muss weiß das es eine echte Qual ist. Mit der Maus ist es in allen Formeleditoren ein mühseliges Geklicke, und über die Tastatur ist es selbst mit der raffinierten Syntax von Latex noch sehr mühsam. Wäre es nicht genial, wenn man mathematische Formeln direkt handschriftlich, z.B. über ein &lt;a href=&#34;http://de.wikipedia.org/wiki/Digitizer&#34;&gt;Grafiktablett&lt;/a&gt; eingeben könnte und diese würden vom Computer automatisch erkannt und in Latex für den perfekten Ausdruck umgewandelt? Geht nicht, gibts nicht? Dachte ich auch, bis ich vom &lt;a href=&#34;http://www.inftyproject.org/en/&#34;&gt;Infty Project&lt;/a&gt; gehört habe. Im Rahmen des Infty Project versucht ein Zusammenschluss vieler japanischer Universitäten die Probleme der automatisierten Erkennung gedruckter und handschriftlicher mathematischer Formeln zu lösen. Und der vom Infty Project entwickelte &lt;a href=&#34;http://www.inftyproject.org/en/software.html#InftyEditor&#34;&gt;Infty Editor&lt;/a&gt; mit eingebauter Handschrifterkennung ist sogar kostenlos erhältlich. Begeistert habe ich ihn in der Version 2.0 getestet. Leider mit ernüchterndem Ergebnis. Die Handschrifterkennung des Infty Editors ist leider kaum brauchbar. Zwar konnte ich die Formeln nur über die Maus eingeben, aber selbst mit dem besten Grafiktablett dürfte die Erkennungsrate immer noch miserabel sein. Schade, also geht doch (noch) nicht. Aber es gibt noch andere Projekte, die zwar nicht unbedingt die direkte Wandlung in Latex versprechen, aber doch die Eingabe mathematischer oder auch chemischer Formeln erleichtern wollen. Eine gute Übersicht dazu gibt es im &lt;a href=&#34;http://www.physicsforums.com/blog.php?b=103&#34;&gt;Physics Blog&lt;/a&gt;.</description>
+    </item>
+    
+  </channel>
+</rss>

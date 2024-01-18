@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>karten | Das Blog</title>
+    <link>/tag/karten/</link>
+      <atom:link href="/tag/karten/index.xml" rel="self" type="application/rss+xml" />
+    <description>karten</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2009 19:19:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>karten</title>
+      <link>/tag/karten/</link>
+    </image>
+    
+    <item>
+      <title>Kyrillisch suchen</title>
+      <link>/post/2009-11-19-kyrillisch-suchen/</link>
+      <pubDate>Thu, 19 Nov 2009 19:19:00 +0000</pubDate>
+      <guid>/post/2009-11-19-kyrillisch-suchen/</guid>
+      <description>
+Wer ab und zu mal russische Suchmaschinen nutzen möchte, aber gerade keine russische Tastatur zur Verfügung hat um kyrillische Suchbegriffe einzugeben, dem hilft:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.woron.de/&#34;&gt;www.woron.de&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Eingabe von &#34;карты москва&#34; als Suchbegriff z.B. bei yandex.ru gibt als Treffer die Google Maps vergleichbare Karteansicht bei Yandex von Moskau. Allerdings sind die Yandex-Karten in Russland oft genauer und aktueller als die von Google Maps.</description>
+    </item>
+    
+  </channel>
+</rss>

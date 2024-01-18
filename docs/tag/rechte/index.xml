@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rechte | Das Blog</title>
+    <link>/tag/rechte/</link>
+      <atom:link href="/tag/rechte/index.xml" rel="self" type="application/rss+xml" />
+    <description>rechte</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>rechte</title>
+      <link>/tag/rechte/</link>
+    </image>
+    
+    <item>
+      <title>Dies ist der absolut passende ...</title>
+      <link>/post/2021-12-06-dies-ist-der-absolut-passende/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-12-06-dies-ist-der-absolut-passende/</guid>
+      <description>&lt;p&gt;Dies ist der absolut passende Kommentar dazu von einem Leser unter dem Artikel:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Ich sehe meine Rechte nicht beschränkt oder bedroht - Ich sehe mich bedroht durch Rechte und Beschränkte.
+Lieber glaube ich Wissenschaftlern, die sich auch mal irren, als Irren, die glauben sie seien Wissenschaftler&amp;rdquo;  (Fabian Eisenring)&lt;/p&gt;
+&lt;p&gt;Ein Zitat zum an die Wand hängen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.br.de/nachrichten/bayern/afd-bayern-interner-chat-zeigt-radikalitaet,SqEpXK5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.br.de/nachrichten/bayern/afd-bayern-interner-chat-zeigt-radikalitaet,SqEpXK5&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

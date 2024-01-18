@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computertheorie | Das Blog</title>
+    <link>/tag/computertheorie/</link>
+      <atom:link href="/tag/computertheorie/index.xml" rel="self" type="application/rss+xml" />
+    <description>computertheorie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Jun 2006 11:44:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>computertheorie</title>
+      <link>/tag/computertheorie/</link>
+    </image>
+    
+    <item>
+      <title>Am 7. Juni ...</title>
+      <link>/post/2006-06-07-am-7-juni/</link>
+      <pubDate>Wed, 07 Jun 2006 11:44:00 +0000</pubDate>
+      <guid>/post/2006-06-07-am-7-juni/</guid>
+      <description>
+... &lt;a href=&#34;http://www-history.mcs.st-andrews.ac.uk/Day_files/Day607.html&#34;&gt;starb Alan Turing&lt;/a&gt;, der Begründer der modernen Informatik und Computertheorie, vermutlich durch Selbstmord. Vermutlich ahnte er schon, wer an diesem Tag mal geboren werden sollte :-/ !&lt;br /&gt;Das &lt;a href=&#34;http://www-history.mcs.st-andrews.ac.uk/index.html&#34;&gt;&#34;MacTutor History of Mathematics archive&#34;&lt;/a&gt; , von dem ich die obige Information habe, enthält aber noch viele andere interessante Daten. Zum Beispiel habe ich aus der &lt;a href=&#34;http://www-history.mcs.st-andrews.ac.uk/BirthplaceMaps/Places/Germany.html&#34;&gt;Karte der Geburtsorte berühmter Mathematiker&lt;/a&gt; erfahren, dass der international bekannte Mathematiker &lt;a href=&#34;http://www-history.mcs.st-andrews.ac.uk/Biographies/Study.html&#34;&gt;Eduard Study&lt;/a&gt; in Coburg geboren ist. Wenigstens mein Geburtsort ist nicht ganz verflucht ;-) !</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schiffe | Das Blog</title>
+    <link>/tag/schiffe/</link>
+      <atom:link href="/tag/schiffe/index.xml" rel="self" type="application/rss+xml" />
+    <description>schiffe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>schiffe</title>
+      <link>/tag/schiffe/</link>
+    </image>
+    
+    <item>
+      <title>Titanic rulez! ...</title>
+      <link>/post/2012-09-05-titanic-rulez/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-09-05-titanic-rulez/</guid>
+      <description>&lt;p&gt;Titanic rulez!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;titanic-magazin.de&lt;/p&gt;
+&lt;h2 id=&#34;postkarte-parteienhttpwwwtitanic-magazindeuploadspicspostkarte-parteienjpg&#34;&gt;&lt;a href=&#34;http://www.titanic-magazin.de/uploads/pics/Postkarte-Parteien.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Postkarte Parteien&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

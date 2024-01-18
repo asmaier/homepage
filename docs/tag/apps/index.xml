@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apps | Das Blog</title>
+    <link>/tag/apps/</link>
+      <atom:link href="/tag/apps/index.xml" rel="self" type="application/rss+xml" />
+    <description>apps</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>apps</title>
+      <link>/tag/apps/</link>
+    </image>
+    
+    <item>
+      <title>Ich dachte ich mach mal ...</title>
+      <link>/post/2022-01-23-ich-dachte-ich-mach-mal/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-01-23-ich-dachte-ich-mach-mal/</guid>
+      <description>&lt;p&gt;Ich dachte ich mach mal Car-Sharing wie die ganzen Hipster hier in Berlin:&lt;/p&gt;
+&lt;p&gt;Ich installiere die App von WeShare: Stürzt beim Start ab.
+Die App von Sixt lässt sich gar nicht installieren, mein iPhone 6 mit iOS 12.5 ist zu alt. ShareNow lässt sich installieren und starten, aber in Berlin haben die keine Elektroautos im Angebot. Die gibt es nur in Hamburg und München, was man aber auf der Webseite nicht sieht.&lt;/p&gt;
+&lt;p&gt;Zudem ist das Geschäftsgebiet aller Anbieter nicht einmal ganz Berlin. Es reicht im Südwesten gerade bis zur S-Bahn Zehlendorf.  Wir wohnen aber etwas weiter draußen, so dass wir mit dem Bus erstmal zu einem Share-Auto fahren müssten.&lt;/p&gt;
+&lt;p&gt;Also irgendwie wird das so nix mit der Verkehrsrevolution liebe CarSharing-Anbieter. Es ist kein Wunder, dass das nur Hipster nutzen, weil alle anderen können nicht. Nur wer das neueste Smartphone hat und in der Innenstadt wohnt darf teilnehmen. Aber gerade in der Innenstadt ist der öffentliche Nahverkehr super ausgebaut, wozu braucht man dort CarSharing? Auch verstehe ich den App-Zwang nicht. Wer schon mal mit dem Telefon ein Taxi bestellt hat, weiß, dass das super schnell geht (auch mit Uralt-Handies) und in einer Minute erledigt ist. Nutze ich eine Taxi-App muß ich mich registrieren (bin also nicht mehr anonym) und muß bei manchen Apps sogar die Ortung einschalten, damit der Anbieter weiß wo ich bin.
+Als Nutzer habe ich mit der App fast nur Nachteile gegenüber einem simplen Telefonanruf. Selbst ein WhatsAppChat (Igitt) wäre oft schneller als eine App. Und das gilt für Taxi-Apps, Lieferservice-Apps und CarSharingApps gleichermaßen.&lt;/p&gt;
+&lt;p&gt;Es ist eigentlich ein Wunder, dass soviel in Deutschland trotzdem diese Apps nutzen. Ich behaupte, dass liegt daran, dass die Deutschen gar nicht so technikfeindlich sind wie man ihnen nachsagt. Der Grund warum viele &amp;ldquo;moderne, digitale Dienstleitungen&amp;rdquo; in Deutschland nicht so angenommen werden liegt meines Erachtens viel mehr bei den Anbietern selbst, die den Kunden nach Strich und Faden ausquetschen und mit bürokratischen und technischen Hindernissen gängeln, statt sich mal zu überlegen, wie sie ihre Dienstleitung kundenfreundlicher anbieten könnten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Von Island lernen heißt: Kontakt-Tracing-Apps ...</title>
+      <link>/post/2020-05-13-von-island-lernen-heit-kontakt-tracing-apps/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-05-13-von-island-lernen-heit-kontakt-tracing-apps/</guid>
+      <description>&lt;p&gt;Von Island lernen heißt: Kontakt-Tracing-Apps lohnen sich nicht.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.technologyreview.com/2020/05/11/1001541/iceland-rakning-c19-covid-contact-tracing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://wp.technologyreview.com/wp-content/uploads/2020/05/5063902244_1d66838955_k.jpg?resize=1200,600&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+technologyreview.com&lt;/p&gt;
+&lt;h2 id=&#34;nearly-40-of-icelanders-are-using-a-covid-appand-it-hasnt-helped-muchhttpswwwtechnologyreviewcom202005111001541iceland-rakning-c19-covid-contact-tracing&#34;&gt;&lt;a href=&#34;https://www.technologyreview.com/2020/05/11/1001541/iceland-rakning-c19-covid-contact-tracing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearly 40% of Icelanders are using a covid app—and it hasn’t helped much&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The country has the highest penetration of any automated contact tracing app in the world, but one senior figure says it “wasn’t a game changer.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keine einzige App aus der ...</title>
+      <link>/post/2019-11-01-keine-einzige-app-aus-der/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-11-01-keine-einzige-app-aus-der/</guid>
+      <description>&lt;p&gt;Keine einzige App aus der EU dabei: &lt;a href=&#34;https://www.securemessagingapps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.securemessagingapps.com&lt;/a&gt; Die EU dagegen setzt auf &amp;ldquo;Security by Bureaucracy&amp;rdquo;: &lt;a href=&#34;https://www.golem.de/news/datenschutz-abgeordnete-im-eu-parlament-duerfen-signal-nicht-installieren-1910-144316.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.golem.de/news/datenschutz-abgeordnete-im-eu-parlament-duerfen-signal-nicht-installieren-1910-144316.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wer etwas Gutes für die ...</title>
+      <link>/post/2016-08-09-wer-etwas-gutes-fur-die/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-08-09-wer-etwas-gutes-fur-die/</guid>
+      <description>&lt;p&gt;Wer etwas Gutes für die Flüchtlinge tun will, der kann hier die Entwicklung der Bureaucracy-App unterstützen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.betterplace.org/en/projects/47346-support-bureaucrazy-simplify-german-bureaucracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.betterplace.org/en/projects/47346-support-bureaucrazy-simplify-german-bureaucracy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Die Facebookseite des Projektes ist übrigens hier: &lt;a href=&#34;https://www.facebook.com/Bureaucrazy.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.facebook.com/Bureaucrazy.de/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;facebook.com&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Für alle auf der Suche ...</title>
+      <link>/post/2014-04-28-fur-alle-auf-der-suche/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-04-28-fur-alle-auf-der-suche/</guid>
+      <description>&lt;p&gt;Für alle auf der Suche nach dem idealen Job!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.truffls.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.datocms-assets.com/22239/1629300884-seo-image-job-app.jpg?auto=compress&amp;amp;fm=jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+truffls.de&lt;/p&gt;
+&lt;h2 id=&#34;die-beste-job-app-nutze-kostenlos-truffls-für-deine-jobsuche---truffls-job-app---trufflshttpswwwtrufflsde&#34;&gt;&lt;a href=&#34;https://www.truffls.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Die beste Job App: Nutze kostenlos truffls für Deine Jobsuche - Truffls Job App - Truffls&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;So geht die zeitgemäße Jobsuche - per App. Entdecke die spannendsten Jobs ganz einfach per Swipe mit der Job App von truffls - jetzt kostenlos für Android und iOS herunterladen. Die Jobsuche per App war nie so einfach!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

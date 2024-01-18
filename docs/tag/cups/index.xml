@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cups | Das Blog</title>
+    <link>/tag/cups/</link>
+      <atom:link href="/tag/cups/index.xml" rel="self" type="application/rss+xml" />
+    <description>cups</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cups</title>
+      <link>/tag/cups/</link>
+    </image>
+    
+    <item>
+      <title>Drucken</title>
+      <link>/post/drucken/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/drucken/</guid>
+      <description>&lt;p&gt;Beim Drucken zeigen sich die Stärken und Schwächen des Betriebssystems
+ganz besonders. Die Treiberunterstützung ist im Vergleich zu Windows
+oft noch schlecht und die Installation und Einrichtung von lokalen Druckern ist
+unter Linux manchmal immer noch ein unnötig komplizierter Vorgang.
+Hat jedoch ein fähiger Administrator einen CUPS-Server eingerichtet,
+ist die Einrichtung und Nutzung von Netzwerkdruckern ganz im Gegensatz zu Windows
+ein Kinderspiel. Zur Druckersteuerung unter Linux verwendet man häufig noch
+kryptische Kommandozeilen, die jedoch, wenn man sie einmal gelernt hat,
+dann wieder ein wesentlich schnelleres Arbeiten ohne Überraschungen
+erlaubt.&lt;/p&gt;
+&lt;h6&gt;Drucken unter CUPS&lt;/h6&gt;
+&lt;p&gt;Benutzt man das Common Unix Printing System (CUPS), so kann man viele
+Einstellungen und Informationen zum Druckvorgang über den Webbrowser
+bekommen. Folgende Adressen ([cupsserver] steht für die IP-Adresse
+des CUPS-Servers, z.B. &lt;tt&gt;192.168.0.2&lt;/tt&gt; oder 
+bei lokaler Installation &lt;tt&gt;localhost&lt;/tt&gt;) sind u.a. nützlich:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Bedienung über HTML allgemein:&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anleitung zu CUPS-Bedienung&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/sum.html
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Laufende Jobs:&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/jobs
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;vorhandene bzw. eingerichtete Drucker:&lt;/em&gt;
+&lt;pre&gt;
+http://[cupsserver]:631/printers
+&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Das CUPS erweitert auch die Steuerungsmöglichkeiten des Druckvorgangs
+über die Kommandozeile. Einige nützliche Optionen sind u.a.:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;nur bestimmte Seiten drucken:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpr -o page-ranges=1-4,7,9-12 dateiname
+&lt;/pre&gt;
+Mit diesem Kommando werden nur die Seiten 1-4,7 und 9-12 der Datei
+&lt;tt&gt;dateiname&lt;/tt&gt; gedruckt. Zu beachten ist, dass die Seitenangabe
+hier meist nicht mit der Seitennummerierung innerhalb der Datei übereinstimmt,
+z.B. wenn das Titelblatt die Seitennummer 0 hat.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;mehrere Seiten auf ein Blatt drucken:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpr -o number-up=4 -o number-up-layout=tblr dateiname
+&lt;/pre&gt;
+Hiermit werden vier Seiten auf ein Blatt gedruckt. Die Option
+&lt;tt&gt;number-up-layout&lt;/tt&gt; gibt dabei an, in welcher Reihenfolge
+die einzelnen Seiten auf das Blatt gedruck werden sollen.
+Die Defaulteinstellung ist &lt;tt&gt;lrtb&lt;/tt&gt; (left to right, top to bottom),
+eine andere Möglichkeit ist das im Beispiel verwendete
+&lt;tt&gt;tblr&lt;/tt&gt; (top to bottom, left to right).
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;doppelseitig drucken:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpr -o sides=two-sided-long-edge dateiname
+&lt;/pre&gt;
+Die Option &lt;tt&gt;sides=two-sided-long-edge&lt;/tt&gt; gibt dabei an, dass
+das doppelseitige Dokument später über die lange Blattkante
+geblättert werden soll. Sie macht natürlich nur dann Sinn,
+wenn der Drucker auch doppelseitig drucken kann und entsprechend
+eingerichtet wurde.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige der Druckerwarteschlange:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lpq
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Druckaufträge aus der Warteschlange löschen:&lt;/em&gt;
+&lt;pre&gt;
+&gt; lprm
+&lt;/pre&gt;
+Dies löscht alle eigenen Druckaufträge, aber nicht die anderer
+Benutzer. Will man nur einen bestimmten Druckauftrag löschen,
+so muß man dies extra angeben:
+&lt;pre&gt;
+&gt; lprm -Plp1 42
+&lt;/pre&gt;
+Dies löscht den Druckauftrag Nummer 42 aus der Druckerwarteschlange für
+den Drucker &lt;tt&gt;lp1&lt;/tt&gt;.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Poster drucken&lt;/h6&gt;
+&lt;p&gt;Um Poster oder andere große Bilder einfach auf mehrere Blätter verteilt zu drucken gibt
+es für Linux eine einfache Antwort:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://posterazor.sourceforge.net/&#34;&gt;Posterazor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit diesem kleinen Programm kann ein beliebiges Bild in ein entsprechendes mehrseitiges
+PDF umgewandelt werden, welches man dann mit einem beliebigem PDF-Viewer ausdrucken kann. 
+Dabei bietet es intuitive Benutzeroberfläche, so dass man sofort sieht,
+wie das Bild auf die verschiedenen Seiten aufgeteilt wird. Das ist wesentlich einfacher
+als mit einem Programm, welches nur irgendwelche kryptischen Parameter auf der Kommandozeile
+entgegennimmt, wie z.B. bei &lt;a href=&#34;http://printing.kde.org/downloads/&#34;&gt;&lt;tt&gt;poster&lt;/tt&gt;&lt;/a&gt; der Fall.
+Wer es unbedingt doch über die Kommandozeile machen möchte findet bei
+&lt;a href=&#34;http://issaris.blogspot.com/2006/02/printing-huge-posters.html&#34;&gt;Printing huge posters&lt;/a&gt;
+eine Anleitung, wie man das mit obengenanntem &lt;tt&gt;poster&lt;/tt&gt; bewerkstelligt.&lt;/p&gt;
+&lt;h6&gt;Drucken von DIN A5-Heftchen&lt;/h6&gt;
+&lt;p&gt;Manchmal ist es praktisch ein Dokument (z.B. die 
+&lt;a href=&#34;http://www.wvv.de/vvm/fahrplan/fahrplaene/index.html&#34;&gt;Würzburger Busfahrpläne&lt;/a&gt;)
+als DIN A5-Heftchen (d.h. es werden jeweils zwei Seiten auf 
+ein DIN A4 Blatt gedruckt und dann so gefaltet, dass ein DIN A5-Heft entsteht)
+zu drucken. Dies kann man ganz einfach über den KDE-Druckdialog erreichen
+(Leider steht dieser im Acrobat Reader nicht zur Verfügung. PDF-Dokumente sollte
+man daher mit KGhostview öffnen.):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;KDE-Druckdialog öffnen und auf &#34;Eigenschaften&#34; (&#34;Properties&#34;) klicken.&lt;/li&gt;
+&lt;li&gt;Den Karteireiter &#34;Filter&#34; (&#34;filter&#34;) auswählen.&lt;/li&gt;
+&lt;li&gt;Auf das trichterförmige Icon &#34;Filter hinzufügen&#34; (&#34;add filter&#34;) klicken.&lt;/li&gt;
+&lt;li&gt;Hier den Filter &#34;Pamphlet Printing (use with small side duplex printing)&#34; auswählen
+und auf &#34;OK&#34; klicken.&lt;/li&gt;
+&lt;li&gt;Zurück auf den Karteireiter &#34;Allgemein&#34; (&#34;General&#34;) klicken und dort unter 
+&#34;Beidseitiger Druck&#34; (Duplex Printing&#34;) &#34;Schmalseitig&#34; (&#34;short side&#34;) auswählen.&lt;/li&gt;
+&lt;li&gt;Den Dialog mit &#34;OK&#34; abschließen und das Dokument drucken.&lt;/li&gt; 
+&lt;/ol&gt;
+&lt;p&gt;Alternativ dazu kann man das ganze auch über die Kommandozeile erreichen.
+Dazu ist es notwendig, dass das Paket &#34;psutils&#34; installiert ist (einfach mit YAST2 
+überprüfen und gegebenenfalls nachinstallieren). Dann kann man PS-Dokumente
+(PDF-Dokumente muß man vorher in PS-Dokumente umwandeln wie 
+&lt;a href=&#34;convert.html&#34;&gt;hier&lt;/a&gt; beschrieben.)
+mit folgendem Befehl umwandeln:&lt;/p&gt;
+&lt;pre&gt;
+&gt; psbook datei.ps | psnup -2 &gt; datei_A5.ps
+&lt;/pre&gt;
+&lt;p&gt;Der Befehl &lt;tt&gt;psbook&lt;/tt&gt; ändert dabei die Reihenfolge der Seiten des PS-Dokuments in
+geeigneter Weise und der anschließende Befehl &lt;tt&gt;psnup&lt;/tt&gt; generiert ein
+PS-Dokument so, dass 2 Seiten des ursprünglichen Dokuments jetzt auf ein Blatt verkleinert
+werden. Jetzt kann man das so generierte Dokument ausdrucken:&lt;/p&gt;
+&lt;pre&gt;
+&gt; lpr -o sides=two-sided-short-edge datei_A5.ps
+&lt;/pre&gt;
+&lt;h6&gt;Präsentationen drucken&lt;/h6&gt;
+&lt;p&gt;Viele Präsentationen sind als PDFs im Querformat erstellt. Um diese platzsparend auszudrucken
+kann man folgende Befehlszeile versuchen:&lt;/p&gt;
+&lt;pre&gt;
+&gt; lpr -o number-up=4 -o number-up-layout=lrtb praesentation.pdf
+&lt;/pre&gt;
+&lt;p&gt;Leider funktioniert das nicht immer richtig, da viele PDF-Präsentationen seltsame Seitenformate
+verwenden und daher zunächst noch skaliert werden müssen. Eine Lösung ist diese
+Präsentationen mit dem Acrobat Reader auszudrucken. Dort muß man dann unter
+&#34;Page Scaling: Fit to Printer Margins&#34; auswählen und als &#34;Printer Command&#34;&lt;/p&gt;
+&lt;pre&gt;
+/usr/bin/lpr -P lp1 -o number-up=4 -o number-up-layout=lrtb
+&lt;/pre&gt;
+&lt;p&gt;eintragen.&lt;/p&gt;
+&lt;h6&gt;Tipps zu a2ps&lt;/h6&gt;
+&lt;p&gt;Das Programm &lt;tt&gt;a2ps&lt;/tt&gt; erlaubt es ASCII-Text &#34;schön&#34; formatiert
+auszudrucken. Dies ist besonders zum Ausdrucken von Quellcode nützlich,
+da &lt;tt&gt;a2ps&lt;/tt&gt; z.B. Kommentare und Schlüsselwörter im Code automatisch erkennt
+und diese durch Farbe, Schriftgrad oder Schriftart hervorhebt und damit den
+Code erheblich lesbarer gestaltet. Der Vorteil von &lt;tt&gt;a2ps&lt;/tt&gt; gegenüber
+dem direkten Ausdruck aus einem Editor mit eigener Synaxerkennung heraus
+(z.B. Kile für Latex oder Kate für C++) ist, dass es insbesondere für
+den Graustufendruck angepasste und optimierte Designs anbietet und
+natürlich das &lt;tt&gt;a2ps&lt;/tt&gt; aus der Kommandozeile
+heraus zu starten immer schneller ist als mühsam einen Editor zu laden,
+sich durch die notwendigen Druckeinstellungen zu quälen um schließlich drucken
+zu können. Ein großer Nachteil von &lt;tt&gt;a2ps&lt;/tt&gt; ist jedoch, dass es 
+(noch?) keine UTF8-Kodierung unterstützt (mehr dazu siehe weiter unten).
+&lt;br /&gt;
+Das &lt;tt&gt;a2ps&lt;/tt&gt;-Kommando erlaubt eine Unmenge von Optionen. Einige
+wichtige zeigt das folgende Beispiel, welches ich als
+Alias in meiner &lt;tt&gt;.alias&lt;/tt&gt;-Datei definiert habe:&lt;/p&gt;
+&lt;pre&gt;
+alias druck=&#34;a2ps --line-numbers=1 -l 100 -T 3 -s 2 -M A4 --delegate=0 -P display&#34;
+&lt;/pre&gt;
+&lt;p&gt;Die Layoutoptionen dabei sind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;em&gt;Zeilennummern einschalten:&lt;/em&gt; &lt;tt&gt;--line-numbers=1&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Zeilenlänge von 100 Buchstaben:&lt;/em&gt; &lt;tt&gt;-l 100&lt;/tt&gt; oder &lt;tt&gt;--chars-per-line=100&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Tabulatorabstand von 3 Zeichen:&lt;/em&gt; &lt;tt&gt;-T 3&lt;/tt&gt; oder &lt;tt&gt;--tabsize=3&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Zweiseitiger Ausdruck (wenn der Drucker es erlaubt):&lt;/em&gt; &lt;tt&gt;-s 2&lt;/tt&gt; oder &lt;tt&gt;--sides=duplex&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt; &lt;em&gt;Papierformat DIN A4:&lt;/em&gt; &lt;tt&gt;-M A4&lt;/tt&gt; oder &lt;tt&gt;--medium=A4&lt;/tt&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die Option &lt;tt&gt;--delegate=0&lt;/tt&gt; verhindert, dass &lt;tt&gt;a2ps&lt;/tt&gt; automatisch 
+mithilfe externer Programme die übergebenen Dateien in PS-Dateien umzuwandeln
+versucht (z.B. möchte es in der Standardeinstellung HTML-Dateien mithilfe von
+Netscape in PS-Dateien umzuwandeln). Dies ist meistens nicht gewollt; wenn man 
+&lt;tt&gt;a2ps&lt;/tt&gt; schon verwendet, dann will man eigentlich immer den Quelltext drucken 
+und nicht das gerenderte Ergebnis. &lt;br /&gt;
+Die Option &lt;tt&gt;-P display&lt;/tt&gt; schließlich sorgt dafür, dass &lt;tt&gt;a2ps&lt;/tt&gt; das Ergebnis
+nicht gleich an den Standarddrucker schickt, sondern zunächst als Vorschau in
+&lt;tt&gt;gv&lt;/tt&gt; öffnet. Gefällt das Ergebnis kann man es von da aus bequem ausdrucken.
+&lt;br /&gt;
+&lt;em&gt;Druckvorschau mit &lt;tt&gt;kghostview&lt;/tt&gt; statt &lt;tt&gt;gv&lt;/tt&gt;:&lt;/em&gt;&lt;br /&gt;
+In Suse 9.3 wird &lt;tt&gt;gv&lt;/tt&gt; nicht mehr standardmäßig installiert und die
+Druckvorschau funktioniert mit &lt;tt&gt;a2ps&lt;/tt&gt; dementsprechend zunächst nicht.
+Will oder kann man das alte &lt;tt&gt;gv&lt;/tt&gt; deswegen nicht installieren, so kann man
+zur Druckvorschau auch &lt;tt&gt;kghostview&lt;/tt&gt; verwenden, wenn man &lt;tt&gt;a2ps&lt;/tt&gt;
+entsprechend konfiguriert. Dazu sind folgende Schritte nötig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt; Falls nicht vorhanden im Homeverzeichnis ein Verzeichnis &lt;tt&gt;.a2ps&lt;/tt&gt;
+anlegen und in diesem eine Datei namens &lt;tt&gt;a2psrc&lt;/tt&gt; erzeugen:
+&lt;pre&gt;
+&gt; mkdir .a2ps
+&gt; cd a2ps
+&gt; pico a2psrc
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;In diese Datei folgende Zeile eintragen:
+&lt;pre&gt;
+Variable: ghostview kghostview
+&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Das wars. Beim nächsten Start von &lt;tt&gt;a2ps&lt;/tt&gt; wird als Vorschau immer 
+&lt;tt&gt;kghostview&lt;/tt&gt; statt &lt;tt&gt;gv&lt;/tt&gt; verwendet. Will man noch andere 
+Einstellungen ändern, so empfiehlt es sich als Vorlage die systemweite
+Konfigurationsdatei von &lt;tt&gt;a2ps&lt;/tt&gt; anzuschauen, welche unter Suse Linux 9.3
+unter &lt;tt&gt;/etc/a2ps.cfg&lt;/tt&gt; zu finden ist. 
+&lt;br /&gt;
+&lt;em&gt;Weitere Optionen:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Ein bestimmtes Syntaxhighlighting erzwingen:&lt;/em&gt;
+Manchmal erkennt &lt;tt&gt;a2ps&lt;/tt&gt; die verwendete Sytax nicht richtig.
+Dies kann man überprüfen durch:
+&lt;pre&gt;
+&gt; a2ps --guess dateiname
+&lt;/pre&gt;
+Wird dabei eine offensichtlich falsche Syntax erkannt, kann 
+man dies mit der &lt;tt&gt;-E&lt;/tt&gt;-Option erzwingen. Verwendet man mein obiges Alias,
+dann kann man z.B. die Verwendung von Fortran-Syntaxhighlighting für die Datei
+&#34;dateiname&#34; erzwingen durch:
+&lt;pre&gt;
+&gt; druck -Efortran dateiname
+&lt;/pre&gt;
+Weitere Möglichkeiten sind z.B. &lt;tt&gt;-Ec&lt;/tt&gt; (C), &lt;tt&gt;-Ecpp&lt;/tt&gt; (C++), &lt;tt&gt;-Etex&lt;/tt&gt; (Latex).
+Sämtliche möglichen Programmiersprachen bzw. Syntax-Stylesheets findet man z.B. 
+&lt;a href=&#34;http://www.infres.enst.fr/~demaille/a2ps/doc-4.12/a2ps_7.html#SEC69&#34;&gt;hier&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Farbe erzwingen:&lt;/em&gt;&lt;br /&gt;
+Will man ein farbiges statt graues Syntaxhighlighting so kann man dies erreichen durch
+&lt;pre&gt;
+&gt; druck --prologue=color dateiname
+&lt;/pre&gt;
+Damit wird eine farbige PS-Datei generiert und als Vorschau angezeigt.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Aktuelles Verzeichnis im Kopf der Ausdrucks:&lt;/em&gt;&lt;br /&gt;
+In den Standardeinstellungen erscheint der Pfad der ausgedruckten Datei leider
+nicht. Aber durch folgende Option kann man das gerade aktive Verzeichnis und damit
+auch meist den richtigen Pfad zur Datei im Header des Ausdrucks angeben:
+&lt;pre&gt;
+&gt; druck --header=$PWD
+&lt;/pre&gt;
+Jedoch erlebt man eine Enttäuschung, wenn man diese Option zusätzlich zu den anderen in einem
+Alias definiert. Die &lt;tt&gt;.alias&lt;/tt&gt;-datei wird immer beim Start eines neuen
+Terminals ausgeführt und somit wird man immer das beim Start des Terminals aktive
+Verzeichnis (also meist das eigene Homeverzeichnis) im Kopf der ausgedruckten Datei
+finden. Um das gewünschte Ergebnis zu erzielen, muß man stattdessen eine Funktion
+(s. auch &lt;a href=&#34;shell.html&#34;&gt;Tipps zur Shell&lt;/a&gt;) in der &lt;tt&gt;.bashrc&lt;/tt&gt;-Datei 
+wie folgt definieren:
+&lt;pre&gt;
+druckiso() { druck --header=$PWD $1; }
+&lt;/pre&gt;
+Mithilfe von 
+&lt;pre&gt;
+&gt; druckiso dateiname
+&lt;/pre&gt;
+ist es dann einfach alle Dateien (zumindest die mit ISO-Encoding) 
+schön formatiert auszudrucken.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;UTF8-kodierte Dateien ausdrucken:&lt;/em&gt;&lt;br /&gt;
+UTF8 wird von &lt;tt&gt;a2ps&lt;/tt&gt; leider noch immer nicht unterstützt. Das Einzige was möglich
+ist, ist eine UTF8-Datei automatisch in ein Encoding umzuwandeln welches &lt;tt&gt;a2ps&lt;/tt&gt;
+kennt. Dazu bietet sich z.B. das Tool &lt;tt&gt;iconv&lt;/tt&gt; an (andere Möglichkeiten wären
+mit dem &lt;tt&gt;recode&lt;/tt&gt;-Befehl oder dem &lt;tt&gt;u2ps&lt;/tt&gt;-Skript). Ich habe mir dazu folgende
+Funktion in der &lt;tt&gt;.bashrc&lt;/tt&gt; definiert:
+&lt;pre&gt;
+druckutf() { iconv -f utf8 -t latin1 $1 | druck --header=$PWD --center-title=$1; }
+&lt;/pre&gt;
+Damit werden alle UTF8-Dateien von &lt;tt&gt;iconv&lt;/tt&gt; zunächst in das Latin1-Encoding
+konvertiert und die Ausgabe an &lt;tt&gt;a2ps&lt;/tt&gt; (bzw. meinen Alias &lt;tt&gt;druck&lt;/tt&gt;)
+weitergegeben. Die Option &lt;tt&gt;--center-title=$1&lt;/tt&gt; ist nötig, da &lt;tt&gt;a2ps&lt;/tt&gt;
+ansonsten in den Kopf des Ausdrucks nicht den Dateinamen übernimmt.Stattdessen
+steht dort &lt;tt&gt;stdin&lt;/tt&gt;, da die Ausgabe von &lt;tt&gt;iconv&lt;/tt&gt; 
+direkt per Pipe &lt;tt&gt;|&lt;/tt&gt; an und damit über &lt;tt&gt;stdin&lt;/tt&gt; an &lt;tt&gt;a2ps&lt;/tt&gt; geht.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Passwortgeschütztes PDF über die Kommandozeile drucken&lt;/h6&gt;
+&lt;p&gt;Der offensichtliche Weg über &lt;tt&gt;acroread -toPostScript | lpr&lt;/tt&gt; funktioniert nicht,
+da es beim Aufruf des Acrobat Readers über die Kommandozeile keine Möglichkeit gibt ein Passwort
+zu übergeben. Daher muss man unter Suse Linux erst mit Yast das Paket &lt;tt&gt;xpdf&lt;/tt&gt; installieren.
+Dieses enthält das Tool &lt;tt&gt;pdftops&lt;/tt&gt; mit dem man dann das PDF ausdrucken kann&lt;/p&gt;
+&lt;pre&gt;
+&gt; pdftops -upw [Passwort] Dateiname.pdf - | lpr
+&lt;/pre&gt;
+&lt;p&gt;Dabei steht &lt;tt&gt;-upw&lt;/tt&gt; für &#34;user password&#34; und &lt;tt&gt;[Passwort]&lt;/tt&gt; sollte durch das entsprechende Passwort ersetzt werden.
+Die Angabe von &lt;tt&gt;-&lt;/tt&gt; als Ausgabedateinamen bewirkt die Ausgabe in die Standardausgabe &lt;tt&gt;stdout&lt;/tt&gt;, welche
+dann mit dem Pipe-Kommando &lt;tt&gt;|&lt;/tt&gt; in die Standardeingabe des nächsten Befehls (hier &lt;tt&gt;lpr&lt;/tt&gt;) weitergeleitet
+wird (siehe dazu auch Kapitel 9.3 von 
+&lt;a href=&#34;http://www.csse.monash.edu.au/software/mil/userguide.html#tth_sEc9.3&#34;&gt;Monash Image Library for Linux&lt;/a&gt;).
+Statt &lt;tt&gt;pdftops&lt;/tt&gt; kann man auch &lt;tt&gt;pdf2ps&lt;/tt&gt; versuchen, aber letzteres erzeugt viel größere und qualitativ 
+schlechtere PS-Dateien.&lt;/p&gt;
+&lt;h6&gt;Man-Pages ausdrucken&lt;/h6&gt;
+Angenommen wir wollen die man-page von &lt;tt&gt;rsync&lt;/tt&gt; ausdrucken, Dann gibt es drei Möglichkeiten:
+&lt;ol&gt;
+&lt;li&gt;Umwandlung der man-page in ein PDF:
+&lt;pre&gt;
+&gt; man -t rsync | ps2pdf - &gt; rsync.pdf
+&lt;/pre&gt;
+Danach kann die Datei über jeden PDF-Anzeiger ausgedruckt werden.
+&lt;/li&gt;
+&lt;li&gt;Umwandlung der man-page in HTML: Dazu unter KDE den Konqueror starten und in die Adresszeile
+&lt;tt&gt;man:rsync&lt;/tt&gt; eingeben. Dann kann man wie üblich die HTML-Seite mit dem Konqueror ausdrucken.
+&lt;/li&gt;
+&lt;li&gt; Umwandlung der man-page in eine reine Textdatei:
+&lt;pre&gt;
+&gt; man rsync | col -b &gt; rsync.txt
+&lt;/pre&gt;
+Danach kann die Datei über jeden Texteditor ausgedruckt werden.
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

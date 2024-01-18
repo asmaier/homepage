@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probleme | Das Blog</title>
+    <link>/tag/probleme/</link>
+      <atom:link href="/tag/probleme/index.xml" rel="self" type="application/rss+xml" />
+    <description>probleme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>probleme</title>
+      <link>/tag/probleme/</link>
+    </image>
+    
+    <item>
+      <title>Schmerzmittel im Amateur- und Leistungssport: ...</title>
+      <link>/post/2020-06-14-schmerzmittel-im-amateur-und-leistungssport/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-06-14-schmerzmittel-im-amateur-und-leistungssport/</guid>
+      <description>&lt;p&gt;Schmerzmittel im Amateur- und Leistungssport: Das ist ein Thema, dass viel zu lange ignoriert wurde. Von Trainern, Ärzten, Eltern, Sportlern und Fans. Dabei ist das Problem wirklich weit verbreitet und es gibt praktisch kein Bewusstsein für die unglaublich vielen Probleme, die das mit sich bringt. Selbst ich kenne Geschichten aus erster Hand von Amateursportlern, die, statt sich richtig vorzubereiten, vor dem Halbmarathon einfach Schmerzmittel nehmen und sich dann über einen Ermüdungsbruch wundern, den sie beim Laufen gar nicht gemerkt haben. Und wie oft raunen Leute über den heroischen Leistungssportler, der ja mit Schlüsselbeinbruch noch weitergespielt hat usw. . Der ist kein harter Kerl! Das ist ein Junkie!&lt;/p&gt;
+&lt;p&gt;Was vielen nicht klar ist: Schmerzen sind gut! Sie sind ein wichtiges Signal. Sie sind ein Schutz, die deinem Hirn klarmachen, dass dein Körper gerade ein Problem hat. Schmerzen zu ignorieren, heißt Probleme zu ignorieren. Und das geht nie lange gut. Denn die Natur lässt sich nicht hereinlegen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://correctiv.org/top-stories/2020/06/08/pillenkick/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://correctiv.org/wp-content/uploads/2020/01/gorilla-intro.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+correctiv.org&lt;/p&gt;
+&lt;h2 id=&#34;pillenkick--schmerzmittelmissbrauch-im-fußballhttpscorrectivorgtop-stories20200608pillenkick&#34;&gt;&lt;a href=&#34;https://correctiv.org/top-stories/2020/06/08/pillenkick/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PILLENKICK – Schmerzmittelmissbrauch im Fußball&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Der Fußball hat ein erhebliches Problem mit Schmerzmitteln. Unsere Recherche offenbart ein System, in dem Gesundheit nicht viel zählt.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X Leopard: Testbericht Teil 1</title>
+      <link>/post/2007-10-28-mac-os-x-leopard-installation/</link>
+      <pubDate>Sun, 28 Oct 2007 18:41:00 +0000</pubDate>
+      <guid>/post/2007-10-28-mac-os-x-leopard-installation/</guid>
+      <description>
+Eigentlich gehöre ich ja nicht zu den &#34;Early-Adopters&#34;. Aber da die neue Version von Apples Betriebssystem mit einem halben Jahr Verspätung kam, konnte ich es dann doch nicht mehr erwarten und hab mir es spontan mit Studentenrabatt für 115 Euro (Orginalpreis 129 Euro, ja Apple ist wirklich großzügig!) gekauft. Beinahe hätte ich es bereut. In folgenden daher ein ausführliche Beschreibung mit einigen kritischen Anmerkungen meinerseits:&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-weight: bold;&#34;&gt;1. Systemvoraussetzung, Lieferumfang und Verpackung:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Die Verpackung ist typisch Apple: Design auf hohem Niveau mit Aha-Effekt. In diesem Fall mit grossem schwarzen X auf einem Sternenhintergrund mit Pseudo-3D-Effekt. Anscheinend will Apple wieder etwas weg vom sterilen Weiß der letzten Jahre. Trotzdem ist dass kein Grund die Verpackung mit einer Kerze davor auf den Schrank zu stellen und jeden Tag etwas anzubeten, meint zumindest meine Freundin. Frauen sind einfach gefühllos, oder ? ;-)&lt;/div&gt;&lt;div&gt;Als Systemvoraussetzung wird auf der Verpackung ein 867 Mhz PowerPC G4 angegeben mit 512MB Ram und DVD-Laufwerk. Bei der Installation später verlangte das neue Mac OS X auch noch 6,9 GB Festplattenplatz. Ganz schön happig! Zusätzlich ist für TimeMachine eine externe Festplatte nötig (welch eine bescheuerte Begrenzung, kann ich keine zweite interne Festplatte, ein Netzwerklaufwerk oder eine andere Partition verwenden?), die ich leider nicht habe. Damit bin ich erstmal von Zeitreisen ausgeschlossen, denn ich habe nur einen 1,83 Ghz Intel Core Duo Mac Mini mit 1GB Ram und einer 80GB Festplatte. Wie sich später zeigt, ist das ausreichend; im Apple-Laden habe ich jedoch einen Mac Mini mit 1,5 Ghz Intel Core Solo und 1 GB Ram gesehen, auf dem viele Effekte des neuen OS X sehr geruckelt haben (Deswegen war der Rechner im Laden wohl auch ausgeschaltetet, aber ich war so frei ihn einfach mal anzuschalten ;-) ). Laut Aussage des Händlers liegt das an der Onboard-Grafikkarte des Mac Mini, aber da bei mir nix ruckelt und ich dieselbe Grafikkarte und Speicher habe, liegt es vielleicht doch am schwachen Prozessor. Die Systemvoraussetzungen sind wohl daher mal wieder nur Minimalvoraussetzungen.&lt;/div&gt;&lt;div&gt;Neben der DVD sind im Lieferumfang weiterhin auch zwei weiße Apfelaufkleber (wozu? Vielleicht als religiöse Zeichen?) und eine 90-seitige Anleitung in DVD-Größe (C6-Format?). Von den 90 Seiten Anleitung sind jedoch die letzten zwanzig(!) Seiten Lizenzvertrag und juristische Ergüsse, so dass nur 70 Seiten für die eigentliche Anleitung bleiben. Auf diesem 70 Seiten erfährt der Umsteiger von Mac OS X 10.4 einiges Oberflächliches über die neuen Funktionen. Für Neueinsteiger ist diese Anleitung jedoch völlig nutzlos. Man erfährt noch nicht einmal, welche Einstellungen man wo machen muss um ins Internet zu kommen. Allerdings erfährt man dafür, wie man Windows XP/Vista mittels Boot Camp installiert. Seltsame Prioritäten setzt Apple hier! Insgesamt denke ich daher, das Papier für die Anleitung hätten sie sich komplett sparen können, ich persönlich hätte mir viel lieber noch ein paar religiöse Symbole (z.B. eine Kerze in Apple-Apfelform, es ist ja bald Weihnachten) gewünscht, aber meine Freundin verdreht schon wieder die Augen ;-) .&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-weight: bold;&#34;&gt;2. Installation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Die Installation ist appletypisch absolut einfach. DVD einlegen, auf &#34;Mac OS X Installation&#34; klicken, dann startet der Computer neu und die Installation beginnt nach Auswahl des Ziellaufwerkes. Nach einiger Überlegung schätzt der Installer die benötigte Zeit dazu auf 1 Stunde und 29 Minuten und tatsächlich dauert es über eine Stunde bis die Installation fertig ist. Ganz schön lange, da habe ich ja schon Windows schneller installiert. Danach macht das System automatisch einen Neustart, und dann begann bei mir der Spaß.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-weight: bold;&#34;&gt;3. Die Probleme&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Nach dem Neustart bootet mein Mac Mini bis ich einen blauen Bildschirm mit Mauszeiger sehe und sonst nix. Ich warte mindestens 10 Minuten in der Hoffnung, das mein Mac noch irgendein Lebenszeichen von sich gibt, aber es passiert nix. Erinnerungen an Windows kommen hoch, nur dumm ist, dass ich die ganzen Tastaturkürzel um den Mac in den abgesicherten Modus zu zwingen nicht weiss (ich hab sie einfach nie gebraucht). Ich weiss noch nicht mal wie ich die Installations-CD wieder auswerfen kann und da ich als MacMini-Besitzer weder eine Orginal-Apple-Maus, noch eine Orginal-Apple-Tastatur habe, bekomme ich leichte Panik. Werden die Tastaturkürzel, falls ich sie schnell im Internet finde (zum Glück lässt mich meine Freundin ihren Windows-Laptop dazu benutzen) überhaupt funktionieren?&lt;/div&gt;&lt;div&gt;Aber es kommt doch nicht so schlimm. Beim nächsten Neustart halte ich die Maustasten auf meine Microsoft-Maus (ja, ich höre die Ketzer-Rufe, aber sie ist einfach besser!) gedrückt und wenigstens bekomme ich die Installations-CD wieder. Weitere Tastenkombinationen erfährt man hier (warum steht das nicht in der 70-Seiten Anleitung?):&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://docs.info.apple.com/article.html?artnum=303124&#34;&gt;http://docs.info.apple.com/article.html?artnum=303124&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Dann schnell in Google eingegeben:&#34; leopard bluescreen&#34; und sofort bekomme ich ein paar Foreneinträge. Ich bin also nicht der einzige mit diesem Problem. Dort lerne ich, dass ich durch drücken von &#34;Apfel-s&#34; beim Start meines Apple Computers in den Single-User-Mode komme (unter Linux hieße das wohl einfach Root-Konsole). Ich probiere auf meiner Logitech-Tastatur &#34;Windows-s&#34; (Schon wieder diese bedrohlichen Ketzerrufe hier...) und tatsächlich startet mein Apple in eine Unix-Root-Konsole. Von da an geht es schnell, denn zum Glück hat jemand bereits eine Lösung für das Problem gepostet:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.macuser.de/forum/showthread.php?p=3481638&#34;&gt;http://www.macuser.de/forum/showthread.php?p=3481638&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Anscheinend machen &#34;Unsanitys Ape&#34; und &#34;Application Enhancer&#34; Probleme. Aber ich kann mich nicht erinnern, diese installiert zu haben. Jedoch werden sie wohl zusammen mit dem &lt;a href=&#34;http://www.logitech.com/index.cfm/494/3129&#34;&gt;Logitech Tastaturtreibern&lt;/a&gt; installiert. Und das habe ich getan, verdammt! Die Lösung ist dann ganz einfach, wie in obigen Forum beschrieben&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;1. In den Single-User-Mode booten (Apfel+s beim starten)&lt;br /&gt;2.Wie von Mac Os gefordert:&lt;br /&gt;fsck -fy /&lt;br /&gt;/sbin/mount -uw /&lt;br /&gt;3. Folgende Dateien so entfernen:&lt;br /&gt;rm -rf /Library/Preference Panes/Application Enhancer.prefpane&lt;br /&gt;rm -rf /Library/Frameworks/Application Enhancer.framework&lt;br /&gt;rm -rf /System/Library/SystemConfiguration/Application Enhancer.bundle&lt;br /&gt;rm -rf /Library/Preferences/com.unsanity.ape.plist&lt;br /&gt;4. Eingeben zum Neustart:&lt;br /&gt;reboot&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Allerdings habe ich bei mir die Datei &#34;Application Enhancer.prefpane&#34; nicht gefunden. Aber auch ohne diese zu entfernen startete mein Mac Mini nach dieser Prozedur ohne Probleme. Endlich!&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-weight: bold;&#34;&gt;4. Fazit&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Was bleibt nach dieser Tortur ist die Erkenntnis das Apple alles andere als perfekt ist. Aber was noch viel schlimmer ist, Mac OS X hat dieselben Probleme wie Windows sobald Treiber von Fremdherstellern ins Spiel kommen. Ob es jedoch trotzdem bereits Zeit ist vom Glauben abzufallen erfahrt ihr im zweiten Teil meines Testberichtes, in dem ich erste Eindrücke nach der Installation schildern werde. &lt;/div&gt;&lt;div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

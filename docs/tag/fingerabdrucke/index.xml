@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fingerabdrücke | Das Blog</title>
+    <link>/tag/fingerabdrucke/</link>
+      <atom:link href="/tag/fingerabdrucke/index.xml" rel="self" type="application/rss+xml" />
+    <description>fingerabdrücke</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Aug 2006 20:58:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>fingerabdrücke</title>
+      <link>/tag/fingerabdrucke/</link>
+    </image>
+    
+    <item>
+      <title>Neuer Fingerabdruck leicht gemacht!</title>
+      <link>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</link>
+      <pubDate>Fri, 25 Aug 2006 20:58:00 +0000</pubDate>
+      <guid>/post/2006-08-25-neuer-fingerabdruck-leicht-gemacht/</guid>
+      <description>
+In der biometrischen Zukunft sollen wir uns ja überall statt mit Passwort einfach mit Fingerabdruck anmelden können. Doch was tun, wenn der eigene Fingerabdruck gehackt wurde, man diesen zur Identifizierung nicht mehr verwenden kann? Bei Passwörtern ist das kein Problem. Das alte Passwort wird gesperrt und ein Neues verwendet. Und bei Fingerabdrücken? Ebenfalls kein Problem! Der &lt;a href=&#34;http://www.ccc.de&#34;&gt;Chaos Computer Club&lt;/a&gt; zeigt wie man sich ganz einfach einen neuen Fingerabdruck machen kann:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.ccc.de/biometrie/fingerabdruck_kopieren.xml&#34;&gt;CCC - Fingerabdruck kopieren&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soviel zum Thema schöne neue Biometrie-Welt. Und wer glaubt, dass Biometriedaten so sicher verwahrt werden, dass obiges Szenario extrem unwahrscheinlich sei, der möge mal folgende Artikel über die wahnsinnige Sicherheit biometrischer Daten holländischer, aber auch deutscher und österreichischer Pässe lesen: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tp/r4/artikel/21/21907/1.html&#34;&gt;Telepolis: Biometrie-Pass erfolgreich gehackt&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/meldung/69127&#34;&gt;Heise online - ePass-Hack&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&#34;http://futurezone.orf.at/it/stories/86706/&#34;&gt;Futurezone - Biometriechip gecrackt&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Schöne neue Welt! Ich geh mir dann schon mal eine Reihe Fingerabdrücke herstellen und mich vielleicht auch noch nach Kontaktlinsen mit Ersatz-Irisaufdruck erkundigen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>passwortänderung | Das Blog</title>
+    <link>/tag/passwortanderung/</link>
+      <atom:link href="/tag/passwortanderung/index.xml" rel="self" type="application/rss+xml" />
+    <description>passwortänderung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>passwortänderung</title>
+      <link>/tag/passwortanderung/</link>
+    </image>
+    
+    <item>
+      <title>Administration</title>
+      <link>/post/administration/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/administration/</guid>
+      <description>&lt;p&gt;Hier stehen Dinge, die man nur als Administrator (Root) bzw.
+Superuser ausführen kann.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Administratorrechte bekommen:&lt;/em&gt;&lt;br /&gt;
+Sitzt man vor einem Linux-Rechner kann man sich sehr einfach(!) Root-Rechte
+verschaffen. Dazu muß man nur im Bootmanager als Option
+&lt;pre&gt; init=/bin/bash &lt;/pre&gt;
+eingeben. Das System bootet dann ohne(!!) nach dem Passwort zu fragen in eine
+bash-shell mit Root-Rechten. Jetzt gibt man einfach
+&lt;pre&gt;&gt; passwd&lt;/pre&gt;
+ein und gibt ein neues Passwort ein. Damit hat man das Root-Passwort neu gesetzt
+und damit sofort Root-Rechte auf diesem Rechner.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Als Administrator/Superuser das Passwort eines anderen Benutzers neu setzen&lt;/em&gt;&lt;br /&gt;
+Als Superuser kann man sich zwar jederzeit mittels &lt;tt&gt;sudo -i -u [Benutzername]&lt;/tt&gt; als
+Benutzer &lt;tt&gt;[Benutzername]&lt;/tt&gt; anmelden, aber versucht man dann das Passwort mittels &lt;tt&gt;passwd&lt;/tt&gt;
+neu zu setzen, wird man nach dem alten Passwort des Benutzers &lt;tt&gt;[Benutzername]&lt;/tt&gt; gefragt,
+das man wahrscheinlich nicht kennt. Viel einfacher und ohne das Passwort des Benutzers zu kennen,
+setzt man das Passwort als Administrator/Superuser neu:
+&lt;pre&gt;
+&gt; passwd [Benutzername]
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Passwortänderung beim nächten Login erzwingen:&lt;/em&gt;&lt;br /&gt;
+Will man, dass ein Benutzer beim nächsten Login sein Passwort neu setzt, so benutzt man
+&lt;pre&gt;
+&gt; passwd -e [Benutzername]
+&lt;/pre&gt;
+Dies ist auch nützlich, wenn man gerade einen neuen Benutzeraccount angelegt hat und dem
+Benutzer ein initiales Passwort per Email senden möchte, dass er nur für den ersten Login
+verwenden soll. Setzt man unmittelbar nach der Erzeugung des Account 
+&lt;tt&gt; passwd -e [Benutzername]&lt;/tt&gt;, so ist der Benutzer gezwungen bereits beim ersten Login
+ein neues Passwort zu setzen. Mehr dazu bei 
+&lt;a href=&#34;http://theos.in/desktop-linux/tip-that-matters/how-do-i-force-linux-to-change-forcefully-user-password/&#34;&gt;Hakuna Matata:How do I force linux to change (forcefully) user password?&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Als Superuser X-Programme ausführen:&lt;/em&gt;&lt;br /&gt;
+Mit dem üblichen &lt;tt&gt;su&lt;/tt&gt;-Befehl kann man keine X-Programme
+(Programme mit grafischer Benutzeroberfläche) ausführen,
+da die entsprechenden Rechte nicht automatisch gesetzt werden.
+Unter Suse gibt es dafür folgenden Befehl:
+&lt;pre&gt;&gt; sux&lt;/pre&gt;
+Nach Eingabe des Superuserpassworts kann man dann ohne Probleme
+auch Programme mit grafischer Benutzeroberfläche mit Superuserrechten
+aus der Kommandozeile starten.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einem Benutzer in die sudoers-Liste aufnehmen:&lt;/em&gt;&lt;br /&gt;
+Frei nach &lt;a href=&#34;http://de.wikipedia.org/wiki/Sudo&#34;&gt;Wikipedia/Sudo&lt;/a&gt;:
+Man benutzt &lt;tt&gt;sudo&lt;/tt&gt; anstelle von &lt;tt&gt;su&lt;/tt&gt;, um bestimmten Benutzern die Möglichkeit zu geben, 
+gewisse Programme mit den Rechten eines anderen Benutzers (meistens Root) ausführen zu können, ohne 
+das Root-Passwort weitergeben zu müssen. Die Sicherheitsrichtlinien sind bei Linux in der Datei /etc/sudoers gespeichert, 
+die nur vom Superuser root editiert werden darf.&lt;br /&gt;
+Um also für einen Benutzer &lt;tt&gt;sudo&lt;/tt&gt; freizuschalten, editiert man als root die sudoers-Datei
+&lt;pre&gt;
+&gt; jpico /etc/sudoers
+&lt;/pre&gt;
+Folgende Zeilen müssen hinzugefügt werden, um einem Benutzer &lt;tt&gt;[username]&lt;/tt&gt; Zugriff auf alle Befehle mittels 
+&lt;tt&gt;sudo&lt;/tt&gt; zu geben:
+&lt;pre&gt;
+[username] ALL=(ALL) ALL
+&lt;/pre&gt;
+Unter Suse Linux wird der Benutzer beim Ausführen von &lt;tt&gt;sudo&lt;/tt&gt; jedoch trotzdem standardmäßig nach dem
+root-Passwort gefragt. Um das zu verhindern muß man zwei Zeilen wie folgt auskommentieren
+&lt;pre&gt;
+#Defaults targetpw    # ask for the password of the target user i.e. root
+#%users ALL=(ALL) ALL # WARNING! Only use this together with &#39;Defaults targetpw&#39;!
+&lt;/pre&gt;
+Jetzt fragt &lt;tt&gt;sudo&lt;/tt&gt; wie gewünscht beim Ausführen nach dem Benutzerpasswort und nicht nach dem
+root-Passwort.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;sudo&lt;/tt&gt; benutzen:&lt;/em&gt;&lt;br /&gt;
+Um sich als anderer Benutzer &lt;tt&gt;[username] &lt;/tt&gt; einzuloggen:
+&lt;pre&gt;&gt; sudo -i -u [username] &lt;/pre&gt;
+Um sich als &lt;tt&gt;root&lt;/tt&gt; einzuloggen:
+&lt;pre&gt;&gt; sudo -i &lt;/pre&gt;
+Letzterer Befehl ist äquivalent zu &lt;tt&gt;sudo su -&lt;/tt&gt;.
+Will man eine Shell mit &lt;tt&gt;root&lt;/tt&gt;-Rechten, jedoch ohne die Umgebungsvariablen der aktuellen Umgebung zu verlieren, so benutzt man
+&lt;pre&gt;&gt; sudo -s &lt;/pre&gt;
+Letzteres funktioniert jedoch nur, wenn in der Datei &lt;tt&gt;/etc/sudoers&lt;/tt&gt; die eventuell vorhandene Zeile
+&lt;pre&gt;Defaults    env_reset&lt;/pre&gt;
+auskommentiert(!) ist.
+Mehr zum &lt;tt&gt;sudo&lt;/tt&gt;-Kommando gibt es unter 
+&lt;a href=&#34;https://help.ubuntu.com/community/RootSudo&#34;&gt;RootSudo(help.ubuntu.com)&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Graphische (X-Window) Programme ueber &lt;tt&gt;sudo&lt;/tt&gt; aufrufen:&lt;/em&gt;&lt;br /&gt;
+Das naive Aufrufen graphischer Programme aus einer &lt;tt&gt;sudo&lt;/tt&gt;-Shell scheitert meist,
+da notwendige Umgebungsvariablen nicht gesetzt sind. Insbesondere wird vom Betriebssystem oft die &lt;tt&gt;XAUTHORITY&lt;/tt&gt;-Variable nicht gesetzt, weswegen auch nach einem &lt;tt&gt;sudo -s&lt;/tt&gt; die X-Window-Ausgabe nicht funktioniert, obwohl sie in der Umgebung des vorherigen Benutzers durchaus funktioniert hat. Man muß daher leider die &lt;tt&gt;XAUTHORITY&lt;/tt&gt;-Variable manuell setzen
+&lt;pre&gt;
+&gt; export XAUTHORITY=$HOME/.Xauthority
+&gt; sudo -s
+&gt; xclock
+&lt;/pre&gt;
+Will man jedoch eine Login-Shell, so muß man zusaetzlich noch die &lt;tt&gt;DISPLAY&lt;/tt&gt;-Variable setzten und zwar auf den Wert den sie fuer den Benutzer &lt;tt&gt;[username]&lt;/tt&gt; hatte von dem aus man &lt;tt&gt;sudo&lt;/tt&gt; aufgerufen hat
+&lt;pre&gt;
+&gt; echo $DISPLAY
+localhost:11.0
+&gt; echo $HOME
+/home/[username]
+&gt; sudo -i
+&gt; export DISPLAY=localhost:11.0
+&gt; export XAUTHORITY=/home/[username]/.Xauthority
+&gt; xclock
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Daemonen (Dienste) unter Suse Linux neustarten:&lt;/em&gt;&lt;br /&gt;
+Manchmal hilft ein Neustart eines Hintergrundprozesses (auch Daemon,
+bzw. Dienst genannt) um die seltsamsten Probleme zu lösen.
+Den SSH-Server z.B startet man unter Suse 9.3 mit der Kommandozeile
+&lt;pre&gt;
+&gt; rcsshd restart
+&lt;/pre&gt;
+neu.&lt;/li&gt;
+&lt;li&gt;&lt;em id=&#34;mac&#34;&gt;Eigene MAC Adresse herausfinden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; sudo /sbin/ifconfig
+eth0      Link encap:Ethernet  HWaddr [MAC-Adresse]
+...
+&lt;/pre&gt; 
+wobei &lt;tt&gt;[MAC-Adresse]&lt;/tt&gt; die gesuchte MAC-Adresse der ersten eingebauten Netzwerkkarte ist. 
+Braucht man die WLAN MAC-Adresse steht diese oft unter Punkt &lt;tt&gt;eth1&lt;/tt&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, welche Computer online in einem Subnetz sind:&lt;/em&gt;
+&lt;pre&gt;
+&gt; nmap -sP 123.123.123.*
+&lt;/pre&gt;
+Wird derselbe Befehl nicht als root aufgerufen, findet &lt;tt&gt;nmap&lt;/tt&gt;
+eventuell nicht alle Computer.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, welches Betriebssystem hinter einer bestimmten IP-Nummer steckt:&lt;/em&gt;
+&lt;pre&gt;
+&gt; nmap -O 123.123.123.*
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a id=&#34;lsof&#34;&gt;Herausfinden, welcher Benutzer und welcher Prozess auf Dateien in einem Verzeichnis zugreift:&lt;/a&gt;&lt;/em&gt;
+&lt;pre&gt;
+&gt; lsof /pfad/verzeichnis
+&lt;/pre&gt;
+&lt;tt&gt;lsof&lt;/tt&gt; steht dabei für &#34;list open files&#34; 
+(siehe auch &lt;a href=&#34;http://www.uwsg.iu.edu/UAU/advcomm/lsof.html&#34;&gt;UnixforAdvancedUsers&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alle Dateien eines bestimmten Benutzers finden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; sudo find / -user [user]
+&lt;/pre&gt;
+&lt;p&gt;Der Befehl funktioniert natürlich nur, wenn der Benutzer &lt;tt&gt;[user]&lt;/tt&gt; existiert. Mehr Infos gibts
+bei &lt;a href=&#34;http://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/&#34;&gt;
+www.cyberciti.biz&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Eine Datei schreibschützen (so dass selbst &lt;tt&gt;root&lt;/tt&gt; die Datei nicht verändern kann):&lt;/em&gt;
+&lt;pre&gt;
+&gt; chattr +i [readonly]
+&lt;/pre&gt;
+&lt;p&gt;
+Mit diesem Befehl kann man sicherstellen, dass die Datei &lt;tt&gt;[readonly]&lt;/tt&gt; niemals überschrieben werden kann,
+auch nicht von &lt;tt&gt;root&lt;/tt&gt; selbst. Allerdings kann man als &lt;tt&gt;root&lt;/tt&gt; den Schutz 
+natürlich wieder entfernen. Das ist nützlich, um sicherzustellen, dass bestimmte Dateien 
+(z.B. &lt;tt&gt;/etc/passwd&lt;/tt&gt; und andere Systemdateien) auch bei Systemupdates nicht überschrieben werden 
+können. Das ganze funktioniert wohl nur auf ext2/3/4 Dateisystemen. Da der Befehl relativ wenig bekannt ist
+wird er auch von einigen RootKits benutzt um das Beseitigen des RootKits zu erschweren. Mehr Infos über den Befehl
+gibts bei &lt;a href=&#34;http://linuxhelp.blogspot.com/2005/11/make-your-files-immutable-which-even.html&#34;&gt;
+linuxhelp.blogspot.com&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bildschirmsperre (mit Passwort) abschalten:&lt;/em&gt;&lt;br /&gt;
+Manchmal kommt es vor, dass die Bildschirmsperre unter KDE abstürzt oder
+man das Passwort nicht mehr richtig eingeben kann. Dies passiert z.B. wenn 
+man unter Suse 9.3 und KDE ein Passwort mit lateinischen Zeichen hat, 
+jedoch auf russische Tastaturbelegung umgeschaltet hat kurz bevor die
+Bildschirmsperre kommt. Da man dann die Tastaturbelegung nicht mehr 
+ändern kann (siehe dazu auch &lt;a href=&#34;http://bugs.kde.org/show_bug.cgi?id=102149&#34;&gt;bugs.kde.org&lt;/a&gt;), 
+kann man das Passwort mit den lateinischen Buchstaben nicht 
+mehr eingeben und sich auch nicht mehr einloggen. Einzige Möglichkeit ist 
+dann noch die Deaktivierung der Bildschirmsperre als &lt;tt&gt;root&lt;/tt&gt;.
+Eingeloggt als &lt;tt&gt;root&lt;/tt&gt; findet man die Bildschrimsperre mit
+&lt;pre&gt;
+&gt; ps aux | grep kdesktop_lock
+pechvogel 14161 0.0 0.1 2700 704 pts/11 S 14:35
+&lt;/pre&gt;
+Mittels
+&lt;pre&gt;
+&gt; kill 14161
+&lt;/pre&gt;
+kann man jetzt die Bildschirmsperre für den Benutzer &lt;tt&gt;pechvogel&lt;/tt&gt;
+&#34;abschießen&#34;, so dass derjenige wieder mit seiner noch laufenden
+&#34;Session&#34; weiterarbeiten kann.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Computer über Terminalkommando herunterfahren:&lt;/em&gt;&lt;br /&gt;
+Will man das System &lt;em&gt;sofort&lt;/em&gt; herunterfahren, so kann man dass
+mittels
+&lt;pre&gt;
+&gt; sux
+&gt; halt &lt;/pre&gt;
+oder
+&lt;pre&gt;
+&gt; poweroff&lt;/pre&gt;
+erreichen. Der Befehl &lt;tt&gt;halt&lt;/tt&gt; ist dabei die Abkürzung für
+&lt;tt&gt;shutdown -h now&lt;/tt&gt; und &lt;tt&gt;poweroff&lt;/tt&gt; steht für
+&lt;tt&gt;halt -p&lt;/tt&gt;. Wenn man es weniger eilig hat, kann man das System
+z.B. in 2 Minuten mit dem Befehl
+&lt;pre&gt;&gt; shutdown -h +2&lt;/pre&gt;
+herunterfahren. Will man nur neustarten benutzt man am besten
+&lt;pre&gt;
+&gt; reboot
+&lt;/pre&gt;
+which is an alias for &lt;tt&gt;shutdown -r now&lt;/tt&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;System an einem bestimmmten Tag herunterfahren:&lt;/em&gt;&lt;br /&gt;
+Mit dem Befehl &lt;tt&gt;shutdown&lt;/tt&gt; allein ist es nicht möglich, den
+Computer an einem bestimmten Datum herunterzufahren, da
+&lt;tt&gt;shutdown&lt;/tt&gt; nur Uhrzeitangaben, jedoch keine Datumsangaben
+(Tage, Monate, Jahre...) erlaubt. Daher muß man &lt;tt&gt;at&lt;/tt&gt; benutzen,
+z.B.:
+&lt;pre&gt;
+&gt; sux
+&gt; at 05:00 30.08.05
+at&gt; halt
+at&gt; [[Ctrl]]-[[d]]
+&gt;
+&lt;/pre&gt;
+Dieser Befehl (&lt;tt&gt;[[Ctrl]]-[[d]]&lt;/tt&gt; steht dabei für die abschließende Tastenkombination
+&lt;tt&gt;Ctrl-d&lt;/tt&gt; ) fährt das System am 30.08.2005 um 5 Uhr früh herunter.
+Eventuelle Ausgaben werden als Mail an &lt;tt&gt;root@computername.domainname&lt;/tt&gt; geschickt.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scratch-Partition einrichten:&lt;/em&gt;&lt;br /&gt;
+Um allen Benutzern auf einem Computer die Möglichkeit zu geben temporär
+Daten auf dem lokalen Computer abzulegen, ist es üblich sogenannte
+Scratch-Partitionen (oder ein Scratch-Verzeichnis) anzulegen. Um ein
+Scratch-Verzeichnis anzulegen kann man z.B. folgendermaßen vorgehen:
+&lt;pre&gt;
+&gt; sux
+&gt; cd /
+&gt; mkdir scratch
+&gt; chmod a+rwx scratch
+&lt;/pre&gt;
+Der letze Befehl gibt dabei allen Benutzern Lese- und Schreibrechte.
+Das Executable-Bit &lt;tt&gt;x&lt;/tt&gt; zusätzlich ist wichtig, damit auch alle
+Benutzer in das Verzeichnis mittels &lt;tt&gt;cd&lt;/tt&gt; wechseln können.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Windows-Partition unter Linux mounten:&lt;/em&gt;
+&lt;pre&gt;&gt; mount /dev/hdc1 /mnt -t vfat -o umask=000, exec &lt;/pre&gt;
+Dabei steht &lt;tt&gt;vfat&lt;/tt&gt; für das Dateisystem FAT32, &lt;tt&gt;umask=000&lt;/tt&gt; gibt allen Benutzern 
+Lese- und Schreibrechte und &lt;tt&gt;exec&lt;/tt&gt; erlaubt das Ausführen von Programmen
+von dem gemounteten Dateisystem. Soll das Laufwerk immer beim booten gemountet werden,
+sieht ein entsprechender Eintrag in die Datei &lt;tt&gt;/etc/fstab&lt;/tt&gt; folgendermaßen aus:
+&lt;pre&gt;
+/dev/sda7  /windows/E  vfat  users,gid=users, umask=0000,exec,utf8=true  0  0
+&lt;/pre&gt;
+Erläuterung zum umask-code:&lt;br /&gt;
+Die erste 0 zeigt einfach an, dass eine Octal-Zahl folgt, die zweite Zahl steht für die Rechte
+des &lt;tt&gt;user&lt;/tt&gt;, die dritte für die rechte der &lt;tt&gt;group&lt;/tt&gt; und die vierte für &lt;tt&gt;others&lt;/tt&gt;.
+Die Kodierung ist dabei folgendermaßen:
+keine Leserechte &lt;tt&gt;r&lt;/tt&gt;=4, keine Schreibrechte &lt;tt&gt;w&lt;/tt&gt;=2 und keine Ausführbarkeit &lt;tt&gt;x&lt;/tt&gt;=1,
+sodass z.B. alle Rechte für &lt;tt&gt;others&lt;/tt&gt; ausgeschlossen sind, wenn die entsprechende Zahl 4+2+1=7 ist. 
+Alle möglichen Kombinationen entnehme man folgender Tabelle:
+&lt;table border=&#34;1&#34; style=&#34;margin:auto;&#34;&gt;
+&lt;tr&gt;&lt;td&gt; 0 &lt;/td&gt;&lt;td&gt; 1 &lt;/td&gt;&lt;td&gt; 2 &lt;/td&gt;&lt;td&gt; 3 &lt;/td&gt;&lt;td&gt; 4 &lt;/td&gt;&lt;td&gt; 5 &lt;/td&gt;&lt;td&gt; 6 &lt;/td&gt;&lt;td&gt; 7 &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;rwx&lt;/td&gt;&lt;td&gt;rw-&lt;/td&gt;&lt;td&gt;r-x&lt;/td&gt;&lt;td&gt;r--&lt;/td&gt;&lt;td&gt;-wx&lt;/td&gt;&lt;td&gt;-w-&lt;/td&gt;&lt;td&gt;--x&lt;/td&gt;&lt;td&gt;---&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+Mehr dazu findet man auch auf
+&lt;a href=&#34;http://gentoo-wiki.com/HOWTO_Mount_Windows_partitions_(DOS,_FAT,NTFS)#uid.2Cgid:_mount_as_.28user.2Cgroup.29&#34;&gt;
+gentoo-wiki.com
+&lt;/a&gt; und &lt;a href=&#34;http://de.opensuse.org/SDB%3ADOS_Mount%2C_Schreibrechte_f%C3%BCr_alle&#34;&gt;de.opensuse.org&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;USB-Disk unter Linux als FAT32 formatieren:&lt;/em&gt;&lt;br /&gt;
+Als root oder Superuser eingeben (siehe auch &lt;a href=&#34;http://www.linux-club.de/viewtopic.php?t=59075&#34;&gt;www.linuxclub.de&lt;/a&gt;):
+&lt;pre&gt;&gt; mkfs.vfat -F 32 /dev/[laufwerk]&lt;/pre&gt;
+oder
+&lt;pre&gt;&gt; mkdosfs -F 32 /dev/[laufwerk]&lt;/pre&gt;
+Das Laufwerk bekommt man unter KDE auf Suse Linux heraus, indem man das Icon des USB-Sticks auf dem Desktop
+rechtsklickt und im Menü-&gt;Eigenschaften wählt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Disketten formatieren unter Linux:&lt;/em&gt;&lt;br /&gt;
+Falls man an einem Computer sitzt der noch ein Diskettenlaufwerk besitzt
+&lt;pre&gt;&gt; mformat a:&lt;/pre&gt;
+Dies formatiert eine Diskette mit dem DOS-FAT Dateisystem. Für weitere Informationen siehe
+&lt;a href=&#34;http://de.opensuse.org/SDB:Disketten_formatieren_unter_Linux&#34;&gt;SDB:Disketten formatieren unter Linux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Unterschied zwischen &lt;tt&gt;user&lt;/tt&gt; und &lt;tt&gt;users&lt;/tt&gt; beim mounten:&lt;/em&gt;&lt;br /&gt;
+Es besteht ein subtiler (und in den &lt;tt&gt;man&lt;/tt&gt;-Pages schlecht erklärter) Unterschied
+zwischen den Optionen &lt;tt&gt;user&lt;/tt&gt; und &lt;tt&gt;users&lt;/tt&gt;, die man beim mounten von Laufwerken
+angeben kann:&lt;br /&gt;
+Die Option &lt;tt&gt;user&lt;/tt&gt; erlaubt es, dass jeder Benutzer ein Laufwerk mounten darf; aber nur der
+Benutzer, welcher das Laufwerk gemountet hat, darf es auch wieder unmounten. Die Option
+&lt;tt&gt;users&lt;/tt&gt; erlaubt es hingegen, dass jeder Benutzer, egal ob er das Laufwerk gemountet hat
+oder nicht, dieses wieder unmounten darf.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Detaillierte &lt;tt&gt;Yast2&lt;/tt&gt;-Fehlermeldungen lesen:&lt;/em&gt;&lt;br /&gt;
+Sämtliche Fehler, die bei der Benutzung von &lt;tt&gt;Yast2&lt;/tt&gt; auftreten, werden detailliert
+im Yast2-Logfile mitprotokolliert. Lesen kann man dieses unter Suse Linux mit
+&lt;pre&gt;
+&gt; less /var/log/Yast2/y2log
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;NIS-User mit &lt;tt&gt;Yast2&lt;/tt&gt; verwalten&lt;/em&gt;&lt;br /&gt;
+Unter Suse kann man über &lt;tt&gt;Yast2&lt;/tt&gt; nicht nur die lokalen Benutzer, sondern auf dem NIS-Server
+auch die NIS-Benutzer verwalten. Dazu muß ein NIS-Server konfiguriert und gestartet sein.
+Jedoch erkennt das Benutzerverwaltungsmodul von &lt;tt&gt;Yast2&lt;/tt&gt; nicht immer, wenn ein NIS-Server
+läuft, so dass es die Verwaltung der NIS-Benutzer nicht erlaubt. Einzige Abhilfe in diesem Fall ist
+mittels
+&lt;pre&gt;
+&gt; /usr/lib/yp/ypinit -m
+&lt;/pre&gt;
+im Verzeichnis &lt;tt&gt;/var/yp&lt;/tt&gt; den Server manuell neu zu initialisieren. Erst danach erkennt 
+&lt;tt&gt;Yast2&lt;/tt&gt; wieder, dass ein NIS-Server läuft und erlaubt die NIS-Benutzerverwaltung.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;RPM-Pakete von Kommandozeile über Yast2 installieren:&lt;/em&gt;&lt;br /&gt;
+Obwohl es zunächst unsinnig klingen mag, ist es manchmal von Vorteil
+&lt;pre&gt;&gt; kdesu /opt/kde3/share/apps/krpmview/setup_temp_source *.rpm&lt;/pre&gt;
+Dies entspricht der Aktion &#34;Mit Yast installieren&#34;, welche man per Rechtsklick auf ein 
+RPM im Kontextmenü des Konqueror findet. Es funktioniert auch mit mehreren RPMs.&lt;/li&gt; 
+&lt;li&gt;&lt;em&gt;RPM-Pakete von Kommandozeile ohne Yast2 installieren:&lt;/em&gt;
+&lt;pre&gt;
+&gt; rpm -Uhv [paketname].rpm
+&lt;/pre&gt;
+Die Option &lt;tt&gt;-U&lt;/tt&gt; steht dabei für Upgrade, welches nach der Installation alle älteren 
+installierten Versionen von &lt;tt&gt;[paketname]&lt;/tt&gt; entfernt. &lt;tt&gt;-h&lt;/tt&gt; steht für &#34;hash marks&#34;,
+welches zur Fortschrittsanzeige beim Installieren 50 &#34;hash marks&#34; anzeigt. Die Option &lt;tt&gt;-v&lt;/tt&gt;
+steht für &#34;verbose&#34; und sorgt u.a. dafür, dass die &#34;hash marks&#34; etwas schöner angezeigt werden.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, welche Version eines Pakets installiert ist:&lt;/em&gt;
+&lt;pre&gt;
+&gt; rpm -q [paketname] 
+&lt;/pre&gt;
+&lt;li&gt;&lt;em&gt;Herausfinden, wohin die Dateien eines Pakets installiert werden:&lt;/em&gt;
+&lt;pre&gt;
+&gt; rpm -q -l [paketname] 
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Kopieren für Fortgeschrittene&lt;/h6&gt;
+&lt;p&gt;Wer jemals ein komplettes Home-Verzeichnis für z.B. Backup-Zwecke mittels &lt;tt&gt;cp -R &lt;/tt&gt; kopiert hat,
+wird erstaunt feststellen, dass nicht alle Dateien kopiert wurden und auch die Rechte der Dateien 
+eventuell nicht den ursprünglichen Rechten entsprechen. Ein ziemliches Desaster, wenn man diese Kopie
+für Backup-Zwecke verwenden wollte. Die Lösung dafür ist&lt;/p&gt;
+&lt;pre&gt;
+&gt; sudo cp -a -T source dest
+&lt;/pre&gt;
+&lt;p&gt;Die Option &lt;tt&gt;-a&lt;/tt&gt; ist equivalent zu &lt;tt&gt;-r -p -d&lt;/tt&gt;, kopiert also rekursiv, erhält dabei die Rechte
+und erhält auch Links. Die Option &lt;tt&gt;-T&lt;/tt&gt; behandelt das Ziel &lt;tt&gt;dest&lt;/tt&gt; wie eine Datei, d.h. falls
+&lt;tt&gt;dest&lt;/tt&gt; noch nicht existiert, wird es angelegt (mehr zu dieser Option unter
+&lt;a href=&#34;http://www.gnu.org/software/coreutils/manual/html_node/Target-directory.html#Target-directory&#34;&gt;
+http://www.gnu.org/software/coreutils&lt;/a&gt;)
+. Eine vergleichbare Lösung ist (siehe
+&lt;a href=&#34;http://superuser.com/questions/26586/copy-directory-contents-using-cp-command&#34;&gt;superuser.com&lt;/a&gt;):&lt;/p&gt;
+&lt;pre&gt;
+&gt; sudo cp -a source/. dest
+&lt;/pre&gt;
+&lt;p&gt;Für den Fall, dass man auf einem sehr alten Unix-System arbeitet, das vielleicht nicht alle genannten 
+&lt;tt&gt;cp&lt;/tt&gt;-Optionen unterstützt, gibt es auch noch die Möglichkeit das Quellverzeichnis in eine &lt;tt&gt;tar&lt;/tt&gt;-Datei
+zu packen und am Zielort wieder zu entpacken (das ganze funktioniert auch über &lt;tt&gt;ssh&lt;/tt&gt;), siehe
+&lt;a href=&#34;http://www.tech-recipes.com/rx/513/copy-entire-contents-of-a-directory-and-preserve-permissions/&#34;&gt;
+www.tech-recipes.com&lt;/a&gt;. Will man nur versteckte Dateien (&lt;tt&gt;.*&lt;/tt&gt;) kopieren, stößt man mit dem
+Standardpatternmatching an Grenzen, denn &lt;tt&gt;.*&lt;/tt&gt; gilt auch für &lt;tt&gt;..&lt;/tt&gt;. Auch dabei kann &lt;tt&gt;tar&lt;/tt&gt; helfen,
+siehe &lt;a href=&#34;http://serverfault.com/questions/3154/recursively-copying-hidden-files-linux&#34;&gt;serverfault.com&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Netzwerkinterface unter Suse/Ubuntu konfigurieren&lt;/h6&gt;
+&lt;p&gt;Unter Suse konfiguriert man Netzwerkarten usw. am besten über Yast2. Will man
+dennoch über die Kommandozeile arbeiten wird man feststellen, dass die unter Debian/Ubuntu
+verbreitete Konfigurationsdatei &lt;tt&gt;/etc/network/interfaces&lt;/tt&gt; unter Suse nicht existiert
+(siehe &lt;a href=&#34;http://lilypond.org/blog/janneke/openSUSE-HOWTO&#34;&gt;openSUSE-HOWTO&lt;/a&gt;)
+. Unter Suse wird für jedes 
+Netzwerkinterface eine eigene Datei der Form &lt;tt&gt;ifcfg-*&lt;/tt&gt; unter &lt;tt&gt;/etc/sysconfig/network/&lt;/tt&gt; angelegt.
+Informationen über das Format dieser Datei gibt es mit &lt;tt&gt;man ifcfg&lt;/tt&gt; und z.B. bei 
+&lt;a href=&#34;http://www.fibel.org/linux/lfo-0.6.0/node478.html&#34;&gt;www.fibel.org&lt;/a&gt;. Wie man unter Ubuntu eine Netzwerkarte
+einrichtet wird bei 
+&lt;a href=&#34;https://help.ubuntu.com/9.04/serverguide/C/network-configuration.html&#34;&gt;Ubuntu Server Guide&lt;/a&gt; und in den
+&lt;a href=&#34;http://manpages.ubuntu.com/manpages/jaunty/en/man5/interfaces.5.html&#34;&gt;Ubuntu ManPages&lt;/a&gt;
+erklärt. Für eine Netzwerkarte mit dynamischer IP-Adresse schreibt man in &lt;tt&gt;/etc/network/interfaces&lt;/tt&gt;:&lt;/p&gt;
+&lt;pre&gt;
+auto eth0
+iface eth0 inet dhc
+&lt;/pre&gt;
+&lt;p&gt;Für eine Netzwerkarte mit statischer IP-Adresse z.B.:&lt;/p&gt;
+&lt;pre&gt;
+auto eth0
+iface eth0 inet static
+address 123.456.10.225
+netmask 255.255.255.0
+gateway 123.456.10.254
+&lt;/pre&gt;
+&lt;h6&gt;Init-Skripte für Suse Linux schreiben&lt;/h6&gt;
+&lt;p&gt;Init-Skript sind bash-Skripten, die benutzt werden sollten um einen Hintergrund-Dienst (Dämon,Service) 
+zu kontrollieren (starten, stoppen,neustarten). Sie werden auch vom Betriebsystem genutzt um einen Dienst
+beim Start des System automatisch zu starten. Normalerweise werden sie in &lt;tt&gt;/etc/init.d&lt;/tt&gt; als 
+ausführbare Dateien ohne Suffix (z.B. &lt;tt&gt;/etc/init.d/sshd&lt;/tt&gt;) gespeichert.
+Mit Suse wird ein Beispiel-Init-Skript mitgeliefert, das als Ausgangspunkt für eigene Init-Skripte dienen
+kann. Es liegt unter&lt;/p&gt;
+&lt;pre&gt;
+/etc/init.d/skeleton
+&lt;/pre&gt;
+&lt;p&gt;Eine ausführliche Anleitung zum Erstellen eigener Init-Skripten findet man bei
+&lt;a href=&#34;http://developer.novell.com/wiki/index.php/Writing_Init_Scripts&#34;&gt;Novell Developer - Writing_Init_Scripts&lt;/a&gt;.
+Mit&lt;/p&gt; 
+&lt;pre&gt;
+&gt; sudo /sbin/chkconfig -a newservice
+&lt;/pre&gt;
+&lt;p&gt;kann man einen Dienst beim Betriebssystem registrien, so dass er automatisch gestartet wird. In welchen Runlevels
+er gestartet wird, wird im Init-Skript definiert. Eine Übersicht über alle Dienste bekommt man mit&lt;/p&gt;
+&lt;pre&gt;
+&gt; sudo /sbin/chkconfig -l
+&lt;/pre&gt;
+&lt;p&gt;Mehr über &lt;tt&gt;chkconfig&lt;/tt&gt; steht bei 
+&lt;a href=&#34;http://www.easylinux.de/Artikel/ausgabe/2007/01/126-chkconfig/&#34;&gt;easyLinux - Mit den Dienern reden&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Umgang mit ISO-Images unter Linux&lt;/h6&gt;
+&lt;p&gt;Ein ISO-Image einfach zu dekomprimieren wie unter Windows scheint unter Linux nicht möglich zu sein.
+Stattdessen muss man als root(!)-User das Image als virtuelles Laufwerk mounten&lt;/p&gt;
+&lt;pre&gt;
+&gt; mkdir /mnt/iso
+&gt; mount -r -t iso9660 -o loop Datei.iso /mnt/iso
+&lt;/pre&gt;
+&lt;p&gt;Dabei bedeutet &lt;tt&gt;-r&lt;/tt&gt;, dass von diesem Laufwerk nur gelesen werden kann und die Angabe 
+&lt;tt&gt;-t iso9660&lt;/tt&gt; spezifiziert das genaue Dateisystem, kann aber oft auch weggelassen werden.&lt;/p&gt;
+&lt;p&gt;Jetzt kann man auch als normaler Benutzer das Iso-Image Verzeichnis z.B. ins aktuelle Verzeichnis kopieren&lt;/p&gt;
+&lt;pre&gt;
+&gt; cp -v -r /mnt/iso .
+&lt;/pre&gt;
+&lt;p&gt;Jetzt hat man die Daten vom aktuellen Verzeichnis ausgehend im Unterverzeichnis &lt;tt&gt;iso&lt;/tt&gt;.
+Von dort aus kann man die Daten weiterverarbeiten oder auch das &lt;tt&gt;iso&lt;/tt&gt;-Verzeichnis anders komprimieren.
+Allerdings kann man das kopierte Verzeichnis &lt;tt&gt;iso&lt;/tt&gt; nicht unmittelbar löschen, da es von einer
+(virtuellen) CD kopiert wurde und die Rechte noch einer nichtbeschreibbaren CD entsprechen. Daher muss man erst
+mit&lt;/p&gt;
+&lt;pre&gt;
+&gt; chmod -R a+w iso
+&lt;/pre&gt;
+&lt;p&gt;die Rechte entsprechend anpassen, dann kann man das Verzeichnis wieder löschen mit&lt;/p&gt;
+&lt;pre&gt;
+&gt; rm -r iso
+&lt;/pre&gt;
+&lt;p&gt;Um das ISO-Image wieder zu unmounten muss man als root eingeben&lt;/p&gt;
+&lt;pre&gt;
+&gt; umount /mnt/iso
+&gt; rm -r /mnt/iso
+&lt;/pre&gt;
+&lt;p&gt;Kommt bei &lt;tt&gt;umount&lt;/tt&gt; der Fehler&lt;/p&gt;
+&lt;pre&gt;umount: /mnt/iso: device is busy&lt;/pre&gt;
+&lt;p&gt; so muss man sicherstellen, dass kein anderer Benutzer oder Programm gerade auf das Laufwerk
+zugreift (z.B. ein Terminal-Fenster, welches gerade auf &lt;tt&gt;/mnt/iso&lt;/tt&gt; verweist). Dies kann man mit dem 
+&lt;tt&gt;lsof&lt;/tt&gt;-Kommando (siehe &lt;a href=&#34;#lsof&#34;&gt;oben&lt;/a&gt;) überprüfen.&lt;/p&gt;
+&lt;p&gt;Aber eine Frage nach dieser ganzen Prozedur bleibt: Warum nur kann man ein ISO-Image unter Linux nicht einfach 
+wie ein Archiv als normaler Benutzer entpacken? Aber das wäre wahrscheinlich zu einfach.&lt;/p&gt;
+&lt;h6&gt;NFS-Server unter Suse Linux 9.3 einrichten&lt;/h6&gt;
+&lt;p&gt;Ein Network File System (NFS) Server einzurichten ist unter Suse 9.3 nicht schwer.
+Jedoch kann es einige Probleme mit der Suse Firewall geben die einen viel Zeit kosten
+können, daher hier diese Kurzanleitung zur NFS-Server-Installation:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Yast2 aufrufen und unter Network Services das NFS-Server-Modul aufrufen.&lt;/li&gt;
+&lt;li&gt;Den NFS-Server durch anklicken von &lt;tt&gt;Start NFS-Server&lt;/tt&gt; aktivieren und
+&lt;tt&gt;Open Port in Firewall&lt;/tt&gt; auswählen. Ansonsten funktioniert später garnichts.
+Dann weiter zum nächsten Dialog gehen.&lt;/li&gt;
+&lt;li&gt;Im nächsten Dialog muß man nun durch Auswahl von &lt;tt&gt;Add directory&lt;/tt&gt; das
+per NFS zu verteilende Verzeichnis angeben. Im darauffolgenden Eingabefenster
+kann man als &lt;tt&gt;Host wildcard&lt;/tt&gt; &lt;tt&gt;*&lt;/tt&gt; übernehmen, aber damit erlaubt
+man wirklich jedem, dass NFS-Laufwerk zu mounten. Es ist sicherer dies z.B. nur
+für Rechner des eigenen Subnetzes zu erlauben. Man sollte daher für 
+&lt;tt&gt;Host wildcard&lt;/tt&gt; z.B.
+&lt;pre&gt;
+192.168.0.0/255.255.255.0
+&lt;/pre&gt;
+eintragen. Als Optionen sollte man
+&lt;pre&gt;
+ro,root_squash,async
+&lt;/pre&gt;
+setzen. Die Option &lt;tt&gt;ro&lt;/tt&gt; erlaubt dabei nur lesenden Zugriff auf
+das freigegebene Verzeichnis, &lt;tt&gt;root_squash&lt;/tt&gt; (wörtl. &#34;Wurzel zerquetschen&#34;)
+verhindert, dass jemand mit Rootrechten auf einem fremden Rechner, der das NFS-Laufwerk
+eingebunden hat, diese Rootrechte auch auf dem NFS-Laufwerk hat und &lt;tt&gt;async&lt;/tt&gt;
+erlaubt einen schnelleren Zugriff und Datentransfer (ist allerdings etwas
+anfälliger für Fehler als &lt;tt&gt;sync&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;Durch Anklicken von &lt;tt&gt;Finish&lt;/tt&gt; wird der NFS-Server gestartet.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Die Clientrechner sollten nun in der Lage sein, dass freigegebene Verzeichnis zu
+sehen und einzubinden. Oft ist dies jedoch noch nicht der Fall.
+Dann sollte man zunächst mit Rootrechten vom Client aus überprüfen, ob der Portmapper Daemon auf 
+dem Server läuft:&lt;/p&gt;
+&lt;pre&gt;
+&gt; rpcinfo -p servername
+&lt;/pre&gt;
+Dieser Befehl sollte eigentlich eine Liste anzeigen, die so ähnlich
+aussieht:
+&lt;pre&gt;
+program vers proto   port
+...
+100003    2   udp   2049  nfs
+100003    3   udp   2049  nfs
+100003    2   tcp   2049  nfs
+100003    3   tcp   2049  nfs
+...
+&lt;/pre&gt;
+Passiert jedoch garnichts, so handelt es sich um ein Problem mit der
+Firewall auf dem Server. Vermutlich wurde &lt;tt&gt;Open Port in Firewall&lt;/tt&gt;
+vergessen auszuwählen. Wenn stattdessen die Fehlermeldung
+&lt;pre&gt;
+RPC: Program not registered
+&lt;/pre&gt;
+erscheint, so sollte man die Dateien &lt;tt&gt;/etc/hosts.allow&lt;/tt&gt; bzw.
+&lt;tt&gt;/etc/hosts.deny&lt;/tt&gt; überprüfen. In &lt;tt&gt;/etc/hosts.allow&lt;/tt&gt;
+sollte man folgende Dienste erlauben, falls man
+ansonsten in &lt;tt&gt;/etc/hosts.deny&lt;/tt&gt; alle Dienste erst einmal 
+generell verboten hat:
+&lt;pre&gt;
+portmap: 192.168.0.0/255.255.255.0 :ALLOW
+mountd: 192.168.0.0/255.255.255.0 :ALLOW
+lockd: 192.168.0.0/255.255.255.0 :ALLOW
+rquotad: 192.168.0.0/255.255.255.0 :ALLOW
+statd: 192.168.0.0/255.255.255.0 :ALLOW
+&lt;/pre&gt;
+&lt;p&gt;Mehr dazu findet man auch in der 
+&lt;a href=&#34;http://www.faqs.org/docs/Linux-HOWTO/NFS-HOWTO.html&#34;&gt;Linux-NFS-HOWTO&lt;/a&gt;
+&lt;p&gt;Funktioniert der &lt;tt&gt;rpcinfo&lt;/tt&gt;-Befehl jedoch ohne Probleme und
+der Clientrechner findet die Freigaben immer noch nicht, so hilft es häufig
+die Suse Firewall auf dem Server ab- und dann wieder anzuschalten. Dann funktioniert
+seltsamerweise oft alles wieder wie es soll. &lt;br /&gt;
+Mehr zum Thema NFS findet man abgesehen vom oben erwähnten
+Linux-NFS-HOWTO auch auf deutsch unter &lt;a href=&#34;http://linuxwiki.de/NFS&#34;&gt;linuxwiki.de&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h6&gt;Subversion (SVN) einrichten&lt;/h6&gt;
+&lt;p&gt;Das Versionskontrollsystem Subversion (SVN) einzurichten lohnt sich nicht nur für Gruppen von Entwicklern
+sondern auch für den einzelnen Programmierer, denn mit SVN hat man praktisch eine Zeitmaschine (wie es die
+SVN Entwickler selbst ausdrücken), die es einem erlaubt sämtliche(!) Änderungen (d.h. auch das Überschreiben
+und Umbenennen von Dateien und Verzeichnissen u.ä.) an einem Projekt transparent zu verfolgen und gegebenenfalls
+rückgängig zu machen. Wäre jedes Filesystem ein Versionskontrollsystem gäbe es nie mehr Datenverlust durch das 
+unbeabsichtigte Überschreiben von Dateien, vor dem auch Techniken wie die Verwendung von &#34;Trashcans&#34; in
+modernen Betreibsystemen nicht schützen. Aber es soll hier nicht diskutiert werden, warum es sowas nützliches wieder
+nicht gibt, sondern die Installation von SVN dargestellt werden. &lt;br /&gt;
+Die Installation von SVN ist im Prinzip in der ausführliche offiziellen 
+&lt;a href=&#34;http://svnbook.red-bean.com/&#34;&gt;Onlineanleitung&lt;/a&gt; zu SVN beschrieben. Jedoch liegt der Schwerpunkt
+eher auf der Installation im Zusammenhang mit dem WebDAV-Module für Apache. Will man jedoch nicht extra
+Apache laufen lassen und stattdessen SVN einfach über SSH bedienen sind einige Fallstricke bezüglich
+Benutzerrechten zu umschiffen. Dies wird recht übersichtlich bei 
+&lt;a href=&#34;http://www.linux-fuer-alle.de/doc_show.php?docid=230&amp;amp;catid=3&#34;&gt;Linux-fuer-alle&lt;/a&gt; erklärt
+und soll hier nochmal zusammengefasst und ergänzt werden:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zunächst muß man Subversion auf dem Server installieren, auf dem man das Repository
+(die Ablage für die Dateien, die versionskontrolliert werden sollen) anlegen möchte. 
+Dies macht man am besten mit &lt;tt&gt;Yast2&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;Dann sollte man eine neue Benutzergruppe (Name z.B. &lt;tt&gt;svn&lt;/tt&gt;) im System anlegen.
+Alle Benutzer, die später Subversion verwenden wollen, müssen Mitglieder dieser Gruppe werden.
+Am einfachsten erledigt man das wieder mit &lt;tt&gt;Yast2&lt;/tt&gt; indem man unter &#34;Security and Users&#34; 
+das Module &#34;Edit and create groups&#34; aufruft (Ob man das &#34;lokal&#34; auf dem Rechner macht, auf dem
+das Repository liegt, oder &#34;global&#34; auf dem eventuell vorhandenen NIS-Server ist eigentlich egal,
+aber mit einer globalen Gruppe ist es später leichter, das Repository auf einen anderen Rechner
+zu verschieben). Nach Aufruf von &#34;Add&#34; (eventuell sollte man vorher unter &#34;Set Filter&#34;
+&#34;NIS Groups&#34; oder &#34;System Groups&#34; auswählen, damit man später auch die &#34;globalen&#34; Benutzer sieht)
+gibt man &#34;Group Name&#34; und &#34;Group ID&#34; (diese sollte &gt; 500 sein, andernfalls gibts Probleme) und
+wählt die zugehörigen Mitglieder aus. Danach kann man das ganze durch Drücken von &#34;Accept&#34; und &#34;Finish&#34;
+abschließen.&lt;/li&gt;
+&lt;li&gt;Damit sich die verschiedenen Benutzer nicht gegenseitig aussperren, weil die gesendeten
+Dateien die falschen Benutzungsrechte haben, muß man auf dem Repository-Server den
+Befehl &lt;tt&gt;/usr/bin/svnserve&lt;/tt&gt; durch ein Wrapper-Skript ersetzen, welches automatisch
+die richtigen Rechte für alle empfangenen Dateien setzt. Dazu sollte man den
+Orginalbefehl umbenennen:
+&lt;pre&gt;
+&gt; mv svnserve svnserv
+&lt;/pre&gt;
+und stattdessen folgendes Skript anlegen:
+&lt;pre&gt;
+&gt; pico svnserve
+#!/bin/bash
+umask 002            #Everything is allowed for user and the group,
+                     #nothing is allowed for others.
+/usr/bin/svnserv $*
+&lt;/pre&gt;
+Nicht vergessen, dass Skript für alle ausführbar zu machen:
+&lt;pre&gt;
+&gt; chmod a+x svnserve
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Jetzt muß man das Repository anlegen, z.B. kann man mit Rootrechten ein neues Verzeichnis im
+Wurzelverzeichnis des Repository-Servers anlegen:
+&lt;pre&gt;
+&gt; cd /
+&gt; mkdir subversion
+&lt;/pre&gt;
+Will man erlauben, dass auch Benutzer der Gruppe &lt;tt&gt;svn&lt;/tt&gt; neue Repositories innerhalb des Verzeichnises
+&lt;tt&gt;subversion&lt;/tt&gt; anlegen können, so muß man noch die Gruppenzugehörigkeit und die Schreibrechte dieses 
+Verzeichnisses anpassen:
+&lt;pre&gt;
+&gt; chown root.svn subversion/
+&gt; chmod g+w subversion/
+&lt;/pre&gt;
+Hat man den letzten Schritt getan, kann man die folgenden mit einem Benutzer aus der Gruppe &lt;tt&gt;svn&lt;/tt&gt;
+durchfuehren, ansonsten muß man weiter mit Root-Rechten arbeiten.
+&lt;pre&gt;
+&gt; cd subversion
+&gt; mkdir projektname
+&lt;/pre&gt;
+Das Unterverzeichnis &lt;tt&gt;projektname&lt;/tt&gt; ist nur zur Übersicht, da man sicher mehr als nur
+ein Projekt mit Subversion verwalten möchte. Dieses Unterverzeichnis muß man nun zu einem
+Repository erklären (subversion legt dazu dort einige Unterverzeichnisse und Dateien an):
+&lt;pre&gt;
+&gt; svnadmin create --fs-type fsfs projektname
+&lt;/pre&gt;
+Die Option &lt;tt&gt;--fs-type fsfs&lt;/tt&gt; stellt dabei sicher, dass Subversion als Speichersystem
+einfach das Filesystem verwendet und nicht die veraltete Berkley Database (DB), die eigentlich
+nur Nachteile hat (siehe 
+&lt;a href=&#34;http://svnbook.red-bean.com/nightly/en/svn.reposadmin.html#svn.reposadmin.basics.backends&#34;&gt;
+Repository Administration&lt;/a&gt; im Online Manual). Ich wundere mich, warum sie immer
+noch in der Defaulteinstellung verwendet wird.&lt;/li&gt;
+&lt;li&gt;Nun muß man die Zugriffsrechte auf das Repository so anpassen, dass später alle
+Mitglieder der angelegten Gruppe &lt;tt&gt;svn&lt;/tt&gt; Zugriff darauf haben:
+&lt;pre&gt;
+&gt; chgrp -R svn projektname
+&lt;/pre&gt;
+Alle anderen haben im Repository nichts verloren:
+&lt;pre&gt;
+&gt; chmod -R o-rwx projektname
+&lt;/pre&gt;
+Die Gruppenmitglieder sollen natürlich auch schreiben dürfen:
+&lt;pre&gt;
+&gt; chmod -R g+rw projektname
+&lt;/pre&gt;
+Um sicherzustellen, dass die Logfiles, welche Subversion anlegt auch problemlos geschrieben
+werden können ist noch folgende Rechteänderung nötig:
+&lt;pre&gt;
+&gt; chmod g+s projektname/db
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Nun muss man nur noch die Konfiguration des Repositories etwas anpassen.
+Dazu sollte man in der Datei &lt;tt&gt;/subversion/projektname/conf/svnserve.conf&lt;/tt&gt;
+folgendes eintragen:
+&lt;pre&gt;
+[general]            #Diese Zeile darf nicht weggelassen werden.
+anon-access = none
+auth-access = write
+realm = projektname
+&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Falls noch nicht geschehen kann man jetzt Subversion mit &lt;tt&gt;Yast2&lt;/tt&gt;
+auch auf den Clientrechnern installieren. Von einem Clientrechner aus kann
+man jetzt, wenn man zur Benutzergruppe &lt;tt&gt;svn&lt;/tt&gt; gehört, das Repository
+mit Daten füllen:
+&lt;pre&gt;
+svn import dirname svn+ssh://[svnserver]/subversion/projektname/dirname -m &#34;Original Version&#34;
+&lt;/pre&gt;
+Dabei steht &lt;tt&gt;dirname&lt;/tt&gt; z.B. für das Verzeichnis in dem das Projekt
+(inklusive Sourcecode, Makefiles, Bilder, Readme usw., Subversion verwaltet alles!)
+bisher auf dem Clientrechner lag. &lt;tt&gt;[svnserver]&lt;/tt&gt; steht für die Adresse
+des Servers, auf dem das Repository eingerichtet wurde und mit
+der Option &lt;tt&gt;-m&lt;/tt&gt; hat man die Möglichkeit kurze Notizen zu dem
+gerade eingerichtet Projekt zu geben.
+Noch ein Tipp zum Schluß: Falls aus unerfindlichen Gründen beim Datenimport
+plötzlich &lt;tt&gt;vim&lt;/tt&gt; startet, so kann man diesen mit Eingabe von
+&lt;tt&gt;:quit[[Enter]]&lt;/tt&gt; beenden. Die darauf folgende Frage muß man dann mit
+&lt;tt&gt;c(ontinue)&lt;/tt&gt; beantworten. Dann startet der Datenimport aber wirklich.
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

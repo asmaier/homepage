@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>studie | Das Blog</title>
+    <link>/tag/studie/</link>
+      <atom:link href="/tag/studie/index.xml" rel="self" type="application/rss+xml" />
+    <description>studie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>studie</title>
+      <link>/tag/studie/</link>
+    </image>
+    
+    <item>
+      <title>Heute gab es die ersten ...</title>
+      <link>/post/2020-04-10-heute-gab-es-die-ersten/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-04-10-heute-gab-es-die-ersten/</guid>
+      <description>&lt;p&gt;Heute gab es die ersten Ergebnisse der Studie, welche stichprobenartig die Infektionsrate der Bevölkerung mit Corona in Gangelt, Kreis Heinsberg untersucht hat (&lt;a href=&#34;https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0)&lt;/a&gt;. Bisher wurden ca. 500 zufällig ausgewählte Personen von 12.529 untersucht. Das Ergebnis: 15% waren bereits bzw. sind gerade mit Corona infiziert. 0,37% sind daran gestorben.&lt;/p&gt;
+&lt;p&gt;Die Zahl 0.37% passt sehr gut zu der Abschätzung aus &lt;a href=&#34;http://www.rwi-essen.de/unstatistik/101/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.rwi-essen.de/unstatistik/101/&lt;/a&gt; , wo für das Kreuzfahrtschiff „Diamond Princess“ eine Letalität von 0.5 +/- 0.25% errechnet wurde. Die Wissenschaft scheint sich also langsam auf einen Letalitätswert von 0.4-0.5% zu einigen.&lt;/p&gt;
+&lt;p&gt;Aber leider ist diese vorläufige Auswertung nicht gut gemacht.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Es fehlt eine Angabe des statistischen Fehlers. Wie groß ist X , wenn man sagt 15 +/- X % sind infiziert. Es ist sehr relevant ob X 1%, 10% oder 100% ist. Wann bringt jemand Medizinern mal bei, dass Meßwerte ohne Fehlerbalken sinnlos sind?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Seltsam ist auch, das 0.37% von 15% der Infizierten von can 500 Personen, also 500&lt;em&gt;0.15&lt;/em&gt;0.0037= 0.2775 ist. D.h. weniger als eine Person ist gestorben. Wie kann das sein? Ich vermute, das eine oder zwei Personen gestorben sind, aber man dann noch eine Alterskorrektur errechnet hat um das Ergebnis für die Altersverteilung der Normalbevölkerung zu errechnen. Leider steht davon kein Wort in dem PDF. Das dürfte wieder zu Verschwörungstheorien führen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Aber wenn wir mal annehmen, das 0.4% tatsächlich die Letalität ist, dann sollten im Kreis Heinsberg bei ca 250000 Einwohnern 250000&lt;em&gt;0.15&lt;/em&gt;0.004=150 Personen an Corona gestorben sein. Die offiziellen Zahlen listen 44 Fälle auf. D.h. die offizielle Statistik unterschätzt die Todesfälle um Faktor 3. (Und die Infektionsfälle um den Faktor 25 = (250000*0.15)/1500) Würde man die Zahlen aus Heinsberg auf Gesamtdeutschland übertragen dann hätten wir bereits 12 Millionen Infizierte und knapp 50000 Tote. Wenn wir umgedreht rechnen und annehmen das die gesamtdeutsche Statistik die Zahlen in gleichem Maße wie in Heinsberg unterschätzt, dann müssten wir heute nicht von 2200 sondern von 6600 Toten ausgehen und nicht von 110000 Infizierten, sondern von 2,75 Millionen Infizierten. Das ergäbe dann eine gesamtdeutsche Letalität von 6600/2,75 Millionen = 0.24% . Die Annahme, dass die gesamtdeutsche Statistik die Zahlen ähnlich unterschätzt wie in Heinsberg ist also einigermaßen konsistent. Gesamtdeutsch werden wohl die Todesfälle noch etwas mehr unterschätzt als in Heinsberg. Man müsste eigentlich Corona 10000 Todesfälle zuschreiben um bei 2,75 Millionen Infizierten auf eine Letalität von 0.37 % zu kommen. Daraus könnte man ableiten, das die gesamtdeutsche Statistik die Todesfälle um den Faktor 4,5 unterschätzt.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.land.nrw/sites/default/files/styles/text_image_header__1x__mobile_portrait/public/assets/images/stk01172.jpg?h=436df5de&amp;amp;itok=KiFTXC2P&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+land.nrw&lt;/p&gt;
+&lt;h2 id=&#34;übergabe-erster-ergebnisse-des-forschungsprojekts-covid-19-case-cluster-study-an-die-landesregierung--landnrwhttpswwwlandnrwdepressemitteilunguebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0&#34;&gt;&lt;a href=&#34;https://www.land.nrw/de/pressemitteilung/uebergabe-erster-zwischenergebnisse-des-forschungsprojekts-covid-19-case-cluster-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Übergabe erster Ergebnisse des Forschungsprojekts „Covid-19 Case-Cluster-Study“ an die Landesregierung | Land.NRW&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ministerpräsident Armin Laschet hat die ersten Zwischenergebnisse des laufenden Forschungsprojekts „Covid-19 Case-Cluster-Study“ entgegengenommen. Das einzigartige Corona-Forschungsprojekt zum Infektionsgeschehen des Corona-Virus führt der renommierte Virologe Prof. Dr. Hendrik Streeck, Direktor des Instituts für Virologie am Universitätsklinikum Bonn, mit Unterstützung der Landesregierung derzeit im Landkreis Heinsberg durch.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kurzsichtigkeit - Neues aus der Wissenschaft</title>
+      <link>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</link>
+      <pubDate>Mon, 17 Sep 2018 20:16:00 +0000</pubDate>
+      <guid>/post/2018-09-17-kurzsichtigkeit-neues-aus-der/</guid>
+      <description>
+&lt;div dir=&#34;ltr&#34; style=&#34;text-align: left;&#34; trbidi=&#34;on&#34;&gt;Nach meinem Artikel von &lt;a href=&#34;https://asmaier.blogspot.com/2009/11/ursachen-der-kurzsichtigkeit.html&#34;&gt;2009&lt;/a&gt;&amp;nbsp;über Ursachen der Kurzsichtigkeit und dem von &lt;a href=&#34;https://asmaier.blogspot.com/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34;&gt;2015&lt;/a&gt;&amp;nbsp;über mögliche Therapieansätze habe ich in der Zwischenzeit&amp;nbsp;ein paar neue Erkenntnisse zu dem Thema gesammelt:&lt;br /&gt;&lt;br /&gt;Eine Studie mit 300000 Teilnehmern hat eine positive Korrelation zwischen Brille tragen und höherer Intelligenz gefunden (siehe &lt;a href=&#34;https://www.heilpraxisnet.de/naturheilpraxis/forschung-sind-brillentraeger-wirklich-von-natur-aus-schlauer-20180531411836&#34;&gt;https://www.heilpraxisnet.de/naturheilpraxis/forschung-sind-brillentraeger-wirklich-von-natur-aus-schlauer-20180531411836&lt;/a&gt; ). Das höre ich natürlich gerne, aber es wäre ziemlich unintelligent sich die ganze Sache nicht doch etwas genauer anzusehen. Im Gegensatz zu dem Heilpraxisartikel, wo der Journalist wie üblich natürlich &lt;a href=&#34;https://de.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc&#34;&gt;Korrelation und Kausation verwechselt&lt;/a&gt;, betonen die Wissenschaftler, dass es sich nur um eine Korrelation handelt. Viele Brillenträger sind intelligenter (wobei die Definition von Intelligenz wie üblich sehr problematisch ist). Das bedeutet aber nicht, dass man seine Intelligenz erhöhen kann, indem man Brille trägt. Interessant ist auch, dass eine höhere Intelligenz nur mit Kurzsichtigkeit positiv korreliert ist, mit Weitsichtigkeit aber negativ:&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;&#34;The result for myopia (short-sightedness; rg = 0.32) was consistent with previous evidence of a positive phenotypic and genetic correlation between this trait and cognitive function. Less genetic work has investigated the links between hyperopia (long-sightedness) and cognitive function, although our finding, a genetic correlation of rg = −0.21, was consistent with the negative phenotypic association between these variables reported in previous literature&#34; (&lt;a href=&#34;https://www.nature.com/articles/s41467-018-04362-x&#34;&gt;https://www.nature.com/articles/s41467-018-04362-x&lt;/a&gt;)&lt;/blockquote&gt;&lt;br /&gt;&lt;a name=&#39;more&#39;&gt;&lt;/a&gt;&lt;br /&gt;Die Forscher haben jedoch auch andere Korrelationen gefunden, z.B. korreliert auch eine schnelle Reaktionszeit mit höherer Intelligenz:&lt;br /&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;We found a genetic correlation (rg) of 0.247 (P = 1.28 × 10−30) between reaction time and general cognitive function.&lt;/blockquote&gt;Aber wie wir alle wissen ist nicht jeder Torwart oder 100m Sprinter auch ein Nobelpreisträger. Insgesamt finde ich, dass solche Korrelationsstudien im allgemeinen wenig nützlich sind und mehr Fragen aufwerfen als Antworten geben.&lt;br /&gt;&lt;br /&gt;Viel interessanter dagegen ist jedoch eine Studie der Uni Tübingen. Diese wollen nämlich herausgefunden haben, warum Lesen kurzsichtig macht:&lt;br /&gt;&lt;br /&gt;&lt;ul style=&#34;text-align: left;&#34;&gt;&lt;li&gt;&lt;a href=&#34;http://www.eye-tuebingen.de/the-institute/news-events/news/news-article/60-why-might-reading-make-myopic/&#34;&gt;Universitätsklinikum Tübingen: Why might reading make myopic?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/Studie-von-Tuebinger-Augenheilkundlern-Warum-macht-Lesen-kurzsichtig,tuebinger-erklaeren-kurzsichtigkeit-100.html&#34;&gt;Studie von Tübinger Augenheilkundlern: Warum macht Lesen kurzsichtig?&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Kurz gesagt haben sie den Einfluß des Lesens von schwarzem Text auf weißem Grund und weißem Text auf schwarzem Grund auf die Entwicklung der &lt;a href=&#34;https://de.wikipedia.org/wiki/Aderhaut&#34;&gt;Aderhaut&lt;/a&gt;&amp;nbsp;gemessen. Dabei zeigte sich, dass nur 30 Minuten Lesen von Schwarzem Text auf weißem Grund die Aderhaut verdünnt, was zu einem Längenwachstum und damit zu Kurzsichtigkeit führen kann. Umgedreht führte das Lesen von hellem Text auf dunklem Untergrund zu einer Verdickung der Aderhaut und würde also zu einer Hemmung der Kurzsichtigkeit führen. Würde das stimmen, wäre es sensationell und es gäbe eine sehr einfach Möglichkeit der Kurzsichtigkeit vorzubeugen: Statt Bücher zu lesen sollte man besser am Computer mit umgedrehten Kontrast lesen (z.B. &lt;a href=&#34;https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/&#34;&gt;Apples neuer Dark Mode&lt;/a&gt;). Einen Haken hat die Studie aber doch (was die Journalisten natürlich wieder verschwiegen haben): Insgesamt waren nur sieben Kandidaten beteiligt:&lt;/div&gt;&lt;blockquote class=&#34;tr_bq&#34;&gt;Seven young adult subjects participated, subject 1 was Asian, the others Caucasian, subjects 3 and 6 male, subject 3 wore contact lenses, subjects 1, 2, and 7 spectacles. Ages ranged from 23 to 29 years. Subjects had no known ocular pathologies other than mild or moderate myopia (&lt;a href=&#34;https://www.nature.com/articles/s41598-018-28904-x&#34;&gt;https://www.nature.com/articles/s41598-018-28904-x&lt;/a&gt;).&lt;/blockquote&gt;Damit ist die Studie meiner Meinung nach leider noch viel zu klein um sie wirklich ernst zu nehmen. Würde sich aber in einer größeren Studie mit vielleicht hunderten oder tausenden Teilnehmer ein ähnliches Ergebnis ergeben, dann hätte das meiner Meinung nach den Nobelpreis der Medizin verdient. Wer nicht so lange warten möchte und bereits jetzt seine Augen beim Lesen schonen möchte, dem kann ich das DarkReader Plugin für den Browser empfehlen: &lt;a href=&#34;https://darkreader.org/&#34;&gt;https://darkreader.org/ &lt;/a&gt;. Zusammen mit dem &lt;a href=&#34;https://chrome.google.com/webstore/detail/slinky-elegant/bmanlajnpdncmhfkiccmbgeocgbncfln&#34;&gt;Slinky Elegant Theme&lt;/a&gt; für den Chrome Browser bleibt der Bildschirm beim Internetsurfen dunkel und die Augen werden geschont. Auch auf dem Smartphone kann man schon jetzt oft einen DarkMode nutzen (unter iOS z.B. unter Allgemein-&amp;gt;Bedienhilfen-&amp;gt;Display-Anpassungen-&amp;gt;Farben umkehren -&amp;gt; Intelligent) und spart damit auf einem modernen OLED-Display sogar &lt;a href=&#34;https://appleinsider.com/articles/17/11/10/extreme-test-shows-oled-iphone-x-with-dark-mode-saves-nearly-60-battery-over-3-hours&#34;&gt;signifikant Energie&lt;/a&gt;. Also nutzt den DarkMode auf eurem Computer/Smartphone. Er ist gut für die Umwelt und schon eure Augen.&lt;br /&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bereits 2015 hatte ich ja ...</title>
+      <link>/post/2018-04-30-bereits-2015-hatte-ich-ja/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-04-30-bereits-2015-hatte-ich-ja/</guid>
+      <description>&lt;p&gt;Bereits 2015 hatte ich ja in einem Blog-Post (&lt;a href=&#34;https://asmaier.blogspot.de/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://asmaier.blogspot.de/2015/11/kurzsichtigkeit-stand-der-wissenschaft.html&lt;/a&gt;) spekuliert, dass Schokolade (genauer gesagt, das Theobromin aus dem Kakao) gegen Kurzsichtigkeit helfen könnte. Jetzt gibt es offenbar eine Studie, die so einen Effekt nachgewiesen haben möchte. Die Frage ist jetzt, gibt es für Kurzsichtige bald Schokolade auf Rezept? ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.heilpraxisnet.de/naturheilpraxis/dunkle-schokolade-verbessert-das-sehvermoegen-20180430408499&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.heilpraxisnet.de/wp-content/uploads/2016/11/Schokolade-Unterleibsschmerzen.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heilpraxisnet.de&lt;/p&gt;
+&lt;h2 id=&#34;studie-dunkle-schokolade-steigert-unser-sehvermögenhttpwwwheilpraxisnetdenaturheilpraxisdunkle-schokolade-verbessert-das-sehvermoegen-20180430408499&#34;&gt;&lt;a href=&#34;http://www.heilpraxisnet.de/naturheilpraxis/dunkle-schokolade-verbessert-das-sehvermoegen-20180430408499&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studie: Dunkle Schokolade steigert unser Sehvermögen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Menschen sehen besser durch den Konsum von dunkler Schokolade Es gibt viele Menschen, welche regelmäßig gerne Schokolade zu sich nehmen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Verschiedene Studien zeigten eine Korrelation ...</title>
+      <link>/post/2017-06-21-verschiedene-studien-zeigten-eine-korrelation/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-06-21-verschiedene-studien-zeigten-eine-korrelation/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Verschiedene Studien zeigten eine Korrelation zwischen IQ und Kurzsichtigkeit. Im Schnitt schaffen Kurzsichtige etwa 7 bis 9 Punkte mehr beim IQ-Test als Normalsichtige. Hochbegabte sind ganz besonders oft kurzsichtig. Eine Studie an 157.748 israelischen Rekruten kam zu dem Ergebnis, dass von den Menschen mit dem niedrigsten IQ 8 % kurzsichtig waren, in der Gruppe mit dem höchsten IQ dagegen 27,3 %.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Der Umkehrschluß gilt damit aber noch lange nicht: Kurzsichtigkeit führt nicht automatisch zu hoher Intelligenz.  Ansonsten könnte man den IQ beim Augenarzt messen lassen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Validit%C3%A4t_von_Intelligenzmessungen#Intelligenz_und_Kurzsichtigkeit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://de.wikipedia.org//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/15px-Pictogram_voting_info.svg.png#Intelligenz_und_Kurzsichtigkeit&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+de.wikipedia.org&lt;/p&gt;
+&lt;h2 id=&#34;validität-von-intelligenzmessungen--wikipediahttpsdewikipediaorgwikivaliditc3a4t_von_intelligenzmessungenintelligenz_und_kurzsichtigkeit&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Validit%C3%A4t_von_Intelligenzmessungen#Intelligenz_und_Kurzsichtigkeit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Validität von Intelligenzmessungen – Wikipedia&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Endlich ein Gegenmittel zur Kurzsichtigkeit!? ...</title>
+      <link>/post/2015-11-19-endlich-ein-gegenmittel-zur-kurzsichtigkeit/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-11-19-endlich-ein-gegenmittel-zur-kurzsichtigkeit/</guid>
+      <description>&lt;p&gt;Endlich ein Gegenmittel zur Kurzsichtigkeit!?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sciencedaily.com/releases/2015/11/151116212649.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.sciencedaily.com/images/scidaily-icon.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+sciencedaily.com&lt;/p&gt;
+&lt;h2 id=&#34;nearsightedness-progression-in-children-slowed-down-by-medicated-eye-dropshttpwwwsciencedailycomreleases201511151116212649htm&#34;&gt;&lt;a href=&#34;http://www.sciencedaily.com/releases/2015/11/151116212649.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nearsightedness progression in children slowed down by medicated eye drops&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Atropine .01 percent eye drops slow down nearsightedness by roughly 50 percent in five-year clinical trial on Singaporean children. Researchers suggest low-dose drops safe as &amp;lsquo;first line&amp;rsquo; defense against rapid development of nearsightedness in children.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Die Studie wurde leider von ...</title>
+      <link>/post/2015-03-21-die-studie-wurde-leider-von/</link>
+      <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-03-21-die-studie-wurde-leider-von/</guid>
+      <description>&lt;p&gt;Die Studie wurde leider von Vollidioten gemacht. Hätte man mich ran gelassen, sähe das Ergebnis ganz anders aus.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.der-postillon.com/2015/03/wissenschaftlich-erwiesen-alles.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://3.bp.blogspot.com/-PA0aKB0QaH0/VPR2XlfohmI/AAAAAAAAdv4/ICKay-x5iMQ/w1600/Fotolia_31016545_S.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+der-postillon.com&lt;/p&gt;
+&lt;h2 id=&#34;wissenschaftlich-erwiesen-alles-vollidioten-außer-ihnenhttpwwwder-postilloncom201503wissenschaftlich-erwiesen-alleshtml&#34;&gt;&lt;a href=&#34;http://www.der-postillon.com/2015/03/wissenschaftlich-erwiesen-alles.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wissenschaftlich erwiesen: Alles Vollidioten außer Ihnen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Sie mögen es schon immer geahnt haben, jetzt ist es endlich offiziell: Bei der gesamten Menschheit handelt es sich durchweg um Idioten und nutzlose Nichtskönner – mit Ausnahme von Ihnen. Das ist das Ergebnis einer Studie der Berliner Humboldt-Universität, in deren Rahmen 600 repräsentativ ausgewählte Personen auf Kompetenz, Wissen und &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Die Idee mit diesem speziellen ...</title>
+      <link>/post/2014-12-06-die-idee-mit-diesem-speziellen/</link>
+      <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-12-06-die-idee-mit-diesem-speziellen/</guid>
+      <description>&lt;p&gt;Die Idee mit diesem speziellen Brillenglas das Fortschreiten der Kurzsichtigkeit im Kinderalter zu verlangsamen scheint ja laut Studie zu funktionieren. Aber warum braucht Zeiss dann so lange MyoVision auch außerhalb Asiens auf den Markt zu bringen? Fürchten die Optiker hier etwa um ihre Einnahmen?&lt;/p&gt;
+&lt;p&gt;Mehr Infos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zeiss.de/corporate/de_de/ueber-zeiss/aktuelles/wussten-sie-dass/72--ausgabe-von-wussten-sie--dass---.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.zeiss.de/corporate/de_de/ueber-zeiss/aktuelles/wussten-sie-dass/72--ausgabe-von-wussten-sie--dass---.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zeiss.com/vision-care/en_de/products-services/spectacle-lenses/single-vision-lenses/single-vision-myovision.html#details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.zeiss.com/vision-care/en_de/products-services/spectacle-lenses/single-vision-lenses/single-vision-myovision.html#details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deanoptometrist.com.au/zeiss-myovision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.deanoptometrist.com.au/zeiss-myovision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://precisionoptics2013.wordpress.com/category/controlling-myopia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://precisionoptics2013.wordpress.com/category/controlling-myopia/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.optikerschuetz.de/blog/myovision-innovatives-brillenglas-fuer-kinder-verlangsamt-das-wachstum-einer-kurzsichtigkeit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.optikerschuetz.de/blog/myovision-innovatives-brillenglas-fuer-kinder-verlangsamt-das-wachstum-einer-kurzsichtigkeit&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wer hats erfunden? ...</title>
+      <link>/post/2011-12-28-wer-hats-erfunden/</link>
+      <pubDate>Wed, 28 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-12-28-wer-hats-erfunden/</guid>
+      <description>&lt;p&gt;Wer hats erfunden?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.zeit.de/wirtschaft/2011-12/staatsverschuldung-studie-demokratie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://img.zeit.de/administratives/sharing/fallback-image/wide__1300x731&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+zeit.de&lt;/p&gt;
+&lt;h2 id=&#34;direkte-demokratie-hält-den-staat-schlankhttpwwwzeitdewirtschaft2011-12staatsverschuldung-studie-demokratie&#34;&gt;&lt;a href=&#34;http://www.zeit.de/wirtschaft/2011-12/staatsverschuldung-studie-demokratie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Direkte Demokratie hält den Staat schlank&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Gesetze hindern Staaten oft nicht daran, Schulden zu machen. Eine Schweizer Studie zeigt nun: Je direkter die Demokratie, desto vernünftiger die Staatsfinanzen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weltkarte des Glücks</title>
+      <link>/post/2006-08-01-weltkarte-des-glcks/</link>
+      <pubDate>Tue, 01 Aug 2006 13:33:00 +0000</pubDate>
+      <guid>/post/2006-08-01-weltkarte-des-glcks/</guid>
+      <description>
+Wo leben die Menschen am glücklichsten? Ein Artikel des immer wieder interessanten &lt;a href=&#34;http://www.morgenwelt.de/&#34;&gt;Morgenwelt-Magazins&lt;/a&gt; fasst die Ergebnisse einer &lt;a href=&#34;http://www2.le.ac.uk/ebulletin/news/press-releases/2000-2009/2006/07/nparticle.2006-07-28.2448323827&#34;&gt;Studie der Universität Leicester&lt;/a&gt; zusammen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.morgenwelt.de/256.html?&amp;cHash=2c36d99970&amp;amp;tx_ttnews%5BbackPid%5D=155&amp;tx_ttnews%5Bpointer%5D=27&amp;amp;tx_ttnews%5Btt_news%5D=1987&#34;&gt;Weltkarte des Glücks&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Ergebnis: Im Legoland sind die Menschen am glücklichsten ;-) !</description>
+    </item>
+    
+  </channel>
+</rss>

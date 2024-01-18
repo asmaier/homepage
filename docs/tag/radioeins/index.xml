@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radioeins | Das Blog</title>
+    <link>/tag/radioeins/</link>
+      <atom:link href="/tag/radioeins/index.xml" rel="self" type="application/rss+xml" />
+    <description>radioeins</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>radioeins</title>
+      <link>/tag/radioeins/</link>
+    </image>
+    
+    <item>
+      <title>Curry-Wurst und Conchita-Wurst-Strudel! Im Strudelka! ...</title>
+      <link>/post/2015-05-22-curry-wurst-und-conchita-wurst-strudel-im-strudelka/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-05-22-curry-wurst-und-conchita-wurst-strudel-im-strudelka/</guid>
+      <description>&lt;p&gt;Curry-Wurst und Conchita-Wurst-Strudel! Im Strudelka!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.radioeins.de/programm/sendungen/mofr1013/kantine/strudelka.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.radioeins.de/programm/sendungen/mofr1013/kantine/strudelka.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

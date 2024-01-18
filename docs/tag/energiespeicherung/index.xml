@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>energiespeicherung | Das Blog</title>
+    <link>/tag/energiespeicherung/</link>
+      <atom:link href="/tag/energiespeicherung/index.xml" rel="self" type="application/rss+xml" />
+    <description>energiespeicherung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>energiespeicherung</title>
+      <link>/tag/energiespeicherung/</link>
+    </image>
+    
+    <item>
+      <title>Die deutsche Firma Gildemeister ist ...</title>
+      <link>/post/2014-06-15-die-deutsche-firma-gildemeister-ist/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-06-15-die-deutsche-firma-gildemeister-ist/</guid>
+      <description>&lt;p&gt;Die deutsche Firma Gildemeister ist der Lösung des Stromspeicherproblems für erneuerbare Energien noch am Nächsten: &lt;a href=&#34;http://energy.gildemeister.com/de/speichern/cellcube-fb-200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://energy.gildemeister.com/de/speichern/cellcube-fb-200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eine Batterie mit 200kW Leistung für 8h (1600kWh). Und das ganze kann man natürlich größer skalieren. Damit wird der Bau von &lt;a href=&#34;http://de.wikipedia.org/wiki/Batterie-Speicherkraftwerk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://de.wikipedia.org/wiki/Batterie-Speicherkraftwerk&lt;/a&gt;  viel interessanter.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.greentechmedia.com/articles/read/the-german-american-vanadium-flow-battery-connection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/Cellcube_BrochureDoubleShot_500_362_80.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+greentechmedia.com&lt;/p&gt;
+&lt;h2 id=&#34;the-german-american-vanadium-flow-battery-connectionhttpwwwgreentechmediacomarticlesreadthe-german-american-vanadium-flow-battery-connection&#34;&gt;&lt;a href=&#34;http://www.greentechmedia.com/articles/read/the-german-american-vanadium-flow-battery-connection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The German-American Vanadium Flow Battery Connection&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;CellCube, one of the few commercial-scale flow batteries, gets NREL testing via a stateside partner and would-be vanadium supplier.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Battery</title>
+      <link>/post/battery/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/battery/</guid>
+      <description>&lt;p&gt;Lithium metal-air batteries can store a tremendous amount of energy&amp;ndash;in theory, more than 5,000 watt-hours per kilogram. That&amp;rsquo;s more than ten-times as much as today&amp;rsquo;s high-performance lithium-ion batteries, and &lt;strong&gt;more than&lt;/strong&gt; another class of energy-storage devices: &lt;strong&gt;fuel cells&lt;/strong&gt;. Instead of containing a second reactant inside the cell, these batteries react with oxygen in the air that&amp;rsquo;s pulled in as needed, making them lightweight and compact.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.technologyreview.com/energy/22780/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Invests in Battery Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/IBM-will-Lithium-Luft-Batterien-fuer-Elektroautos-entwickeln--/meldung/141134&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithium-Luft-Batterien für Elektroautos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.epsrc.ac.uk/PressReleases/oxlithbattery.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Air-fuelled Battery Could Last Up to 10 Times Longer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ch-www.st-and.ac.uk/staff/pgb/group/lio.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithium Oxygen Battery&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

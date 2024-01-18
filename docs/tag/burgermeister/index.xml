@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bürgermeister | Das Blog</title>
+    <link>/tag/burgermeister/</link>
+      <atom:link href="/tag/burgermeister/index.xml" rel="self" type="application/rss+xml" />
+    <description>bürgermeister</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>bürgermeister</title>
+      <link>/tag/burgermeister/</link>
+    </image>
+    
+    <item>
+      <title>Das Plugin funktioniert tatsächlich und ...</title>
+      <link>/post/2016-07-04-das-plugin-funktioniert-tatsachlich-und/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-07-04-das-plugin-funktioniert-tatsachlich-und/</guid>
+      <description>&lt;p&gt;Das Plugin funktioniert tatsächlich und macht z.B. aus der/dem &amp;ldquo;BürgerInnenmeisterInkandidatIn&amp;rdquo; wieder einen &amp;ldquo;Bürgermeisterkandidat&amp;rdquo;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://binnenibegone.awardspace.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://binnenibegone.awardspace.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

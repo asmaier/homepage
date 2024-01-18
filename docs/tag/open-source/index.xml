@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-source | Das Blog</title>
+    <link>/tag/open-source/</link>
+      <atom:link href="/tag/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>open-source</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>open-source</title>
+      <link>/tag/open-source/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Nach der Wahl aber muss ...</title>
+      <link>/post/2017-09-20-nach-der-wahl-aber-muss/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-09-20-nach-der-wahl-aber-muss/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Nach der Wahl aber muss ein grundsätzliches Umdenken stattfinden: Von öffentlicher Hand bezahlte Software soll künftig auch öffentlich einsehbar und überprüfbar sein – insbesondere bei der Wahlauswertung, aber auch darüber hinaus.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Wäre der CCC eine Partei, ich würde ihn wählen!&lt;/p&gt;
+&lt;p&gt;Unterstützen könnt ihr die Arbeit des CCC auf jeden Fall unter &lt;a href=&#34;https://www.ccc.de/de/support&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ccc.de/de/support&lt;/a&gt; .&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ccc.de/de/updates/2017/pc-wahl-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.ccc.de/images/header.png?1329577825&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+ccc.de&lt;/p&gt;
+&lt;h2 id=&#34;ccc--open-source-spende-ccc-schließt-größte-schwachstelle-in-pc-wahlhttpswwwcccdedeupdates2017pc-wahl-again&#34;&gt;&lt;a href=&#34;https://www.ccc.de/de/updates/2017/pc-wahl-again&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCC | Open-Source-Spende: CCC schließt größte Schwachstelle in PC-Wahl&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein Bericht des Chaos Computer Clubs über die zur Stimmenauswertung bei der Bundestagswahl genutzte Software „PC-Wahl“ zeigte zahlreiche Schwachstellen. Mit einem Update vom 13. September 2017 versuchte der Hersteller erfolglos, das größte Einfallstor für Angreifer zu schließen. Fünf Tage vor der Bundestagswahl leistet der Chaos Computer Club nun „Erste Hilfe“ beim Stopfen der gröbsten Löcher: eine Open-Source-Spende, die das Einspielen manipulierter Updates wirkungsvoll verhindert.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>motorrad | Das Blog</title>
+    <link>/tag/motorrad/</link>
+      <atom:link href="/tag/motorrad/index.xml" rel="self" type="application/rss+xml" />
+    <description>motorrad</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>motorrad</title>
+      <link>/tag/motorrad/</link>
+    </image>
+    
+    <item>
+      <title>Was VW kann, kann BMW ...</title>
+      <link>/post/2015-09-25-was-vw-kann-kann-bmw/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-09-25-was-vw-kann-kann-bmw/</guid>
+      <description>&lt;p&gt;Was VW kann, kann BMW schon lange!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.motorradonline.de/motorraeder/technik-abgasreinigung/105838&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.motorradonline.de/motorraeder/technik-abgasreinigung/105838&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

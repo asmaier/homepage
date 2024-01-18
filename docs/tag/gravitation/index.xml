@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gravitation | Das Blog</title>
+    <link>/tag/gravitation/</link>
+      <atom:link href="/tag/gravitation/index.xml" rel="self" type="application/rss+xml" />
+    <description>gravitation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>gravitation</title>
+      <link>/tag/gravitation/</link>
+    </image>
+    
+    <item>
+      <title>Basic ideas of general relativity</title>
+      <link>/post/basic-ideas-of-general-relativity/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/basic-ideas-of-general-relativity/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;General Relativity (GR) is a classical field theory (whatever that means, could be something like Electrodynamics or something like Fluiddynamics)&lt;/li&gt;
+&lt;li&gt;There is no gravitational force.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Principle of Mach: The distribution of matter and energy defines the geometry of space-time&lt;/li&gt;
+&lt;li&gt;Principle of Equivalence: Acceleration = homogenous (in time and space) gravitational field;&lt;/li&gt;
+&lt;li&gt;Principle of Covariance: All coordinate systems are equal. The equations of physics should have the same form in all coordinate systems. Use of Tensor equations allows to accomplish that.&lt;/li&gt;
+&lt;li&gt;In the limit of vanishing gravity GR becomes special relativity&lt;/li&gt;
+&lt;li&gt;In the limit of small velocities v&amp;laquo;c and weak gravity GR becomes Newtonian gravity&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Consequences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;intertial mass = gravitational mass (= rest mass + kinetic energy + internal energy + EM energy+.. all kinds of energy);&lt;/li&gt;
+&lt;li&gt;locally (in time and space) you cannot distinguish between a gravitational field and acceleration. Locally (in time and space) you can always transform gravity away by using an accelerated coordinate system.&lt;/li&gt;
+&lt;li&gt;Globally you cannot transform away a gravitational field!&lt;/li&gt;
+&lt;li&gt;A charged particle which is accelerated in a EM field will radiate; a charged particle which is accelerated in a gravitational field will not! Reason: The EM field will only accelerate the charge, not the field of the charge. So the field of the charge is left behind as radiation. The gravitational field will accelerate the particle and it&amp;rsquo;s EM field in the same way. Nothing is left behind as radiation. Does that mean, a charge only radiates if it is accelerated away from a geodesic?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gravity is a nonlocal effect, since locally it can be transformed away =&amp;gt; Only non-local effects in quantum theory are affected by gravity&lt;/li&gt;
+&lt;li&gt;Einsteins field equations allow solutions with closed timelike loops which violate causality (Gödel universum, Tipler cylinder). Global causality is not included as assumption in GR!&lt;/li&gt;
+&lt;li&gt;GR was invented before we knew about things like uncertanity principle, spin, fermions, bosons, antimatter, neutron/antineutron, neutrinos, weak and strong force. From quantum mechanics only Plancks black body spectrum was known at the time of GR invention. No statistical mechanics or even quantum statistical mechanics is used in the context of GR.&lt;/li&gt;
+&lt;li&gt;The photon is a boson, the electron is a fermion. Do they react differently to gravity?&lt;/li&gt;
+&lt;li&gt;The difference between bosons and fermion statistics (assuming indistinguishable particles) is important for high densities and/or low temperature. For high temperature and low density both can be described by Maxwell-Boltzmann statistics (assuming distinguishable particles)&lt;/li&gt;
+&lt;li&gt;However, Maxwell-Boltzmann, Fermi-Dirac, Bose-Einstein-Distributions violate special relativity. Instead one needs the corresponding Jüttner-Distributions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gravitational Cherenkov Radiation</title>
+      <link>/post/gravitational-cherenkov-radiation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/gravitational-cherenkov-radiation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cherenkov_radiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cherenkov Radiation&lt;/a&gt; is a very interesting phenomenom. Recently I asked myself, if such a phenomenom allso exists for gravity in the sense, that if a particle moves faster than the speed of gravity in a medium, it should radiate gravitational cherenkov radiation. I found an article [((bibcite 1))], that precisely predicts that. However in there article the theorists use it to constrain vacuum speed of gravity. They do not consider the case that gravity in a medium might(?) have a speed lower than the vacuum speed of gravity.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/hep-ph/0106220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moore, Nelson (2001) : Lower Bound on the Propagation Speed of Gravity from Gravitational Cherenkov Radiation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gravity</title>
+      <link>/post/gravity/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/gravity/</guid>
+      <description>&lt;p&gt;The basic equations are:
+$$G_{\mu \nu} + \Lambda g_{\mu \nu}= \frac{8\pi G}{c^4} T_{\mu \nu}$$
+with
+$$G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} g_{\mu\nu}R$$
+and
+$$T_{\mu \nu} = g_{\mu \alpha} g_{\nu \beta} T^{\alpha \beta}$$
+and
+$$T^{\alpha \beta} , = \left(\rho + \frac{p}{c^2}\right)u^{\alpha}u^{\beta} + p g^{\alpha \beta}$$&lt;/p&gt;
+&lt;p&gt;Eq.([[eref field]]) is the famous Einstein field equation connecting the Einstein tensor ([[eref ein]]) with the energy-momentum tensor ([[eref energy]]). The energy-momentum tensor in the form here is the stress-energy tensor of fluid (and I think this is the form Einstein used originally) and basically represent the relativistic euler equations.&lt;/p&gt;
+&lt;p&gt;So the right  hand side of Einsteins field equation is originally based on fluid dynamics.   What about the left hand side?&lt;/p&gt;
+&lt;p&gt;But first what do we (or I ;-) ) mean based on fluid mechanics? The non-relativistic fluid mechanic equations can be derived from the Boltzmann equation via so called Chapman-Enskog expansion (what about Lattice-Boltzmann methods?). I&amp;rsquo;m not sure at the moment if something similar can or has been done in the relativistic case, so starting from some relativistic Boltzmann equation deriving the relativistic energy.momentum tensor.&lt;/p&gt;
+&lt;p&gt;(But see for example here: [http://arxiv.org/abs/0708.3252])&lt;/p&gt;
+&lt;p&gt;However, if we can derive the right hand side of Einsteins field equations from a relativistic Boltzmann equation, wouldn&amp;rsquo;t it be logical to assume the same about the left hand side? So can we find an underlying Boltzmann equation to space time??&lt;/p&gt;
+&lt;p&gt;I believe this is an intriguing question! It would also render attempt to somehow quantize gravity useless, in the same sense as it is useless to try to quantize the fluid dynamic equations.&lt;/p&gt;
+&lt;p&gt;Remarks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The equilibrium distribution of the non-relativistic Boltzmann equation it the Maxwell-Boltzmann distribution.&lt;/li&gt;
+&lt;li&gt;The equilibrium distribution of the relativistic Boltzmann equation is the Jüttner distribution!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

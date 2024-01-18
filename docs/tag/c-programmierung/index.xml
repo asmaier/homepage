@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c-programmierung | Das Blog</title>
+    <link>/tag/c-programmierung/</link>
+      <atom:link href="/tag/c-programmierung/index.xml" rel="self" type="application/rss+xml" />
+    <description>c-programmierung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Sep 2006 16:11:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>c-programmierung</title>
+      <link>/tag/c-programmierung/</link>
+    </image>
+    
+    <item>
+      <title>Hass auf Programmiersprachen?</title>
+      <link>/post/2006-09-30-hass-auf-programmiersprachen/</link>
+      <pubDate>Sat, 30 Sep 2006 16:11:00 +0000</pubDate>
+      <guid>/post/2006-09-30-hass-auf-programmiersprachen/</guid>
+      <description>
+Henning Thielemann hasst C und erklärt allen warum:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.math.uni-bremen.de/%7Ethielema/CHater.html&#34;&gt;C-Hasser in 10 Tagen&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Leider muß ich zugeben, dass er mit vielem Recht hat. Er hasst auch Skriptsprachen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://users.informatik.uni-halle.de/%7Ethielema/ScriptingHater.html&#34;&gt;Skriptsprachen-Hassen leichtgemacht&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Und wieder hat er mit vielem Recht. Aber eine Sprache zu hassen hat er vergessen: FORTRAN! Selbst das modernere FORTRAN90 hat viele Überaschungen auf Lager, die man in anderen Programmiersprachen &#34;vermisst&#34;:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.cs.rpi.edu/%7Eszymansk/OOF90/bugs.html&#34;&gt;Mistakes in Fortran 90 Programs That Might Surprise You&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Auch wenn man unverständlichen Code schreiben möchte, ist FORTRAN einfach die beste Wahl&lt;br /&gt;&lt;blockquote&gt;Write all your code in FORTRAN. If your boss ask why, you can reply that there are lots of very useful libraries that you can use thus saving time. However the chances of writing maintainable code in FORTRAN are zero, and therefore following the unmaintainable coding guidelines is a lot easier.&lt;br /&gt;(aus &lt;a href=&#34;http://thc.org/root/phun/unmaintain.html&#34;&gt;How To Write Unmaintainable Code&lt;/a&gt;)&lt;br /&gt;&lt;/blockquote&gt; FORTRAN steht praktisch als Synonym für schlechte Programmierweise&lt;br /&gt;&lt;blockquote&gt;“You can write Fortran in any language.”&lt;br /&gt;(aus &lt;a href=&#34;http://www.acmqueue.com/modules.php?name=Content&amp;pa=showpage&amp;amp;pid=271&#34;&gt;How Not to Write FORTRAN in Any Language&lt;/a&gt;)&lt;br /&gt;&lt;/blockquote&gt;Aber echte Programmierer lassen sich davon natürlich nicht abschrecken:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.pbm.com/%7Elindahl/real.programmers.html&#34;&gt;Real programmers don&#39;t use Pascal!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; Echte Programmierer benutzen FORTRAN gemischt mit C!</description>
+    </item>
+    
+  </channel>
+</rss>

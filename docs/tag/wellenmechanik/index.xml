@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wellenmechanik | Das Blog</title>
+    <link>/tag/wellenmechanik/</link>
+      <atom:link href="/tag/wellenmechanik/index.xml" rel="self" type="application/rss+xml" />
+    <description>wellenmechanik</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>wellenmechanik</title>
+      <link>/tag/wellenmechanik/</link>
+    </image>
+    
+    <item>
+      <title>Wolfgang Pauli ist einer meiner ...</title>
+      <link>/post/2016-05-03-wolfgang-pauli-ist-einer-meiner/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-05-03-wolfgang-pauli-ist-einer-meiner/</guid>
+      <description>&lt;p&gt;Wolfgang Pauli ist einer meiner Helden. Wer seine Bücher liest (z.B. &lt;a href=&#34;http://www.amazon.de/Optics-Theory-Electrons-Lectures-Physics/dp/0486414582&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.amazon.de/Optics-Theory-Electrons-Lectures-Physics/dp/0486414582&lt;/a&gt;) wird geradezu erschrocken sein, von der Klarheit seiner Gedanken und seiner Kalkulationen. Alles was er sagt, ist peinlich korrekt. Das sieht man z.B. an seiner Entscheidung die Quantenmechanik entgegen dem Mainstream &amp;ldquo;Wellenmechanik&amp;rdquo; zu nennen. Es gibt leider viel zu wenige gute Biographien über ihn, obwohl Einstein selbst ihn zu seinem legitimen Nachfolger ernannt hat. Deswegen hier zwei weitere Links über ihn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.klima-luft.de/steinicke/Artikel/Wolfgang%20Pauli.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.klima-luft.de/steinicke/Artikel/Wolfgang%20Pauli.pdf&lt;/a&gt;
+Physikalische Blätter (April 1976) Volume 32&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/phbl.19760320401/epdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://onlinelibrary.wiley.com/doi/10.1002/phbl.19760320401/epdf&lt;/a&gt;﻿
+Weniger anzeigen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.berliner-zeitung.de/der-nobelpreistraeger-wolfgang-pauli-trug-massgeblich-zur-entwicklung-der-quantenphysik-bei---gelegentlich-auch-durch-kollegenschelte--heute-vor-50-jahren-starb-pauli-in-zuerich-das-gewissen-der-physik-15804316?originalReferrer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.berliner-zeitung.de/der-nobelpreistraeger-wolfgang-pauli-trug-massgeblich-zur-entwicklung-der-quantenphysik-bei---gelegentlich-auch-durch-kollegenschelte--heute-vor-50-jahren-starb-pauli-in-zuerich-das-gewissen-der-physik-15804316?originalReferrer&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Korteweg-de Vries equation</title>
+      <link>/post/korteweg-de-vries-equation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/korteweg-de-vries-equation/</guid>
+      <description>&lt;p&gt;From [http://mathworld.wolfram.com/Korteweg-deVriesEquation.html]:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In fact, a transformation due to Gardner provides an algorithm for computing an infinite number of conserved densities of the KdV equation, which are connected to those of the so-called modified KdV equation through the Miura transformation
+v_x+v^2=u 
+(Tabor 1989, p. 291). The Korteweg-de Vries equation also exhibits Galilean invariance.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;See also [http://www.math.uwaterloo.ca/~karigiannis/papers/ist.pdf]:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the course of attempting to solve the KdV equation exactly, it was discovered that the equation has an infinite sequence of nontrivial conservation laws, which we shall presently define.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;from [http://en.wikipedia.org/wiki/Inverse_scattering_transform].&lt;/p&gt;
+&lt;p&gt;The so called turbulence closure problem has to do with the fact, that in fluid dynamics in principle an infinite number of conservation laws exist. Is there a connection? Can we write down a Korteweg-de Vries-like Equation, which generated the infinite conservation laws encountered in fluid dynamics?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www3.interscience.wiley.com/journal/113400234/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lax(1990): The zero dispersion limit, a deterministic analogue of turbulence&lt;/a&gt;. read it at [http://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=9ozj3Bs45kEC&amp;amp;oi=fnd&amp;amp;pg=PA53&amp;amp;ots=yTpf57ObXB&amp;amp;sig=DEACFXy2v5gQkNppN-rEmGaFoiA#v=onepage&amp;amp;q=&amp;amp;f=false]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/solv-int/9608002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D.B. Fairlie (1996) : Equations with an infinite number of explicit Conservation Laws&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[http://math.arizona.edu/~mcl/Miller/MillerLecture08.pdf]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

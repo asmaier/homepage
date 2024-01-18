@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supreme court | Das Blog</title>
+    <link>/tag/supreme-court/</link>
+      <atom:link href="/tag/supreme-court/index.xml" rel="self" type="application/rss+xml" />
+    <description>supreme court</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>supreme court</title>
+      <link>/tag/supreme-court/</link>
+    </image>
+    
+    <item>
+      <title>Tja, leider ist das Urteil ...</title>
+      <link>/post/2016-07-15-tja-leider-ist-das-urteil/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-07-15-tja-leider-ist-das-urteil/</guid>
+      <description>&lt;p&gt;Tja, leider ist das Urteil noch nicht rechtskräftig und kann vom Supreme Court noch aufgehoben werden. Aber sollte es dabei bleiben, wäre das ein guter Tag für den Datenschutz. Dann könnte man der Amazon Cloud in Frankfurt tatsächlich Daten anvertrauen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.handelsblatt.com/technik/it-internet/e-mail-zugriff-microsoft-erringt-grossen-sieg-fuer-datenschutz/13880458.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.handelsblatt.com/technik/it-internet/e-mail-zugriff-microsoft-erringt-grossen-sieg-fuer-datenschutz/13880458.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

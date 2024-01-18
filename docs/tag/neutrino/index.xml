@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neutrino | Das Blog</title>
+    <link>/tag/neutrino/</link>
+      <atom:link href="/tag/neutrino/index.xml" rel="self" type="application/rss+xml" />
+    <description>neutrino</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>neutrino</title>
+      <link>/tag/neutrino/</link>
+    </image>
+    
+    <item>
+      <title>Im Heise-Forum schreibt ein Insider ...</title>
+      <link>/post/2011-10-20-im-heise-forum-schreibt-ein-insider/</link>
+      <pubDate>Thu, 20 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-10-20-im-heise-forum-schreibt-ein-insider/</guid>
+      <description>&lt;p&gt;Im Heise-Forum schreibt ein Insider über den Fehler beim OPERA-Experiment. Klingt plausibel. Interessant auch seine Bemerkung im gleichen Thread, dass&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;ldquo;&amp;ldquo;das Experiment nicht dafür gebaut wurde, die
+Geschwindigkeit von Neutrinos zu messen ;) Der Gedanke kam denen
+später. Dann hat das ein Student gemacht, und niemand ge-crosscheckt
+(Quelle: Flurfunk). Völlig irre.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.heise.de/newsticker/foren/S-Der-mutmassliche-Fehler-ist-komplizierter-aber-bekannt/forum-213801/msg-20942189/read/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.heise.de/newsticker/foren/S-Der-mutmassliche-Fehler-ist-komplizierter-aber-bekannt/forum-213801/msg-20942189/read/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

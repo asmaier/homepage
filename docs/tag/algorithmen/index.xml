@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithmen | Das Blog</title>
+    <link>/tag/algorithmen/</link>
+      <atom:link href="/tag/algorithmen/index.xml" rel="self" type="application/rss+xml" />
+    <description>algorithmen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>algorithmen</title>
+      <link>/tag/algorithmen/</link>
+    </image>
+    
+    <item>
+      <title>Es scheint sich zu lohnen ...</title>
+      <link>/post/2022-12-11-es-scheint-sich-zu-lohnen/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-12-11-es-scheint-sich-zu-lohnen/</guid>
+      <description>&lt;p&gt;Es scheint sich zu lohnen den eigenen Facebookstream mal radikal aufzuräumen. Ich habe jetzt mal alle Vorschläge abgelehnt und gesagt, dass ich diese Vorschläge nie wieder sehen will. Ich habe alle Werbung als irrelevant markiert und gesagt, dass ich keine Werbung dieses Werbetreibenden mehr sehen will. Und nachdem ich das wahrscheinlich 10 Minuten lang gemacht habe mit allem was Facebook so gegen mich geworfen hat, haben die Facebook-Algorithmen endlich aufgegeben mich zu belästigen. Jetzt sieht mein Stream wieder einigermaßen normal aus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seltsam, die letzten Wochen war ...</title>
+      <link>/post/2022-10-19-seltsam-die-letzten-wochen-war/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-10-19-seltsam-die-letzten-wochen-war/</guid>
+      <description>&lt;p&gt;Seltsam, die letzten Wochen war mein Facebookstream voller Quatsch und nur noch Werbung und &amp;ldquo;empfohlene Posts&amp;rdquo;. Nachrichten von Freunden kamen gar nicht mehr vor. Jetzt ist es auf einmal wieder &amp;ldquo;wie früher&amp;rdquo;. Hat Facebook da irgendwas an den Algorithmen geschraubt und es jetzt wieder rückgängig gemacht? Oder betraf das nur mich? War ich vielleicht Shadowbanned ohne es zu merken? Oder ging euch das auch so?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mein Beileid an alle russischen ...</title>
+      <link>/post/2014-10-25-mein-beileid-an-alle-russischen/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-10-25-mein-beileid-an-alle-russischen/</guid>
+      <description>&lt;p&gt;Mein Beileid an alle russischen Programmierer, die dieses Zeitzonenchaos irgendwie in Algorithmen gießen dürfen. Dagegen ist das Jahr 2000 Problem ja geradezu trivial. Zu welcher Zeitzone gehört jetzt z.B. die Krim? ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://deutsche-wirtschafts-nachrichten.de/2014/10/25/die-letzte-zeitumstellung-russland-schafft-die-sommerzeit-ab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://deutsche-wirtschafts-nachrichten.de/2014/10/25/die-letzte-zeitumstellung-russland-schafft-die-sommerzeit-ab&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

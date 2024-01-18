@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frage-und-antwort-seiten | Das Blog</title>
+    <link>/tag/frage-und-antwort-seiten/</link>
+      <atom:link href="/tag/frage-und-antwort-seiten/index.xml" rel="self" type="application/rss+xml" />
+    <description>frage-und-antwort-seiten</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Nov 2009 13:23:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>frage-und-antwort-seiten</title>
+      <link>/tag/frage-und-antwort-seiten/</link>
+    </image>
+    
+    <item>
+      <title>StackExchange</title>
+      <link>/post/2009-11-22-stackexchange/</link>
+      <pubDate>Sun, 22 Nov 2009 13:23:00 +0000</pubDate>
+      <guid>/post/2009-11-22-stackexchange/</guid>
+      <description>
+Ich bin großer Fan von &lt;a href=&#34;http://stackexchange.com/&#34;&gt;StackExchange&lt;/a&gt;-Webseiten, insbesondere natürlich von &lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/&#34;&gt;StackOverflow.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Aber auch die Geschwisterseiten zu &lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_Overflow&#34;&gt;StackOverflow&lt;/a&gt; sind einfach gut und nützlich:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://serverfault.com/&#34;&gt;serverfault.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://superuser.com/&#34;&gt;superuser.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://doctype.com/&#34;&gt;doctype.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Inzwischen gibt es eine ganze Reihe von weiteren Frageseiten nach dem &lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_Overflow&#34;&gt;StackOverflow-Prinzip&lt;/a&gt;, eine Liste davon findet findet man bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://meta.stackexchange.com/questions/4/list-of-stackexchange-sites/5#5&#34;&gt;List of StackExchange sites&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Besonders interessant finde ich dabei:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://sciencestack.com/&#34;&gt;ScienceStack.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://physics.stackexchange.com/&#34;&gt;physics.stackexchange.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://mathoverflow.net/&#34;&gt;mathoverflow.net&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

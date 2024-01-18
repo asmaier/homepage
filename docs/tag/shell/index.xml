@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell | Das Blog</title>
+    <link>/tag/shell/</link>
+      <atom:link href="/tag/shell/index.xml" rel="self" type="application/rss+xml" />
+    <description>shell</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>shell</title>
+      <link>/tag/shell/</link>
+    </image>
+    
+    <item>
+      <title>Shell</title>
+      <link>/post/shell/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/shell/</guid>
+      <description>&lt;h5&gt;Die Kommandozeile (bzw. die Shell oder das Terminal)&lt;/h5&gt;
+&lt;p&gt;Wenn hier die Rede von Shell ist ist immer die 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Bourne-again_shell&#34;&gt;bash&lt;/a&gt;-Shell 
+(Standard-Kommandozeileninterpreter unter Linux und Mac OS X) gemeint.
+Interessante Alternativen zur bash sind die &lt;a href=&#34;http://en.wikipedia.org/wiki/Zsh&#34;&gt;Z-Shell (zsh)&lt;/a&gt;
+(bietet unter anderm TAB-Completion nicht nur für Befehle sondern auch für Befehlsoptionen, siehe auch 
+&lt;a href=&#34;http://www.amazon.de/Zsh-magische-Shell-Sven-Guckes/dp/3937514597&#34;&gt;Guckes,Plenz: Zsh. Die magische Shell&lt;/a&gt;)
+und die &lt;a href=&#34;http://en.wikipedia.org/wiki/Windows_PowerShell&#34;&gt;Windows Power Shell&lt;/a&gt; die einen 
+objektorientierten Ansatz verfolgt.&lt;/p&gt;
+&lt;p&gt;
+Wer auf der Suche nach den beliebtesten Bash-Tricks ist, dem sei
+&lt;a href=&#34;http://www.commandlinefu.com/commands/browse/sort-by-votes&#34;&gt;www.commandlinefu.com&lt;/a&gt; und
+&lt;a href=&#34;http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash&#34;&gt;
+what-is-your-single-most-favorite-command-line-trick-using-bash&lt;/a&gt;
+empfohlen. Wer erstmal nur einen guten und schnellen Überblick über den bash-Kommandozeileninterpreter sucht wird 
+bei
+&lt;a href=&#34;http://www.heise.de/ct/99/12/170/&#34;&gt;c&#39;t 12/99&lt;/a&gt; fündig.
+Dieser Artikel sei jedem als Ergänzung zu den folgenden Tipps
+empfohlen. 
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Einen symbolischen Link anlegen:&lt;/em&gt;
+&lt;pre&gt;
+&gt; ln -s [ZielName] [LinkName] 
+&lt;/pre&gt;
+wobei &lt;tt&gt;[Zielname]&lt;/tt&gt; das bereits existierende Verzeichnis/Datei ist und &lt;tt&gt;[LinkName]&lt;/tt&gt;
+der symbolische Name/Pfad der dafür angelegt werden soll. Solche symbolischen Links sind äußerst 
+nützlich. Hat z.B. wieder irgendein fauler Programmier absolute Pfade im (Installations-)Programm 
+hardcodiert, kann man mit Hilfe von symbolischen Links diese Pfade auf die gewünschten &#34;umbiegen&#34;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ins vorherige Verzeichnis zurückspringen:&lt;/em&gt;
+&lt;pre&gt;
+&gt; cd -
+&lt;/pre&gt;
+Dieser Befehl erlaubt es in das vorherige Verzeichnis zurückzuspringen, ohne vorher
+zehnmal &lt;tt&gt;cd ..&lt;/tt&gt; oder ähnliches aufzurufen. Er entspricht dem Kommando
+&lt;pre&gt;
+&gt; cd &#34;$OLDPWD&#34; &amp;amp;&amp;amp; pwd
+&lt;/pre&gt;
+der also in das vorherige Verzeichnis springt und nach dem Sprung den Namen
+diese Verzeichnisses ausgibt (siehe auch 
+&lt;a href=&#34;http://www.opengroup.org/onlinepubs/9699919799/utilities/cd.html&#34;&gt;www.opengroup.org&lt;/a&gt;).
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einen Prozess im Hintergrund starten, so dass er auch beim Schließen
+der Kommandozeile weiterläuft:&lt;/em&gt;
+&lt;pre&gt;&gt; ./command &amp;amp;&lt;/pre&gt;
+Achtung: Beim Schliessen der Kommandozeile per Fenster-Icon wird
+&lt;tt&gt;command&lt;/tt&gt; trotzdem beendet! Nur wenn das Terminal per
+&lt;pre&gt;&gt; exit&lt;/pre&gt; beendet wird läuft &lt;tt&gt;command&lt;/tt&gt; weiter.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einen Prozess nachträglich in den Hintergrund stellen:&lt;/em&gt;&lt;br /&gt;
+Hat man das &lt;tt&gt;&amp;amp;&lt;/tt&gt; vergessen um einen Prozess im Hintergrund zu starten, kann man den Prozess
+mit &lt;tt&gt;ctrl-z&lt;/tt&gt; pausieren und dann durch Eingabe von &lt;tt&gt;bg&lt;/tt&gt; in den Hintergrund schicken, z.B.
+&lt;pre&gt;
+&gt; ./skype
+[ctrl]-[z]
+[1]+  Stopped ./skype
+&gt; bg
+[1]+ ./skype &amp;amp;
+&lt;/pre&gt;
+Siehe dazu auch
+&lt;a href=&#34;http://www.netcosmos.de/linux/befehle/index.php?func=show&amp;amp;command=bg&#34;&gt;netcosmos.de&lt;/a&gt; und
+&lt;a href=&#34;http://www.hcidata.info/background-job.htm&#34;&gt;www.hcidata.info/background-job.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einen Prozess so starten, dass er auch nach einem Logout weiterläuft:&lt;/em&gt;
+&lt;pre&gt;&gt; nohup command &amp;amp;&lt;/pre&gt;
+Dies funktioniert auch mit parallelisierten Programmen, z.B. für ein
+mit MPI parallelisiertes Programm, welches in vier parallelen Prozessen
+laufen soll :
+&lt;pre&gt;&gt; nohup mpirun -np 4 mpicommand 2&gt;&amp;amp;1 &gt; output.log &amp;amp; &lt;/pre&gt;
+Aber Achtung: Wenn der Prozess z.B. mit &lt;tt&gt;|&lt;/tt&gt; Ausgaben umleitet,
+oder mit &lt;tt&gt;tee&lt;/tt&gt; Ausgaben in die
+Kommandozeile schreibt, funktioniert das anscheinend nicht; z.B.
+würde folgender Prozess beim Schließen des Terminals abgebrochen:
+&lt;pre&gt;&gt; nohup command 2&gt;&amp;amp;1 | tee output.log &amp;amp; &lt;/pre&gt;
+Siehe auch &lt;a href=&#34;http://www.lugbz.org/content/sections/workshops/bash-intro-2003-04-26/slide_nohup.html&#34;&gt;
+Pircher 2003&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Umleiten der Ausgabe von STDERR(2) und STDOUT(1) in eine Datei:&lt;/em&gt;
+&lt;pre&gt;&gt; ./command 1&gt;command.log 2&gt;&amp;amp;1 &lt;/pre&gt;
+ACHTUNG: Die Reihenfolge der Umleitungen ist signifikant. Würde man
+&lt;tt&gt;2&gt;&amp;amp;1&lt;/tt&gt; vor &lt;tt&gt;1&gt;command.log&lt;/tt&gt; schreiben, so 
+leitet man nur STDOUT in die Datei &lt;tt&gt;command.log&lt;/tt&gt; um;
+STDERR wird jedoch nur auf den Kanal umgeleitet der vorher STDOUT war 
+(meist das Terminal), d.h. man sieht die Fehlermeldungen im Termial und alle anderen
+Ausgaben werden in die Datei umgeleitet (Siehe dazu auch die 
+&lt;a href=&#34;http://wwwcip.informatik.uni-erlangen.de/old/tree/CIP/Manuals/unix/shell/umlenkung.html&#34;&gt;
+Unix-Anleitung der Uni Erlangen&lt;/a&gt;).&lt;br /&gt;
+Will man die Ausgabe gleichzeitig noch in der Shell sehen, so kann
+muß man die Weiterleitung der Ausgabe mit dem Pipezeichen |
+mit dem T-Stück &#34;tee&#34; verzweigen:
+&lt;pre&gt;&gt; ./command 2&gt;&amp;amp;1 | tee command.log&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ausgehend vom aktuellen Verzeichnis alle Dateien mit der Endung &#34;suffix&#34;
+finden:&lt;/em&gt;
+&lt;pre&gt;&gt; find . -name &#34;*.suffix&#34;&lt;/pre&gt;
+Wichtig sind dabei die Anführungszeichen. Ohne sie kommt es zu seltsamen
+Fehlern, wenn das gesuchte Suchmuster das Jokerzeichen &lt;tt&gt;*&lt;/tt&gt; enthält.
+Möchte man dabei die Ausgabe von Fehlermeldungen wie &lt;tt&gt;find: permission denied&lt;/tt&gt;
+vermeiden, so kann man diese nach &lt;a href=&#34;http://de.wikipedia.org/wiki//dev/null&#34;&gt;/dev/null&lt;/a&gt;
+umleiten:
+&lt;pre&gt;&gt; find . -name &#34;*.suffix&#34; 2&gt;/dev/null&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ausgehend vom aktuellen Verzeichnis alle Dateien, die in den letzten 30 Tagen 
+modifiziert wurden, finden:&lt;/em&gt;
+&lt;pre&gt;&gt; find . -mtime -30 -ls&lt;/pre&gt;
+Wichtig ist dabei das Minuszeichen vor der &lt;tt&gt;30&lt;/tt&gt;. Vergisst man es werden nur die Dateien
+angezeigt, die genau vor 30 Tagen geändert wurden. Gibt man stattdessen &lt;tt&gt;+30&lt;/tt&gt; an, werden
+die Dateien gesucht, welche vor mehr als 30 Tagen geändert wurden. Die Option &lt;tt&gt;-ls&lt;/tt&gt; sorgt
+dafür, dass &lt;tt&gt;find&lt;/tt&gt; die Dateien im selben Format anzeigt wir der Befehl &lt;tt&gt;ls -dils&lt;/tt&gt;.
+Damit sieht man gleich das Änderungsdatum der gefundenen Dateien.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ausgehend vom aktuellen Verzeichnis rekursiv in allen Unterverzeichnissen bestimmte Dateien/Verzeichnisse loeschen:&lt;/em&gt;&lt;br /&gt;
+Will man z.B. alle &lt;tt&gt;.svn&lt;/tt&gt;-Verzeichnisse rekursiv löschen nutzt man &lt;tt&gt;find&lt;/tt&gt; um die Parameterliste fuer &lt;tt&gt;rm&lt;/tt&gt; zu erzeugen:
+&lt;pre&gt;&gt; rm -rf `find -name &#34;.svn&#34;`&lt;/pre&gt;
+Der obige Befehl funktioniert, da die Shell ein Kommando zwischen zwei 
+Backticks (`) durch die Ausgabe dieses Kommandos ersetzt (siehe auch 
+&lt;a href=&#34;http://www.heise.de/ct/99/12/170/&#34;&gt;c&#39;t 12/99&lt;/a&gt;).
+Aufpassen muß man jedoch: Auch Dateien namens &lt;tt&gt;.svn&lt;/tt&gt; werden durch obiges Kommando geloescht! 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Suchen eines Begriffes in allen Dateien des aktuellen Verzeichnisses und der
+Unterverzeichnisse:&lt;/em&gt;&lt;br /&gt;
+Lösung 1 (unter Suse Linux):&lt;br /&gt;
+&lt;pre&gt;
+&gt; grep -r &#34;Suchbegriff&#34;
+&lt;/pre&gt;
+Lösung 2: Die Option &lt;tt&gt;-r&lt;/tt&gt; für &lt;tt&gt;grep&lt;/tt&gt; ist nicht in allen Linux/*NIX-Distributionen
+vorhanden. Dann kann man folgendes verwenden: 
+&lt;pre&gt;&gt; find -exec grep &#34;Suchbegriff&#34; {} \; -print&lt;/pre&gt;
+Gefunden in &lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/3827321581/ref=ase_michaelkofler/302-7208934-0117615&#34;&gt;
+Kofler 2004&lt;/a&gt;. Achtung: wenn der Suchbegriff mit Sonderzeichen durchsetzt, muß man diese mit einem oder 
+mehreren(!) &#34;Backslashes escapen&#34;. Sucht man z.B. &lt;tt&gt;&#34;rm -f $*.f&#34;&lt;/tt&gt; so muß man als Suchbegriff 
+&lt;tt&gt;&#34;rm -f \\$\*.f&#34;&lt;/tt&gt; eingeben (Man beachte den doppelten(!) Backslash vor dem $-Zeichen).
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nach Größen sortierte Ausgabe aller Dateien und Verzeichnisse im aktuellen
+Verzeichnis:&lt;/em&gt;
+&lt;pre&gt;&gt; du --max-depth=1 -all -k | sort -n&lt;/pre&gt;
+Dabei steht &lt;tt&gt;--max-depth=1&lt;/tt&gt; dafür, dass nur die Unterverzeichnisse
+im aktuellen Verzeichnis aufgelistet werden und nicht auch noch die
+Unterverzeichnisse in den Unterverzeichnissen. Die Option &lt;tt&gt;-all&lt;/tt&gt; steht dafür,
+dass auch die Größen der Dateien im aktuellen Verzeichnis angezeigt werden und
+die Option &lt;tt&gt;-n&lt;/tt&gt; des &lt;tt&gt;sort&lt;/tt&gt;-Befehls sortiert die übergebene Liste
+numerisch.
+Die Option &lt;tt&gt;-k&lt;/tt&gt; gibt an,
+dass die Größenangabe in Kibibyte (=1024 Byte) sein soll und ist eine Abkürzung für
+&lt;tt&gt;-B 1K&lt;/tt&gt; Die Option &lt;tt&gt;-B 1KB&lt;/tt&gt; steht für Kilobyte (=1000Byte) und
+entsprechend steht &lt;tt&gt;-B 1M&lt;/tt&gt; für Mebibyte (=1024*1024=1048576 Byte) und
+&lt;tt&gt;-B 1MB&lt;/tt&gt; für Megabyte (=1000000 Byte) usw. für G, T, P, E, Z, Y.
+Zudem wird immer auf die nächstgrößere Zahl gerundet, d.h 4096 Byte entsprechen 4 Kibibyte
+aber aufgerundet sind das 5 Kilobyte. Wen das alles verwirrt, der kann auch &lt;tt&gt;-B 1&lt;/tt&gt; setzen
+und bekommt die Größen in Byte angezeigt oder mehr zum Thema Kibibyte und Mebibyte
+lesen und zwar beim &lt;a href=&#34;http://physics.nist.gov/cuu/Units/binary.html&#34;&gt;NIST
+(National Institut of Standards and Technology)&lt;/a&gt; oder in der
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Binary_prefix&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zwei unterschiedlich sortierte Dateien vergleichen:&lt;/em&gt;&lt;br /&gt;
+Um zwei Dateien (&lt;tt&gt;file1&lt;/tt&gt;, &lt;tt&gt;file2&lt;/tt&gt;) bequem zu vergleichen, die 
+ähnliche Inhalt haben, aber vielleicht auf unterschiedliche Weise sortiert 
+sind, hilft folgender Befehl:
+&lt;pre&gt;
+&gt; diff -rcs &amp;lt;(sort file1) &amp;lt;(sort file2) | kompare -o -
+&lt;/pre&gt;
+Zuerst werden die zwei Dateien sortiert und an &lt;tt&gt;diff&lt;/tt&gt; übergeben. Der Parameter
+&lt;tt&gt;-rcs&lt;/tt&gt; sorgt dafür, dass das Ausgabeformat von &lt;tt&gt;diff&lt;/tt&gt; vom graphischen
+Diff-Tool &lt;a href=&#34;http://en.wikipedia.org/wiki/Kompare&#34;&gt;Kompare&lt;/a&gt;
+verstanden werden kann. Mit &lt;tt&gt;| kompare -o -&lt;/tt&gt; wird die Ausgabe von &lt;tt&gt;diff&lt;/tt&gt;
+an &lt;tt&gt;kompare&lt;/tt&gt; weitergeleitet und &lt;tt&gt;kompare&lt;/tt&gt; gestartet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Befehlsabkürzungen (Aliase) und Funktionen:&lt;/em&gt;&lt;br /&gt;
+Für häufig benötigte lange Befehlszeilen schreibt man am besten Abkürzungen,
+sog. Aliase. Diese werden in der Datei &lt;tt&gt;.alias&lt;/tt&gt; im Homeverzeichnis angelegt.
+Meine .alias-Datei enthält z.B. folgende Zeile:
+&lt;pre&gt;alias platz=&#34;du --max-depth=1 -all -k | sort -n&#34;&lt;/pre&gt;
+Durch Eingabe von &lt;tt&gt;platz&lt;/tt&gt; kann ich mir damit also immer die Größe aller Dateien
+und Verzeichnisse (s. oben) anzeigen lassen. Durch Eingabe von
+&lt;tt&gt;alias&lt;/tt&gt;
+kann man sich alle (auch global) gesetzten Befehlsabkürzungen anzeigen lassen.
+Alias-Anweisungen mit Übergabe eines Arguments sind in der Bash-Shell jedoch nicht
+möglich, dafür gibt es Funktionen, welche man in der Datei &lt;tt&gt;.bashrc&lt;/tt&gt;
+definieren kann. Um z.B. eine Funktion der Art &lt;tt&gt;such begriff&lt;/tt&gt;
+zu definieren, die alle Dateien (auch die, die ev. in Unterverzeichnissen vom
+aktuellen Verzeichnis aus gesehen liegen) anzeigt, welche &#34;begriff&#34; enthalten,
+muss man folgende Zeile in die &lt;tt&gt;.bashrc&lt;/tt&gt; einfügen:
+&lt;pre&gt;such() { find -exec grep $1 {} \; -print; }&lt;/pre&gt;
+Wichtig dabei ist, dass man nach der ersten geschweiften Klammer, bzw. vor der
+letzten geschweifen Klammer immer ein Leerzeichen lassen muß, ansonsten funktioniert
+es nicht. &lt;tt&gt;$1&lt;/tt&gt; steht übrigens für das erste übergebene Argument nach dem
+Kommando selbst (s. auch Shellskript-Programmierung weiter unten). Ausführen kann man
+das Suchkommando jetzt mit
+&lt;pre&gt;such test&lt;/pre&gt;
+Das Ergebnis sind ist eine Liste aller Dateien auch in den Unterverzeichnissen,
+welche &#34;test&#34; enthalten. Zusätzlich wird auch die Zeile in der der Begriff vorkommt
+angezeigt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kommandos zu einem bestimmten Zeitpunkt ausführen lassen:&lt;/em&gt;&lt;br /&gt;
+Mithilfe der &lt;tt&gt;at&lt;/tt&gt;-Kommandos kann man Befehle zu einem vorbestimmten
+Zeitpunkt ausführen lassen. Dazu ist es nötig, dass der &lt;tt&gt;atd&lt;/tt&gt;-Dienst
+läuft (s. Linux/Administration). Läuft dieser Dienst, kann man, wenn man z.B.
+einen Befehl einen Befehl an einem bestimmten Datum zu einer bestimmten Zeit
+ausführen möchte, folgendes eingeben:
+&lt;pre&gt;&gt; at 05:00 30.08.05&lt;/pre&gt;
+Dies würde alle folgenden Befehle um fünf Uhr morgens am 30. August 2005
+starten (Mehr zur Datums- bzw. Zeitsyntax siehe &lt;tt&gt;man at&lt;/tt&gt;). Um einen
+Befehl in fünf Minuten auszuführen kann man aber auch folgendes eingeben:
+&lt;pre&gt;&gt; at now +5 minutes&lt;/pre&gt;
+Nach Eingabe des &lt;tt&gt;at&lt;/tt&gt;-Kommandos erscheint dann immer folgende Eingabezeile:
+&lt;pre&gt;at&gt;&lt;/pre&gt;
+Hier kann man nun interaktiv einen, bzw. mehrere Befehle hintereinander eingeben,
+welche dann in dieser Reihenfolge zum gegebenen Zeitpunkt gestartet werden. Abschliessend
+muß man die Tastenkombination &lt;tt&gt;Ctrl-d&lt;/tt&gt; (Nicht &lt;tt&gt;Ctrl-c&lt;/tt&gt;, das beendet
+&lt;tt&gt;at&lt;/tt&gt; ohne das es sich die eingegebenen Befehle merkt) drücken. Die Ausgabe
+des Befehls wird dann nach Ausführung als Email an username@computername.domainname
+geschickt (Dies kann man auch ändern, wenn gewünscht). Mit Hilfe von &lt;tt&gt;atq&lt;/tt&gt;
+kann man alle anstehenden Jobs (als Superuser sogar alle anstehenden Jobs aller
+Benutzer) ansehen:
+&lt;pre&gt;
+&gt; atq
+	5	2005-08-30	05:00	a	asmaier&lt;/pre&gt;
+Dabei steht die erste Zahl für die Jobnummer, darauf folgt das Datum und die
+Uhrzeit zu der der Job ausgeführt werden soll, dann folgt die Angabe der
+Warteschlange (Queue) in der der Befehl steht (Man kann nämlich mehrere Queues
+erzeugen, &lt;tt&gt;a&lt;/tt&gt; ist allerdings die Default-Queue) und abschließend der Name
+des Benutzers der den Job in Auftrag gegeben hat. Will man einen Job wieder löschen
+kann man dies folgendermaßen tun:
+&lt;pre&gt;atrm 5&lt;/pre&gt;
+Dabei steht die angegebene Nummer für die unter &lt;tt&gt;atq&lt;/tt&gt; angezeigte Jobnummer,
+welche man löschen will. Mehr zur Benutzung von &lt;tt&gt;at&lt;/tt&gt; findet man unter anderem in der
+&lt;a href=&#34;http://www.linuxfibel.de/weiteres.htm&#34;&gt;Linuxfibel&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alle laufenden Prozesse anzeigen (BSD Syntax, siehe auch &lt;tt&gt;man ps&lt;/tt&gt;):&lt;/em&gt;
+&lt;pre&gt;&gt; ps aux&lt;/pre&gt;
+Die Option &lt;tt&gt;a&lt;/tt&gt; zeigt alle Prozesse auch der anderen Benutzer (und nicht
+nur die Eigenen) an, die Option &lt;tt&gt;x&lt;/tt&gt; zeigt zusätzlich alle Prozesse
+an denen kein Terminal zugeordnet ist (z.B. Dienste bzw. Daemons oder
+X-Server-Prozesse) und die Option &lt;tt&gt;u&lt;/tt&gt; zeigt zusätzliche Informationsspalten
+wie die Benutzerkennung unter der der Prozeß läuft,
+aktueller Speicher- und Rechenzeitverbrauch, Startzeit des
+Prozesses und weitere an. Zusätzlich kann man noch die Option &lt;tt&gt;w&lt;/tt&gt; setzen;
+dann wird die Anzeige breiter. Setzt man &lt;tt&gt;w&lt;/tt&gt; zweimal, so wird wirklich
+alles angezeigt und auch lange Kommandozeilen für Prozessaufrufe
+nicht abgeschnitten. &lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige der CPU-intensivsten Prozesse:&lt;/em&gt;
+&lt;pre&gt;&gt; top&lt;/pre&gt;
+&lt;p&gt;Tastaturkürzel für &lt;tt&gt;top&lt;/tt&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prozess beenden: &lt;tt&gt;k&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Prozesse eines bestimmten Benutzers anzeigen: &lt;tt&gt;u&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Belastung der einzelnen CPUs getrennt anzeigen: &lt;tt&gt;1&lt;/tt&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller Umgebungsvariablen unter Linux:&lt;/em&gt;
+&lt;pre&gt;&gt; env&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller Dateien auf die ein Programm beim Start zugreift:&lt;/em&gt;
+&lt;pre&gt;&gt; strace [Programmname]&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller Benutzergruppen zu denen man gehört:&lt;/em&gt;
+&lt;pre&gt;&gt; groups&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige von Hard- und Softwareinformationen:&lt;/em&gt;&lt;br /&gt;
+Um welche Linuxversion es sich handelt erfährt man standardgemäß mittels
+&lt;pre&gt;&gt; lsb_release -a&lt;/pre&gt;
+Sollte dieser Befehl nicht funktionieren so erfährt man die Versionsnummer von
+SuSE in der Datei &lt;tt&gt;/etc/SuSE-release&lt;/tt&gt;, von Debian in &lt;tt&gt;/etc/debian-version&lt;/tt&gt; und von Solaris
+in &lt;tt&gt;/etc/release&lt;/tt&gt; (siehe auch die ausführliche Liste unter
+&lt;a href=&#34;http://www.kubieziel.de/blog/archives/785-Welche-Distribution-besitze-ich.html&#34;&gt;www.kubieziel.de&lt;/a&gt;).
+Informationen über den Prozessor und die Speicherausstattung findet man in Linux mit
+&lt;pre&gt;
+&gt; less /proc/cpuinfo
+&gt; less /proc/meminfo
+&lt;/pre&gt;
+Unter Solaris 10 hilft der Aufruf von
+&lt;pre&gt;&gt; prtdiag&lt;/pre&gt;
+weiter (siehe auch &lt;a href=&#34;http://www.lifeaftercoffee.com/2006/02/27/getting-hardware-information-in-solaris/&#34;&gt;
+www.lifeaftercoffee.com&lt;/a&gt;).
+Die MAC-Adresse bekommt man ohne(!) root-Rechte heraus indem man die Datei &lt;tt&gt;/var/log/boot.msg&lt;/tt&gt;
+betrachtet. Dort sucht man nach den Zeilen
+&lt;pre&gt;
+...
+Setting up network interfaces
+...
+eth0 configuration: eth-id-[MAC-Adresse]
+eth0 IP address: [IP-Adresse]
+...
+&lt;/pre&gt;
+wobei &lt;tt&gt;[MAC-Adresse]&lt;/tt&gt; die gesuchte MAC-Adresse darstellt und &lt;tt&gt;[IP-Adresse]&lt;/tt&gt; die IP-Adresse
+des Rechners ist. Klappt dieser Trick jedoch nicht, steht unter &lt;a href=&#34;admin.html#mac&#34;&gt;Administration&lt;/a&gt;
+wie man die MAC-Adresse als Root findet.&lt;br /&gt;
+Eine Liste aller zu mountenden Laufwerke findet man in der &lt;a href=&#34;http://de.wikipedia.org/wiki/Fstab&#34;&gt;/etc/fstab&lt;/a&gt;-Datei, 
+die Liste aller tatsächlich gemounteten Laufwerke steht in &lt;a href=&#34;http://en.wikipedia.org/wiki/Mtab&#34;&gt;/etc/mtab&lt;/a&gt;, wobei letztere Datei automatisch erzeugt wird
+und daher nicht per Hand editiert werden sollte.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige von Informationen wie (Alias-)Namen und IP Adressen von Internetresourcen:&lt;/em&gt;&lt;br /&gt;
+&lt;pre&gt;&gt; host www.google.de
+www.google.de is an alias for www.google.com.
+www.google.com is an alias for www.l.google.com.
+www.l.google.com has address 74.125.43.147
+www.l.google.com has address 74.125.43.99
+www.l.google.com has address 74.125.43.103
+www.l.google.com has address 74.125.43.104
+www.l.google.com has IPv6 address 2001:4860:a003::68
+&lt;/pre&gt;
+Auch &#34;reverse-lookup&#34;, d.h. die Ausgabe des Namens zu einer bestimmten Internetadresse ist möglich
+&lt;pre&gt;&gt; host 74.125.43.147
+147.43.125.74.in-addr.arpa domain name pointer bw-in-f147.google.com.
+&lt;/pre&gt;
+Wie die Ausgabe zu interpretieren ist wird ausführlich bei 
+&lt;a href=&#34;http://www.rickconner.net/spamweb/tools-nslookup-host.html&#34;&gt;www.rickconner.net&lt;/a&gt; beschrieben.
+Eine veraltete (aber unter Windows die einzig mögliche) Alternative zu &lt;tt&gt;host&lt;/tt&gt; ist
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Nslookup&#34;&gt;nslookup&lt;/a&gt;, welches jedoch nicht mehr benutzt werden sollte
+(siehe &lt;a href=&#34;http://homepages.tesco.net/~J.deBoynePollard/FGA/nslookup-flaws.html&#34;&gt;nslookup-flaws&lt;/a&gt;).
+Stattdessen sollte man, wenn man noch mehr Informationen habe möchte als &lt;tt&gt;host&lt;/tt&gt; anbietet, das Kommando 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Dig_(Programm)&#34;&gt;dig&lt;/a&gt; verwenden:
+&lt;pre&gt;&gt; dig www.google.de
+&lt;p&gt;; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.3.4 &amp;lt;&amp;lt;&amp;gt;&amp;gt; &lt;a href=&#34;https://www.google.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.de&lt;/a&gt;
+;; global options:  printcmd
+;; Got answer:
+;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 42579
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 7, ADDITIONAL: 7&lt;/p&gt;
+&lt;p&gt;;; QUESTION SECTION:
+;www.google.de.                 IN      A&lt;/p&gt;
+&lt;p&gt;;; ANSWER SECTION:
+&lt;a href=&#34;https://www.google.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.de&lt;/a&gt;.          72639   IN      CNAME   &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.google.com&lt;/a&gt;.
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;;; AUTHORITY SECTION:
+l.google.com.           72822   IN      NS      f.l.google.com.
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;;; ADDITIONAL SECTION:
+a.l.google.com.         160307  IN      A       209.85.139.9
+&amp;hellip;&lt;/p&gt;
+&lt;p&gt;;; Query time: 0 msec
+;; SERVER: 10.156.33.53#53(10.156.33.53)
+;; WHEN: Mon May 11 18:17:32 2009
+;; MSG SIZE  rcvd: 367
+&lt;/pre&gt;
+Einen guten Überblick über &lt;tt&gt;host&lt;/tt&gt;, &lt;tt&gt;dig&lt;/tt&gt; und &lt;tt&gt;nslookup&lt;/tt&gt; findet man auch bei
+&lt;a href=&#34;http://www.tuaw.com/2007/01/29/monday-man-page-dig-host-and-nslookup/&#34;&gt;&lt;a href=&#34;https://www.tuaw.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.tuaw.com&lt;/a&gt;&lt;/a&gt;.
+Weitere nützliche Tools zur Netzwerkanalyse werden bei
+&lt;a href=&#34;http://www.linux-user.de/ausgabe/2006/08/092-zubefehl/index.html&#34;&gt;&lt;a href=&#34;https://www.linux-user.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.linux-user.de&lt;/a&gt;&lt;/a&gt;
+beschrieben.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeige aller eingeloggten Benutzer auf einem Computer:&lt;/em&gt;
+&lt;pre&gt;&gt; finger
+...
+max64mu    Max Muster           *pts/20      -     Mon 17:20
+root       root                  pts/0    8:12  Nov  2 2008  jmb01.de
+root       root                 *pts/2    8:12     Wed 10:48 jmb01.de
+&lt;/pre&gt;
+Der &lt;a href=&#34;http://de.wikipedia.org/wiki/Finger_(Internetprotokoll)&#34;&gt;finger&lt;/a&gt;-Befehl gibt dabei die meisten
+Informationen zurueck, z.B. zeigt er im obigen Beispiel zwei Verbindungen des &lt;tt&gt;root&lt;/tt&gt;-Benutzers an, die bei
+Benutzung des &lt;a href=&#34;http://de.wikipedia.org/wiki/Who_(Unix)&#34;&gt;who&lt;/a&gt;-Kommandos
+&lt;pre&gt;&gt; who
+...
+max64mu  pts/20       2009-05-11 17:20
+&lt;/pre&gt;
+nicht aufgelistet werden. Allerdings wird der &lt;tt&gt;finger&lt;/tt&gt;-Dienst genau wegen seiner Geschwätzigkeit und der Möglichkeit
+ihn auch aus aus der Entfernung abzufragen oft als Sicherheitsrisiko gesehen und ist daher oft abgeschaltet. Dann bleibt
+nur die Benutzung von &lt;tt&gt;who&lt;/tt&gt;, bzw. &lt;tt&gt;w&lt;/tt&gt;, welches z.B, auch den zuletzt ausgeführten Befehl eines jeden Benutzers 
+anzeigt
+&lt;pre&gt;&gt; w
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+...
+max64mu  pts/20    17:20    0.00s  0.02s  0.00s w
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Laufende Veränderungen in einer (Log-)Datei betrachten:&lt;/em&gt;
+&lt;pre&gt;&gt; less +F logdatei&lt;/pre&gt;
+Dieses Kommando startet &lt;tt&gt;less&lt;/tt&gt; im sogenannten Tail-Modus, wobei &lt;tt&gt;less&lt;/tt&gt; automatisch
+Veränderungen am Ende der Datei anzeigt. Um vom Tail-Modus in den normalen Modus zu wechseln einfach &lt;tt&gt;Ctrl-c&lt;/tt&gt;
+drücken (siehe &lt;a href=&#34;http://linuxcommando.blogspot.com/2007/11/log-watching-using-tail-or-less.html&#34;&gt;linuxcommando.blogspot.com&lt;/a&gt;).
+Will man jedoch mehr als eine Datei beobachten reicht &lt;tt&gt;less&lt;/tt&gt; nicht aus, dann muß man 
+&lt;a href=&#34;http://www.ss64.com/bash/tail.html&#34;&gt;tail&lt;/a&gt; verwenden (siehe 
+&lt;a href=&#34;http://linuxcommando.blogspot.com/2007/11/tail-multiple-files.html&#34;&gt;linuxcommando.blogspot.com&lt;/a&gt;):
+&lt;pre&gt;&gt; tail -f logdatei1 logdatei2&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Änderungen an der &lt;tt&gt;.bashrc&lt;/tt&gt;-Konfigurationsdatei ohne Neustart der Shell wirksam werden lassen:&lt;/em&gt;
+&lt;pre&gt;&gt; source ~/.bashrc&lt;/pre&gt;
+Alternativ (aber vielleicht etwas verwirrend kann man auch)
+&lt;pre&gt;&gt; . ~/.bashrc&lt;/pre&gt;
+verwenden. Dies funktioniert sehr allgemein also z.B auch mit den Befehlen der &lt;tt&gt;.alias&lt;/tt&gt;-Datei
+&lt;pre&gt;&gt; source ~/.alias&lt;/pre&gt;
+Mehr zur Funktionsweise des &lt;tt&gt;source&lt;/tt&gt;-Kommandos steht unter
+&lt;a href=&#34;http://learnlinux.tsf.org.za/courses/build/shell-scripting/ch10s02.html&#34;&gt;learnlinux.tsf.org.za&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zeilenumbruch in &lt;tt&gt;less&lt;/tt&gt; abschalten:&lt;/em&gt;&lt;br /&gt;
+Entweder die Datei über die Kommandozeile mit
+&lt;pre&gt;&gt; less -S &lt;/pre&gt;
+aufrufen, oder bei der Anzeige der Datei &lt;tt&gt;-S&lt;/tt&gt; drücken. Mit der Cursortaste kann man dann nach links und 
+rechts navigieren.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Anzeigen einer Liste aller zuletzt eingegebenen Befehle:&lt;/em&gt;
+&lt;pre&gt;&gt; history&lt;/pre&gt;
+Leider ist diese Liste dann nicht komplett, wenn man mehrere Shell-Fenster gleichzeitig geöffnet hat, denn standardmäßig
+werden immer nur die Befehle der zuletzt geschlossenen Shell fuer die Zukunft gespeichert. Befehle aus vorher geschlossenen
+Shells gehen verloren. Abhilfe bringt nach 
+&lt;a href=&#34;http://www.mynethome.de/2008/01/03/zaubern-mit-der-shell-bash-history/&#34;&gt;www.mynethome.de&lt;/a&gt; das Hinzufügen der
+Zeilen 
+&lt;pre&gt;
+shopt -s histappend
+PROMPT_COMMAND=&#39;history -a&#39;
+&lt;/pre&gt;
+zur &lt;tt&gt;.bashrc&lt;/tt&gt;. Mehr zu dieser Lösung und anderen fortgeschrittenen &lt;tt&gt;bash&lt;/tt&gt;-Themen findet man in 
+&lt;a href=&#34;http://www.ukuug.org/events/linux2003/papers/bash_tips/&#34;&gt;Myers: Power Shell Usage (2003)&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cursorsteuerung:&lt;/em&gt;&lt;br /&gt;
+Um bei langen Befehlszeilen den Cursor an den Anfang springen zu lassen
+drücke man &lt;tt&gt;Ctrl-a&lt;/tt&gt;, um wieder ans Ende zu gelangen &lt;tt&gt;Ctrl-e&lt;/tt&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mpi (message passing interface) | Das Blog</title>
+    <link>/tag/mpi-message-passing-interface/</link>
+      <atom:link href="/tag/mpi-message-passing-interface/index.xml" rel="self" type="application/rss+xml" />
+    <description>mpi (message passing interface)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>mpi (message passing interface)</title>
+      <link>/tag/mpi-message-passing-interface/</link>
+    </image>
+    
+    <item>
+      <title>The author seems to suggest ...</title>
+      <link>/post/2015-10-16-the-author-seems-to-suggest/</link>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-10-16-the-author-seems-to-suggest/</guid>
+      <description>&lt;p&gt;The author seems to suggest that one should use Apache Spark for fluid dynamic simulations. Although this is technically possible I guess the performance will be orders of magnitude slower than using MPI (and this of course is unacceptable if you want to do HIGH performance computing). The reason is that Apache Spark is nothing else than MapReduce on Steroids. And MapReduce is a programming model for problems which don&amp;rsquo;t need a lot of communication (actually in the map step, there is no communication possible between the worker nodes). But fluid dynamic simulations are the opposite of that; you need to communicate with your neighbor cells. Otherwise your fluid will disintegrate into separate blocks, which don&amp;rsquo;t interact with each other (in opposition to what we see in nature).&lt;/p&gt;
+&lt;p&gt;MPI is old and it misses features like fail-safety (which you don&amp;rsquo;t need on multimillion dollar super computers, because they have fail-safety build into there hardware). But it is still the best tool for a lot of problems, like LaTex is still the best framework for creating books and publications in science (And LaTex is even older than MPI!).﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.dursi.ca/assets/imgs/cover.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+dursi.ca&lt;/p&gt;
+&lt;h2 id=&#34;jonathan-dursihttpwwwdursicahpc-is-dying-and-mpi-is-killing-it&#34;&gt;&lt;a href=&#34;http://www.dursi.ca/hpc-is-dying-and-mpi-is-killing-it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Dursi&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;R&amp;amp;D computing at scale&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

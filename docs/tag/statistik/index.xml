@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistik | Das Blog</title>
+    <link>/tag/statistik/</link>
+      <atom:link href="/tag/statistik/index.xml" rel="self" type="application/rss+xml" />
+    <description>statistik</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>statistik</title>
+      <link>/tag/statistik/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Die Virusausbreitung lässt sich gut ...</title>
+      <link>/post/2021-05-12-die-virusausbreitung-lasst-sich-gut/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-05-12-die-virusausbreitung-lasst-sich-gut/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Die Virusausbreitung lässt sich gut berechnen, wenn man annimmt, dass die Menschen ihr Verhalten nicht ändern. Das Verhalten ändert sich aber bekanntlich aus vielen Gründen.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Ich würde noch hinzufügen, dass das RKI keineswegs eine Organisation mit Expertise in Statistik ist. Das wäre eher das Bundesamt für Statistik. Warum letzteres nicht die Coronastatistiken erstellt (Das vergleichbare Office for National Statistics in England tut das) ist mir schon lange unklar. Und ohne gute Datengrundlage steht jede Vorhersage auf tönernen Füßen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.t-online.de/nachrichten/deutschland/id_90013072/falsche-prognosen-weshalb-sich-die-corona-experten-so-oft-irren.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.t-online.de/2021/06/90013284v3/0x0:1920x1082/fit-in/1800x0/lothar-wieler-praesident-des-robert-koch-instituts-rki-das-institut-prognostizierte-eine-extreme-dritte-welle-in-deutschland.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+t-online.de&lt;/p&gt;
+&lt;h2 id=&#34;weshalb-sich-die-corona-experten-so-oft-irrenhttpswwwt-onlinedenachrichtendeutschlandid_90013072falsche-prognosen-weshalb-sich-die-corona-experten-so-oft-irrenhtml&#34;&gt;&lt;a href=&#34;https://www.t-online.de/nachrichten/deutschland/id_90013072/falsche-prognosen-weshalb-sich-die-corona-experten-so-oft-irren.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weshalb sich die Corona-Experten so oft irren&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Horror-Inzidenzen nach Ostern, überfüllte Intensivstationen, noch mehr Tote: &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das kleine Island macht der ...</title>
+      <link>/post/2020-04-03-das-kleine-island-macht-der/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-04-03-das-kleine-island-macht-der/</guid>
+      <description>&lt;p&gt;Das kleine Island macht der Welt vor, wie man gute Statistik über die Coronapandemie macht:&lt;/p&gt;
+&lt;p&gt;Die erste Grafik auf der Webseite zeigt tatsächlich die Anzahl der Tests pro Tag. Eine Information, die man für die meisten Länder (einschließlich Deutschland) überhaupt nicht bekommt. Weiter bekommt man auch sofort einen Überblick darüber, wieviele Menschen im Krankenhaus sind, wieviele in Quarantäne und wieviele wieder genesen und aus der Quarantäne entlassen sind. Und zu guter Letzt gibt es einen Überblick über die Altersverteilung der Erkrankten.&lt;/p&gt;
+&lt;p&gt;All das wird übersichlich auf einer Webseite angezeigt und man kann die Daten sogar als CSV herunterladen!&lt;/p&gt;
+&lt;p&gt;Unser Robert-Koch-Institut dagegen veröffentlicht nur die Fallzahlen auf der Webseite (welche ohne Testanzahl kaum brauchbar ist zur Beurteilung der Situation) und andere Informationen muß man sich mühsam aus einem PDF zusammenklauben. Der Download von maschinenlesbaren Daten? Fehlanzeige! Das Internet ist Neuland für unsere oberste Gesundheitsbehörde.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.covid.is/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://assets-global.website-files.com/5e616406176c1867bac3d4d4/5ff6c994fa06568225a93180_advice-and-information.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+covid.is&lt;/p&gt;
+&lt;h2 id=&#34;datahttpswwwcovidisdata&#34;&gt;&lt;a href=&#34;https://www.covid.is/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Latest updates on confirmed infections, the number of people in quarantine or isolation, and more.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interessante Art der Fußballstatistik. ...</title>
+      <link>/post/2018-06-28-interessante-art-der-fuballstatistik/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-06-28-interessante-art-der-fuballstatistik/</guid>
+      <description>&lt;p&gt;Interessante Art der Fußballstatistik.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.watson.de/sport/interview/458713925-gibt-es-eigentlich-packing-noch-8-bundesliga-vereine-schwoeren-drauf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.watson.de/imgdb/58e8/Qx,F,41,0,1063,598,476,249,190,99/515428080256524&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+watson.de&lt;/p&gt;
+&lt;h2 id=&#34;gibt-es-eigentlich-packing-noch-8-bundesliga-vereine-schwören-draufhttpswwwwatsondesportinterview458713925-gibt-es-eigentlich-packing-noch-8-bundesliga-vereine-schwoeren-drauf&#34;&gt;&lt;a href=&#34;https://www.watson.de/sport/interview/458713925-gibt-es-eigentlich-packing-noch-8-bundesliga-vereine-schwoeren-drauf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gibt es eigentlich &amp;ldquo;Packing&amp;rdquo; noch? 8 Bundesliga-Vereine schwören drauf&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Packing&amp;rdquo; war das (Un)Wort der EM 2016. Zwei Jahre später scheint es Packing nie gegeben zu haben.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sechs Jahre nach meinem Blog-Artikel ...</title>
+      <link>/post/2017-10-08-sechs-jahre-nach-meinem-blog-artikel/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-10-08-sechs-jahre-nach-meinem-blog-artikel/</guid>
+      <description>&lt;p&gt;Sechs Jahre nach meinem Blog-Artikel &lt;a href=&#34;https://asmaier.blogspot.de/2011/11/simulation-der-gesamten-menschheit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://asmaier.blogspot.de/2011/11/simulation-der-gesamten-menschheit.html&lt;/a&gt; wird das Thema endlich ernst genommen. Auf die Ergebnisse daraus bin ich sehr gespannt.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Statistik-Professor-simuliert-Wohin-geht-die-Reise-in-Deutschland-3848187.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/2/8/9/5/8/4/large-193357_1920-41ff775c5d063c5b.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;statistik-professor-simuliert-wohin-geht-die-reise-in-deutschlandhttpswwwheisedenewstickermeldungstatistik-professor-simuliert-wohin-geht-die-reise-in-deutschland-3848187html&#34;&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Statistik-Professor-simuliert-Wohin-geht-die-Reise-in-Deutschland-3848187.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistik-Professor simuliert: Wohin geht die Reise in Deutschland?&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ärztemangel, Pflegenotstand, Wohnraum-Knappheit. Probleme, die viele beschäftigen, zu denen es aber bislang kaum fundierte regionale Untersuchungen gibt. Das wollen Trierer Statistiker jetzt ändern.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mit Bildung ist hier vor ...</title>
+      <link>/post/2016-11-23-mit-bildung-ist-hier-vor/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-11-23-mit-bildung-ist-hier-vor/</guid>
+      <description>&lt;p&gt;Mit Bildung ist hier vor allem Collegebildung (entspricht Abitur und Hochschulbildung) gemeint. Dasselbe Bild zeigte sich beim Brexit: &lt;a href=&#34;https://www.theguardian.com/politics/2016/oct/05/trump-brexit-education-gap-tearing-politics-apart&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/politics/2016/oct/05/trump-brexit-education-gap-tearing-politics-apart&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wie hoch der Bildungsstand in Deutschland ist wird sich dann wohl nächstes Jahr zeigen. Bildet euch, sonst verwählt ihr euch!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://fivethirtyeight.com/features/education-not-income-predicted-who-would-vote-for-trump/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://fivethirtyeight.com/wp-content/uploads/2016/11/education-4by3-2.jpg?w=712&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+fivethirtyeight.com&lt;/p&gt;
+&lt;h2 id=&#34;education-not-income-predicted-who-would-vote-for-trumphttpsfivethirtyeightcomfeatureseducation-not-income-predicted-who-would-vote-for-trump&#34;&gt;&lt;a href=&#34;https://fivethirtyeight.com/features/education-not-income-predicted-who-would-vote-for-trump/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Education, Not Income, Predicted Who Would Vote For Trump&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Sometimes statistical analysis is tricky, and sometimes a finding just jumps off the page. Here’s one example of the latter. I took a list of all 981 U.S. count…&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interessante Statistik. Womit verschwendet ihr ...</title>
+      <link>/post/2016-10-12-interessante-statistik-womit-verschwendet-ihr/</link>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-10-12-interessante-statistik-womit-verschwendet-ihr/</guid>
+      <description>&lt;p&gt;Interessante Statistik. Womit verschwendet ihr täglich so eure Zeit? Ich z.B. lese Statistiken ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/EinkommenKonsumLebensbedingungen/Zeitverwendung/Tabellen/Aktivitaeten_Alter_ZVE.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/EinkommenKonsumLebensbedingungen/Zeitverwendung/Tabellen/Aktivitaeten_Alter_ZVE.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studieren geht über probieren! ...</title>
+      <link>/post/2013-10-05-studieren-geht-uber-probieren/</link>
+      <pubDate>Sat, 05 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-10-05-studieren-geht-uber-probieren/</guid>
+      <description>&lt;p&gt;Studieren geht über probieren!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.der-postillon.com/2012/03/skandal-zahl-sinnloser-studien-um-120.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://4.bp.blogspot.com/-R9tSgvKI7CE/UtB48cdQMfI/AAAAAAAAX-I/PdiuTmkMOZU/w1600/Fotolia_35316683_S.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+der-postillon.com&lt;/p&gt;
+&lt;h2 id=&#34;skandal-zahl-sinnloser-studien-laut-studie-um-120-prozent-gestiegenhttpwwwder-postilloncom201203skandal-zahl-sinnloser-studien-um-120html&#34;&gt;&lt;a href=&#34;http://www.der-postillon.com/2012/03/skandal-zahl-sinnloser-studien-um-120.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skandal! Zahl sinnloser Studien laut Studie um 120 Prozent gestiegen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Unfassbar! Die Zahl sinnloser Studien und Umfragen ist in den vergangenen zehn Jahren um rund 120 Prozent gestiegen. Zu dieser bahnbrechenden Erkenntnis kam das Institut für Wissenschaftsforschung (IfW) in einer aktuellen Studie. Ein möglicher Grund für diesen Anstieg könnte darin liegen, dass Medien oft reißerisch über die Ergebnisse derartiger Studien berichten.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eine statistiche Analyse basierend auf ...</title>
+      <link>/post/2013-06-28-eine-statistiche-analyse-basierend-auf/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-06-28-eine-statistiche-analyse-basierend-auf/</guid>
+      <description>&lt;p&gt;Eine statistiche Analyse basierend auf 21 Eigenschaften von 250 Sprachen ergibt:&lt;/p&gt;
+&lt;p&gt;Deutsch ist die zehnt-seltsame Sprache der Welt!&lt;/p&gt;
+&lt;p&gt;Grüße an alle die Sonderlinge, die sie beherrschen!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://idibon.com/the-weirdest-languages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://idibon.com/the-weirdest-languages/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Die Bundesregierung kann sich auch ...</title>
+      <link>/post/2011-04-11-die-bundesregierung-kann-sich-auch/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-04-11-die-bundesregierung-kann-sich-auch/</guid>
+      <description>&lt;p&gt;Die Bundesregierung kann sich auch nicht aus der Verantwortung ziehen und sagen, die EU würde die Daten für den Zensus 2011 verlangen. Nach der EU Verordung sind keine persönlichen Daten wie Name, Geburtstag usw. verlangt, nur allgemeine anonyme Angaben wie&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;üblicher Aufenthaltsort&lt;/li&gt;
+&lt;li&gt;Geschlecht&lt;/li&gt;
+&lt;li&gt;Alter&lt;/li&gt;
+&lt;li&gt;gesetzlicher Familienstand
+&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wozu erhebt die Bundesregierung private Daten welche die EU nicht verlangt?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ihr glaubt Facebook oder Google ...</title>
+      <link>/post/2011-04-11-ihr-glaubt-facebook-oder-google/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-04-11-ihr-glaubt-facebook-oder-google/</guid>
+      <description>&lt;p&gt;Ihr glaubt Facebook oder Google will eure Daten? Schaut euch mal das Zensus2011 Gesetz an:
+&amp;hellip; zur Vorbereitung und Durchführung des Zensus übermitteln die Meldebehörden den statistischen Ämtern der Länder für jede(!!!) gemeldete Person elektronisch die folgenden Daten:
+&amp;hellip;
+2. Familienname, &amp;hellip; und Vornamen,
+3. Straße, &amp;hellip;, Hausnummer &amp;hellip;,
+4. Wohnort, Postleitzahl &amp;hellip;,
+5. Tag der Geburt,
+&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;gesetze-im-internet.de&lt;/p&gt;
+&lt;h2 id=&#34;zensg-2011---gesetz-über-den-registergestützten-zensus-im-jahre-2011httpwwwgesetze-im-internetdezensg_2011bjnr178110009html&#34;&gt;&lt;a href=&#34;http://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZensG 2011 - Gesetz über den registergestützten Zensus im Jahre 2011&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;ZensG 2011&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wozu brauchen die für eine ...</title>
+      <link>/post/2011-04-11-wozu-brauchen-die-fur-eine/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-04-11-wozu-brauchen-die-fur-eine/</guid>
+      <description>&lt;p&gt;Wozu brauchen die für eine angeblich anonyme Statistik meinen Namen, Geburtsdatum, Adresse usw. ??? Es ist ein Skandal ohnegleichen und absolut heuchlerisch wie die Bundesregierung Firmen wie Google und Facebook kritisieren kann, aber gleichzeitig selbst die meisten Daten sammelt! Und das beste kommt noch: &amp;ldquo;resistance is futile&amp;rdquo; - Widerspruch kann nicht eingelegt werden und die Auskunft darf nicht verweigert werden.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://zensus11.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.zensus11.de/wp-content/uploads/2018/08/Fu%c3%9fball-Englands-Dem%c3%bctigungen.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+zensus11.de&lt;/p&gt;
+&lt;h2 id=&#34;zensus11dehttpzensus11de&#34;&gt;&lt;a href=&#34;http://zensus11.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zensus11.de&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Seit dem 8. Oktober 2021 ist Fair Play auch als legales niederländisches Online-Casino verfügbar. Im digitalen Fair Play Casino finden Sie derzeit über 300 Online-Glücksspiele, davon eine große Anzahl aus dem Portfolio von Evolution. Die Muttergesellschaft Janshen-Hahnraths-Gruppe und der Marktführer für Live-Gaming-Software arbeiten nun eng zusammen. Fair Play: ‘Fantastische Online-Spiele von Weltklasse’.”Wir freuen uns sehr, […]&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PISA wertlos</title>
+      <link>/post/2006-11-09-pisa-wertlos/</link>
+      <pubDate>Thu, 09 Nov 2006 22:50:00 +0000</pubDate>
+      <guid>/post/2006-11-09-pisa-wertlos/</guid>
+      <description>
+Wer meine Meinung zur PISA-Studie kennt weiß, dass ich schon immer an der statistischen Aussagefähigkeit gezweifelt habe. Jetzt hat bezeichnenderweise ein Physiker die Studie genauer unter die Lupe genommen und kommt wie die &lt;a href=&#34;http://www.berlinonline.de/berliner-zeitung/print/feuilleton/601772.html&#34;&gt;Berliner Zeitung&lt;/a&gt; und &lt;a href=&#34;http://www.heise.de/newsticker/meldung/80708&#34;&gt;Heise&lt;/a&gt; berichten zu einem vernichtenden Urteil:&lt;br /&gt;PISA sei keine repräsentative Stichprobe, sei fehlerhaft ausgewertet worden, voller gravierender Mängel und nicht zuletzt aufgrund eines Programmierfehlers völlig wertlos. Wenn das stimmt ist PISA ein erneutes, spektakuläres Beispiel dafür, dass gewissenhaftes Arbeiten heutzutage auch in großen, teuren Studien leider nicht selbstverständlich ist.</description>
+    </item>
+    
+  </channel>
+</rss>

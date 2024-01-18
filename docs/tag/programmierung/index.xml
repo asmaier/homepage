@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programmierung | Das Blog</title>
+    <link>/tag/programmierung/</link>
+      <atom:link href="/tag/programmierung/index.xml" rel="self" type="application/rss+xml" />
+    <description>programmierung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>programmierung</title>
+      <link>/tag/programmierung/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Auch fast sechzig Jahre nach ...</title>
+      <link>/post/2021-05-18-auch-fast-sechzig-jahre-nach/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-05-18-auch-fast-sechzig-jahre-nach/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Auch fast sechzig Jahre nach Erfindung des Computers und dreißig Jahre nach Gründung des World Wide Webs spielt die Informatik in deutschen Schulen kaum eine Rolle.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Also ich bin damals (Ende der 90er auf einem bayrischen Gymnasium) in den freiwilligen Nachmittagsunterricht Informatik gegangen. Da gab es 8088 IBM-PCs, die waren schon Mitte der 90er 10 Jahre alt. Gelernt habe ich nix, außer dass mein Computer zuhause viel, viel besser und moderner war. War aber auch egal, denn Noten gab es sowieso nicht im freiwilligen Unterricht. Stattdessen musste man sich Sorgen um die Noten in wichtigeren Fächern wie Religion, Kunst oder Musik machen (Auf einem naturwissenschaftlich-technischen Gymnasium!).&lt;/p&gt;
+&lt;p&gt;Offenbar hat sich seitdem wenig geändert. Wobei ich eigentlich nicht der Meinung bin, dass man an den Schulen theoretische Informatik mit Lehrplänen wie an der Uni lehren sollte. Vielmehr sollte man einfach Programmieren lehren, mit praktischem Bezug wie an Fachhochschulen, also besser Programmier- statt Informatikunterricht. Die Fähigkeit zu Programmieren halte ich in unserer heutigen Welt nämlich für genauso wichtig wie Lesen, Schreiben und Rechnen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/news/GI-Informatik-spielt-in-deutschen-Schulen-keine-Rolle-5988207.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/0/7/2/1/0/1/informatik-e86bc10ddca62041.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;gi-informatik-spielt-in-deutschen-schulen-kaum-eine-rollehttpswwwheisedenewsgi-informatik-spielt-in-deutschen-schulen-keine-rolle-5988207html&#34;&gt;&lt;a href=&#34;https://www.heise.de/news/GI-Informatik-spielt-in-deutschen-Schulen-keine-Rolle-5988207.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GI: Informatik spielt in deutschen Schulen kaum eine Rolle&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Die Landkarte der Informatikbildung präsentiert sich für die Gesellschaft für Informatik als Flickenteppich. Auch würde zu oberflächlich gelehrt.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#Facebook-Programmierer, könnt ihr eigentlich garnix? ...</title>
+      <link>/post/2019-08-17-facebook-programmierer-konnt-ihr-eigentlich-garnix/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-08-17-facebook-programmierer-konnt-ihr-eigentlich-garnix/</guid>
+      <description>&lt;p&gt;#Facebook-Programmierer, könnt ihr eigentlich garnix? Gerade eben habe ich einen Beitrag aus versehen als sogenannte Facebook Story gepostet. Das ließ sich natürlich nicht mehr rückgängig machen. Noch besser, ich konnte am Desktop meine eigene Story nicht mehr lesen und auch nicht mehr editieren.&lt;/p&gt;
+&lt;p&gt;Die einzige Möglichkeit meine Story zu lesen war über die Facebook App auf dem Smartphone meiner liebsten Ehefrau. Natürlich konnte ich den Text dort nichtmal kopieren oder an mich weiterleiten. Ich musste ihn nochmal abtippen um einen News Feed Beitrag daraus zu machen.&lt;/p&gt;
+&lt;p&gt;Sorry, aber das ist so ein GUI-Cluster-Fuck, das geht gar nicht. Nicht nur das ihr das Stories-Feature von Snapchat geklaut habt, ihr habt es noch nicht einmal hinbekommen Basisfeatures dafür in der Facebook Webanwendung zu implementieren. Was soll das sein?&lt;/p&gt;
+&lt;p&gt;Statt idiotische Features von anderen zu kopieren konzentriert euch lieber auf das was ihr könnt: Propaganda und FakeNews verbreiten. Dann fällt auch nicht so auf, dass eure PHP-GUI seit 2005 kein Update mehr bekommen hat und noch nichtmal die volle Bildschirmbreite nutzen kann. Hundertausend heulende Höllenhunde, da war ja Google+ besser!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;DeepCoder uses machine learning to ...</title>
+      <link>/post/2017-02-28-deepcoder-uses-machine-learning-to/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-02-28-deepcoder-uses-machine-learning-to/</guid>
+      <description>&lt;p&gt;&amp;ldquo;DeepCoder uses machine learning to scour databases of source code and sort the fragments according to its view of their probable usefulness. All this makes the system much faster than its predecessors. DeepCoder created working programs in fractions of a second&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.newscientist.com/wp-content/uploads/2017/02/22180000/ff3ywn-1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+newscientist.com&lt;/p&gt;
+&lt;h2 id=&#34;ai-learns-to-write-its-own-code-by-stealing-from-other-programshttpswwwnewscientistcomarticlemg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs&#34;&gt;&lt;a href=&#34;https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI learns to write its own code by stealing from other programs&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Software called DeepCoder has solved simple programming challenges by piecing together bits of borrowed code&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das trifft nicht nur auf ...</title>
+      <link>/post/2016-02-11-das-trifft-nicht-nur-auf/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-02-11-das-trifft-nicht-nur-auf/</guid>
+      <description>&lt;p&gt;Das trifft nicht nur auf Sysadmins, sondern auch auf Programmierer, Ingenieure, Devops etc zu. Entwertet euch nicht selbst!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://queue.acm.org/detail.cfm?id=2891413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dl.acm.org/cms/attachment/688824db-3273-42b6-b0ed-63f31185671c/limoncelli1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+queue.acm.org&lt;/p&gt;
+&lt;h2 id=&#34;how-sysadmins-devalue-themselves---acm-queuehttpqueueacmorgdetailcfmid2891413&#34;&gt;&lt;a href=&#34;http://queue.acm.org/detail.cfm?id=2891413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How Sysadmins Devalue Themselves - ACM Queue&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mein Beileid an alle russischen ...</title>
+      <link>/post/2014-10-25-mein-beileid-an-alle-russischen/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-10-25-mein-beileid-an-alle-russischen/</guid>
+      <description>&lt;p&gt;Mein Beileid an alle russischen Programmierer, die dieses Zeitzonenchaos irgendwie in Algorithmen gießen dürfen. Dagegen ist das Jahr 2000 Problem ja geradezu trivial. Zu welcher Zeitzone gehört jetzt z.B. die Krim? ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://deutsche-wirtschafts-nachrichten.de/2014/10/25/die-letzte-zeitumstellung-russland-schafft-die-sommerzeit-ab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://deutsche-wirtschafts-nachrichten.de/2014/10/25/die-letzte-zeitumstellung-russland-schafft-die-sommerzeit-ab&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programmieren</title>
+      <link>/post/programmieren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/programmieren/</guid>
+      <description>&lt;p&gt; Wer gerne wissen möchte, welche Bücher &#34;Profis&#34; (Wissenschaftler und Co. ;-) ) zum 
+programmieren benutzen, der kann in &lt;a href=&#34;http://scholar.google.com/&#34; &gt;Google Scholar&lt;/a&gt; z.B. nach 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=Java&amp;amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;Java&lt;/a&gt;, 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=C%2B%2B&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;C++&lt;/a&gt;, 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=Fortran&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;Fortran&lt;/a&gt; oder 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=Python&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;Python&lt;/a&gt; suchen 
+und erhält auf diese weise leicht die meistzitierten Programmierbücher für diese Programmiersprachen. 
+Wer wissen möchte, welche Bücher ich bevorzuge, der sollte hier einfach weiterlesen: &lt;/p&gt;
+&lt;h6&gt;Java&lt;/h6&gt;
+&lt;p&gt;Um Java zu lernen reicht eigentlich ein Buch:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/3827322014/guidokruegerfreie/302-7208934-0117615&#34;&gt;
+&#34;Handbuch der Java-Programmierung&#34; von Guido Krüger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es ist der Nachfolger von &#34;Go to Java2&#34; vom selben Autor. Und nicht nur das es
+das beste Buch ist, nein, man kann es sogar kostenlos komplett aus dem Netz
+laden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javabuch.de/&#34;&gt;www.javabuch.de/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;C++&lt;/h6&gt;
+&lt;p&gt;Für C++ gibt es eine Unmenge an frei erhältlichen Einsteigertutorials. Am
+besten man sucht mal in &lt;a href=&#34;http://www.google.de/&#34;&gt;Google&lt;/a&gt; unter &#34;c++
+tutorial&#34;. Aber ich kann mich nicht mehr erinnern, welches ich besonders gut 
+fand, drum hier nur ein paar Links zu besonders ausführlichen Online-Wälzern:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;usefulthings/tic2vone.pdf&#34;&gt;TIC2Vone.pdf&lt;/a&gt; : &#34;Thinking in C++&#34; 
+Volume One von Bruce Eckel im pdf-Format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;usefulthings/tic2vtwo.pdf&#34;&gt;TIC2Vone.pdf&lt;/a&gt; : &#34;Thinking in C++&#34; 
+Volume Two von Bruce Eckel im pdf-Format&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&#34;http://www.notes-about-cpp.com/book.html&#34;&gt;&#34;Notizen zu C++&#34;&lt;/a&gt; : von Peter
+Thömmes, enthält einiges (womöglich sogar abgeschrieben) aus den Büchern von
+Scott Meyers(s.u.).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; Bücher gibt es ebenfalls wie Sand am Meer. Die besten Standardwerke 
+sind meiner Meinung nach folgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201379260/
+qid=1077834223/sr=2-5/ref=sr_aps_prod_5_2/302-5723593-8228013&#34;&gt;
+&#34;The C++ Standard Library&#34; von Nicolai M. Josuttis&lt;/a&gt; : Das beste Buch zu C++ 
+überhaupt! In keinem anderen Buch wird auch nur im Ansatz die STL so leicht
+und verständlich erklärt wie in diesem. Und nebenbei lernt man noch viel über
+C++ allgemein.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201924889/
+qid=1077835002/sr=2-1/ref=sr_2_11_1/302-5723593-8228013&#34;&gt;
+&#34;Effective C++: 50 Specific Ways to Improve Your Programs and Designs&#34;
+von Scott Meyers&lt;/a&gt; : Ohne dieses Buch gelesen zu haben versteht man C++
+nicht! Unendlich nützlich, selbst für Einsteiger, denn in diesem Buch werden
+Dinge erklärt, die man sonst nirgends liest!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/020163371X/
+qid=1077835002/sr=2-2/ref=sr_2_11_2/302-5723593-8228013&#34;&gt;
+&#34;More Effective C++: 35 New Ways to Improve Your Programs and Designs&#34;
+von Scott Meyers
+&lt;/a&gt; : Hier liest man noch mehr Dinge, die man sonst nirgends liest. Wie der
+erste Band ein absolutes Muß!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201700735/
+qid=1077835693/sr=2-2/ref=sr_2_3_2/302-5723593-8228013&#34;&gt;
+&#34;The C++ Programming Language, Special Edition&#34; von Bjarne Stroustrup
+&lt;/a&gt; : Die Bibel vom Erfinder von C++. Leider kein wirklich gutes Buch,
+kompliziert, unübersichtlich aber es steht irgendwie alles drin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201633612/
+qid=1077835970/sr=2-1/ref=sr_2_11_1/302-5723593-8228013&#34;&gt;
+&#34;Design Patterns&#34; von Erich Gamma, Richard Helm, Ralph E. Johnson, John
+Vlissides&lt;/a&gt; : Der berühmte Klassiker der &#34;Gang of Four&#34;. Pflichlektüre 
+für jeden, der wissen will, wozu objektorientiertes Programmieren 
+überhaupt nützlich ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; Eine hilfreiche wissenschaftliche Veröffentlichung ist auch folgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://citeseer.ist.psu.edu/dasigi99catalog.html&#34;&gt;Venu Dasigi: A Catalog of Common Bugs in C++ Programming (1999)&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Und von mir gibt es natürlich auch ein paar nützliche Tips und Tricks zu C++:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;documents/cplusplus.pdf&#34;&gt;cplusplus.pdf&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Fortran90/95&lt;/h6&gt;
+&lt;p&gt;Erste Regel: FORTRAN 77 meiden wo es nur geht! Denn z.B. 
+anders als in Fortran 90/95 gilt bei seinem Vorgänger FORTRAN 77 noch ein aus
+der Lochkarten-Ära(!) stammendes festes Spaltenformat (fixed source form).
+Wer will das schon? Leider gibt es nur sehr wenige gute Quellen um Fortran 90/95 zu lernen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rz.uni-bayreuth.de/lehre/fortran90/&#34;&gt;
+www.rz.uni-bayreuth.de/lehre/fortran90/&lt;/a&gt; 
+: Vorlesung der Uni Bayreuth, sehr zu empfehlen!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/
+ASIN/0070119384/qid=1077808372/sr=2-3/ref=sr_aps_prod_3_1/302-3453072-9080005&#34;&gt;
+&#34;FORTRAN 90/95 for Scientists and Engineers&#34;
+von Stephen J. Chapman&lt;/a&gt; : gutes Buch!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ausserdem gibt es noch nicht einmal einen Gnu-Compiler für Fortran 90. Die meisten Compiler
+für Fortran 90/95 sind auch keine Freeware. Der beste frei erhältliche Fortran90/95-Compiler
+ist der von Intel namens &#34;ifort&#34; (aktuell in Version 9.0):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://developer.intel.com/software/products/global/eval.htm&#34;&gt;
+developer.intel.com/software/products/global/eval.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

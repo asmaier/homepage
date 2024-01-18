@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maus-und-tastaturverwaltung | Das Blog</title>
+    <link>/tag/maus-und-tastaturverwaltung/</link>
+      <atom:link href="/tag/maus-und-tastaturverwaltung/index.xml" rel="self" type="application/rss+xml" />
+    <description>maus-und-tastaturverwaltung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2009 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>maus-und-tastaturverwaltung</title>
+      <link>/tag/maus-und-tastaturverwaltung/</link>
+    </image>
+    
+    <item>
+      <title>Synergy</title>
+      <link>/post/2009-10-22-synergy/</link>
+      <pubDate>Thu, 22 Oct 2009 13:00:00 +0000</pubDate>
+      <guid>/post/2009-10-22-synergy/</guid>
+      <description>
+&lt;a onblur=&#34;try {parent.deselectBloggerImageGracefully();} catch(e) {}&#34; href=&#34;http://synergy2.sourceforge.net/images/warp.gif&#34;&gt;&lt;img style=&#34;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 400px; height: 192px;&#34; src=&#34;http://synergy2.sourceforge.net/images/warp.gif&#34; border=&#34;0&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Heute hat mir eine Arbeitskollegin folgendes cooles Tool gezeigt:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://synergy2.sourceforge.net/&#34;&gt;Synergy&lt;/a&gt; (bzw. die Weiterentwicklung &lt;a href=&#34;http://code.google.com/p/synergy-plus/&#34;&gt;Synergy+&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;Mit Synergy kann man alle Computer auf seinem Schreibtisch zu einem virtuellen Screen verbinden und zwar unabhängig(!) vom Betriebsystem. Man verbindet dazu die Maus und Tastatur nur mit einem Computer und sagt Synergy die Position der Monitore die man auf dem Schreibtisch hat (z.B. Mac-Laptop links vom Linux-PC). Dann kann man die Maus einfach von einem Bildschirm auf den anderen bewegen (siehe Bild). Auch Copy&amp;amp;Paste funktioniert zwischen beiden Desktops. Ziemlich cool! Für Mac OS X gibt es auch ein GUI:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a class=&#34;moz-txt-link-freetext&#34; href=&#34;http://sourceforge.net/projects/synergykm/&#34;&gt;http://sourceforge.net/projects/synergykm/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Jetzt brauch ich nur noch einen oderer mehrere Laptops um das ganze auch mal selbst ausprobieren zu können! ;-)</description>
+    </item>
+    
+  </channel>
+</rss>

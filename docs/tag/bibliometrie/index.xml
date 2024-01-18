@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bibliometrie | Das Blog</title>
+    <link>/tag/bibliometrie/</link>
+      <atom:link href="/tag/bibliometrie/index.xml" rel="self" type="application/rss+xml" />
+    <description>bibliometrie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>bibliometrie</title>
+      <link>/tag/bibliometrie/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Paths</title>
+      <link>/post/knowledge-paths/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/knowledge-paths/</guid>
+      <description>&lt;p&gt;The process of knowledge generation involves finding links or connections between already existing pieces of knowledge. There are some applications out there, that can help with that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://papercube.peterbergstrom.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pathway.screenager.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PathWay&lt;/a&gt;, see also &lt;a href=&#34;http://download.cnet.com/8301-2007_4-9823587-12.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNET: New Mac Review: Keep Wikipedia research focused with Pathway&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also helpful would be a Google Scholar API, but it does not exist yet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.google.com/p/google-ajax-apis/issues/detail?id=109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google-ajax-apis: Issue 109: Please add Google Scholar to the API, including # of citations and BibTex reference.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://linklens.blogspot.com/2009/04/google-scholar-api-and-papercube.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar API and PaperCube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But here is a python receipe, which allows to retrieve results from Google Scholar as dictionary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.activestate.com/recipes/523047/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ActiveState Code: Recipe 523047: Search Google scholar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

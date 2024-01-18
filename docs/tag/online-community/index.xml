@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>online-community | Das Blog</title>
+    <link>/tag/online-community/</link>
+      <atom:link href="/tag/online-community/index.xml" rel="self" type="application/rss+xml" />
+    <description>online-community</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>online-community</title>
+      <link>/tag/online-community/</link>
+    </image>
+    
+    <item>
+      <title>Wann kommt endlich der Dislike-Button? ...</title>
+      <link>/post/2011-05-06-wann-kommt-endlich-der-dislike-button/</link>
+      <pubDate>Fri, 06 May 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-05-06-wann-kommt-endlich-der-dislike-button/</guid>
+      <description>&lt;p&gt;Wann kommt endlich der Dislike-Button?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.heise.de/security/artikel/Das-verraet-Facebooks-Like-Button-1230906.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/security/icons/security_facebook_social_graph.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;das-verrät-facebooks-like-buttonhttpwwwheisedesecurityartikeldas-verraet-facebooks-like-button-1230906html&#34;&gt;&lt;a href=&#34;http://www.heise.de/security/artikel/Das-verraet-Facebooks-Like-Button-1230906.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Das verrät Facebooks Like-Button&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Sie müssen ihn gar nicht anklicken, damit der Gefällt-mir-Button bei Facebook petzt, welche Web-Seiten Sie aufgerufen haben.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StackExchange</title>
+      <link>/post/2009-11-22-stackexchange/</link>
+      <pubDate>Sun, 22 Nov 2009 13:23:00 +0000</pubDate>
+      <guid>/post/2009-11-22-stackexchange/</guid>
+      <description>
+Ich bin großer Fan von &lt;a href=&#34;http://stackexchange.com/&#34;&gt;StackExchange&lt;/a&gt;-Webseiten, insbesondere natürlich von &lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/&#34;&gt;StackOverflow.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Aber auch die Geschwisterseiten zu &lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_Overflow&#34;&gt;StackOverflow&lt;/a&gt; sind einfach gut und nützlich:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://serverfault.com/&#34;&gt;serverfault.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://superuser.com/&#34;&gt;superuser.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://doctype.com/&#34;&gt;doctype.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Inzwischen gibt es eine ganze Reihe von weiteren Frageseiten nach dem &lt;a href=&#34;http://en.wikipedia.org/wiki/Stack_Overflow&#34;&gt;StackOverflow-Prinzip&lt;/a&gt;, eine Liste davon findet findet man bei&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://meta.stackexchange.com/questions/4/list-of-stackexchange-sites/5#5&#34;&gt;List of StackExchange sites&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Besonders interessant finde ich dabei:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://sciencestack.com/&#34;&gt;ScienceStack.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://physics.stackexchange.com/&#34;&gt;physics.stackexchange.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://mathoverflow.net/&#34;&gt;mathoverflow.net&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>altersspruch | Das Blog</title>
+    <link>/tag/altersspruch/</link>
+      <atom:link href="/tag/altersspruch/index.xml" rel="self" type="application/rss+xml" />
+    <description>altersspruch</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>altersspruch</title>
+      <link>/tag/altersspruch/</link>
+    </image>
+    
+    <item>
+      <title>Guter Rat will Weile haben. ...</title>
+      <link>/post/2017-03-22-guter-rat-will-weile-haben/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-03-22-guter-rat-will-weile-haben/</guid>
+      <description>&lt;p&gt;Guter Rat will Weile haben.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;sprichwortrekombinator.de&lt;/p&gt;
+&lt;h2 id=&#34;sprichwortrekombinatordehttpsprichwortrekombinatorde&#34;&gt;&lt;a href=&#34;http://sprichwortrekombinator.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sprichwortrekombinator.de&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Nie versiegende Quelle der Weisheit.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

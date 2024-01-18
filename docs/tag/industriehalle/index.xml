@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>industriehalle | Das Blog</title>
+    <link>/tag/industriehalle/</link>
+      <atom:link href="/tag/industriehalle/index.xml" rel="self" type="application/rss+xml" />
+    <description>industriehalle</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>industriehalle</title>
+      <link>/tag/industriehalle/</link>
+    </image>
+    
+    <item>
+      <title>Am Samstag erste Party in ...</title>
+      <link>/post/2010-12-20-am-samstag-erste-party-in/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/post/2010-12-20-am-samstag-erste-party-in/</guid>
+      <description>&lt;p&gt;Am Samstag erste Party in Berlin besucht: von 10 Uhr abend bis 7 Uhr früh Technomusik ohne Pause in einer abgewrackten, unbeheizten Industriehalle (ja, es gab vor der Tür auch brennende Öltonnen zum Aufwärmen!). Die spinnen, die Berliner! ;-)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

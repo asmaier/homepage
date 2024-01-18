@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wikipedia-übersetzungen | Das Blog</title>
+    <link>/tag/wikipedia-ubersetzungen/</link>
+      <atom:link href="/tag/wikipedia-ubersetzungen/index.xml" rel="self" type="application/rss+xml" />
+    <description>wikipedia-übersetzungen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2009 17:51:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>wikipedia-übersetzungen</title>
+      <link>/tag/wikipedia-ubersetzungen/</link>
+    </image>
+    
+    <item>
+      <title>Google Translator Toolkit</title>
+      <link>/post/2009-10-24-google-translator-toolkit/</link>
+      <pubDate>Sat, 24 Oct 2009 17:51:00 +0000</pubDate>
+      <guid>/post/2009-10-24-google-translator-toolkit/</guid>
+      <description>
+&lt;div&gt;Ich habe gerade einen sehr interessanten Vortrag über maschinelle Übersetzung mittel statistischer Methoden von &lt;a href=&#34;http://research.google.com/pubs/och.html&#34;&gt;Franz Och&lt;/a&gt; angesehen:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=y_PzPDRPwlA&#34;&gt;Statistical Machine Translation&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Neben interessanten Einblicken, wie z.B. das die Übersetzung vom Englischen ins Portugiesische derzeit am besten funktioniert, erwähnt er ein neues Google Tool, dass Übersetzern helfen soll, Texte zu übersetzen, das&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://translate.google.com/toolkit&#34;&gt;Google Translator Toolkit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Es ist insbesondere auch dafür gedacht, bei der Übersetzung englischer Wikipedia-Artikel in eine andere Sprache zu helfen. Mehr über das Toolkit auf deutsch bei&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.googlewatchblog.de/2009/06/09/google-translator-toolkit-uebersetzt-dokumente/&#34;&gt;GoogleWatchBlog: Google Translator Toolkit übersetzt Dokumente&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

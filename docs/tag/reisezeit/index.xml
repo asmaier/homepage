@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reisezeit | Das Blog</title>
+    <link>/tag/reisezeit/</link>
+      <atom:link href="/tag/reisezeit/index.xml" rel="self" type="application/rss+xml" />
+    <description>reisezeit</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>reisezeit</title>
+      <link>/tag/reisezeit/</link>
+    </image>
+    
+    <item>
+      <title>Wo muss man in Berlin ...</title>
+      <link>/post/2012-04-25-wo-muss-man-in-berlin/</link>
+      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-04-25-wo-muss-man-in-berlin/</guid>
+      <description>&lt;p&gt;Wo muss man in Berlin wohnen, wenn man in 20 Minuten mit öffentlichen Verkehrsmitteln am Brandenburger Tor sein möchte? Die WebApp Mapnificent zeigt es an.&lt;/p&gt;
+&lt;p&gt;Damit kann ich z.B. auch sehen, wohin man umziehen kann, wenn man maximal 30 Minuten zur Arbeit brauchen möchte. Daruf habe ich schon lange gewartet! Genial!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mapnificent.net/berlin/#/?lat=52.50464098615855&amp;amp;lng=13.486618059082053&amp;amp;zoom=12&amp;amp;lat0=52.51619139564061&amp;amp;lng0=13.37744142333986&amp;amp;t0=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://d33wubrfki0l68.cloudfront.net/69381058fad83e56ba3fce4c5514b2bf2ca83a20/034b3/static/img/mapnificent_big.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+mapnificent.net&lt;/p&gt;
+&lt;h2 id=&#34;berlin--mapnificent--dynamic-public-transport-travel-time-mapshttpwwwmapnificentnetberlinlat5250464098615855lng13486618059082053zoom12lat05251619139564061lng01337744142333986t020&#34;&gt;&lt;a href=&#34;http://www.mapnificent.net/berlin/#/?lat=52.50464098615855&amp;amp;lng=13.486618059082053&amp;amp;zoom=12&amp;amp;lat0=52.51619139564061&amp;amp;lng0=13.37744142333986&amp;amp;t0=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berlin – Mapnificent – Dynamic Public Transport Travel Time Maps&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Mapnificent shows you areas you can reach with public transport in many cities all over the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

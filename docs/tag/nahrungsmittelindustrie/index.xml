@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nahrungsmittelindustrie | Das Blog</title>
+    <link>/tag/nahrungsmittelindustrie/</link>
+      <atom:link href="/tag/nahrungsmittelindustrie/index.xml" rel="self" type="application/rss+xml" />
+    <description>nahrungsmittelindustrie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>nahrungsmittelindustrie</title>
+      <link>/tag/nahrungsmittelindustrie/</link>
+    </image>
+    
+    <item>
+      <title>Raus aus der Massentierhaltungsmatrix! ...</title>
+      <link>/post/2019-12-04-raus-aus-der-massentierhaltungsmatrix/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-12-04-raus-aus-der-massentierhaltungsmatrix/</guid>
+      <description>&lt;p&gt;Raus aus der Massentierhaltungsmatrix!
+&lt;a href=&#34;https://www.themeatrix.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.themeatrix.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Life is too short to ...</title>
+      <link>/post/2011-03-08-life-is-too-short-to/</link>
+      <pubDate>Tue, 08 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-03-08-life-is-too-short-to/</guid>
+      <description>&lt;p&gt;Life is too short to eat fast food!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

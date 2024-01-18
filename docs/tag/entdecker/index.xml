@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entdecker | Das Blog</title>
+    <link>/tag/entdecker/</link>
+      <atom:link href="/tag/entdecker/index.xml" rel="self" type="application/rss+xml" />
+    <description>entdecker</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>entdecker</title>
+      <link>/tag/entdecker/</link>
+    </image>
+    
+    <item>
+      <title>Cool, so kann man gut ...</title>
+      <link>/post/2015-10-15-cool-so-kann-man-gut/</link>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-10-15-cool-so-kann-man-gut/</guid>
+      <description>&lt;p&gt;Cool, so kann man gut die englische Aussprache lernen. Oder man kann sich darüber amüsieren, wie Amerikaner versuchen deutsche Namen auszusprechen, z.B. Wilhelm Röntgen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://youpronounce.it/search.jsp?q=R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://youpronounce.it/search.jsp?q=R&lt;/a&gt;öntgen&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;youpronounce.it&lt;/p&gt;
+&lt;h2 id=&#34;youpronounceithttpyoupronounceitsearchjspqrc3b6ntgen&#34;&gt;&lt;a href=&#34;http://youpronounce.it/search.jsp?q=R%C3%B6ntgen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;youpronounce.it&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

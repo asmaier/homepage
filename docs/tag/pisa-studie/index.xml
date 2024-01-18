@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pisa-studie | Das Blog</title>
+    <link>/tag/pisa-studie/</link>
+      <atom:link href="/tag/pisa-studie/index.xml" rel="self" type="application/rss+xml" />
+    <description>pisa-studie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Nov 2006 22:50:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>pisa-studie</title>
+      <link>/tag/pisa-studie/</link>
+    </image>
+    
+    <item>
+      <title>PISA wertlos</title>
+      <link>/post/2006-11-09-pisa-wertlos/</link>
+      <pubDate>Thu, 09 Nov 2006 22:50:00 +0000</pubDate>
+      <guid>/post/2006-11-09-pisa-wertlos/</guid>
+      <description>
+Wer meine Meinung zur PISA-Studie kennt weiß, dass ich schon immer an der statistischen Aussagefähigkeit gezweifelt habe. Jetzt hat bezeichnenderweise ein Physiker die Studie genauer unter die Lupe genommen und kommt wie die &lt;a href=&#34;http://www.berlinonline.de/berliner-zeitung/print/feuilleton/601772.html&#34;&gt;Berliner Zeitung&lt;/a&gt; und &lt;a href=&#34;http://www.heise.de/newsticker/meldung/80708&#34;&gt;Heise&lt;/a&gt; berichten zu einem vernichtenden Urteil:&lt;br /&gt;PISA sei keine repräsentative Stichprobe, sei fehlerhaft ausgewertet worden, voller gravierender Mängel und nicht zuletzt aufgrund eines Programmierfehlers völlig wertlos. Wenn das stimmt ist PISA ein erneutes, spektakuläres Beispiel dafür, dass gewissenhaftes Arbeiten heutzutage auch in großen, teuren Studien leider nicht selbstverständlich ist.</description>
+    </item>
+    
+  </channel>
+</rss>

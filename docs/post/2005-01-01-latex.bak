@@ -1,0 +1,194 @@
+---
+author: admin
+authors: []
+date: "2005-01-01"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2019-09-27T20:55:43+02:00"
+projects: []
+slug: latex
+subtitle: ""
+summary: ""
+categories:
+- old_website
+- deutsch
+tags:
+- computer
+title: Latex
+---
+<p>Wer schon immer mal wissen wollte, was man mit Latex eigentlich alles machen kann,
+findet im <a href="http://tug.org/texshowcase/">Texshowcase</a> einige außergewöhnliche Beispiele.</p>
+
+<h6>Anleitungen und FAQs zu Latex:</h6>
+
+<ul>
+<li><a href="http://www.ctan.org/tex-archive/info/lshort/">lshort</a> : Kurze Einfuehrung in Latex</li>
+<li><a href="http://www.ctan.org/tex-archive/info/l2tabu/">l2tabu</a> : Über veraltete Befehle, Pakete und andere Fehler</li>
+<li><a href="http://www.ctan.org/tex-archive/info/math/voss/mathmode/">mathmode</a> : Alles zu mathematischem Formelsatz</li>
+<li><a href="http://www.ctan.org/tex-archive/info/epslatex/">epslatex</a> : Ausführliches zum Thema Grafiken und Bilder</li>
+<li><a href="http://www.ctan.org/tex-archive/info/l2picfaq/german/">l2picfaq</a> : Bilder-HowTo fuer LaTeX (nur auf deutsch)</li>
+<li><a href="http://www.ctan.org/tex-archive/info/symbols/comprehensive/">symbols</a> : Liste aller(!) Zeichen und Symbole</li>
+<li><a href="http://www.dante.de/faq/de-tex-faq/">de-tex-faq</a> : Deutsches FAQ zu sehr vielen Fragen rund um Tex/Latex</li>
+<li><a href="http://www.fernuni-hagen.de/zmi/katalog/A026.shtml">A026</a> : Latex-Kurs der Fernuni Hagen, Teil 1, teilweise veraltet</li>
+<li><a href="http://www.fernuni-hagen.de/zmi/katalog/A027.shtml">A027</a> : Latex-Kurs der Fernuni Hagen, Teil 2, teilweise veraltet</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/bgteubner/">bgteubner</a> : Vorlage und Anleitung zum Erstellen von Büchern für den Teubner-Verlag,
+enthält Hinweise und Tipps für professionelles Buchdesign.</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/base/">cyrguide</a> : Erklärt die Verwendung kyrillischer Schriften in Latex 
+(siehe auch <a href="http://home.vrweb.de/~was/x/pmcyr.pdf">Kyrillisch für arme Leute (pmcyr.pdf)</a>).</li>
+</ul>
+
+
+
+<h6>Wichtige "Packages" fuer Latex:</h6>
+
+<ul>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script/">koma-script</a> : Schoeneres, "deutscheres" Layout durch neue Dokumentklassen</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/beamer/">beamer</a> : Ermöglich das Erstellen von professionellen Vorträgen (mit Bild, Ton, Video und Effekten (!)) im PDF-Format </li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/">amsmath</a> : Mehr mathematische Zeichen und bessere mathematische Umgebungen</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/required/amslatex/math/">graphicx</a> : Zum Einfuegen von Bildern</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/required/babel/">babel</a> : Neue deutsche Trennmuster mittels <pre>\usepackage[ngerman]{babel}</pre></li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/base/">inputenc</a> : Direkte Eingabe von Umlauten mitttels <pre>\usepackage[utf8]{inputenc}</pre></li>
+
+</ul>
+
+<h6>Nicht so wichtige "Packages", die aber das Leben mit Latex einfacher machen:</h6>
+
+<ul>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/">natbib</a> : Ermöglicht "schönere", flexiblere Referenzen und ein "schöneres" Literaturverzeichnis</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/subfig/">subfig</a> : Vereinfacht die Gruppierung mehrerer Grafiken, ersetzt das veraltete
+<a href="http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure/">subfigure</a></li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/fancyhdr/">fancyhdr</a> : Ermöglicht "schönere" Kopf- und Fusszeilen</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/fancybox/">fancybox</a> : Ermöglicht "schönere" Rahmen (z.B. mit Schatten)</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/caption/">caption</a> : Erlaubt einfaches Aendern des Designs der Bildunterschriften, ersetzt das veraltete
+<a href="http://www.ctan.org/tex-archive/macros/latex/contrib/caption/">caption2</a></li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/titlesec/">titlesec</a> : Ermöglicht Designänderungen an den Kapitelüberschriften</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex209/contrib/picins/">picins</a> und 
+<a href="http://www.ctan.org/tex-archive/macros/latex/contrib/floatflt/">floatflt</a> : Erlauben es Grafiken von Text umfliessen zu lassen</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/required/psnfss/">psnfss</a> : Mehr Schriftarten für Latex</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/units/">units</a> : Ermöglicht besseren Umgang mit physikalischen Einheiten</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/isotope/">isotope</a> : Erleichtert das Eingeben chemischer Elemente mit 
+Kernladungszahl und Massenzahl</li>
+<li><a href="http://www.ctan.org/tex-archive/macros/latex/contrib/cv/">cv</a> : Vereinfacht das Erstellen eines Lebenslaufes</li>
+</ul>
+
+<h6>Gute Latex-Editoren:</h6>
+<ul>
+<li><a href="http://www.texniccenter.org/">TexnicCenter</a> : Sehr guter, kostenloser und frei verfügbarer Editor für Windows.</li>
+<li><a href="http://www.winedt.com/">WinEdt</a> : Ebenfalls guter Editor für Windows, leider nicht kostenlos.</li>
+<li><a href="http://kile.sourceforge.net/">Kile</a> : Bester Editor speziell für Latex unter Linux (KDE); dem TexnicCenter ebenbürtig. </li>
+</ul>
+
+<h6>nützliche Tools:</h6>
+<ul>
+<li><a href="http://www.jam-software.de/freeware/index.shtml">Excel2Latex</a> : wandelt Excel-Tabellen in Latex-Quellcode, sehr nuetzlich, da bei grossen Tabellen die Eingabe von Daten in Excel einfach schneller geht</li>
+<li><a href="http://texpoint.necula.org/">TexPoint</a> : ist ein PlugIn fuer Powerpoint um Latex-Formeln in Powerpointfolien
+einzufuegen und schlichtweg genial</li>
+</ul>
+
+<p>Leider ist TexPoint in der neuesten Version nicht mehr kostenlos, aber eine alte, frei verfügbare Version
+gibt es <a href="usefulthings/TexPoint-latest.msi">hier</a></p>
+<p>Seit neuestem gibt es zudem ein kostenloses und frei verfügbares Analogon zu TexPoint für OpenOffice:
+
+<ul>
+<li><a href="http://ooolatex.sourceforge.net/">OOoLatex</a></li>
+</ul>
+
+<p>Dieses hat gegenüber TexPoint den Vorteil, dass man es auch in der Textverarbeitung von OpenOffice verwenden kann. TexPoint
+hingegen funktioniert nur mit Powerpoint, nicht mit Word.</p>
+<p>Weitere nützliche Tools zum Download gibts auf den Seiten der 
+<a href="http://www.uni-salzburg.at/portal/page?_pageid=138,456791&amp;_dad=portal&amp;_schema=PORTAL">Uni Salzburg</a>.</p>
+
+<h6>Vorlagen von mir:</h6>
+<ul>
+<li><a href="documents/vorlage.tex">vorlage.tex</a> : neueste allgemeine Latex-Vorlage von mir,
+verwendet Koma-Script und andere Schriftarten ( übernommen von:
+<a href="usefulthings/l2tabu.tex">l2tabu.tex</a> )</li>
+<li><a href="documents/thesis_template.zip">thesis_template.zip</a> :
+Layoutvorlage für meine Masterthesis; Beispiel dafür, wie man mehrere
+Latexfiles in einer Datei kombinieren kann.</li>
+<li><a href="documents/application.zip">application.zip</a> : Vorlage für ein Bewerbungsschreiben
+mit Deckblatt, Anschreiben, Lebenslauf, gescannten Zeugnissen und Referenzen in einem PDF. Die Vorlage 
+ist sowohl in Englisch als auch auf Deutsch verfügbar und berücksichtigt z.B. die andere Form des 
+Lebenslaufs in englischsprachigen Bewerbungen. Vor dem Verwenden der Vorlagen bitte die enthaltenen 
+Dateien README.txt bzw. LIESMICH.txt lesen. Wie das Ergebnis dann aussieht, zeigen die PDFs
+<a href="documents/application_german.pdf">application_german.pdf</a> bzw
+<a href="documents/application_english.pdf">application_english.pdf</a>.
+</ul>
+
+<h6>Weitere Tipps von mir:</h6>
+<ul>
+<li>Leider erklärt das oben genannte <a href="http://www.ctan.org/tex-archive/macros/latex/base/">cyrguide</a> nicht, wie man kyrillische Zeichen
+ohne kyrillisches Tastaturlayout eingeben kann. Natürlich kann man immer ein kyrillisches Tastaturlayout am Bildschirm einblenden,
+aber einfacher ist es die Wörter in lateinischer Transliteration einzugeben. Dies ist in Latex mithilfe des 
+<tt>/foreignlanguage{}</tt>-Befehls möglich und wird von Walter Schmidt in 
+<a href="http://home.vrweb.de/~was/x/pmcyr.pdf">Kyrillisch für arme Leute (pmcyr.pdf)</a> hervorragend 
+erklärt. Wie so etwas aussehen kann zeigt folgende von mir erstellte Seite mit allen kyrillischen Buchstaben in Druck und Schreibschrift 
+nach ihrer "lateinischen Aussprache" sortiert: <a href="documents/rusalph.pdf">rusalph.pdf</a>. 
+Die zugehörige Latex-Datei in <a href="documents/rusalph.zip">rusalph.zip</a> (nur mit <tt>pdflatex</tt> zu übersetzen)
+zeigt zudem, wie man in Latex Bilder in eine Tabelle einfügen kann, eine nicht ganz triviale Sache, die aber zum Glück im
+<a href="http://www.ctan.org/tex-archive/info/l2picfaq/german/">Bilder-HowTo fuer LaTeX (l2picfaq)</a> erklärt ist.</li>
+<li>Nützliche Hinweise bei Problemen mit UTF-8 in Latex bei Verwendung von Kile gibt es in einem Thread bei 
+<a href="http://www.kofler.cc/forum/forumthread.php?rootID=3368">www.kofler.cc</a>.</li>
+<li>Wie man Mathematica-Schriftarten in MikTex installiert, so dass man von Mathematica generierte 
+Latex-Dokumente mit MikTex kompilieren kann, steht auf den Seiten von
+<a href="http://support.wolfram.com/mathematica/interface/export/miktex22.html">support.wolfram.com</a>
+beschrieben.
+<li>Adobe Photoshop produziert in älteren Versionen keine korrekten *.eps-Grafiken mit Bounding-Box,
+was beim Einbinden in Latex zu Problemen fuehrt. Mein Workaround:
+<a href="http://www.jasc.com">Jasc Paint Shop Pro</a> verwenden!</li>
+<li>Wenn man Plots aus Mathematica nicht als Bitmap sondern als *.eps-File speichern moechte
+(braucht weniger Speicherplatz und hat bessere Qualitaet, da Vektorgrafik) wird man feststellen,
+das Sonderzeichen, z.B. griechische Buchstaben, in der Achsenbeschriftung nicht korrekt uebertragen
+werden, da die Mathematicaschriften nicht in das *.eps eingebettet werden. Mein Workaround:
+Saemtliche Sonderzeichen in Plots mithilfe der Option <pre>FormatType->OutputForm</pre> vermeiden.
+Bsp:<pre>In[1]:=Plot[Sin[x], {x, 0, 2 Pi}, Ticks -> {{Pi/2, Pi, 3/2Pi, 2 Pi},
+	Automatic}, FormatType -> OutputForm];</pre>
+Von Johannes Grosse bekam ich den Tipp es alternativ mit
+<pre>
+Plot[..., TextStyle->{FontFamily->"Times"}]
+Export[..., ConversionOptions->{"IncludeSpecialFonts"->True}]
+</pre>
+zu versuchen. Wer es jedoch noch professioneller haben möchte, der sollte mal einen Blick auf das Mathematica-Paket 
+<a href="http://wwwth.mppmu.mpg.de/members/jgrosse/mathpsfrag/">MathPSfrag</a> (ebenfalls von Johannes Grosse)
+werfen. Damit ist es möglich Mathematicaplots mit Latex-Formeln und Symbolen zu beschriften.</li>
+<li>Wenn man EPS-Dateien mit <tt>xmgrace</tt> und der Option <tt>Tight Bounding Box</tt>
+erstellt (betrifft eventuell auch mit Framemaker erstellte EPS-Bilder),
+und diese als Bilder in Latex einbinden will, so überlagert in der aus der Latex-Datei
+mit <tt>dvips</tt> erzeugten PS-Datei das Bild teilweise den Text. Grund dafür ist, dass
+<tt>xmgrace</tt> mit der Option <tt>Tight Bounding Box</tt> folgendes in die EPS-Datei
+schreibt:
+<pre>
+%% Bounding Box (atend)
+...
+%% Bounding Box 11 13 768 483
+</pre>
+Anscheinend kan <tt>dvips</tt> mit der Option <tt>(atend)</tt> nicht richtig umgehen und ignoriert
+die Angaben zur Bounding Box am Ende der Datei (Mehr dazu <a href="http://flex.ee.uec.ac.jp/texi/dvips/dvips_28.html">hier</a>).
+Dabei hilft es komischerweise auch nicht, die Bounding Box Zeile vom Ende der Datei an den Anfang zu kopieren. 
+Jedoch muß man trotzdem nicht auf die Option <tt>Tight Bounding Box</tt> verzichten, wenn man die problematischen EPS-Dateien
+folgendermaßen in Latex einbindet:
+<pre>
+\includegraphics[clip]{dateiname.eps}
+</pre>
+Die Option <tt>clip</tt> sorgt dabei dafür, dass alle Teile der Grafik außerhalb des
+"Viewing Area" abgeschnitten werden (siehe auch <a href="http://www.ctan.org/tex-archive/info/epslatex/">epslatex</a>).
+Damit werden die EPS-Dateien dann korrekt eingebunden.
+</li>
+</ul>
+
+<h6>Weitere Links:</h6>
+
+<ul>
+<li><a href="http://tex.loria.fr/">tex.loria.fr</a> : Latex-Navigator, fast so gut wie meine Seite ;-)</li>
+<li><a href="http://www.christine.oppe.info/blog/category/schreiben/latex/">www.christine.oppe.info</a> : Nützliche Tipps zu Latex im Blog von Christine Oppe</li>
+<li><a href="ftp://ftp.edpsciences.org/pub/aa/readme.html">ftp.edpsciences.org</a> : Latex-Vorlage für Veröffentlichungen in Astronomy &amp; Astrophysics (A&amp;A)</li>
+<li><a href="http://schnorchelfabrik.de/latex/ltxvorlagen.shtml">schnorchelfabrik.de</a> : Latex-Vorlage für Diplomarbeiten</li>
+<li><a href="http://www.tm.uka.de/~bless/latexhints.html">www.tm.uka.de</a> : Noch eine Latex-Vorlage für Diplomarbeiten</li>
+<li><a href="http://www.cs.wisc.edu/~ghost/">www.cs.wisc.edu</a> : Die neusesten Versionen von Ghostscript, Ghostview and GSview</li>
+<li><a href="http://tug.org">tug.org</a> : Die "TeX Users Group"</li>
+<li><a href="http://www.ctan.org/">www.ctan.org</a> : Das "Comprehensive TeX Archive Network"</li>
+<li><a href="http://komascript.de/">komascript.de</a> : Infos und Dokumentation zu den KOMA-Script Klassen für Latex</li>
+</ul>

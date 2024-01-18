@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radwege | Das Blog</title>
+    <link>/tag/radwege/</link>
+      <atom:link href="/tag/radwege/index.xml" rel="self" type="application/rss+xml" />
+    <description>radwege</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>radwege</title>
+      <link>/tag/radwege/</link>
+    </image>
+    
+    <item>
+      <title>Wer sein Rad liebt, der ...</title>
+      <link>/post/2018-06-18-wer-sein-rad-liebt-der/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-06-18-wer-sein-rad-liebt-der/</guid>
+      <description>&lt;p&gt;Wer sein Rad liebt, der fährt auch in Berlin Fahrrad.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tagesspiegel.de/mediacenter/fotostrecken/berlin/galerie-mit-leserbildern-abgefahren-ihre-unbeliebtesten-radstrecken/4031388.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tagesspiegel.de/mediacenter/fotostrecken/berlin/galerie-mit-leserbildern-abgefahren-ihre-unbeliebtesten-radstrecken/4031388.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

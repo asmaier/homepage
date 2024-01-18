@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lebenserwartung | Das Blog</title>
+    <link>/tag/lebenserwartung/</link>
+      <atom:link href="/tag/lebenserwartung/index.xml" rel="self" type="application/rss+xml" />
+    <description>lebenserwartung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>lebenserwartung</title>
+      <link>/tag/lebenserwartung/</link>
+    </image>
+    
+    <item>
+      <title>Interesting graph showing that life ...</title>
+      <link>/post/2015-07-02-interesting-graph-showing-that-life/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-02-interesting-graph-showing-that-life/</guid>
+      <description>&lt;p&gt;Interesting graph showing that life expectancy for older people didn&amp;rsquo;t change as much as it did for kids. Kids really have a much much saver life nowadays.﻿&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ourworldindata.org/VisualHistoryOf/Health/Static_Images/Total-Life-Expectancy-in-the-UK-by-age_Max-Roser.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ourworldindata.org/VisualHistoryOf/Health/Static_Images/Total-Life-Expectancy-in-the-UK-by-age_Max-Roser.png&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://ourworldindata.org/VisualHistoryOf/Health/Static_Images/Total-Life-Expectancy-in-the-UK-by-age_Max-Roser.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ourworldindata.org/VisualHistoryOf/Health/Static_Images/Total-Life-Expectancy-in-the-UK-by-age_Max-Roser.png&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

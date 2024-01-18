@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paradoxon | Das Blog</title>
+    <link>/tag/paradoxon/</link>
+      <atom:link href="/tag/paradoxon/index.xml" rel="self" type="application/rss+xml" />
+    <description>paradoxon</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>paradoxon</title>
+      <link>/tag/paradoxon/</link>
+    </image>
+    
+    <item>
+      <title>Quantum entanglement</title>
+      <link>/post/quantum-entanglement/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/quantum-entanglement/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Before the measurement the positions of the photons in space are not defined,
+thus the distance between them also makes no sense and without distance one
+cannot really speak about the speed of information transfer. So IMO finding the
+properties of two entangled photons correlated is no more and no less surprising
+than finding the exact position of just one photon: the particle that was kind
+of &amp;ldquo;spread out all over space&amp;rdquo; before the measurement suddenly and
+instantaneously (basically &amp;ldquo;with infinite speed&amp;rdquo;, if one can dare to define a
+notion of &amp;ldquo;speed&amp;rdquo; in this case) &amp;ldquo;gathers itself together&amp;rdquo; in one particular
+spot. That what quantum mechanics is all about.&lt;/p&gt;
+&lt;p&gt;Yurii Pidopryhora (14. 08. 2008),
+[[http://www.nature.com/news/2008/080813/full/news.2008.1038.html]]&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

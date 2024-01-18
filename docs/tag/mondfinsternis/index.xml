@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mondfinsternis | Das Blog</title>
+    <link>/tag/mondfinsternis/</link>
+      <atom:link href="/tag/mondfinsternis/index.xml" rel="self" type="application/rss+xml" />
+    <description>mondfinsternis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>mondfinsternis</title>
+      <link>/tag/mondfinsternis/</link>
+    </image>
+    
+    <item>
+      <title>Wenn wir von der Erde ...</title>
+      <link>/post/2018-07-28-wenn-wir-von-der-erde/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-07-28-wenn-wir-von-der-erde/</guid>
+      <description>&lt;p&gt;Wenn wir von der Erde aus eine Mondfinsternis beobachten, würde man dann vom Mond aus nicht eine Sonnenfinsternis (durch die Erde, die sich in diesem Fall vor die Sonne schiebt) beobachten?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

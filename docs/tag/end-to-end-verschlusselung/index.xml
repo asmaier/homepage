@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>end-to-end-verschlüsselung | Das Blog</title>
+    <link>/tag/end-to-end-verschlusselung/</link>
+      <atom:link href="/tag/end-to-end-verschlusselung/index.xml" rel="self" type="application/rss+xml" />
+    <description>end-to-end-verschlüsselung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>end-to-end-verschlüsselung</title>
+      <link>/tag/end-to-end-verschlusselung/</link>
+    </image>
+    
+    <item>
+      <title>Whatsapp speichert eure Kontaktdaten und ...</title>
+      <link>/post/2016-05-21-whatsapp-speichert-eure-kontaktdaten-und/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-05-21-whatsapp-speichert-eure-kontaktdaten-und/</guid>
+      <description>&lt;p&gt;Whatsapp speichert eure Kontaktdaten und Metadaten auf Servern in den USA. Wer das nicht will, sollte lieber die Signal App verwenden: Opensource Ende-zu-Ende Verschlüsselung ohne Kompromisse!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sms-alternative.com/2015/12/31/testbericht-signal-messenger/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sms-alternative.com/2015/12/31/testbericht-signal-messenger/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://sms-alternative.com/2015/12/31/testbericht-signal-messenger/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sms-alternative.com/2015/12/31/testbericht-signal-messenger/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

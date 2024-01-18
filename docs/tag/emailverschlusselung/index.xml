@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emailverschlüsselung | Das Blog</title>
+    <link>/tag/emailverschlusselung/</link>
+      <atom:link href="/tag/emailverschlusselung/index.xml" rel="self" type="application/rss+xml" />
+    <description>emailverschlüsselung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>emailverschlüsselung</title>
+      <link>/tag/emailverschlusselung/</link>
+    </image>
+    
+    <item>
+      <title>Endlich! Email-Verschlüsselung für jedermann. Kinko ...</title>
+      <link>/post/2014-05-28-endlich-email-verschlusselung-fur-jedermann-kinko/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-05-28-endlich-email-verschlusselung-fur-jedermann-kinko/</guid>
+      <description>&lt;p&gt;Endlich! Email-Verschlüsselung für jedermann. Kinko ist ein Email-Proxy/Vermittler, den man zuhause aufstellen kann. Die kleine Box verschlüsselt und entschlüsselt sämtliche Emails automatisch. Man muss dazu nur das Email-Programm so konfigurieren, dass es Kinko benutzt statt sich direkt mit dem Provider zu verbinden.&lt;/p&gt;
+&lt;p&gt;Echt coole Idee!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://kinko.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kinko.me/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

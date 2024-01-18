@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>it-sicherheit | Das Blog</title>
+    <link>/tag/it-sicherheit/</link>
+      <atom:link href="/tag/it-sicherheit/index.xml" rel="self" type="application/rss+xml" />
+    <description>it-sicherheit</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>it-sicherheit</title>
+      <link>/tag/it-sicherheit/</link>
+    </image>
+    
+    <item>
+      <title>Frohes neues Jahr? Nein. Laut ...</title>
+      <link>/post/2022-01-03-frohes-neues-jahr-nein-laut/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-01-03-frohes-neues-jahr-nein-laut/</guid>
+      <description>&lt;p&gt;Frohes neues Jahr? Nein. Laut Microsoft ist heute der 34. Dezember 2021!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.derstandard.at/story/2000132265174/jahr-2022-bug-microsoft-verlaengert-das-jahr-2021-um-massives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ds.at/Qj8YzA/rs:fill:1200:600/plain/2022/01/02/nadella4.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+derstandard.at&lt;/p&gt;
+&lt;h2 id=&#34;jahr-2022-bug-microsoft-verlängert-2021-um-massives-mail-server-problem-in-den-griff-zu-bekommenhttpswwwderstandardatstory2000132265174jahr-2022-bug-microsoft-verlaengert-das-jahr-2021-um-massives&#34;&gt;&lt;a href=&#34;https://www.derstandard.at/story/2000132265174/jahr-2022-bug-microsoft-verlaengert-das-jahr-2021-um-massives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Jahr 2022 Bug&amp;rdquo;: Microsoft verlängert 2021, um massives Mail-Server-Problem in den Griff zu bekommen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Unternehmen liefert einen neuen, eher &amp;ldquo;kreativen&amp;rdquo; Workaround, mit dem auch die Malware-Engine bei Exchange wieder funktioniert. Aus dem 2. Jänner wird der 33. Dezember&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Internetz, alles Neuland. Unser ...</title>
+      <link>/post/2021-03-19-das-internetz-alles-neuland-unser/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-03-19-das-internetz-alles-neuland-unser/</guid>
+      <description>&lt;p&gt;Das Internetz, alles Neuland. Unser Staat und unsere Behörden sind offenbar IT-Analphabeten: Über 130 000 Schnelltest-Ergebnisse ungeschützt im Netz!&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Um die vollständigen Daten aller Getesteten live einzusehen, brauchte man sich nur einen Account für einen Covid-19-Test anzulegen. Die URL für das Testergebnis enthält die Nummer des Tests. Wurde diese Zahl hoch- oder runtergezählt, wurden die &amp;ldquo;Testzertifikate&amp;rdquo; anderer Personen frei zugänglich. Im Testzertifikat stehen neben dem Testergebnis auch Name, Geburtsdatum, Anschrift, Staatsbürgerschaft und Ausweisnummer der Betroffenen.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;So einen Fehler können Skriptkiddies ausnutzen und das bei hochsensiblen Gesundheitsdaten.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Das Testportal von 21Dx bei medicus.ai liegt hinter Cloudflare, d.h. alle Testergebnisse und personenbezogenen Daten werden einmal durch ein US-Unternehmen geleitet.
+Ebenfalls sind Tracking-Skripte von sowohl Google als auch dem Zahlungsdienstleister Stripe eingebunden, die jeden Seitenaufruf analysieren.
+Alle drei tauchen nicht in der Datenschutzerklärung von 21dx.medicus.ai auf.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Ich bin ja der Meinung, der Firma medicus gehört eine saftige Strafe aufgebrummt, so dass sich ihre Corona-Gewinne in Verluste umwandeln. Und die zuständigen Gesundheitsbehörden sollten alle mal einen IT-Grundkurs machen. Wie öffne ich einen Browser. Was ist eine URL. Was sind sensible Daten&amp;hellip; etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Peinlich, peinlich.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://zerforschung.org/posts/medicus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://zerforschung.org/p/medicus/notsecure.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+zerforschung.org&lt;/p&gt;
+&lt;h2 id=&#34;wir-wissen-wie-du-diesen-winter-getestet-wurdest-ein-corona-drama-in-sechs-aktenhttpszerforschungorgpostsmedicus&#34;&gt;&lt;a href=&#34;https://zerforschung.org/posts/medicus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wir wissen, wie du diesen Winter getestet wurdest. Ein Corona-Drama in sechs Akten&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Wie wir nur mal kurz einen Corona-Test machen wollten und versehentlich in ein Nest voller Sicherheitslücken gefallen sind.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Seit dem 8. März gibt es in Berlin »kostenlose Bürger*innen-Tests«. Über das Portal test-to-go.berlin kann man ein Testzentrum finden und einen Termin buchen.
+Schon kurz nach Veröffentlichung der Testzentren-Übersicht der Berliner Senatsverwaltung für Gesundheit, Pflege und Gleichstellung waren wir irritiert: Alles an diesem Online-Portal machte auf uns den Eindruck, doch etwas hastig zusammengestrickt worden zu sein – und das nach nur einem Jahr Pandemie.
+Anscheinend ist Internet für das @SenGPG immer noch Neuland und sie haben noch nie von Domainsquatting gehört, denn jetzttesten​.​berlin sowie tests-to-go​.​berlin (&amp;amp; test2go​ &amp;amp; tests2go &amp;amp; test-togo …) sind noch frei.Das ist besonders bei mündlicher Weitergabe problematisch. pic.twitter.com/Ai9avSldvo— zerforschung (@zerforschung) March 7, 2021&lt;/p&gt;
+&lt;p&gt;Da wir ohnehin einen Test machen wollten, konnten wir dieses neue Angebot gleich mal ausprobieren.
+Am Testzentrum angekommen wunderten wir uns, dass wir sehr energisch auf die Online-Registrierung hingewiesen wurden.
+Wir standen doch schon am Eingang!
+Aufgrund der Menge persönlicher Daten, die in der WebApp abgefragt wurden, hätten wir eine Online-Erfassung eigentlich gern vermieden.
+Nach dem Test freuten wir uns nicht nur über das negative Ergebnis – sondern guckten dabei, wie üblich, auch kurz mit auf den Datenverkehr. Bei einigen URLs hatten wir schon im ersten Moment ein mulmiges Gefühl. Das mulmige Gefühl würde in den nächsten Minuten blankem Entsetzen weichen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dies ist ein sehr interessanter ...</title>
+      <link>/post/2020-07-03-dies-ist-ein-sehr-interessanter/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-07-03-dies-ist-ein-sehr-interessanter/</guid>
+      <description>&lt;p&gt;Dies ist ein sehr interessanter Podcast über die Entwicklung der Corona-Warn-App mit zwei der beteiligten Entwickler mit vielen interessanten Hintergrundinformationen. Aber insgesamt finde ich ja das Überraschendste ist, dass zwei Großkonzerne wie Telekom und SAP es tatsächlich geschafft haben in 7 Wochen zusammen ein erfolgreiches Projekt durchzuführen. Offenbar ist die deutsche IT doch nicht so schlecht wie ihr Ruf.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://ukw.fm/ukw030-die-corona-warn-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.metaebene.me/media/ukw/episodes/ukw030-corona-warn-app.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+ukw.fm&lt;/p&gt;
+&lt;h2 id=&#34;ukw030-die-corona-warn-apphttpsukwfmukw030-die-corona-warn-app&#34;&gt;&lt;a href=&#34;https://ukw.fm/ukw030-die-corona-warn-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UKW030 Die Corona-Warn-App&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Entwicklung und Funktion der deutschen Lösung zur Unterstützung der Kontaktverfolgung
+&amp;ldquo;Die App&amp;rdquo; ist jetzt verfügbar: die &amp;ldquo;Corona Warn-App&amp;rdquo; (CWA) ist veröffentlicht, außerdem in aller Munde und vielleicht auch schon bald auf vielen Telefonen. Auf dem Weg dahin gab es ein paar außergewöhnliche Wendungen in der öffentlichen Debatte und wie Software im Rahmen eines öffentlichen Projektes entwickelt wird.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ich spreche mit Malte Janduda und Thomas Klingbeil, beide Entwickler bei SAP und Teil des CWA-Teams, über ihre das Zustandekommen und Funktion des Systems, welche Funktionen die App erfüllt und welche nicht, welche grundsätzlichen Entscheidungen beim Design getroffen wurden und was die Rolle von Google und Apple in dem ganzen Prozess war.&lt;/p&gt;
+&lt;p&gt;Wir reden darüberhinaus über die Bedeutung von Open Source im Entwicklungsprozess und seine mögliche Bedeutung in der Zukunft für die Gestaltung öffentlicher Projekte.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Die selbsternannte Digital-Hauptstadt mal wieder. ...</title>
+      <link>/post/2019-10-29-die-selbsternannte-digital-hauptstadt-mal-wieder/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-10-29-die-selbsternannte-digital-hauptstadt-mal-wieder/</guid>
+      <description>&lt;p&gt;Die selbsternannte Digital-Hauptstadt mal wieder.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Ein dem Tagesspiegel vorliegendes Gutachten belegt, dass Experten die Abschaffung des auf dem Betriebssystem Windows 95 basierenden Programms bereits im Jahr 2017 gefordert hatten. Passiert ist, zumindest mit Blick auf das Kammergericht, bis heute nichts.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Nun, dass was die Experten nicht geschafft haben, hat der Trojaner jetzt geschafft.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tagesspiegel.de/berlin/experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage/25163810.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.tagesspiegel.de/berlin/images/tagesspiegel-59753/alternates/BASE_16_9_W1400/tagesspiegel-5975.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+tagesspiegel.de&lt;/p&gt;
+&lt;h2 id=&#34;experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansagehttpswwwtagesspiegeldeberlinexperten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage25163810html&#34;&gt;&lt;a href=&#34;https://www.tagesspiegel.de/berlin/experten-warnten-schon-2017-it-katastrophe-am-berliner-kammergericht-kam-mit-ansage/25163810.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Experten warnten schon 2017: IT-Katastrophe am Berliner Kammergericht kam mit Ansage&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein Virus legt das IT-System am Kammergericht lahm. Fachleute sahen schon vor zwei Jahren ein Sicherheitsrisiko – die Software war hoffnungslos veraltet.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Und der nächste #DatenGAU: Die ...</title>
+      <link>/post/2018-12-28-und-der-nachste-datengau-die/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-12-28-und-der-nachste-datengau-die/</guid>
+      <description>&lt;p&gt;Und der nächste #DatenGAU: Die digitale Gesundheitsakte in Deutschland. Offenbar sind deutsche IT-Firmen nicht in der Lage selbst minimalste Sicherheitsstandards zum Schutz unserer privaten Gesundheitsdaten umzusetzen.&lt;/p&gt;
+&lt;p&gt;Meines Erachtens nach ist der fahrlässige Umgang mit Gesundheitsdaten nichts anderes als eine Verletzung der ärztlichen Verschwiegenheitspflicht (&lt;a href=&#34;https://de.wikipedia.org/wiki/Verschwiegenheitspflicht%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Verschwiegenheitspflicht)&lt;/a&gt;. Das kann mit Geldstrafe oder bis zu einem Jahr Gefängnis geahndet werden oder gar Berufsverbot. Angesichts der haarsträubenden Sicherheitslücken sollten daher alle beteiligten Firmen Berufsverbot für den Umgang mit Gesundheitsdaten bekommen .&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.faz.net/aktuell/feuilleton/debatten/problem-mit-den-gesundheitsdaten-krankenkassen-app-vivy-beim-35c3-15962807-p2.html?printPagedArticle=true#pageIndex_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media1.faz.net/ppmedia/aktuell/feuilleton/855273273/1.5962817/facebook_teaser/guter-ansatz-unzureichende.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+faz.net&lt;/p&gt;
+&lt;h2 id=&#34;problem-mit-den-gesundheitsdaten-krankenkassen-app-vivy-beim-35c3httpswwwfaznetaktuellfeuilletondebattenproblem-mit-den-gesundheitsdaten-krankenkassen-app-vivy-beim-35c3-15962807-p2htmlprintpagedarticletruepageindex_1&#34;&gt;&lt;a href=&#34;https://www.faz.net/aktuell/feuilleton/debatten/problem-mit-den-gesundheitsdaten-krankenkassen-app-vivy-beim-35c3-15962807-p2.html?printPagedArticle=true#pageIndex_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Problem mit den Gesundheitsdaten: Krankenkassen-App Vivy beim 35C3&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Mit Brute Force kommt man ziemlich weit: Auf dem Chaos Communication Congress erläutert Martin Tschirsich, wie sicher die im Herbst eingeführte Krankenkassen-App Vivy ist – und wie der Anbieter auf Bedenken reagiert hat.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nachricht aus dem Jahr 2020: ...</title>
+      <link>/post/2018-03-01-nachricht-aus-dem-jahr-2020/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-03-01-nachricht-aus-dem-jahr-2020/</guid>
+      <description>&lt;p&gt;Nachricht aus dem Jahr 2020:&lt;/p&gt;
+&lt;p&gt;&amp;quot;&amp;quot;&amp;quot;
+Russische Hacker stiften Chaos im chinesischen Sozialscore&lt;/p&gt;
+&lt;p&gt;Im April 2020 wurde bekannt, dass die der nationalistische russiche Hackergruppe &amp;ldquo;RedBear&amp;rdquo; Zugriff auf den Social Score aller Chinesen hatte. Nachdem sie zunächst durch Erpressung erhebliche Devisen erworben hatten, liessen sie am Ende einen Zufallszahlengenerator zurück, der den Score von 27,8 % aller Chinesen in der Datenbank zufällig veränderte. Dies machte den kompletten Reset der Datenbank notwendig. Mühsam erworbene Score-Werte gingen somit verloren. Die für die IT Sicherheit des Social Score verantwortlichen chinesischen Experten müssen sich derzeit vor einem Militärgericht für das Eindringen der Hacker verantworten. Es werden hohe Haftstrafen erwartet. Besonders betroffene Bürger die all ihr Geld in den Score investiert und verloren haben fordern sogar die Todesstrafe.
+&amp;quot;&amp;quot;&amp;quot;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/China-schafft-digitales-Punktesystem-fuer-den-besseren-Menschen-3983746.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/3/8/1/2/5/4/urn-newsml-dpa-com-20090101-140520-99-01659_large_4_3-9588e19631035e8e.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+heise.de&lt;/p&gt;
+&lt;h2 id=&#34;china-schafft-digitales-punktesystem-für-den-besseren-menschenhttpswwwheisedenewstickermeldungchina-schafft-digitales-punktesystem-fuer-den-besseren-menschen-3983746html&#34;&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/China-schafft-digitales-Punktesystem-fuer-den-besseren-Menschen-3983746.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;China schafft digitales Punktesystem für den &amp;ldquo;besseren&amp;rdquo; Menschen&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ein digitales Punktekonto soll flächendeckend in China eingeführt werden und gute von schlechten Bürgern unterscheiden. Die soziale Bewertung des Einzelnen hat jedoch weitreichende Konsequenzen für sein Leben. Viele Chinesen finden es trotzdem gut.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

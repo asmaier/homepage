@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tunneling (physics) | Das Blog</title>
+    <link>/tag/tunneling-physics/</link>
+      <atom:link href="/tag/tunneling-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>tunneling (physics)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>tunneling (physics)</title>
+      <link>/tag/tunneling-physics/</link>
+    </image>
+    
+    <item>
+      <title>Hawking radiation</title>
+      <link>/post/hawking-radiation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/hawking-radiation/</guid>
+      <description>&lt;p&gt;From calculations of quantum tunneling through the horizon of a metric (black hole, Rindler..) Hawking/Unruh temperature can be calculated!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[http://arxiv.org/abs/arXiv:0710.0612 Ryan Kerner: Fermions Tunnelling from Black Holes] _&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using this method it is recently claimed that the so called &lt;a href=&#34;http://en.wikipedia.org/wiki/Black_hole_information_paradox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black hole information paradox&lt;/a&gt; can be solved:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/0903.0893&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhang et al. (2009): Hidden Messenger Revealed in Hawking Radiation: a Resolution to the Paradox of Black Hole Information Loss&lt;/a&gt;
+The answer is, that the information that seems to be lost when matter falls into a black hole is in fact completely carried away by Hawking radiation. So in the whole process no information is lost.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

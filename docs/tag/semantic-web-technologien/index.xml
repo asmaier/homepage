@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic-web-technologien | Das Blog</title>
+    <link>/tag/semantic-web-technologien/</link>
+      <atom:link href="/tag/semantic-web-technologien/index.xml" rel="self" type="application/rss+xml" />
+    <description>semantic-web-technologien</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>semantic-web-technologien</title>
+      <link>/tag/semantic-web-technologien/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Kleine&#34; Testaufgabe, die ich mal ...</title>
+      <link>/post/2011-12-03-kleine-testaufgabe-die-ich-mal/</link>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/post/2011-12-03-kleine-testaufgabe-die-ich-mal/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Kleine&amp;rdquo; Testaufgabe, die ich mal für eine Bewerbung vorbereiten sollte, ich hatte dafür vier Tage Zeit:&lt;/p&gt;
+&lt;p&gt;Vielen Dank für Ihre Bewerbung. Nachfolgend übersende ich Ihnen eine
+Test-Aufgabe. Bitte bereiten Sie diese für unser Gespräch vor.&lt;/p&gt;
+&lt;p&gt;Rahmen:&lt;/p&gt;
+&lt;p&gt;Im Gesamtprojekt soll neben anderen Entwicklungen eine Suchmaschine für
+den Bereich Tourismus entwickelt werden. Diese Suchmaschine basiert
+insbesondere auch auf Semantic-Web-Technologien. Inhouse-Informationen
+werden entsprechend aufbereitet und mit zugelieferten Informationen
+verknüpft. Um einen möglichst aktuellen Zugriff, auf regionale/relevante
+(Hintergrund-)Informationen zu ermöglichen, sollen außerdem externe
+Quellen die bereits existierenden Informationen aufwerten. Der Nutzer
+soll so einen Zugriff auf mehr Datenquellen unter einem Dach haben. Die
+zusammengestellten Informationen sollen über eine innovative Suche dem
+Anwender verfügbar gemacht werden.&lt;/p&gt;
+&lt;p&gt;Bei den externen Quellen kann es sich um Webseiten handeln, welche einen
+Bezug zu touristischen Zielen haben. Dies könnten z.B. sein:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Webseiten der regionalen Nachrichtenmedien in den entsprechenden
+Städten/Regionen&lt;/li&gt;
+&lt;li&gt;Blogs mit dem Fokus auf bestimmte Ereignisse&lt;/li&gt;
+&lt;li&gt;Bewertungsseiten&lt;/li&gt;
+&lt;li&gt;persönlichen Reiseberichte (möglicherweise mit textuellen
+Wertungen/Einschätzungen)
+Ohne Beschränkung der Allgemeinheit sei hier ein Beispiel
+herausgegriffen: Ein Blog mit regionalen Festen, volkstümlichen
+Veranstaltungen und Wanderrouten (möglicherweise mit textuellen
+Bewertungen).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aufgabe:&lt;/p&gt;
+&lt;p&gt;Die gecrawlte Dateien (i.A. HTML) werden zur Verfügung gestellt und
+sollen mit semantischen Daten verknüpft werden. Ziel ist eine
+möglichst präzise Klassifikation der Inhalte. Dabei sollen so viele
+Verknüpfungen wie möglich aufgebaut werden, um sicherzustellen, dass
+auf Basis einer Nutzeranfrage die Treffer mit der höchsten Relevanz
+ausgeliefert werden können.&lt;/p&gt;
+&lt;p&gt;Zu diesem Zweck stehen bereits verschiedene Datenbanken zur Verfügung. Es handelt sich um internes Expertenwissen über vielfältige Teilbereiche im Tourismuskontext (Domänenwissen) und semantische Datenbanken, die öffentlich zugänglich sind. Um einen Mehrwert beim Nutzer zu erreichen, sollen die gecrawlten Informationen so verknüpft werden, dass die touristische Websuche überwiegend relevante touristische Informationen ausliefert. Diese Anreicherung bzw. Präzisierung der genutzten Daten mittels Information Retrieval Techniken (u.a. NLP), Web/Text Mining, Reasoning, etc. soll eine höhere Qualität der Daten zusichern. So soll es unter anderem möglich sein, Kontexte und die Intention des Autors besser/genauer zu erkennen. Darüber hinaus ist zu ermitteln, welches (Basis-)Ranking die Webseiten bei der Suche haben sollen.&lt;/p&gt;
+&lt;p&gt;So soll es später möglich sein, die eingehenden Suchanfragen besser
+mit dem existierenden Index abzugleichen (nicht Teil dieser
+Test-Aufgabe). Dem Anwender der Suchfunktionen sollen Informationen
+zur Verfügung gestellt werden, deren Gesamtheit einen Mehrwert
+bedeuten und für ihn (positiv) &amp;ldquo;überraschend&amp;rdquo; sind. Dies betrifft
+insbesondere die Verknüpfung der Informationen. Übergreifendes Ziel
+muss es sein, die (wichtigsten/relevanten) Ereignisse
+zusammenzuführen/auszuwerten, so dass u.a. eine Gesamtontologie
+entsteht, deren Ausprägung die Anforderungen an Performance und
+Skalierbarkeit genügt.&lt;/p&gt;
+&lt;p&gt;Ihre Aufgabe ist die Entwicklung einer realisierbaren Vision für die Verarbeitung &amp;ndash; insbesondere Klassifikation und Erfassung der Intention des Autors &amp;ndash; der gecrawlten Daten. Diese soll aber tatsächlich in überschaubarer Zeit bis zur Marktreife geführt werden können. Ein Internet-Crawler kann vorausgesetzt werden (dessen Implementierung ist also nicht Teil des Konzepts). Dieser wird vorerst unspezifisch das Internet crawlen. Die Implementierung der Suchanwendung wird durch eine andere Gruppe vorgenommen, aber die benötigten Schnittstellen/Informationen müssen selbstverständlich beachtet werden. Konzentrieren Sie sich bei ihren Ausführungen auf die Aspekte bei denen Sie (technisches) Know how einbringen können.&lt;/p&gt;
+&lt;p&gt;Stellen Sie bitte einen Projektplan (konkrete Aufgabenpakete)
+entsprechend Ihren Vorstellungen auf. Es ist erlaubt bis zu 4 weitere
+Mitarbeiter (zumeist ohne spezielle Kenntnisse) einzuplanen.&lt;/p&gt;
+&lt;p&gt;Orientierungsfragen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welchen konkreten Beitrag kann Ihre Erfahrung zu dem Projekt leisten?&lt;/li&gt;
+&lt;li&gt;Welchen Technologien und Werkzeugen würden Sie einsetzen?&lt;/li&gt;
+&lt;li&gt;Wo sehen Sie die größten Herausforderungen?&lt;/li&gt;
+&lt;li&gt;Welchen Beitrag zur Wirtschaftlichkeit können Sie leisten?&lt;/li&gt;
+&lt;li&gt;Welche Zuarbeiten anderer Teams und externer Gruppen werden benötigt?&lt;/li&gt;
+&lt;li&gt;Wie sichert ihre Architektur die abgeleiteten Anforderungen?&lt;/li&gt;
+&lt;li&gt;Wurden die Besonderheiten bzw. das Umfeld eines eCommerce-Unternehmens
+(wie der ** GmbH) beachtet?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Richten Sie Ihre Präsentation auf maximal 20 min aus. Bitte übersenden
+Sie uns die aussagekräftigen Folien (idealerweise als PDF), so dass eine
+Vorbereitung im Vorfeld des Gesprächs möglich ist. Die Deadline hierfür
+ist auf Freitag, den *** Uhr festgelegt.&lt;/p&gt;
+&lt;p&gt;Es wird nicht erwartet, dass Sie für alle Herausforderungen Lösungen
+präsentieren können (schließlich handelt es sich um ein Forschungs- und
+Entwicklungsthema). Sie sollten aber deutlich und schwerpunktmäßig
+hervorheben, in welchem Bereich Sie ihre Erfahrung/Arbeitskraft
+einbringen können, wie Sie sich die Umsetzung vorstellen, wie ihre
+Einschätzung des Themas ist und welche weiteren Ideen/Konzepte Sie für
+lukrativ halten. In diesem Zusammenhang kann die Themenstellung durch
+Sie auch selbstständig ausgeweitet werden.&lt;/p&gt;
+&lt;p&gt;Hätte ich die Aufgabe gelöst, hätten sie mich nicht mehr einstellen brauchen&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

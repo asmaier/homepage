@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>renderengines | Das Blog</title>
+    <link>/tag/renderengines/</link>
+      <atom:link href="/tag/renderengines/index.xml" rel="self" type="application/rss+xml" />
+    <description>renderengines</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2007 21:22:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>renderengines</title>
+      <link>/tag/renderengines/</link>
+    </image>
+    
+    <item>
+      <title>Physikalisch korrektes Rendering</title>
+      <link>/post/2007-02-12-physikalisch-korrektes-rendering/</link>
+      <pubDate>Mon, 12 Feb 2007 21:22:00 +0000</pubDate>
+      <guid>/post/2007-02-12-physikalisch-korrektes-rendering/</guid>
+      <description>
+&lt;a href=&#34;http://www.luxrender.net/gallery/main.php?g2_view=core.DownloadItem&amp;amp;g2_itemId=1930&amp;amp;g2_serialNumber=2&#34;&gt;&lt;img style=&#34;float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 512px; height: 409px;&#34; src=&#34;http://www.luxrender.net/gallery/main.php?g2_view=core.DownloadItem&amp;amp;g2_itemId=1930&amp;amp;g2_serialNumber=2&#34; border=&#34;0&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Bis heute habe ich geglaubt, dass &lt;a href=&#34;http://de.wikipedia.org/wiki/Mental_Ray&#34;&gt;Mental Ray&lt;/a&gt; das Nonplusultra in Sachen Bildqualität und Realismus für 3D-Rendering bietet. Aber dann habe ich zum ersten Mal Bilder von Renderengines gesehen, die weder &lt;a href=&#34;http://de.wikipedia.org/wiki/Raytracing&#34;&gt;Raytracing&lt;/a&gt;, noch &lt;a href=&#34;http://de.wikipedia.org/wiki/Radiosity_%28Computergrafik%29&#34;&gt;Radiosity&lt;/a&gt; verwenden, sondern auf dem &lt;a href=&#34;http://en.wikipedia.org/wiki/Metropolis_light_transport&#34;&gt;Metropolis-Light- Transport-Algorithmus&lt;/a&gt; basieren. Einfach atemberaubend realistisch! Der MLT-Algorithmus berechnet das Verhalten von Licht physikalisch korrekt. Das heißt, dass je länger man rendert, das entstehende Bild immer mehr gegen die physikalisch korrekte Lösung konvergiert. Das macht es zum ersten Mal möglich, auch physikalische Effekte wie Dispersion (das Aufspalten weißes Lichts in Regenbogenfarben) ohne weitere Tricks mit einem 3D-Renderprogramm zu berechnen (siehe nebenstehendes Bild des freien OpenSource-Renderers &lt;a href=&#34;http://www.luxrender.net/&#34;&gt;LuxRender&lt;/a&gt;). Sogar Polarisation, der Einfluß von nahem Infrarot bzw. ultraviolettem Licht auf die Farben des sichtbaren Lichts, Doppelbrechung usw. sollen möglich sein.&lt;br /&gt;Die meisten Renderer, die diesen Algorithmus verwenden, sind jedoch noch eher im Betastatus,  mit Ausnahme des kommerziellen &lt;a href=&#34;http://www.maxwellrender.com/&#34;&gt;Maxwell Render&lt;/a&gt; (Diesen gibt es z.B. auch &lt;a href=&#34;http://www.c4dnetwork.com/index.php?act=articles&amp;amp;view=14&amp;amp;page=2&#34;&gt;für Maxon Cinema 4D&lt;/a&gt;). Wer die beeindruckenden Beispiele dort gesehen hat und jetzt mehr wissen will, für den sind auch die folgenden Seiten gute Startpunkte:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://graphics.cs.uiuc.edu/%7Ejared/joomla/links/mlt/&#34;&gt;Destroy the core: Metropolis Light Transport&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://graphics.cs.uiuc.edu/%7Ejared/joomla/links/mlt-implementations/&#34;&gt;Destroy the core: MLT-Implementations&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Ob es irgendwann auch Spiele mit derartig realistische Grafik geben wird? Aber das sollte man dann vielleicht nicht mehr Spiel nennen, sondern eher &#34;&lt;a href=&#34;http://de.wikipedia.org/wiki/Simulierte_Realit%C3%A4t&#34;&gt;Matrix&lt;/a&gt;&#34;. ;-)&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Update 21.09.2009:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;vom dem für nicht-kommerzielle kostenfreien &lt;a href=&#34;http://de.wikipedia.org/wiki/Indigo_Renderer&#34;&gt;Indigorenderers&lt;/a&gt; (closed-source) gibt es inzwischen die Version 2 (Danke an Ben Nolan für die deutsche &lt;a href=&#34;http://www.astro.uni-wuerzburg.de/~asmaier/usefulthings/press-release-deutsche.pdf&#34;&gt;Presseerklärung&lt;/a&gt; dazu.)&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.sjbrown.co.uk/2009/05/10/metropolis-light-transport/&#34;&gt;fixored?: Metropolis Light Transport&lt;/a&gt; ist ein interessanter Blogartikel auf englisch mit einigen sehr interessanten Links&lt;/li&gt;&lt;li&gt;Die obigen &#34;Destroy the core&#34;-Links sind tot. Stattdessen findet man dort jetzt jetzt die Doktorarbeit von &lt;a href=&#34;http://graphics.cs.uiuc.edu/~jared/&#34;&gt;Jared Hoberock: Accelerating Physical Based Light Transport Algorithms&lt;/a&gt;, in welcher u.a. der MLT-Algorithmus behandelt wird.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

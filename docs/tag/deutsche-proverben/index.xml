@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deutsche proverben | Das Blog</title>
+    <link>/tag/deutsche-proverben/</link>
+      <atom:link href="/tag/deutsche-proverben/index.xml" rel="self" type="application/rss+xml" />
+    <description>deutsche proverben</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>deutsche proverben</title>
+      <link>/tag/deutsche-proverben/</link>
+    </image>
+    
+    <item>
+      <title>So schlecht, dass es schon ...</title>
+      <link>/post/2013-12-22-so-schlecht-dass-es-schon/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-12-22-so-schlecht-dass-es-schon/</guid>
+      <description>&lt;p&gt;So schlecht, dass es schon wieder gut ist.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

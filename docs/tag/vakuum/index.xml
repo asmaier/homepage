@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vakuum | Das Blog</title>
+    <link>/tag/vakuum/</link>
+      <atom:link href="/tag/vakuum/index.xml" rel="self" type="application/rss+xml" />
+    <description>vakuum</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>vakuum</title>
+      <link>/tag/vakuum/</link>
+    </image>
+    
+    <item>
+      <title>Gravitational Cherenkov Radiation</title>
+      <link>/post/gravitational-cherenkov-radiation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/gravitational-cherenkov-radiation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Cherenkov_radiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cherenkov Radiation&lt;/a&gt; is a very interesting phenomenom. Recently I asked myself, if such a phenomenom allso exists for gravity in the sense, that if a particle moves faster than the speed of gravity in a medium, it should radiate gravitational cherenkov radiation. I found an article [((bibcite 1))], that precisely predicts that. However in there article the theorists use it to constrain vacuum speed of gravity. They do not consider the case that gravity in a medium might(?) have a speed lower than the vacuum speed of gravity.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/hep-ph/0106220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moore, Nelson (2001) : Lower Bound on the Propagation Speed of Gravity from Gravitational Cherenkov Radiation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

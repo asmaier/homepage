@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java | Das Blog</title>
+    <link>/tag/java/</link>
+      <atom:link href="/tag/java/index.xml" rel="self" type="application/rss+xml" />
+    <description>java</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>java</title>
+      <link>/tag/java/</link>
+    </image>
+    
+    <item>
+      <title>This is a screenshot from ...</title>
+      <link>/post/2015-07-06-this-is-a-screenshot-from/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-06-this-is-a-screenshot-from/</guid>
+      <description>&lt;p&gt;This is a screenshot from an old Stackoverflow discussion. It shows the most pythonic Java Coding style! ;-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Editoren</title>
+      <link>/post/editoren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/editoren/</guid>
+      <description>&lt;h6&gt;Welchen Editor verwenden ?&lt;/h6&gt;
+&lt;p&gt; Statt sich unter Linux mit &lt;tt&gt;emacs&lt;/tt&gt; oder &lt;tt&gt;vi&lt;/tt&gt; rumzuquaelen sollte man lieber mal folgende
+ausprobieren:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kate.kde.org/&#34;&gt;Kate&lt;/a&gt; : Kann alles, braucht aber KDE. Trotzdem mein Favorit!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiana.edu/~ucspubs/b103/&#34;&gt;Pico&lt;/a&gt; : Superschnell, winzig und läuft im Terminalfenster.
+Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen.
+(Alternativen sind &lt;a href=&#34;http://de.wikipedia.org/wiki/Nano_(Texteditor)&#34;&gt;nano&lt;/a&gt; bzw. 
+&lt;a href=&#34;http://linux.die.net/man/1/jpico&#34;&gt;jpico&lt;/a&gt; ein Alias fuer den 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Joe%27s_Own_Editor&#34;&gt;Joe-Editor&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nedit.org/&#34;&gt;Nedit&lt;/a&gt; : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fte.sourceforge.net/&#34;&gt;FTE&lt;/a&gt; : Beherrscht falten (folding),
+was Nedit leider noch nicht kann. Hat allerdings eine altertümliche Oberfläche.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Um Latex zu editieren empfehle ich &lt;a href=&#34;http://kile.sourceforge.net/&#34;&gt;Kile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;P.S.:Die Ergebnisse einer Umfrage zur Beliebtheit von Editoren unter Linux gibts
+&lt;a href=&#34;http://www.linuxquestions.org/questions/showthread.php?s=&amp;amp;threadid=272122&#34;&gt;hier.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.P.S.: Unter Windows ist &lt;a href=&#34;http://www.textpad.com/&#34;&gt;Textpad&lt;/a&gt; mein Favorit!&lt;/p&gt;
+&lt;h6&gt;Tipps zum Nedit&lt;/h6&gt;
+&lt;p&gt;Man kann Nedit beibringen eigene Shell-Kommandos per Menü zu starten.
+Dazu muß man den Dialog unter&lt;/p&gt;
+&lt;pre&gt;Preferences/Default Settings/Customize Menus/Shell Menu&lt;/pre&gt;
+&lt;p&gt;aufrufen. Um z.B. Latex direkt über Nedit zu steuern könnte man
+Befehle für den Aufruf von &lt;tt&gt;latex, bibtex, dvips, kdvi, kghostview &lt;/tt&gt;
+folgendermaßen generieren:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;latex :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;latex %&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;li&gt;Save file before executing command&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;bibtex :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; bibtex $n:r.aux &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;li&gt;Save file before executing command&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dvips :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; dvips -o $n:r.ps $n:r.dvi &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;kdvi :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; kdvi $n:r.dvi &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : new window&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;kghostview :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; kghostview $n:r.ps &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : new window&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;latex complete :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;latex %; set n=%; bibtex $n:r.aux; latex %; latex %;&lt;/tt&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	Hierbei ist zu beachten, dass diesmal beim Aufruf des &lt;tt&gt;bibtex&lt;/tt&gt;-Befehls kein
+	&lt;tt&gt;&amp;amp;&lt;/tt&gt;-Zeichen verwendet werden kann.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;Tipps zu Emacs&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt; ist eine eierlegende Wollmilchsau. Leider ist die Bedienung bescheiden. 
+Für fast alle Aktionen 
+(selbst für das Beenden!!) ist es nötig zwei Tastaturkürzel hintereinander einzugeben. Trotzdem muß man
+ihn manchmal benutzen, weil man gerade nix anderes hat:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emacs ohne X-Window starten: &lt;tt&gt;&gt; emacs -nw&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Emacs beenden: &lt;tt&gt;Ctrl-x Ctrl-c&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei öffnen: &lt;tt&gt;Ctrl-x Ctrl-f&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei/Buffer schließen : &lt;tt&gt;Ctrl-x k&lt;/tt&gt; &lt;/li&gt;
+&lt;li&gt;Datei speichern unter: &lt;tt&gt;Ctrl-x Ctrl-w&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei speichern: &lt;tt&gt;Ctrl-x Ctrl-s&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Suchen: &lt;tt&gt;Ctrl-s&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Befehl abbrechen: &lt;tt&gt;Ctrl-g&lt;/tt&gt; (z.B. kann man, wenn man &lt;tt&gt;Ctrl-x Ctrl-f&lt;/tt&gt; zum Datei öffnen eingegeben hat 
+den Dialog mit &lt;tt&gt;Ctrl-g&lt;/tt&gt; abbrechen)&lt;/li&gt;
+&lt;li&gt;Hilfe: &lt;tt&gt;ESC-x help&lt;/tt&gt; (ja, man muß tatsächlich &lt;tt&gt;help&lt;/tt&gt; eingeben, kann es aber mit &lt;tt&gt;he TAB&lt;/tt&gt;
+abkürzen. Einen kürzeren Weg zur Hilfe kann man sich nun wirklich nicht vorstellen!)&lt;/li&gt;
+&lt;li&gt;Split-Screen der Hilfe schließen: &lt;tt&gt;q&lt;/tt&gt; (Tatsächlich nur ein Tastendruck. Wahnsinn!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Mehr Tastenkürzel gibt es bei &lt;a href=&#34;http://www.engr.uvic.ca/~dastone/emacs-keys.html&#34;&gt;Emacs keyboard shortcuts&lt;/a&gt;.
+Und wer immer noch nicht glaubt, dass Emacs wirklich umständlich und veraltet ist, der lese im folgenden
+die Kritik eines Emacs-Expertens:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://xahlee.org/emacs/emacs_kb_shortcuts_pain.html&#34;&gt;Why Emacs&#39;s Keyboard Shortcuts Are Painful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xahlee.org/emacs/modernization.html&#34;&gt;The Modernization of Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Eclipse&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Eclipse_(IDE)&#34;&gt;Eclipse&lt;/a&gt; als Editor zu bezeichen ist etwas untertrieben. Passender wäre vielleicht
+die Bezeichnung &#34;Emacs des 21. Jahrhunderts&#34;, denn Eclipse ist wie Emacs eine eierlegende Wollmilchsau, mit der man von ADA bis 
+XML alles programmieren kann. Im Grundzustand ist Eclipse zwar nach wie vor erstmal eine Java-Entwicklungsumgebung
+(und in diesem Bereich sicherlich der(!) Standard), aber inzwischen gibt es mehr als 1200 Plugins für Eclipse auf 
+&lt;a href=&#34;http://www.eclipseplugincentral.com/&#34;&gt;www.eclipseplugincentral.com&lt;/a&gt;, ein paar nützlichere davon sind hier aufgelistet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/cdt/&#34;&gt;CDT (C/C++ Development Tools) Project&lt;/a&gt; : eine C/C++ Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Debugger, Makefile Generator u.a. )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/photran/&#34;&gt;Photran&lt;/a&gt; : eine FORTRAN Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Interface to GDB... )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pydev.sourceforge.net/&#34;&gt;Pydev&lt;/a&gt; : eine Python Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Debugger, Interaktiver Pythonkonsole... )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://subclipse.tigris.org/&#34;&gt;Subclipse&lt;/a&gt; : Ein grafischer Subversion Client; erlaubt die Verwaltung von Eclipse Projekten
+mit Subversion und bietet direkten Zugriff auf SVN Repositories aus Eclipse heraus. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://directory.apache.org/studio/&#34;&gt;Apache Directory Studio&lt;/a&gt; : Ein grafischer LDAP Browser; erlaubt die Verwaltung 
+(Suchen, Editieren usw.) von Einträgen auf einem LDAP Server aus Eclipse heraus.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/dsdp/tm/&#34;&gt;Remote System Explorer (Target Management)&lt;/a&gt; : Erlaubt das Editieren von Dateien über 
+SSH/SFTP-Verbindungen. Laut &lt;a href=&#34;http://www.freshblurbs.com/best-sftp-plugin-eclipse&#34;&gt;freshblurbs&lt;/a&gt; kann man damit auch lokal Dateien
+editieren ohne(!) das man damit ein Projekt anlegen muss.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aptana.org/&#34;&gt;Aptana&lt;/a&gt; : Eine professionelle Webentwicklungsumgebung für HTML, CSS, Javascript. Arbeitet auch
+mit Firebug zusammen (siehe &lt;a href=&#34;http://www.syger.it/Topics/FirebugAndAptanaStudio.html&#34;&gt;FirebugAndAptanaStudio&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die Bedienung von Eclipse ist, wie es sich für ein Profi-Tool gehört, unübersichtlich und nicht 
+immer intuitiv (aber immer noch um Welten besser und moderner als die von Emacs oder vi). Daher wäre meine Beschreibung 
+von Eclipse nicht komplett ohne ein paar hilfreiche Tastaturkürzel und Einstellungen (sie beziehen sich auf die 
+Java-Entwicklungsumgebung) zu nennen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-1&lt;/tt&gt; : Quick Fix, gibt Vorschläge wie der Quellcode geschrieben oder korrigiert werden kann um fehlerfrei zu sein. Sehr cool!!&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Space&lt;/tt&gt; : Code Completion, z.B. Eingabe von &lt;tt&gt;syso ctrl-Space&lt;/tt&gt; gibt &lt;tt&gt;System.out.println()&lt;/tt&gt;.
+Man probiere auch &lt;tt&gt;for ctrl-space&lt;/tt&gt;, &lt;tt&gt;while ctrl-space&lt;/tt&gt; oder &lt;tt&gt;if ctrl-space&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;F3&lt;/tt&gt; : Springt zur Deklaration einer Klasse/Funktion/Variable.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-f&lt;/tt&gt; : Pretty Formating von selektiertem Quellcode&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-j&lt;/tt&gt; : Inkrementelle Suche wie in Firefox. Drückt man die Tastenkombination passiert zuerst nichts, aber sobald man die erste
+Taste drückt, springt der Cursor zum ersten Treffer. Vorwärts durch die Treffer springt man durch weiteres Drücken von &lt;tt&gt;Ctrl-j&lt;/tt&gt;,
+rückwärts durch &lt;tt&gt;Ctrl-Shift-j&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-f&lt;/tt&gt; : Suche, die Treffer werden dabei auch in der rechten Spalte neben deb Quellcodefenster farblich markiert. 
+Zum nächsten Treffer springt man bei geöffnetem Suchfenster mit &lt;tt&gt;Alt-n&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-o&lt;/tt&gt; : Ergänzt nötige bzw. löscht überflüssige Import-Statements.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-l&lt;/tt&gt; : Zeigt alle Tastaturkürzel an (Über das Menü zu finden unter &lt;tt&gt;Windows-&gt;Preferences-&gt;General-&gt;Keys&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;Kontextmenü &lt;tt&gt;Source-&gt;Generate Getters/Setters&lt;/tt&gt; oder &lt;tt&gt;Source-&gt;Generate Hashcode and equals()...&lt;/tt&gt; sind sehr nützlich
+um die entsprechenden Funktionen zu einer Klasse automatisch zu erzeugen.&lt;/li&gt;
+&lt;li&gt;Kontextmenü &lt;tt&gt;Refactor-&gt;Rename&lt;/tt&gt; erlaubt es eine Variable/Klasse umzubenennen und dabei jeden Aufruf derselben im gesamten
+Projekt (also über Dateigrenzen hinweg) gleichzeitig anzupassen. Sehr cool!!&lt;/li&gt;
+&lt;li&gt;Menüpunkt &lt;tt&gt;Windows-&gt;Show View-&gt;Javadoc&lt;/tt&gt; öffnet ein Fenster in dem Javadoc Beschreibungen zu jedem Element erscheinen,
+welches im Quellcode markiert und doppelt angeklickt wird (Alternative: Ein Element markieren und dann &lt;tt&gt;Shift-Alt-q j&lt;/tt&gt;
+drücken).&lt;/li&gt;
+&lt;li&gt;Um zu verhindern, dass die sog. &#34;Hovers&#34; (Erscheinen z.B. beim Überfahren eingeklappter Quellcodeteile mit der Maus)
+zu lange gezeigt werden (ein sehr nerviges Feature von Eclipse, leider nicht abschaltbar), sollte man im Menü 
+&lt;tt&gt;Windows-&gt;Preferences&lt;/tt&gt; unter &lt;tt&gt;General-&gt;Editors-&gt;TextEditors: When mouse moved into hover: Close hover&lt;/tt&gt; auswählen.
+Dann werden die &#34;Hovers&#34; praktisch immers sofort wieder geschlossen und stören nicht. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mehr nützliche Tastaturkürzel gibt es u.a. bei 
+&lt;a href=&#34;http://eclipse.dzone.com/news/effective-eclipse-shortcut-key&#34;&gt;Effective Eclipse: Shortcut keys&lt;/a&gt;. Interessant ist auch das
+&lt;a href=&#34;http://www.mousefeed.com/&#34;&gt;Mousefeed Plugin&lt;/a&gt;, dass innerhalb von Eclipse zu jeder Aktion mit der Maus ein 
+äquivalentes Tastaturkürzel anzeigt, so dass man die Tastaturkürzel schneller lernen kann.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programmieren</title>
+      <link>/post/programmieren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/programmieren/</guid>
+      <description>&lt;p&gt; Wer gerne wissen möchte, welche Bücher &#34;Profis&#34; (Wissenschaftler und Co. ;-) ) zum 
+programmieren benutzen, der kann in &lt;a href=&#34;http://scholar.google.com/&#34; &gt;Google Scholar&lt;/a&gt; z.B. nach 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=Java&amp;amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;Java&lt;/a&gt;, 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=C%2B%2B&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;C++&lt;/a&gt;, 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=Fortran&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;Fortran&lt;/a&gt; oder 
+&lt;a href=&#34;http://scholar.google.com/scholar?q=Python&amp;amp;hl=en&amp;amp;lr=&amp;amp;btnG=Search&#34; &gt;Python&lt;/a&gt; suchen 
+und erhält auf diese weise leicht die meistzitierten Programmierbücher für diese Programmiersprachen. 
+Wer wissen möchte, welche Bücher ich bevorzuge, der sollte hier einfach weiterlesen: &lt;/p&gt;
+&lt;h6&gt;Java&lt;/h6&gt;
+&lt;p&gt;Um Java zu lernen reicht eigentlich ein Buch:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/3827322014/guidokruegerfreie/302-7208934-0117615&#34;&gt;
+&#34;Handbuch der Java-Programmierung&#34; von Guido Krüger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es ist der Nachfolger von &#34;Go to Java2&#34; vom selben Autor. Und nicht nur das es
+das beste Buch ist, nein, man kann es sogar kostenlos komplett aus dem Netz
+laden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javabuch.de/&#34;&gt;www.javabuch.de/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;C++&lt;/h6&gt;
+&lt;p&gt;Für C++ gibt es eine Unmenge an frei erhältlichen Einsteigertutorials. Am
+besten man sucht mal in &lt;a href=&#34;http://www.google.de/&#34;&gt;Google&lt;/a&gt; unter &#34;c++
+tutorial&#34;. Aber ich kann mich nicht mehr erinnern, welches ich besonders gut 
+fand, drum hier nur ein paar Links zu besonders ausführlichen Online-Wälzern:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;usefulthings/tic2vone.pdf&#34;&gt;TIC2Vone.pdf&lt;/a&gt; : &#34;Thinking in C++&#34; 
+Volume One von Bruce Eckel im pdf-Format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;usefulthings/tic2vtwo.pdf&#34;&gt;TIC2Vone.pdf&lt;/a&gt; : &#34;Thinking in C++&#34; 
+Volume Two von Bruce Eckel im pdf-Format&lt;/li&gt; 
+&lt;li&gt;&lt;a href=&#34;http://www.notes-about-cpp.com/book.html&#34;&gt;&#34;Notizen zu C++&#34;&lt;/a&gt; : von Peter
+Thömmes, enthält einiges (womöglich sogar abgeschrieben) aus den Büchern von
+Scott Meyers(s.u.).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; Bücher gibt es ebenfalls wie Sand am Meer. Die besten Standardwerke 
+sind meiner Meinung nach folgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201379260/
+qid=1077834223/sr=2-5/ref=sr_aps_prod_5_2/302-5723593-8228013&#34;&gt;
+&#34;The C++ Standard Library&#34; von Nicolai M. Josuttis&lt;/a&gt; : Das beste Buch zu C++ 
+überhaupt! In keinem anderen Buch wird auch nur im Ansatz die STL so leicht
+und verständlich erklärt wie in diesem. Und nebenbei lernt man noch viel über
+C++ allgemein.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201924889/
+qid=1077835002/sr=2-1/ref=sr_2_11_1/302-5723593-8228013&#34;&gt;
+&#34;Effective C++: 50 Specific Ways to Improve Your Programs and Designs&#34;
+von Scott Meyers&lt;/a&gt; : Ohne dieses Buch gelesen zu haben versteht man C++
+nicht! Unendlich nützlich, selbst für Einsteiger, denn in diesem Buch werden
+Dinge erklärt, die man sonst nirgends liest!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/020163371X/
+qid=1077835002/sr=2-2/ref=sr_2_11_2/302-5723593-8228013&#34;&gt;
+&#34;More Effective C++: 35 New Ways to Improve Your Programs and Designs&#34;
+von Scott Meyers
+&lt;/a&gt; : Hier liest man noch mehr Dinge, die man sonst nirgends liest. Wie der
+erste Band ein absolutes Muß!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201700735/
+qid=1077835693/sr=2-2/ref=sr_2_3_2/302-5723593-8228013&#34;&gt;
+&#34;The C++ Programming Language, Special Edition&#34; von Bjarne Stroustrup
+&lt;/a&gt; : Die Bibel vom Erfinder von C++. Leider kein wirklich gutes Buch,
+kompliziert, unübersichtlich aber es steht irgendwie alles drin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/ASIN/0201633612/
+qid=1077835970/sr=2-1/ref=sr_2_11_1/302-5723593-8228013&#34;&gt;
+&#34;Design Patterns&#34; von Erich Gamma, Richard Helm, Ralph E. Johnson, John
+Vlissides&lt;/a&gt; : Der berühmte Klassiker der &#34;Gang of Four&#34;. Pflichlektüre 
+für jeden, der wissen will, wozu objektorientiertes Programmieren 
+überhaupt nützlich ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; Eine hilfreiche wissenschaftliche Veröffentlichung ist auch folgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://citeseer.ist.psu.edu/dasigi99catalog.html&#34;&gt;Venu Dasigi: A Catalog of Common Bugs in C++ Programming (1999)&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Und von mir gibt es natürlich auch ein paar nützliche Tips und Tricks zu C++:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;documents/cplusplus.pdf&#34;&gt;cplusplus.pdf&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Fortran90/95&lt;/h6&gt;
+&lt;p&gt;Erste Regel: FORTRAN 77 meiden wo es nur geht! Denn z.B. 
+anders als in Fortran 90/95 gilt bei seinem Vorgänger FORTRAN 77 noch ein aus
+der Lochkarten-Ära(!) stammendes festes Spaltenformat (fixed source form).
+Wer will das schon? Leider gibt es nur sehr wenige gute Quellen um Fortran 90/95 zu lernen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rz.uni-bayreuth.de/lehre/fortran90/&#34;&gt;
+www.rz.uni-bayreuth.de/lehre/fortran90/&lt;/a&gt; 
+: Vorlesung der Uni Bayreuth, sehr zu empfehlen!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/exec/obidos/
+ASIN/0070119384/qid=1077808372/sr=2-3/ref=sr_aps_prod_3_1/302-3453072-9080005&#34;&gt;
+&#34;FORTRAN 90/95 for Scientists and Engineers&#34;
+von Stephen J. Chapman&lt;/a&gt; : gutes Buch!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ausserdem gibt es noch nicht einmal einen Gnu-Compiler für Fortran 90. Die meisten Compiler
+für Fortran 90/95 sind auch keine Freeware. Der beste frei erhältliche Fortran90/95-Compiler
+ist der von Intel namens &#34;ifort&#34; (aktuell in Version 9.0):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://developer.intel.com/software/products/global/eval.htm&#34;&gt;
+developer.intel.com/software/products/global/eval.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

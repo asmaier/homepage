@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>textdokumente | Das Blog</title>
+    <link>/tag/textdokumente/</link>
+      <atom:link href="/tag/textdokumente/index.xml" rel="self" type="application/rss+xml" />
+    <description>textdokumente</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>textdokumente</title>
+      <link>/tag/textdokumente/</link>
+    </image>
+    
+    <item>
+      <title>Ohne Worte. ...</title>
+      <link>/post/2014-10-20-ohne-worte/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-10-20-ohne-worte/</guid>
+      <description>&lt;p&gt;Ohne Worte.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;i.imgur.com&lt;/p&gt;
+&lt;h2 id=&#34;ff4a99hhttpiimgurcomff4a99hjpg&#34;&gt;&lt;a href=&#34;http://i.imgur.com/FF4A99h.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ff4A99H&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

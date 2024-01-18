@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analyse | Das Blog</title>
+    <link>/tag/analyse/</link>
+      <atom:link href="/tag/analyse/index.xml" rel="self" type="application/rss+xml" />
+    <description>analyse</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>analyse</title>
+      <link>/tag/analyse/</link>
+    </image>
+    
+    <item>
+      <title>Eine statistiche Analyse basierend auf ...</title>
+      <link>/post/2013-06-28-eine-statistiche-analyse-basierend-auf/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/post/2013-06-28-eine-statistiche-analyse-basierend-auf/</guid>
+      <description>&lt;p&gt;Eine statistiche Analyse basierend auf 21 Eigenschaften von 250 Sprachen ergibt:&lt;/p&gt;
+&lt;p&gt;Deutsch ist die zehnt-seltsame Sprache der Welt!&lt;/p&gt;
+&lt;p&gt;Grüße an alle die Sonderlinge, die sie beherrschen!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://idibon.com/the-weirdest-languages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://idibon.com/the-weirdest-languages/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

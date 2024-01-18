@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zentrifuge | Das Blog</title>
+    <link>/tag/zentrifuge/</link>
+      <atom:link href="/tag/zentrifuge/index.xml" rel="self" type="application/rss+xml" />
+    <description>zentrifuge</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Feb 2006 20:07:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>zentrifuge</title>
+      <link>/tag/zentrifuge/</link>
+    </image>
+    
+    <item>
+      <title>Künstliche Kiemen für Taucher</title>
+      <link>/post/2006-02-15-knstliche-kiemen-fr-taucher/</link>
+      <pubDate>Wed, 15 Feb 2006 20:07:00 +0000</pubDate>
+      <guid>/post/2006-02-15-knstliche-kiemen-fr-taucher/</guid>
+      <description>
+Der israelische Taucher und Erfinder Alon Bodner hat angeblich ein System entwickelt, welches betrieben mit Batterien genügend Sauerstoff aus dem Wasser extrahieren kann um einen Taucher zu versorgen. Das entwickelte System basiert auf dem &lt;a href=&#34;http://de.wikipedia.org/wiki/Henry-Gesetz&#34;&gt;Henry-Gesetz&lt;/a&gt;, welches besagt, dass in einer Flüssigkeit umso mehr Gas gelöst ist, je höher der Druck des entsprechenden Gases über der Flüssigkeit ist. Dreht man diese Aussage um, so ergibt sich, dass man durch die Erzeugung von Unterdruck über der Flüssigkeit gelöstes Gas aus der Flüssigkeit extrahieren kann. Zum Erzeugen von genügend Unterdruck, um Luft für einen Taucher zu extrahieren, soll nach Bodner eine kleine Zentrifuge (die Zentrifugalkraft wirkt dem Druck entgegen, daher entsteht ein Unterdruck in der Mitte der Zentrifuge, so dass dort das Gas aus der Flüssigkeit austritt) ausreichen, durch die das umgebende Wasser fließt.&lt;br /&gt;Mehr dazu unter:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.likeafish.biz/&#34;&gt;Like-A-Fish Technologies&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.isracast.com/Articles/Article.aspx?ID=63&#34;&gt;IsraCast: Revolutionary Underwater Breathing System&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.pte.at/pte.mc?pte=060204004&#34;&gt;Pressetext Austria: Künstliche Kiemen für Taucher&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://news.bbc.co.uk/2/hi/science/nature/4665624.stm&#34;&gt;BBC: Inventor develops &#39;artificial gills&#39;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Allerdings sind wohl die Rechnungen von Bodner ein wenig zu optimistisch (siehe obiger BBC-Artikel), als das das System wirklich von einem Taucher genutzt werden könnte. Für Unterwasserwohnungen oder U-Boote ist das System eher geeignet.</description>
+    </item>
+    
+  </channel>
+</rss>

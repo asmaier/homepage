@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>illusionen | Das Blog</title>
+    <link>/tag/illusionen/</link>
+      <atom:link href="/tag/illusionen/index.xml" rel="self" type="application/rss+xml" />
+    <description>illusionen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2006 15:06:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>illusionen</title>
+      <link>/tag/illusionen/</link>
+    </image>
+    
+    <item>
+      <title>Akustische Illusionen</title>
+      <link>/post/2006-09-29-akustische-illusionen/</link>
+      <pubDate>Fri, 29 Sep 2006 15:06:00 +0000</pubDate>
+      <guid>/post/2006-09-29-akustische-illusionen/</guid>
+      <description>
+Optische Illusionen wie die &lt;a href=&#34;http://en.wikipedia.org/wiki/Penrose_stairs&#34;&gt;unendliche Treppe&lt;/a&gt; sind ja bekannt, aber akustische Illusionen? Ein wirklich verwirrendes Beispiel dazu ist die&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Shepard_tone&#34;&gt;Shepard-Tonfolge&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Ihr werdet euren Ohren nicht trauen!&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Update: &lt;/b&gt;Mehr Audio-Illusionen gibts hier:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=e6JSTkwXg90&#34;&gt;The Top 10 Audio Illusions&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wettervorhersagen | Das Blog</title>
+    <link>/tag/wettervorhersagen/</link>
+      <atom:link href="/tag/wettervorhersagen/index.xml" rel="self" type="application/rss+xml" />
+    <description>wettervorhersagen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>wettervorhersagen</title>
+      <link>/tag/wettervorhersagen/</link>
+    </image>
+    
+    <item>
+      <title>Es gibt ja einige Webseiten, ...</title>
+      <link>/post/2023-01-10-es-gibt-ja-einige-webseiten/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023-01-10-es-gibt-ja-einige-webseiten/</guid>
+      <description>&lt;p&gt;Es gibt ja einige Webseiten, die bieten Wettervorhersagen über 30 Tage an (z.B. Donnerwetter). Leider, leider sagt die Wissenschaft jetzt aber, dass das völliger Humbug ist. Das derzeit beste und sogenannte europäische Vorhersagemodel ECMWF kann das Wetter für maximal 2 Wochen vorhersagen. Das hat man getestet, indem man das Model mehrfach mit minimalen Abweichungen (der bekannte Schmetterlingseffekt) in den Anfangsbedingungen hat simulieren lassen. Nach maximal 2 Wochen waren die Unterschiede zwischen den Simulationsergebnisse so groß, dass keine Korrelation mehr zwischen den Ergebnissen zu finden waren. D.h. über zwei Wochen hinaus kann man keine Vorhersage mit dem Model machen, da ab diesem Zeitpunkt die Ergebnisse zufällig erscheinen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.science.org/content/article/how-far-out-can-we-forecast-weather-scientists-have-new-answer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.science.org/content/article/how-far-out-can-we-forecast-weather-scientists-have-new-answer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Es könnte sogar sein, dass wir in Zukunft auch die zwei Wochen Vorhersagegrenze mit den Modellen nicht erreichen, wenn durch den Klimawandel die Extremereignisse und damit auch die Turbulenzen in der Atmosphäre zunehmen, siehe auch &lt;a href=&#34;https://news.stanford.edu/2021/12/14/warming-makes-weather-less-predictable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.stanford.edu/2021/12/14/warming-makes-weather-less-predictable/&lt;/a&gt;
+Kurz gesagt, setzt euer Geld nicht auf 30 Tage Wettervorhersagen. Da könnt ihr auch gleich ins Kasino gehen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.science.org/content/article/how-far-out-can-we-forecast-weather-scientists-have-new-answer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.science.org/content/article/how-far-out-can-we-forecast-weather-scientists-have-new-answer&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

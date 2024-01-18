@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glück | Das Blog</title>
+    <link>/tag/gluck/</link>
+      <atom:link href="/tag/gluck/index.xml" rel="self" type="application/rss+xml" />
+    <description>glück</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2006 13:33:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>glück</title>
+      <link>/tag/gluck/</link>
+    </image>
+    
+    <item>
+      <title>Weltkarte des Glücks</title>
+      <link>/post/2006-08-01-weltkarte-des-glcks/</link>
+      <pubDate>Tue, 01 Aug 2006 13:33:00 +0000</pubDate>
+      <guid>/post/2006-08-01-weltkarte-des-glcks/</guid>
+      <description>
+Wo leben die Menschen am glücklichsten? Ein Artikel des immer wieder interessanten &lt;a href=&#34;http://www.morgenwelt.de/&#34;&gt;Morgenwelt-Magazins&lt;/a&gt; fasst die Ergebnisse einer &lt;a href=&#34;http://www2.le.ac.uk/ebulletin/news/press-releases/2000-2009/2006/07/nparticle.2006-07-28.2448323827&#34;&gt;Studie der Universität Leicester&lt;/a&gt; zusammen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.morgenwelt.de/256.html?&amp;cHash=2c36d99970&amp;amp;tx_ttnews%5BbackPid%5D=155&amp;tx_ttnews%5Bpointer%5D=27&amp;amp;tx_ttnews%5Btt_news%5D=1987&#34;&gt;Weltkarte des Glücks&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Ergebnis: Im Legoland sind die Menschen am glücklichsten ;-) !</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>einkaufszentren | Das Blog</title>
+    <link>/tag/einkaufszentren/</link>
+      <atom:link href="/tag/einkaufszentren/index.xml" rel="self" type="application/rss+xml" />
+    <description>einkaufszentren</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>einkaufszentren</title>
+      <link>/tag/einkaufszentren/</link>
+    </image>
+    
+    <item>
+      <title>Bricht morgen eigentlich der Krieg ...</title>
+      <link>/post/2012-12-31-bricht-morgen-eigentlich-der-krieg/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-12-31-bricht-morgen-eigentlich-der-krieg/</guid>
+      <description>&lt;p&gt;Bricht morgen eigentlich der Krieg aus hier in Berlin oder warum stand ich gerade 30min in einer 100m langen Schlange beim Rewe?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

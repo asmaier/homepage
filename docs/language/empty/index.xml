@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>empty | Das Blog</title>
+    <link>/language/empty/</link>
+      <atom:link href="/language/empty/index.xml" rel="self" type="application/rss+xml" />
+    <description>empty</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>empty</title>
+      <link>/language/empty/</link>
+    </image>
+    
+    <item>
+      <title>HTTPSConnectionPool(host=www.npr.org, port=443): Read timed out. ...</title>
+      <link>/post/2020-03-06-httpsconnectionpool-host-www-npr-org-port-443-read-timed-out/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-03-06-httpsconnectionpool-host-www-npr-org-port-443-read-timed-out/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.npr.org/sections/goatsandsoda/2020/03/03/809965742/personal-essay-from-wuhan-living-in-hell?utm_campaign=storyshare&amp;amp;utm_source=facebook.com&amp;amp;utm_medium=social&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.npr.org/sections/goatsandsoda/2020/03/03/809965742/personal-essay-from-wuhan-living-in-hell?utm_campaign=storyshare&amp;utm_source=facebook.com&amp;utm_medium=social&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>404 Client Error: Not Found ...</title>
+      <link>/post/2014-07-09-404-client-error-not-found/</link>
+      <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-07-09-404-client-error-not-found/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.dobelli.com/no-news?lang=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.dobelli.com/no-news?lang=de&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.dobelli.com/no-news?lang=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.dobelli.com/no-news?lang=de&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>410 Client Error: Gone for ...</title>
+      <link>/post/2014-06-18-410-client-error-gone-for/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-06-18-410-client-error-gone-for/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.infranken.de/regional/coburg/Wildpark-Schloss-Tambach-soll-Ende-des-Jahres-schliessen;art214,733719&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.infranken.de/regional/coburg/Wildpark-Schloss-Tambach-soll-Ende-des-Jahres-schliessen;art214,733719&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>404 Client Error: Not Found ...</title>
+      <link>/post/2012-03-17-404-client-error-not-found/</link>
+      <pubDate>Sat, 17 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-03-17-404-client-error-not-found/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://press.web.cern.ch/press/PressReleases/Releases2011/PR19.11E.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://press.web.cern.ch/press/PressReleases/Releases2011/PR19.11E.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>404 Client Error: Not Found ...</title>
+      <link>/post/2012-03-14-404-client-error-not-found/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-03-14-404-client-error-not-found/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://zimory.de/index.php?id=116&amp;amp;L=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://zimory.de/index.php?id=116&amp;L=0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

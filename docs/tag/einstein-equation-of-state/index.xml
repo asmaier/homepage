@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>einstein equation of state | Das Blog</title>
+    <link>/tag/einstein-equation-of-state/</link>
+      <atom:link href="/tag/einstein-equation-of-state/index.xml" rel="self" type="application/rss+xml" />
+    <description>einstein equation of state</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>einstein equation of state</title>
+      <link>/tag/einstein-equation-of-state/</link>
+    </image>
+    
+    <item>
+      <title>Fluid Dynamics of Spacetime</title>
+      <link>/post/fluid-dynamics-of-spacetime/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/fluid-dynamics-of-spacetime/</guid>
+      <description>&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/0806.3165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christopher Eling (2008) : Hydrodynamics of spacetime and vacuum viscosity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/gr-qc/0602001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christopher Eling et al. (2006) : Non-equilibrium Thermodynamics of Spacetime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arxiv.org/abs/gr-qc/9504004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ted Jacobson (1995) : Thermodynamics of Spacetime: The Einstein Equation of State&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

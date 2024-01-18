@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal (app) | Das Blog</title>
+    <link>/tag/signal-app/</link>
+      <atom:link href="/tag/signal-app/index.xml" rel="self" type="application/rss+xml" />
+    <description>signal (app)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>signal (app)</title>
+      <link>/tag/signal-app/</link>
+    </image>
+    
+    <item>
+      <title>Keine einzige App aus der ...</title>
+      <link>/post/2019-11-01-keine-einzige-app-aus-der/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-11-01-keine-einzige-app-aus-der/</guid>
+      <description>&lt;p&gt;Keine einzige App aus der EU dabei: &lt;a href=&#34;https://www.securemessagingapps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.securemessagingapps.com&lt;/a&gt; Die EU dagegen setzt auf &amp;ldquo;Security by Bureaucracy&amp;rdquo;: &lt;a href=&#34;https://www.golem.de/news/datenschutz-abgeordnete-im-eu-parlament-duerfen-signal-nicht-installieren-1910-144316.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.golem.de/news/datenschutz-abgeordnete-im-eu-parlament-duerfen-signal-nicht-installieren-1910-144316.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

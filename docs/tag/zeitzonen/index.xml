@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zeitzonen | Das Blog</title>
+    <link>/tag/zeitzonen/</link>
+      <atom:link href="/tag/zeitzonen/index.xml" rel="self" type="application/rss+xml" />
+    <description>zeitzonen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>zeitzonen</title>
+      <link>/tag/zeitzonen/</link>
+    </image>
+    
+    <item>
+      <title>Mein Beileid an alle russischen ...</title>
+      <link>/post/2014-10-25-mein-beileid-an-alle-russischen/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/post/2014-10-25-mein-beileid-an-alle-russischen/</guid>
+      <description>&lt;p&gt;Mein Beileid an alle russischen Programmierer, die dieses Zeitzonenchaos irgendwie in Algorithmen gießen dürfen. Dagegen ist das Jahr 2000 Problem ja geradezu trivial. Zu welcher Zeitzone gehört jetzt z.B. die Krim? ;-)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://deutsche-wirtschafts-nachrichten.de/2014/10/25/die-letzte-zeitumstellung-russland-schafft-die-sommerzeit-ab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://deutsche-wirtschafts-nachrichten.de/2014/10/25/die-letzte-zeitumstellung-russland-schafft-die-sommerzeit-ab&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html-programmierung | Das Blog</title>
+    <link>/tag/html-programmierung/</link>
+      <atom:link href="/tag/html-programmierung/index.xml" rel="self" type="application/rss+xml" />
+    <description>html-programmierung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>html-programmierung</title>
+      <link>/tag/html-programmierung/</link>
+    </image>
+    
+    <item>
+      <title>HTML</title>
+      <link>/post/html/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/html/</guid>
+      <description>&lt;p&gt;Es gibt soviele Seiten im Internet, auf denen man veraltete Informationen
+zur HTML-Programmierung bekommt. Hier ein paar von den besseren Quellen, falls
+man lieber modernes (X)HTML programmiert:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://selfaktuell.teamone.de/&#34;&gt;Selfhtml.de&lt;/a&gt; : Die beste
+Anleitung im Netz zu allen HTML-Befehlen. Wer anfangen will HTML zu
+programmieren &lt;em&gt;muss&lt;/em&gt; sie lesen. Aber auch zu fortschrittlichen Dingen
+steht hier alles. Ausserdem frei downloadbar, so dass man es sich sparen kann
+andere HTML-Bücher zu kaufen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/TR/xhtml11/conformance.html&#34;&gt;
+XHTML 1.1 - Conformance Definition&lt;/a&gt; : W3C-Vorschlag für das Grundgerüst
+einer gültigen XHTML 1.1 - Datei.&lt;/li&gt;
+&lt;li&gt;Der einzige Browser, der mit dem obigen Vorschlag nix anfangen
+kann ist natürlich der IE6 von Microsoft . Dieser enthält einen ganz üblen Bug,
+den sogenannten &#34;xml-Declaration-Bug&#34; (Opera &#34;emuliert&#34; diesen Bug allerdings
+auch bis zur Version 7.1), siehe dazu:
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#34;http://www.heise.de/ix/artikel/2004/03/136/&#34;&gt;
+		iX-Artikel von März 2004&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://www.positioniseverything.net/articles/doctypes.html&#34;&gt;
+		Rendering Mode and Doctype Switching&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+Am besten also statt der xml-Declaration zur Festlegung des Schriftsatzes lieber
+einen META-TAG z.B.:
+&lt;pre&gt;&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;&lt;/pre&gt;
+nach der DOCTYPE-Definition verwenden. Ist auch standardkonform.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/StyleSheets/Core/&#34;&gt;W3C Core Styles&lt;/a&gt; : Wer
+zunächst keinen Bock oder Angst davor hat sein eigenes CSS-File zu schreiben,
+kann ja erstmal eines von den Standard-Layouts des World Wide Web Consortiums
+verwenden. Die müssen funktionieren, schliesslich haben die CSS erfunden.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.moronicbajebus.com/playground/cssplay/image-replacement/&#34;&gt;
+Image-Replacement&lt;/a&gt; : Sehr nützlicher CSS-Trick. Verwende ich auch auf dieser Seite,
+allerdings wende ich ihn auf &#34;&amp;lt;span&amp;gt;&#34;-Elemente an. Eine verbesserte Version des
+sogenannten &lt;a href=&#34;http://www.digital-web.com/features/feature_2003-08.shtml&#34;&gt;
+Fahrner Image Replacement&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sovavsiti.cz/css/corners.html&#34;&gt;Round Corners&lt;/a&gt; : Für
+alle die sich fragen (so wie ich), wie man mit CSS Boxen mit Schatten und abgerundeten
+Ecken hinbekommt ohne Tabellen zu benutzen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://css.maxdesign.com.au/listamatic/horizontal34.htm&#34;&gt;
+Menü im MacOS X Dock Style&lt;/a&gt; : Für alle, die wissen wollen, wo ich mir mein
+schickes Submenü auf diesen Seiten hier her habe.&lt;/li&gt;
+&lt;li&gt;Die einzige immer funktionierende Möglichkeit (bis jetzt) mit CSS allgemeine
+Elemente zu zentrieren, ohne diesen explizit eine Breite vorzugeben, ist diese
+in eine Tabelle mit einer Zeile und Spalte einzuschliessen. Eine andere Möglichkeit,
+nämlich &#34;display:table;&#34; zu benutzen funktioniert leider mal wieder nicht im IE6.
+Andere Möglichkeiten und deren Probleme werden z.B. auf folgenden Seiten behandelt:
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#34;http://theodorakis.net/tablecentertest.html&#34;&gt;Table Centering Test&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://www.allmyfaqs.com/faq.pl?Center_with_CSS&#34;&gt;Center with CSS&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Viele nützliche CSS-Tricks und interessante Links zusammengefasst findet man auch im
+&lt;a href=&#34;documents/Praktikumsbericht.ppt&#34;&gt;Praktikumsbericht.ppt&lt;/a&gt; von Olga Syasina.
+Vielen lieben Dank Dir dafür! ;-)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Weitere interessante und eventuell nützliche Seiten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.csszengarden.com/&#34;&gt;css Zen Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://css.fractatulum.net/&#34;&gt;CSS fractatulum.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://academ.hvcc.edu/~kantopet/index.php&#34;&gt;Web Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.complexspiral.com/publications/rounding-tabs/&#34;&gt;
+Rounding Tab Corners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.edginet.org/techie/website/cssimg.html&#34;&gt;
+CSS and Images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alistapart.com/articles/slidingdoors/&#34;&gt;
+Sliding Doors of CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alistapart.com/articles/slidingdoors2/&#34;&gt;
+Sliding Doors of CSS, Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alistapart.com/articles/alternate/&#34;&gt;
+Working with alternative Style Sheets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistapart.com/articles/phpswitch/&#34;&gt;
+Build a PHP Switcher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;HTML include&lt;/h5&gt;
+&lt;p&gt;Wenn man mehrere HTML-Seiten mit ein und derselben Navigationsleiste hat und keine Frames 
+benutzen will, muß man bei Änderungen an der Navigationsleiste gewöhnlich sämtliche Dateien
+editieren. Dies ist sehr mühsam. Wäre es nicht besser, einfach die Navigationsleiste nur
+einmal editieren zu müssen und die Änderungen werden dann automatisch in alle anderen
+HTML-Seiten übernommen? Genau dazu gibt es das sehr nützliche Java-Tool 
+&lt;a href=&#34;http://www.tetzl.de/jhtmlincl.html&#34;&gt;HTML include&lt;/a&gt; von Andreas Tetzl.
+Statt alle Dateien zu editieren, genügt es eine Vorlage (Template) mit der Navigationleiste
+zu erstellen. Aus dem Template und den Webseiten ohne Navigationsleiste (Quelldateien) erzeugt 
+HTML include dann die kompletten Webseiten mit Navigationsleiste. Dabei ist es sogar möglich,
+abhängig vom Dateinamen der Quelldatei unterschiedliche Navigationsleisten einzufügen, so dass
+man die gerade aktuelle Seite in der Navigationsleiste z.B. farblich kennzeichnen kann.&lt;/p&gt;
+&lt;p&gt;Es gibt natürlich Alternativen zu diesem Tool:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Server_Side_Includes&#34;&gt;Server Side Includes (SSI)&lt;/a&gt;, 
+PHP und Co.: Der Vorteil dieser Lösung besteht in der wesentlich höheren Flexibilität gegenüber
+HTML include und für aufwendige dynamische Seiten kommt man nicht daran vorbei. Natürlich um den
+Preis einer sehr hohen Einarbeitungszeit. Der große Nachteil 
+von SSI jedoch ist, dass man die Seiten auf dem lokalen Rechner nur betrachten kann, wenn man einen 
+Webserver wie Apache installiert hat, oder einen sogennannten SHTML-Viewer verwendet. Auch benötigt 
+ein Server zum Anzeigen von mittels SSI oder PHP erzeugter dynamischen Webseiten natürlich mehr 
+Rechenzeit als beim bloßen Anzeigen statischer Seiten. Die mit HTML include generierten Seiten 
+hingegen kann man einfach auf eine CD brennen und mit jedem Browser betrachten.&lt;/li&gt;
+&lt;li&gt;Einsatz spezieller HTML-Entwicklungsumgebungen wie z.B. 
+der HTML-Editor 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Ulli_Meybohms_HTML_Editor&#34;&gt;phase5&lt;/a&gt;. 
+Der Nachteil ist, dass es diesen Editor nur für Windows gibt und man sich damit auch
+auf einen Editor festlegt. Andere Entwicklungsumgebungen sind meist ebenfalls nur
+für ein Betriebssystem erhältlich und zudem nicht kostenlos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;HTML include dagegen ist kostenlos, quelloffen und da es es in Java programmiert ist, 
+sogar plattformübergreifend zu verwenden.
+Daher ist meiner Meinung HTML include für eine einfache Homepage die perfekte Lösung.&lt;/p&gt;
+&lt;h5&gt;Bildergalerie mit (X)HTML und CSS&lt;/h5&gt;
+&lt;p&gt;Die meisten Bildergalerien im Netz benutzen Tabellen
+mit einer festen Anzahl an Spalten um die &#34;Thumbnails&#34; anzuordnen
+und werden zudem auch meist mit uraltem HTML generiert.
+Mit XHTML und CSS ist es jedoch heutzutage möglich, auf Tabellen
+als Layoutelelement zu verzichten, und somit Bildergalerien
+mit einer flexiblen Anzahl an Spalten zu erzeugen. Jedoch findet man im Netz praktisch
+keine Bildergalerie, die dies auch umsetzt. Daher soll hier einmal kurz skizziert
+werden, wie dies mittel XHTML und CSS erreicht werden kann und man
+Bildergalerien erzeugen kann, wie sie auf meiner Seite unter
+&lt;a href=&#34;privat.html&#34;&gt;Privat&lt;/a&gt; sehen kann.&lt;/p&gt;
+&lt;p&gt;Das grundsätzliche Layout mittels XHTML und CSS ist auf
+&lt;a href=&#34;http://www.brandnewbox.co.uk/logbook/web/css/gallery.html?seemore=y&#34;&gt;&#34;brandnewbox&#34;&lt;/a&gt;
+beschrieben. Um jedoch nicht jede Seite per Hand schreiben zu müssen,
+benötigt man einen flexiblen Generator.
+Dazu bietet sich Photoshop (ab Version 7) an, denn in Photoshop kann jeder seine
+eigenen Vorlagen erzeugen, was z.B.
+&lt;a href=&#34;http://homepage.ntlworld.com/christopher.owens2/WebGallery.htm&#34;&gt;hier&lt;/a&gt;
+oder auch
+&lt;a href=&#34;http://www.digitalweddingforum.com/ubbthreads/showflat.php?Cat=&amp;amp;Number=104623&amp;amp;page=0&amp;amp;view=collapsed&amp;amp;sb=5&amp;amp;o=&amp;amp;fpart=1&#34;&gt;
+hier&lt;/a&gt; beschrieben wird. Eine Vorlage, welche das unter
+&lt;a href=&#34;http://www.brandnewbox.co.uk/logbook/web/css/gallery.html?seemore=y&#34;&gt;&#34;brandnewbox&#34;&lt;/a&gt;
+beschriebene Layout umsetzt, habe ich für Photoshop entworfen und diese
+kann jeder hier ( &lt;a href=&#34;documents/css.zip&#34;&gt;css.zip&lt;/a&gt; ) von meinen Seiten herunterladen.
+Um damit erfolgreich eine Bildergalerie zu erzeugen sind folgende Schritte notwendig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Die heruntergeladene Datei &#34;css.zip&#34; in das Photoshop-Vorlagen-Verzeichnis entpacken,
+welches typischerweise unter
+&lt;pre&gt;\Program Files\Adobe\Photoshop\Presets\WebContactSheet&lt;/pre&gt;
+zu finden ist. &lt;/li&gt;
+&lt;li&gt;Nach Aufruf von Photoshop sollte jetzt im Menü unter &#34;Automate/Web Photo Gallery&#34;
+unter Styles &#34;CSS&#34; aufrufbar sein. Diese auswählen, die gewünschten
+Optionen einstellen, wobei als Thumbnailsize &#34;Medium&#34;, 75 Pixels gewählt werden sollte,
+und die Bildergalerie in einem Verzeichnis erstellen lassen.
+Das Ergebnis wird jedoch zunächst enttäuschend sein, denn es fehlen noch ein paar Dinge,
+die man leider per Hand nacharbeiten muß:
+&lt;ol&gt;&lt;li&gt;Man muß das Verzeichnis &#34;design&#34;, welches unter &#34;Photoshop\Presets\WebContactSheet\CSS&#34;
+liegt, per Hand in das Verzeichnis, in dem man die Galerie erstellt hat, kopieren.
+Photoshop macht dies leider nicht automatisch und so kann der Browser die benötigte
+CSS-Datei zunächst nicht finden und zeigt nur das reine XHTML an, so dass obige
+Kopieraktion nötig ist.&lt;/li&gt;
+&lt;li&gt;In der Datei &#34;index.html&#34; müssen zusätzlich mithilfe eines Editors jedes Auftauchen
+von &lt;tt&gt;(&#34;&lt;/tt&gt; durch &lt;tt&gt;(&lt;/tt&gt; bzw. jedes Auftauchen von &lt;tt&gt;&#34;)&lt;/tt&gt; durch &lt;tt&gt;)&lt;/tt&gt;
+ersetzt werden. Die meisten Editoren verfügen über eine Suchen/Ersetzen-Funktion,
+so dass dies nicht weiter dramatisch sein sollte. Grund ist, dass Photoshop in den
+Vorlagendateien jeden Dateinamen grundsätzlich in Anführungszeichen übergibt.
+Da die Thumbnail jedoch mittels
+&lt;pre&gt;background-image: url(%THUMBNAILSRC%)&lt;/pre&gt;
+eingefügt werden, sind Anführungszeichen hier im Pfad anstelle von
+&lt;tt&gt;%THUMBNAILSRC%&lt;/tt&gt; überflüssig bzw. sogar falsch. Daher müssen die Anführungszeichen,
+welche innerhalb der Klammern bei &lt;tt&gt;url(...)&lt;/tt&gt; stehen, nachträglich entfernt
+werden, ansonsten findet der Browser die Thumbnails nicht.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Nach Durchführung dieser Schritte sollte man jetzt eine Bildergalerie wie
+&lt;a href=&#34;gallerytest/index.html&#34;&gt;hier&lt;/a&gt; sehen.
+&lt;br /&gt;
+P.S.: Die an das Layout meine Homepage angepasste Vorlage für Photoshop,
+mit der ich die Bildergalerien unter Privates erzeugt habe, gibts hier
+( &lt;a href=&#34;documents/aqua.zip&#34;&gt;aqua.zip&lt;/a&gt; ). Die Pfade für die CSS-Dateien sind jedoch nicht angepasst,
+so dass man die Dateien unter &#34;design&#34; in das zweifach-übergeordnete Verzeichnis
+kopieren muß.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

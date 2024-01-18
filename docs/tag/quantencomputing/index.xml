@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantencomputing | Das Blog</title>
+    <link>/tag/quantencomputing/</link>
+      <atom:link href="/tag/quantencomputing/index.xml" rel="self" type="application/rss+xml" />
+    <description>quantencomputing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>quantencomputing</title>
+      <link>/tag/quantencomputing/</link>
+    </image>
+    
+    <item>
+      <title>This was actually really interesting. ...</title>
+      <link>/post/2015-05-28-this-was-actually-really-interesting/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-05-28-this-was-actually-really-interesting/</guid>
+      <description>&lt;p&gt;This was actually really interesting. See also the german article:  &lt;a href=&#34;http://www.nzz.ch/wissenschaft/physik/was-man-von-quantencomputern-erwarten-darf-und-was-nicht-1.18422829&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nzz.ch/wissenschaft/physik/was-man-von-quantencomputern-erwarten-darf-und-was-nicht-1.18422829&lt;/a&gt;﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8bLXHvH9s1A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.ytimg.com/vi/8bLXHvH9s1A/hqdefault.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+youtube.com&lt;/p&gt;
+&lt;h2 id=&#34;quantum-computing-and-the-limits-of-the-efficiently-computable---2011-buhl-lecturehttpswwwyoutubecomwatchv8blxhvh9s1a&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8bLXHvH9s1A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Computing and the Limits of the Efficiently Computable - 2011 Buhl Lecture&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Scott Aaronson, an expert in the realm of computational complexity theory and the founder of ComplexityZoo.com online encyclopedia of computational complexit&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantencomputer mit 16 Qubits</title>
+      <link>/post/2007-02-20-quantencomputer-mit-16-qubits/</link>
+      <pubDate>Tue, 20 Feb 2007 15:14:00 +0000</pubDate>
+      <guid>/post/2007-02-20-quantencomputer-mit-16-qubits/</guid>
+      <description>
+Vor kurzem wurde der erste Quantenprozessor mit 16 &lt;a href=&#34;http://de.wikipedia.org/wiki/Qubit&#34;&gt;Qubits&lt;/a&gt; vorgestellt:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/newsticker/meldung/85299&#34;&gt;heise.de: Erster Quantenprozessor der Welt vorgestellt&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;16 Qubits klingt nicht wirklich toll, ist aber trotzdem revolutionär viel (der bisherige Rekord lag glaube ich bei 8 Qubits). Denn das Tolle an Qubits ist, dass man mit &lt;span style=&#34;font-style: italic;&#34;&gt;n&lt;/span&gt; Qubits 2 hoch &lt;span style=&#34;font-style: italic;&#34;&gt;n &lt;/span&gt;Bits auf einmal darstellen kann. Dass heißt mit 16 Qubits kann man 2 hoch 16 = 65536 Werte auf einmal, mit 16 Bits nur einen der 65536 Werte auf einmal darstellen.&lt;br /&gt;Was kann man jedoch mit 65536 dargestellten Werten auf einmal anfangen? Dazu ein Beispiel:&lt;br /&gt;Will man überprüfen ob unter 65536 Werten ein ganz bestimmter dabei ist, muß man z.B. mit einer &lt;span style=&#34;font-style: italic;&#34;&gt;for&lt;/span&gt;-Schleife&lt;span style=&#34;font-style: italic;&#34;&gt;&lt;/span&gt;&lt;span style=&#34;font-style: italic;&#34;&gt;&lt;/span&gt; jeden Wert einzeln überprüfen. Dazu braucht man im schlimmsten Fall also 65536 Durchläufe. Mit 16 Qubits kann man jedoch alle 65536 Werte auf einmal überprüfen! D.h. man braucht immer nur maximal eine Operation um festzustellen, ob ein bestimmter Wert vorhanden ist. Ein Quantencomputer kann also im günstigsten Fall exponentiell mal schneller rechnen als ein herkömmlicher klassischer Computer. Das ist der Grund warum alle Physiker und Informatiker so verrückt danach sind einen zu bauen und im Gegenzug alle Hersteller von Verschlüsselungsalgorithmen es wohl am liebsten verhindern würden (Allerdings gibts ja auch noch &lt;a href=&#34;http://de.wikipedia.org/wiki/Quantenkryptografie&#34;&gt;Quantenkryptographie&lt;/a&gt;, sozusagen das Gegenmittel zum Quantencomputer ;-)).&lt;br /&gt;Allerdings könnte es sein, das obige Meldung sich vielleicht doch als Ente entpuppt. Wie&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.heise.de/tr/artikel/85296&#34;&gt;Technology Review: Quantencomputer für Zahlenfresser&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;schreibt, hat die Herstellerfirma &lt;a href=&#34;http://www.dwavesys.com/&#34;&gt;D-Wave-Systems&lt;/a&gt; nur einen Remotezugriff auf den angeblichen Quantencomputer präsentiert:&lt;br /&gt;&lt;blockquote&gt;Kein Wunder also, dass die Entwickler bei der ersten öffentlichen Demonstration lieber auf Nummer sicher gingen und den Prototyp ihres Quantenrechners im Labor in Vancouver stehen ließen. Der Zugriff aus dem kalifornischen Mountain View erfolgte über eine verschlüsselte Datenleitung und eine spezielle Software. Über die sollen bald auch schon die ersten Kunden den Quantenturbo aus Vancouver zuschalten können.&lt;/blockquote&gt;Könnte also gut sein, dass dahinter kein Quantencomputer, sondern nur die ein Programm zur Simulation eines Quantencomputers steckt, ausgeführt auf einem ganz profanen klassischen PC. Denn wie sollte man schon nachprüfen, ob eine Rechnung von einem Quantencomputer mit wenigen Qubits oder eben von einem klassischen Computer mit vielen Bits durchgeführt wird, wenn man nur Remotezugriff hat?&lt;br /&gt;&lt;br /&gt;&lt;blockquote&gt;&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

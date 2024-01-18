@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud Computing | Das Blog</title>
+    <title>cloud computing | Das Blog</title>
     <link>/tag/cloud-computing/</link>
       <atom:link href="/tag/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cloud Computing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <description>cloud computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Cloud Computing</title>
+      <title>cloud computing</title>
       <link>/tag/cloud-computing/</link>
     </image>
+    
+    <item>
+      <title>Tja, leider ist das Urteil ...</title>
+      <link>/post/2016-07-15-tja-leider-ist-das-urteil/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-07-15-tja-leider-ist-das-urteil/</guid>
+      <description>&lt;p&gt;Tja, leider ist das Urteil noch nicht rechtskräftig und kann vom Supreme Court noch aufgehoben werden. Aber sollte es dabei bleiben, wäre das ein guter Tag für den Datenschutz. Dann könnte man der Amazon Cloud in Frankfurt tatsächlich Daten anvertrauen.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.handelsblatt.com/technik/it-internet/e-mail-zugriff-microsoft-erringt-grossen-sieg-fuer-datenschutz/13880458.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.handelsblatt.com/technik/it-internet/e-mail-zugriff-microsoft-erringt-grossen-sieg-fuer-datenschutz/13880458.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Towards Sustainable IaaS Pricing</title>
@@ -18,6 +30,25 @@
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/iaaspricing/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing ist jetzt MainStream. ...</title>
+      <link>/post/2012-03-06-cloud-computing-ist-jetzt-mainstream/</link>
+      <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-03-06-cloud-computing-ist-jetzt-mainstream/</guid>
+      <description>&lt;p&gt;Cloud computing ist jetzt MainStream.
+&amp;ldquo;Glamour&amp;rdquo; erklärt alles, was man wissen muss! ;-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gute Fragen</title>
+      <link>/post/2009-10-23-gute-fragen/</link>
+      <pubDate>Fri, 23 Oct 2009 17:59:00 +0000</pubDate>
+      <guid>/post/2009-10-23-gute-fragen/</guid>
+      <description>
+War diese Woche auf der &lt;a href=&#34;http://www.cloudcomp.eu/&#34;&gt;CLOUDCOMP 2009&lt;/a&gt; und habe mal wieder ein paar gute Fragen gelernt, die man auf solchen Konferenzen stellen kann, um dem Vortragenden auf den Zahn zu fühlen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Who is your competitor?&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Who does similar work?&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Why not use Peer-to-Peer (P2P)?&lt;/li&gt;&lt;li&gt;What do you not like about working at Google?&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     
   </channel>

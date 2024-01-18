@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image processing | Das Blog</title>
+    <link>/tag/image-processing/</link>
+      <atom:link href="/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>image processing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>image processing</title>
+      <link>/tag/image-processing/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Algorithmen die herauszufinden, ...</title>
+      <link>/post/2015-12-06-deep-learning-algorithmen-die-herauszufinden/</link>
+      <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-12-06-deep-learning-algorithmen-die-herauszufinden/</guid>
+      <description>&lt;p&gt;Deep Learning Algorithmen die herauszufinden, welche Bilder am Besten im Gedächtnis haften bleiben. Die Boulevardpresse und Social Media Marketer werden es lieben!﻿&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;memorability.csail.mit.edu&lt;/p&gt;
+&lt;h2 id=&#34;large-scale-image-memorabilityhttpmemorabilitycsailmitedu&#34;&gt;&lt;a href=&#34;http://memorability.csail.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Large-Scale Image Memorability&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;homepage&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

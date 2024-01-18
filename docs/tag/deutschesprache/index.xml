@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deutschesprache | Das Blog</title>
+    <link>/tag/deutschesprache/</link>
+      <atom:link href="/tag/deutschesprache/index.xml" rel="self" type="application/rss+xml" />
+    <description>deutschesprache</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2006 13:20:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>deutschesprache</title>
+      <link>/tag/deutschesprache/</link>
+    </image>
+    
+    <item>
+      <title>Rechtschreibfanatiker</title>
+      <link>/post/2006-09-28-rechtschreibfanatiker/</link>
+      <pubDate>Thu, 28 Sep 2006 13:20:00 +0000</pubDate>
+      <guid>/post/2006-09-28-rechtschreibfanatiker/</guid>
+      <description>
+Wer mal Rechtschreibfanatikern bei der Arbeit zusehen möchte, der sollte sich folgende Seite anschauen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.deppenleerzeichen.de/&#34;&gt;Deppenleerzeichen&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Manche Leute haben echt nix zu tun.</description>
+    </item>
+    
+  </channel>
+</rss>

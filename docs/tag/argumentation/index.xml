@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>argumentation | Das Blog</title>
+    <link>/tag/argumentation/</link>
+      <atom:link href="/tag/argumentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>argumentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>argumentation</title>
+      <link>/tag/argumentation/</link>
+    </image>
+    
+    <item>
+      <title>Der Mann spricht ein wahres ...</title>
+      <link>/post/2015-09-06-der-mann-spricht-ein-wahres/</link>
+      <pubDate>Sun, 06 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-09-06-der-mann-spricht-ein-wahres/</guid>
+      <description>&lt;p&gt;Der Mann spricht ein wahres Wort gelassen aus:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Als Physiker zählt für uns das beste Argument, unabhängig davon, von wem es kommt. Das gilt im politischen Raum nicht zwangsläufig und ist immer wieder gewöhnungsbedürftig.&amp;rdquo;
+(Jürgen Mlynek, Präsident der Helmholtz-Gesellschaft im PhysikJournal 08/2015)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

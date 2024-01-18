@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archivierung | Das Blog</title>
+    <link>/tag/archivierung/</link>
+      <atom:link href="/tag/archivierung/index.xml" rel="self" type="application/rss+xml" />
+    <description>archivierung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>archivierung</title>
+      <link>/tag/archivierung/</link>
+    </image>
+    
+    <item>
+      <title>Archivieren</title>
+      <link>/post/archivieren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/archivieren/</guid>
+      <description>&lt;p&gt;Eine gute Einführung übers Archivieren und Komprimieren gibts in bei
+&lt;a href=&#34;http://www.oreilly.de/german/freebooks/rlinux3ger/ch072.html&#34;&gt;
+Welsh et al. 2000&lt;/a&gt;.
+Ich beschränke mich daher im weiteren auf ein paar eigene Bemerkungen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.gz&lt;/tt&gt;-Dateien entpacken:&lt;/em&gt;
+&lt;pre&gt;&gt; gunzip dateiname.gz&lt;/pre&gt;
+Achtung: &lt;tt&gt;gunzip&lt;/tt&gt; ersetzt die gepackte Datei (dateiname.gz)
+mit der ungepackten Version (dateiname). 
+Achtung2: &lt;tt&gt;gunzip&lt;/tt&gt; ist ungeeignet um &lt;tt&gt;*.zip&lt;/tt&gt;-Dateien
+zu entpacken. &lt;tt&gt;gunzip&lt;/tt&gt; unterstützt nur &lt;tt&gt;*.zip&lt;/tt&gt;-Archive,
+die aus genau einer Datei bestehen (siehe auch &lt;tt&gt;man gunzip&lt;/tt&gt;).
+Zum Entpacken von &lt;tt&gt;*.zip&lt;/tt&gt;-Archiven die aus mehrerer Dateien bestehen
+(was praktisch immer der Fall ist) muß man &lt;tt&gt;unzip&lt;/tt&gt; verwenden.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.zip&lt;/tt&gt;-Dateien entpacken:&lt;/em&gt;
+&lt;pre&gt;&gt; unzip dateiname.zip&lt;/pre&gt;
+Dabei werden alle Dateien und Verzeichnisse ins aktuelle Verzeichnis entpackt.
+Um Chaos zu vermeiden empfiehlt es sich daher vor dem Entpacken ein neues
+Verzeichnis &lt;tt&gt;dateiname&lt;/tt&gt; anzulegen, die Datei &lt;tt&gt;dateiname.zip&lt;/tt&gt;
+in dieses zu verschieben und dort erst zu entpacken. Das gleiche Vorgehen
+empfiehlt sich natürlich auch für &lt;tt&gt;*.tar&lt;/tt&gt;-Archive.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Dateien entpacken:&lt;/em&gt;
+&lt;pre&gt;&gt; tar zxvf dateiname.tar.gz&lt;/pre&gt;
+Die obige Schreibweise entspricht der sogennanten BSD-Unix-Schreibweise.
+&lt;tt&gt;tar&lt;/tt&gt; unterstützt auch die Standart-Schreibweise. Mit dieser
+würde die obige Befehlszeile folgendermaßen aussehen:
+&lt;pre&gt;&gt; tar -z -x -v -f dateiname.tar.gz&lt;/pre&gt; 
+Zu beachten ist, dass die Option &lt;tt&gt;-f&lt;/tt&gt; stets die letzte ist, da diese
+den zu entpackenden Dateinamen angibt und daher dieser direkt im Anschluß
+an die Option &lt;tt&gt;-f&lt;/tt&gt; stehen muß. Die weiteren Optionen sind:
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;-v&lt;/tt&gt; (verbose): Damit gibt &lt;tt&gt;tar&lt;/tt&gt; Informationen über den
+Entpackprozess an. Kann auch mehrfach angegeben werden, dann gibt &lt;tt&gt;tar&lt;/tt&gt;
+immer mehr Informationen an.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-x&lt;/tt&gt; (extract): Sagt nur, dass die Datei hinter &lt;tt&gt;-f&lt;/tt&gt; entpackt 
+bzw. dearchiviert werden soll.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;-z&lt;/tt&gt;: Gibt an, dass die Datei hinter &lt;tt&gt;-f&lt;/tt&gt; zunächst mit
+&lt;tt&gt;gunzip&lt;/tt&gt; entpackt und dann erst weiter mit &lt;tt&gt;tar&lt;/tt&gt; dearchiviert werden 
+soll. Dies erspart den Extraaufruf von &lt;tt&gt;gunzip&lt;/tt&gt; zum Entpacken der 
+&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Datei. Statt &lt;tt&gt;-x&lt;/tt&gt; kann man hier übrigens auch andere Optionen
+und damit andere Packprogramme verwenden. Verwendet man &lt;tt&gt;-X&lt;/tt&gt; wird 
+&lt;tt&gt;uncompress&lt;/tt&gt; (für &lt;tt&gt;*.tar.z&lt;/tt&gt;-Dateien) aufgerufen, verwendet man &lt;tt&gt;-j&lt;/tt&gt;
+wird &lt;tt&gt;bunzip2&lt;/tt&gt; (für &lt;tt&gt;*.tar.bz2&lt;/tt&gt;-Dateien) benutzt.&lt;/li&gt;
+&lt;/ul&gt;
+Hinweis: Auf FAT32-Filesystemen ist zusätzlich die 
+Option &lt;tt&gt;-m&lt;/tt&gt; anzugeben, welche das Entpacken der Dateimodifikationszeit
+verhindert, da es ansonsten beim Entpacken zu Fehlermeldungen kommt.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Dateien packen:&lt;/em&gt;
+&lt;pre&gt;&gt; tar zcvf verzeichnis.tar.gz verzeichnis&lt;/pre&gt;
+Zu Beachten ist hier, dass 
+(im Gegensatz zu anderen Kommandos wie z.B. &lt;tt&gt;cp&lt;/tt&gt; oder &lt;tt&gt;scp&lt;/tt&gt;)
+die zu erzeugende Datei (das Ziel) zuerst angegeben
+werden muß und dann erst das zu archivierende Verzeichnis (die Quelle).
+Die Optionen dazu sind die gleichen wie oben beschrieben, nur steht nun
+&lt;tt&gt;-c&lt;/tt&gt; dafür, dass &lt;tt&gt;tar&lt;/tt&gt; jetzt archivieren soll und &lt;tt&gt;-z&lt;/tt&gt;
+steht dafür, dass nach der Archivierung durch &lt;tt&gt;tar&lt;/tt&gt; das Archiv noch
+mittels &lt;tt&gt;gzip&lt;/tt&gt; komprimiert werden soll. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;tt&gt;*.tar.gz&lt;/tt&gt;-Dateien erzeugen, wobei versteckte Verzeichnisse von Subversion (&lt;tt&gt;.svn&lt;/tt&gt;) ausgeschlossen werden:&lt;/em&gt;
+&lt;pre&gt;&gt; tar --exclude=&#39;.svn&#39; -zcvf verzeichnis.tar.gz verzeichnis&lt;/pre&gt;
+oder in neueren &lt;tt&gt;tar&lt;/tt&gt; Versionen auch mit
+&lt;pre&gt;&gt; tar --exclude-vcs -zcvf verzeichnis.tar.gz verzeichnis&lt;/pre&gt;
+Siehe auch 
+&lt;a href=&#34;http://www.linuxquestions.org/questions/linux-software-2/copy-svn-working-dir-without-svn-hidden-dirs-and-files-620586/&#34;&gt;
+http://www.linuxquestions.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Entpackprozess beobachten:&lt;/em&gt;&lt;br /&gt;
+Hat man beim Aufruf des Entpackprogramms die Verbose-Option vergessen und man möchte
+trotzdem wissen, ob der Entpackprozess vorangeht, kann man dies mit Hilfe von
+&lt;tt&gt;watch&lt;/tt&gt; erreichen. Hat man z.B. das Entpacken mehrerer 
+&lt;tt&gt;*.iso.gz&lt;/tt&gt;-Dateien mittels &lt;tt&gt;gunzip&lt;/tt&gt; gestartet, kann man mittels
+&lt;pre&gt;&gt;watch ls -l *.iso&lt;/pre&gt;
+sehen, wie sich die Größe der entpackten Datei (im Abstand von zwei Sekunden,
+da &lt;tt&gt;watch&lt;/tt&gt; einfach alle 2 Sekunden den Befehl &lt;tt&gt;ls -l&lt;/tt&gt; ausführt)
+mit der Zeit entwickelt.
+Hinweis: &lt;tt&gt;watch ll *.iso&lt;/tt&gt; funktioniert nicht, da &lt;tt&gt;watch&lt;/tt&gt; 
+anscheinend nicht mit Aliasen umgehen kann.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Inhalt von &lt;tt&gt;*.war&lt;/tt&gt;-Dateien anzeigen&lt;/em&gt;
+&lt;pre&gt;&gt; jar -tf datei.war&lt;/pre&gt;
+&lt;tt&gt;war&lt;/tt&gt;-Dateien sind übrigens keine Dateien für den 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Verteidigungsfall&#34;&gt;Verteidigungsfall&lt;/a&gt; sondern
+sogenannte &lt;a href=&#34;http://de.wikipedia.org/wiki/Web_Archive&#34;&gt;Web Application Archive-Dateien&lt;/a&gt;
+abgeleitet von 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Java_Archive&#34;&gt;Java Archive-Dateien (&lt;tt&gt;*.jar&lt;/tt&gt;)&lt;/a&gt;.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dateien aufteilen (splitten) und wieder zusammenfügen&lt;/em&gt;&lt;br /&gt;
+Moechte man eine sehr große Datei namens &lt;tt&gt;file&lt;/tt&gt; in Teile zu je 1GB = 1024MB aufteilen, so hilft das 
+&lt;tt&gt;split&lt;/tt&gt;-Kommando:
+&lt;pre&gt;&gt; split -b 1024m file file.split&lt;/pre&gt;
+Um die so entstandenen Teile namens &lt;tt&gt;file.split.aa, file.split.ab, ...&lt;/tt&gt; wieder zusammenzufuegen nutzt man &lt;tt&gt;cat&lt;/tt&gt;:
+&lt;pre&gt;&gt; cat file.split.* &gt; file &lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>allgemeine relativitätstheorie | Das Blog</title>
+    <link>/tag/allgemeine-relativitatstheorie/</link>
+      <atom:link href="/tag/allgemeine-relativitatstheorie/index.xml" rel="self" type="application/rss+xml" />
+    <description>allgemeine relativitätstheorie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>allgemeine relativitätstheorie</title>
+      <link>/tag/allgemeine-relativitatstheorie/</link>
+    </image>
+    
+    <item>
+      <title>Basic ideas of general relativity</title>
+      <link>/post/basic-ideas-of-general-relativity/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/basic-ideas-of-general-relativity/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;General Relativity (GR) is a classical field theory (whatever that means, could be something like Electrodynamics or something like Fluiddynamics)&lt;/li&gt;
+&lt;li&gt;There is no gravitational force.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Principle of Mach: The distribution of matter and energy defines the geometry of space-time&lt;/li&gt;
+&lt;li&gt;Principle of Equivalence: Acceleration = homogenous (in time and space) gravitational field;&lt;/li&gt;
+&lt;li&gt;Principle of Covariance: All coordinate systems are equal. The equations of physics should have the same form in all coordinate systems. Use of Tensor equations allows to accomplish that.&lt;/li&gt;
+&lt;li&gt;In the limit of vanishing gravity GR becomes special relativity&lt;/li&gt;
+&lt;li&gt;In the limit of small velocities v&amp;laquo;c and weak gravity GR becomes Newtonian gravity&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Consequences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;intertial mass = gravitational mass (= rest mass + kinetic energy + internal energy + EM energy+.. all kinds of energy);&lt;/li&gt;
+&lt;li&gt;locally (in time and space) you cannot distinguish between a gravitational field and acceleration. Locally (in time and space) you can always transform gravity away by using an accelerated coordinate system.&lt;/li&gt;
+&lt;li&gt;Globally you cannot transform away a gravitational field!&lt;/li&gt;
+&lt;li&gt;A charged particle which is accelerated in a EM field will radiate; a charged particle which is accelerated in a gravitational field will not! Reason: The EM field will only accelerate the charge, not the field of the charge. So the field of the charge is left behind as radiation. The gravitational field will accelerate the particle and it&amp;rsquo;s EM field in the same way. Nothing is left behind as radiation. Does that mean, a charge only radiates if it is accelerated away from a geodesic?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gravity is a nonlocal effect, since locally it can be transformed away =&amp;gt; Only non-local effects in quantum theory are affected by gravity&lt;/li&gt;
+&lt;li&gt;Einsteins field equations allow solutions with closed timelike loops which violate causality (Gödel universum, Tipler cylinder). Global causality is not included as assumption in GR!&lt;/li&gt;
+&lt;li&gt;GR was invented before we knew about things like uncertanity principle, spin, fermions, bosons, antimatter, neutron/antineutron, neutrinos, weak and strong force. From quantum mechanics only Plancks black body spectrum was known at the time of GR invention. No statistical mechanics or even quantum statistical mechanics is used in the context of GR.&lt;/li&gt;
+&lt;li&gt;The photon is a boson, the electron is a fermion. Do they react differently to gravity?&lt;/li&gt;
+&lt;li&gt;The difference between bosons and fermion statistics (assuming indistinguishable particles) is important for high densities and/or low temperature. For high temperature and low density both can be described by Maxwell-Boltzmann statistics (assuming distinguishable particles)&lt;/li&gt;
+&lt;li&gt;However, Maxwell-Boltzmann, Fermi-Dirac, Bose-Einstein-Distributions violate special relativity. Instead one needs the corresponding Jüttner-Distributions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

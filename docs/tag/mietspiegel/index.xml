@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mietspiegel | Das Blog</title>
+    <link>/tag/mietspiegel/</link>
+      <atom:link href="/tag/mietspiegel/index.xml" rel="self" type="application/rss+xml" />
+    <description>mietspiegel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>mietspiegel</title>
+      <link>/tag/mietspiegel/</link>
+    </image>
+    
+    <item>
+      <title>Seit kurzem gibt es die ...</title>
+      <link>/post/2017-05-20-seit-kurzem-gibt-es-die/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-05-20-seit-kurzem-gibt-es-die/</guid>
+      <description>&lt;p&gt;Seit kurzem gibt es die neue Mietspiegeltabelle 2017 für Berlin. Und daran sieht man mal wieder was schlechte
+(bzw. schlechterklärte) Statistik so anrichten kann:
+Laut der Tabelle (siehe Link) sind Wohnungen (2003-2015, Spalte 8) in guten Wohnlagen günstiger als Wohnungen in einfachen und mittleren Wohnlagen. Kann mir mal einer erklären, wieso dass so sein sollte? #mietspiegel&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.stadtentwicklung.berlin.de/wohnen/mietspiegel/de/download/Mietspiegeltabelle2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.stadtentwicklung.berlin.de/wohnen/mietspiegel/de/download/Mietspiegeltabelle2017.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

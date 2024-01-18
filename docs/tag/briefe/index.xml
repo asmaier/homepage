@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>briefe | Das Blog</title>
+    <link>/tag/briefe/</link>
+      <atom:link href="/tag/briefe/index.xml" rel="self" type="application/rss+xml" />
+    <description>briefe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>briefe</title>
+      <link>/tag/briefe/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Lieber Kunde, Ihre Sendung konnten ...</title>
+      <link>/post/2015-03-20-lieber-kunde-ihre-sendung-konnten/</link>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-03-20-lieber-kunde-ihre-sendung-konnten/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Lieber Kunde,
+Ihre Sendung konnten wir Ihnen leider nicht persönlich übergeben. Sie wurde bei Ihrem Nachbarn bzw. Wunschnachbarn (Maier) hinterlegt.
+Herzliche Grüße,
+Ihr DHL Team&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Liebe DHL,
+ich bin tatsächlich mein eigener Wunschnachbar. Ich freue mich das ihr das endlich erkannt und das Paket ausnahmsweise bei mir zuhause abgeliefert habt.
+Mit besten Grüßen,
+Andreas Maier&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hilarious!! ...</title>
+      <link>/post/2012-07-16-hilarious/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/post/2012-07-16-hilarious/</guid>
+      <description>&lt;p&gt;Hilarious!!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;chaosmatrix.org&lt;/p&gt;
+&lt;h2 id=&#34;the-ultimate-rejection-letterhttpwwwchaosmatrixorglibraryhumorrejecthtml&#34;&gt;&lt;a href=&#34;http://www.chaosmatrix.org/library/humor/reject.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Ultimate Rejection Letter&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

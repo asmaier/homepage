@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conferences | Das Blog</title>
+    <link>/tag/conferences/</link>
+      <atom:link href="/tag/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>conferences</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2009 17:59:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>conferences</title>
+      <link>/tag/conferences/</link>
+    </image>
+    
+    <item>
+      <title>Gute Fragen</title>
+      <link>/post/2009-10-23-gute-fragen/</link>
+      <pubDate>Fri, 23 Oct 2009 17:59:00 +0000</pubDate>
+      <guid>/post/2009-10-23-gute-fragen/</guid>
+      <description>
+War diese Woche auf der &lt;a href=&#34;http://www.cloudcomp.eu/&#34;&gt;CLOUDCOMP 2009&lt;/a&gt; und habe mal wieder ein paar gute Fragen gelernt, die man auf solchen Konferenzen stellen kann, um dem Vortragenden auf den Zahn zu fühlen:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Who is your competitor?&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Who does similar work?&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Why not use Peer-to-Peer (P2P)?&lt;/li&gt;&lt;li&gt;What do you not like about working at Google?&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

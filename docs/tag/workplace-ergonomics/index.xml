@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workplace ergonomics | Das Blog</title>
+    <link>/tag/workplace-ergonomics/</link>
+      <atom:link href="/tag/workplace-ergonomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>workplace ergonomics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>workplace ergonomics</title>
+      <link>/tag/workplace-ergonomics/</link>
+    </image>
+    
+    <item>
+      <title>People hate open plan offices! ...</title>
+      <link>/post/2016-09-16-people-hate-open-plan-offices/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/post/2016-09-16-people-hate-open-plan-offices/</guid>
+      <description>&lt;p&gt;People hate open plan offices!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

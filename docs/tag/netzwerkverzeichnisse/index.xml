@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netzwerkverzeichnisse | Das Blog</title>
+    <link>/tag/netzwerkverzeichnisse/</link>
+      <atom:link href="/tag/netzwerkverzeichnisse/index.xml" rel="self" type="application/rss+xml" />
+    <description>netzwerkverzeichnisse</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>netzwerkverzeichnisse</title>
+      <link>/tag/netzwerkverzeichnisse/</link>
+    </image>
+    
+    <item>
+      <title>KDE</title>
+      <link>/post/kde/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/kde/</guid>
+      <description>&lt;h6&gt;Killerfeature: FISH&lt;/h6&gt;
+&lt;p&gt;Eines meiner liebsten Features von KDE ist die direkte Integration von Netzwerkverzeichnissen
+über das &lt;a href=&#34;http://de.wikipedia.org/wiki/FISH_(Protokoll)&#34;&gt;FISH-Protokoll&lt;/a&gt;.
+Einfach unter Netzwerkbrowser &#34;Netzwerkordner hinzufügen&#34; auswählen und im folgenden Dialog
+ssh auswählen 
+&lt;br /&gt;
+&lt;img src=&#34;fish1.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH1&#34; /&gt; 
+&lt;br /&gt;
+und im folgenden Dialogfenster
+&lt;br /&gt;
+&lt;img src=&#34;fish2.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH2&#34; /&gt;
+&lt;br /&gt;
+die Daten des SSH-Servers eingeben. Aufpassen muß man nur, dass FISH anscheinend keine relativen
+Verzeichnisse wie &lt;tt&gt;~&lt;/tt&gt; mag. Also für das Homeverzeichnis auf dem SSH-Server immer 
+&lt;tt&gt;/home/[benutzername]&lt;/tt&gt; oder entsprechendes eingeben. 
+Dann kann man das angegebene Verzeichnis wie ein lokales Verzeichnis benutzen,
+&lt;br /&gt;
+&lt;img src=&#34;fish4.jpg&#34; style=&#34;margin: 1em;&#34; alt=&#34;FISH4&#34; /&gt;
+&lt;br /&gt;
+z.B. kann man Dateien auf dem fremden Server auswählen, aber lokal über KDE drucken, ohne dass man erst per 
+&lt;tt&gt;scp&lt;/tt&gt; die Datei auf den eigenen Rechner kopieren muß. Oder man editiert die Datei mit dem 
+bevorzugten Editor (z.B. Kate) lokal und ein Klick auf speichern speichert die Datei wieder auf dem entfernten Netzwerkverzeichnis, obwohl der Editor nativ gar kein SSH unterstützt (Reibungslos funktioniert das leider nur mit Programmen die den KDE-Dateiauswahldialog benutzen. GIMP z.B. benötigt eine lokale Kopie der Datei :-( ). Echt cool! Aber das coolste ist, dass das bei jedem Server funktioniert der SSH unterstützt, es werden keine weiteren Netzwerkprotokolle ala FTP, NFS oder SMB benötigt, welche aus Sicherheitsgründen meist geblockt sind. Daher ist die FISH-Integration in KDE eine echte
+Arbeitserleichterung für alle die häufig auf Servern unterwegs sind, die aus Sicherheitsgründen nur 
+SSH zulassen.
+&lt;br /&gt;
+P.S.: Das Feature ist so cool, dass Google vergleichbares in MAC OS X integriert hat (siehe
+&lt;a href=&#34;http://google-code-updates.blogspot.com/2007/01/macfuse-fuse-for-mac-os-x.html&#34;&gt;google-code-updates.blogspot.com&lt;/a&gt;).
+Die neueste Version von diesem sog. MacFUSE gibts &lt;a href=&#34;http://code.google.com/p/macfuse/&#34;&gt;hier&lt;/a&gt;. Eine grafische Benutzeroberfläche dazu gibts unter &lt;a href=&#34;http://www.macfusionapp.org/&#34;&gt;www.macfusionapp.org&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h6&gt;Autostart unter KDE&lt;/h6&gt;
+&lt;p&gt;Programme die beim Start von KDE automatisch ausgeführt werden sollen, müssen unter
+&lt;pre&gt;~/.kde/Autostart&lt;/pre&gt;
+liegen. Am einfachsten erzeugt man über das Kontextmenü unter &lt;tt&gt;Neu erstellen/Verknüpfung zu Programm&lt;/tt&gt;
+einen Link zu dem aufzurufenden Programm indem man in sich öffnenden Dialogfenter im Tab &lt;tt&gt;Programm&lt;/tt&gt;
+den Pfad zum entsprechenden Programm unter &lt;tt&gt;Befehl&lt;/tt&gt; eingibt. 
+&lt;br /&gt;
+Will man mehr Kontrolle über die 
+aufzurufenden Programme hilft &lt;tt&gt;kstart&lt;/tt&gt; (Hilfe zu dem Befehl gibt es mit &lt;tt&gt;kstart --help&lt;/tt&gt;). 
+Um z.B. ein Programm nur auf nur auf der fünften Arbeitsfläche zu öffnen, kann man statt dem einfachen Pfad 
+zum Programm den Befehl
+&lt;pre&gt;kstart --desktop 5 programmname&lt;/pre&gt;
+unter &lt;tt&gt;Befehl&lt;/tt&gt; eingeben. Daran sieht man auch, dass die Verküpfungen unter KDE die man über das Kontextmenü
+erzeugen kann mehr sind als nur symbolische Links, wie man sie von der Kommandozeile kennt. Stattdessen steht
+jede Verknüpfung für eine &lt;tt&gt;*.desktop&lt;/tt&gt;-Text-Datei, die von KDE je nach Inhalt unterschiedlich interpretiert 
+werden kann.
+&lt;br /&gt;
+Will man auch die Reihenfolge der gestarteten Programme kontrollieren muß man ein kleines Shellskript schreiben und
+als ausführbare Datei unter &lt;/tt&gt;~/.kde/Autostart&lt;/tt&gt; ablegen, z.B.:
+&lt;pre&gt;
+#!/bin/bash
+kstart --desktop 5 thunderbird
+sleep 3
+kstart --desktop 6 --activate programm
+&lt;/pre&gt;
+Diese Skript startet &lt;tt&gt;Thunderbird&lt;/tt&gt; auf Arbeitsfläche 5, und danach das Programm &lt;tt&gt;programm&lt;/tt&gt; auf 
+Arbeitsfläche 6 und springt auch von Thunderbird zu dem Programm auf Arbeitsfläche 6. Der Aufruf von &lt;tt&gt;sleep 3&lt;/tt&gt;
+garantiert dabei, dass das zweite Programm mit 3 Sekunden Verzögerung gestartet wird. Ohne &lt;tt&gt;sleep&lt;/tt&gt; erlaubt 
+Thunderbird seltsamerweise nicht, dass der Focus zum zweiten Programm auf Arbeitsfläche 6 springt.
+&lt;/p&gt;
+&lt;h6&gt;Weitere Tipps&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Verschieben von Fenstern:&lt;/em&gt;&lt;br /&gt;
+Manchmal passiert es, dass man ausversehen ein Fenster soweit
+nach oben verschoben hat, dass die Titelleiste nicht mehr
+sichtbar ist. Einfaches Anklicken und Ziehen des Fensters
+an der Titelleiste ist dann nicht mehr möglich. Hält man jedoch
+die Taste &lt;tt&gt;[[Alt]]&lt;/tt&gt; (nicht &lt;tt&gt;[[Alt Gr]]&lt;/tt&gt; ) gedrückt,
+so kann man das Fenster mit der linken Maustaste an einer beliebigen
+Stelle greifen und so das Fenster wieder nach unten verschieben.&lt;br /&gt;
+Tipp: Weitere Befehle findet man im KDE Control Module unter
+&#34;Window Behaviour/Actions&#34;. Diese Einstellungen erreicht man auch
+durch Klick auf die linke obere Ecke eines Fensters, wenn man im
+sich darauf öffnenden Menü &#34;Configure Window Behaviour...&#34; aufruft.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Fenster in den Hintergrund klicken&lt;/em&gt;&lt;br /&gt;
+Jedem dürfte bekannt sein, dass man durch Klicken 
+mit der linken Maustaste auf die Fensterleiste
+ein Fenster aktivieren und in den Vordergrund holen kann. 
+Wie holt man jedoch Fenster in den Vordergrund die durch ein
+anderes Fenster komplett verdeckt sind? Ganz einfach unter KDE:&lt;br /&gt;
+Durch Anklicken der Fensterleiste des gerade aktiven Fensters mit der
+mittleren Maustaste wird das gerade aktive Fenster in den Hintergrund 
+geschickt und eventuell verdeckte Fenster kommen zum Vorschein.
+Wer das einmal ausprobiert hat, wird diese Funktion nicht mehr missen
+wollen.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Taskmanager unter KDE aufrufen:&lt;/em&gt;&lt;br /&gt;
+Das Programm &lt;tt&gt;kpm&lt;/tt&gt;, welches dem Taskmanager unter Windows gleicht,
+kan man unter KDE mit der Tastenkombination
+&lt;pre&gt;[[Ctrl]]-[[Esc]]&lt;/pre&gt;
+aufrufen. Durch Anklicken des Knopfes &#34;Kill&#34; (in dt. &#34;Beenden&#34;)
+kann man dann die markierten Prozesse beenden. Alternativ kann man
+&lt;tt&gt;kpm&lt;/tt&gt; auch über die Konsole mit
+&lt;pre&gt;&gt; kpm &amp;amp;&lt;/pre&gt;
+oder auch das komplette Systemüberwachungsprogramm (von dem &lt;tt&gt;kpm&lt;/tt&gt;
+nur ein Unterprogramm ist) mittels
+&lt;pre&gt;&gt; ksysguard &amp;amp;&lt;/pre&gt;
+aufrufen. Letzteres findet man auch über das Startmenü unter
+&#34;System/Überwachung/Systemüberwachung&#34;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;KDE-Taskleiste anzeigen:&lt;/em&gt;&lt;br /&gt;
+Manchmal passiert es unter KDE dass die Taskleiste sich nicht mehr einblendet, wenn
+man die Maus an den unteren Bildschirmrand bewegt. In diesem Fall kann man sie mit
+&lt;tt&gt;[[Alt]]-[[F1]]&lt;/tt&gt; wieder hervorholen. Wenn man so wie ich keine weiteren Icons auf 
+dem Bildschirm hat, kann &lt;tt&gt;[[Alt]]-[[F1]]&lt;/tt&gt; daher &#34;lebensrettend&#34; sein, denn oft bleibt die 
+Taskleiste auch nach dem Reboot verschwunden und das System ist praktisch unbedienbar.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weitere Tastenbefehle unter KDE:&lt;/em&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Esc]]&lt;/tt&gt; : Taskmanager&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Alt]]-[[Esc]]&lt;/tt&gt; : löscht Fenster in KDE (killt aber nicht
+den dazugehörigen Prozess)&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Alt]]-[[F2]]&lt;/tt&gt; : Analog zu &#34;Befehl ausführen&#34; unter Windows;
+öffnet ein einzeiliges Terminal in dem man den Befehl zum Starten eines
+Programmes eingeben kann&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Fx]]&lt;/tt&gt; : Umschalten auf den virtuellen Desktop Nummer &#34;x&#34;&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;[[Ctrl]]-[[Alt]]-[[L]]&lt;/tt&gt; : Bildschirm sperren&lt;/li&gt;
+&lt;/ul&gt;
+Noch mehr Tastenbefehle findet man u.a. in der &lt;a href=&#34;http://linuxwiki.de/KDE&#34;&gt;Linuxwiki&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tastenbefehle für den X-Server:&lt;/em&gt;&lt;br /&gt;
+Die Auflösung des X-Servers zur Laufzeit (also ohne Neustart) kann mit den
+Tastenkombinationen
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Ziffernblock-Plus]]&lt;/pre&gt;
+bzw.
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Ziffernblock-Minus]]&lt;/pre&gt;
+geändert werden. Mit der Kombination
+&lt;pre&gt;[[Ctrl]]-[[Alt]]-[[Backspace]]&lt;/pre&gt;
+wird der X-Server &lt;em&gt;sofort&lt;/em&gt; beendet. 
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probleme mit dem Papierkorb (Trashcan):&lt;/em&gt;&lt;br /&gt;
+Es kann unter KDE passieren, dass der Papierkorb, obwohl er geleert wurde,
+noch Dateien enthält, welche jedoch auf dem Desktop nicht angezeigt werden
+(auch bei aktiviertem &#34;versteckte Dateien anzeigen&#34;).
+Diese Dateien muss man dann per Hand löschen. Man findet die Dateien im Papierkorb 
+im eigenen Homeverzeichnis unter
+&lt;pre&gt;.local/share/Trash/files&lt;/pre&gt;
+Mittel &lt;tt&gt;&gt; rm -rf *&lt;/tt&gt; kann man dann dort alle Dateien endgültig löschen und
+damit den Papierkorb wirklich leeren.
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kompare:&lt;/em&gt;&lt;br /&gt;
+Diese Programm findet man unter Suse Linux im Paket &lt;tt&gt;kdesdk3&lt;/tt&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

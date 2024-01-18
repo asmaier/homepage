@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onlineservices | Das Blog</title>
+    <link>/tag/onlineservices/</link>
+      <atom:link href="/tag/onlineservices/index.xml" rel="self" type="application/rss+xml" />
+    <description>onlineservices</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>onlineservices</title>
+      <link>/tag/onlineservices/</link>
+    </image>
+    
+    <item>
+      <title>Sie erkennen die Probleme richtig, ...</title>
+      <link>/post/2017-05-04-sie-erkennen-die-probleme-richtig/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-05-04-sie-erkennen-die-probleme-richtig/</guid>
+      <description>&lt;p&gt;Sie erkennen die Probleme richtig, aber ich zweifele ob ihre Lösung richtig ist. Wenn das nicht absolut sicher verschlüsselt ist, dann werden wir bald Videos von Leuten auf Youtube sehen, wie sie mit ihrem Arzt über unangenehme Krankheiten reden. Ein vernünftiger globaler Terminservice für Ärzte (wie z.B. OpenTable für Tische im Restaurant) wäre ein auch schon eine große Hilfe.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.babylonhealth.com/how-it-works&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.babylonhealth.com/how-it-works&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

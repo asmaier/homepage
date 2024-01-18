@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weißrussland | Das Blog</title>
+    <link>/tag/wei%C3%9Frussland/</link>
+      <atom:link href="/tag/wei%C3%9Frussland/index.xml" rel="self" type="application/rss+xml" />
+    <description>weißrussland</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>weißrussland</title>
+      <link>/tag/wei%C3%9Frussland/</link>
+    </image>
+    
+    <item>
+      <title>OLEG - Das osteuropäische Lego ...</title>
+      <link>/post/2021-03-06-oleg-das-osteuropaische-lego/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-03-06-oleg-das-osteuropaische-lego/</guid>
+      <description>&lt;p&gt;OLEG - Das osteuropäische Lego mit einer (weiß-) russischen Sonderedition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

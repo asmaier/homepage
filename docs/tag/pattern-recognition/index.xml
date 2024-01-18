@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pattern recognition | Das Blog</title>
+    <link>/tag/pattern-recognition/</link>
+      <atom:link href="/tag/pattern-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>pattern recognition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>pattern recognition</title>
+      <link>/tag/pattern-recognition/</link>
+    </image>
+    
+    <item>
+      <title>AI books</title>
+      <link>/post/ai-books/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/ai-books/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book&amp;#43;neural&amp;#43;network&amp;amp;btnG=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Networks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book&amp;#43;artificial&amp;#43;intelligence&amp;amp;btnG=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book&amp;#43;collective&amp;#43;intelligence&amp;amp;btnG=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Collective Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book&amp;#43;swarm&amp;#43;intelligence&amp;amp;btnG=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swarm Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book&amp;#43;data&amp;#43;mining&amp;amp;btnG=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Mining&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scholar.google.com/scholar?hl=en&amp;amp;q=book&amp;#43;pattern&amp;#43;recognition&amp;amp;btnG=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pattern Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All the links above are generated using the trick to ask &lt;a href=&#34;http://scholar.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google scholar&lt;/a&gt; something like &amp;ldquo;&lt;code&gt;book [topic]&lt;/code&gt;&amp;rdquo; where &lt;code&gt;[topic]&lt;/code&gt; is the topic you are interested in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can a computer ask questions</title>
+      <link>/post/can-a-computer-ask-questions/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/post/can-a-computer-ask-questions/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Computers are useless. They can only give you answers. (Pablo Picasso)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;is-picasso-correct&#34;&gt;Is Picasso correct?&lt;/h2&gt;
+&lt;p&gt;In the scientific literature the question if a computer can be made to ask questions is hardly discussed. However literature containing the following terms implicitly discusses this topic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Unsupervised_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-supervised_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semi-supervised learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Supervised_learning#Active_Learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Active learning&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;[http://evanjones.ca/picasso.html]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eprints.sics.se/3600/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Olsson (2009) : A literature survey of active machine learning in the context of natural language processing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ece.wisc.edu/~nowak/hal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Castro et al. (2008) : Active Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.cs.wisc.edu/~jerryzhu/pub/humanSSL.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhu et al. (2007) : Humans Perform Semi-Supervised Classiﬁcation Too&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhu (2007) : Semi-supervised learning literature survey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=271071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Abou-Nasr (1992) : LBAQ: a pattern recognition neural network that learns by askingquestions&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

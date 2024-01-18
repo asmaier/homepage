@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>materialwissenschaft | Das Blog</title>
+    <link>/tag/materialwissenschaft/</link>
+      <atom:link href="/tag/materialwissenschaft/index.xml" rel="self" type="application/rss+xml" />
+    <description>materialwissenschaft</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2006 16:03:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>materialwissenschaft</title>
+      <link>/tag/materialwissenschaft/</link>
+    </image>
+    
+    <item>
+      <title>Tarnschirme und Metamaterialien</title>
+      <link>/post/2006-10-30-tarnschirme-und-metamaterialien/</link>
+      <pubDate>Mon, 30 Oct 2006 16:03:00 +0000</pubDate>
+      <guid>/post/2006-10-30-tarnschirme-und-metamaterialien/</guid>
+      <description>
+Es ist immer wieder erstaunlich wie schnell aus Fiction Science werden kann. Wäre man vor 10-20 Jahren noch ausgelacht worden, wenn man laut über die physikalische Möglichkeit von Tarnschirmen nachgedacht hätte, die das Licht um den Träger herumlenken, scheint es heutzutage physikalisch nicht mehr unmöglich und damit prinzipiell technisch machbar. Eine primitive Version eines solchen Tarnschirms wurde gar vor kurzem von &lt;span class=&#34;klein&#34;&gt;David Smith (Duke-Universität Durham) in einem Experiment getestet:&lt;br /&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.wissenschaft.de/wissenschaft/news/271046.html&#34;&gt;wissenschaft.de: Unsichtbar in der Mikrowelle&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.spiegel.de/wissenschaft/mensch/0,1518,443579,00.html&#34;&gt;spiegel.de:Forscher bauen erste Tarnkappe&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;Zwar funktioniert das ganze bisher nur in zwei Dimensionen und für Mikrowellen genau einer Frequenz, aber physikalisch spricht nichts dagegen, dass dies auch in drei Dimensionen und für sichtbares Licht möglich ist. Möglich macht dies die Entwicklung von &lt;a href=&#34;http://de.wikipedia.org/wiki/Metamaterial&#34;&gt;Metamaterialien&lt;/a&gt; mit negativem Brechungsindex (das ist etwas vereinfacht, eigentlich spricht man von gleichzeitig negativer Permeabilität und negativer Permittivität, was zur Folge hat, dass in diesen Materialen Gruppen- und Phasengeschwindigkeit der Lichtwellen nicht mehr in die gleiche Richtung zeigen,  die Kausalität aber trotzdem nicht verletzt sein soll). Die technischen Möglichkeiten, die sich aus diesen Materialen ergeben sind mehr als überraschend und kaum abzusehen. Die Entdecker dieser Materialien (theoretische Beschreibung von &lt;a href=&#34;http://de.wikipedia.org/wiki/Victor_Veselago&#34;&gt;Veselago&lt;/a&gt; 1967, experimentelle Realisierung von &lt;a href=&#34;http://en.wikipedia.org/wiki/John_Pendry&#34;&gt;Pendry&lt;/a&gt; 1999) sind meiner Meinung nach daher mit die heißesten Anwärter für den Physiknobelpreis in den nächsten Jahren.</description>
+    </item>
+    
+  </channel>
+</rss>

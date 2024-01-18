@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>it-technologie | Das Blog</title>
+    <link>/tag/it-technologie/</link>
+      <atom:link href="/tag/it-technologie/index.xml" rel="self" type="application/rss+xml" />
+    <description>it-technologie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>it-technologie</title>
+      <link>/tag/it-technologie/</link>
+    </image>
+    
+    <item>
+      <title>Es ist das Jahr 2019 ...</title>
+      <link>/post/2019-11-18-es-ist-das-jahr-2019/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-11-18-es-ist-das-jahr-2019/</guid>
+      <description>&lt;p&gt;Es ist das Jahr 2019 und Berlin bekommt endlich einen Kita-Navigator. Dumm nur, dass sich niemand drum kümmert die Daten ordentlich zu pflegen. Und so ist das ganze genauso nutzlos wie die Online-Terminvergabe beim Arzt. Die Arztpraxen sind nämlich auch total überfordert mit dem ganzen Neuland. Ich frage mich, warum die öffentliche Hand nicht einfach die Kitas und Ärzte  belohnt, die ihre Daten ordentlich pflegen (und die sanktioniert, die es nicht tun).&lt;/p&gt;
+&lt;p&gt;Dann könnte nämlich alles so einfach sein: Man könnte in ein System seine Wünsche angeben und es würde automatisch den bestmöglichen Termin oder die beste Kita finden. Das ist IT-technisch einfach möglich, sogar viel einfacher als z.B. die kürzeste Strecke zwischen zwei Orten zu finden. Das wäre eine Lösung die nach 2019 klingt. Alles andere ist Steinzeit.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://archiv.berliner-zeitung.de/berlin/-kita-navigator----neue-webseite-der-bildungsverwaltung-fuehrt-eltern-in-die-irre--33423802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://archiv.berliner-zeitung.de/berlin/-kita-navigator----neue-webseite-der-bildungsverwaltung-fuehrt-eltern-in-die-irre--33423802&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

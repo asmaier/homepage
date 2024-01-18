@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datenexport | Das Blog</title>
+    <link>/tag/datenexport/</link>
+      <atom:link href="/tag/datenexport/index.xml" rel="self" type="application/rss+xml" />
+    <description>datenexport</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>datenexport</title>
+      <link>/tag/datenexport/</link>
+    </image>
+    
+    <item>
+      <title>Endlich, der kostenlose Tricorder für ...</title>
+      <link>/post/2018-06-02-endlich-der-kostenlose-tricorder-fur/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-06-02-endlich-der-kostenlose-tricorder-fur/</guid>
+      <description>&lt;p&gt;Endlich, der kostenlose Tricorder für alle!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://phyphox.org/de/home-de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://phyphox.org/wp-content/uploads/2019/06/DSC02490_logo_2161.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+phyphox.org&lt;/p&gt;
+&lt;h2 id=&#34;dein-smartphone-ist-ein-mobiles-laborhttpphyphoxorgdehome-de&#34;&gt;&lt;a href=&#34;http://phyphox.org/de/home-de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dein Smartphone ist ein mobiles Labor.&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kostenlos runterladen:
+Folge uns:
+Funktionen&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sensoren&lt;/p&gt;
+&lt;p&gt;Phyphox ermöglicht es dir, mit den Sensoren deines Smartphones zu experimentieren. Ermittle z.B. mit dem Beschleunigungssensor die Frequenz eines Pendels oder miss den Dopplereffekt mit dem Mikrofon des Handys.&lt;/p&gt;
+&lt;p&gt;Datenexport&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

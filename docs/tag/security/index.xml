@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security | Das Blog</title>
+    <link>/tag/security/</link>
+      <atom:link href="/tag/security/index.xml" rel="self" type="application/rss+xml" />
+    <description>security</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>security</title>
+      <link>/tag/security/</link>
+    </image>
+    
+    <item>
+      <title>Keine einzige App aus der ...</title>
+      <link>/post/2019-11-01-keine-einzige-app-aus-der/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-11-01-keine-einzige-app-aus-der/</guid>
+      <description>&lt;p&gt;Keine einzige App aus der EU dabei: &lt;a href=&#34;https://www.securemessagingapps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.securemessagingapps.com&lt;/a&gt; Die EU dagegen setzt auf &amp;ldquo;Security by Bureaucracy&amp;rdquo;: &lt;a href=&#34;https://www.golem.de/news/datenschutz-abgeordnete-im-eu-parlament-duerfen-signal-nicht-installieren-1910-144316.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.golem.de/news/datenschutz-abgeordnete-im-eu-parlament-duerfen-signal-nicht-installieren-1910-144316.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Na endlich! Leider vorerst nur ...</title>
+      <link>/post/2015-06-16-na-endlich-leider-vorerst-nur/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-06-16-na-endlich-leider-vorerst-nur/</guid>
+      <description>&lt;p&gt;Na endlich! Leider vorerst nur in Berlin und Hamburg.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lockboxsystem.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lockboxsystem.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

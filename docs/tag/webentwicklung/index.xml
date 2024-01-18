@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webentwicklung | Das Blog</title>
+    <link>/tag/webentwicklung/</link>
+      <atom:link href="/tag/webentwicklung/index.xml" rel="self" type="application/rss+xml" />
+    <description>webentwicklung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>webentwicklung</title>
+      <link>/tag/webentwicklung/</link>
+    </image>
+    
+    <item>
+      <title>Meine neue Angeber-Homepage! ...</title>
+      <link>/post/2015-07-19-meine-neue-angeber-homepage/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/post/2015-07-19-meine-neue-angeber-homepage/</guid>
+      <description>&lt;p&gt;Meine neue Angeber-Homepage!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://maierandi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.maierandi.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
+maierandi.com&lt;/p&gt;
+&lt;h2 id=&#34;das-bloghttpmaierandicom&#34;&gt;&lt;a href=&#34;http://maierandi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Das Blog&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installation von mod_wsgi unter Mac OS X 10.6</title>
+      <link>/post/2010-07-11-installation-von-modwsgi-unter-mac-os-x/</link>
+      <pubDate>Sun, 11 Jul 2010 22:28:00 +0000</pubDate>
+      <guid>/post/2010-07-11-installation-von-modwsgi-unter-mac-os-x/</guid>
+      <description>
+&lt;div style=&#34;text-align: left;&#34;&gt;Ich wollte endlich mal &lt;a href=&#34;http://de.wikipedia.org/wiki/Mod_wsgi&#34;&gt;mod_wsgi&lt;/a&gt; zur Entwicklung von Python Webapplikationen auf meinem Mac Mini ausprobieren. Die Installation von &lt;a href=&#34;http://de.wikipedia.org/wiki/Mod_wsgi&#34;&gt;mod_wsgi&lt;/a&gt; mit Hilfe von &lt;a href=&#34;http://www.macports.org/&#34;&gt;MacPorts&lt;/a&gt; erwies sich dabei als sehr einfach. Die anschliessende notwendige Konfiguration von &lt;a href=&#34;http://de.wikipedia.org/wiki/Apache_HTTP_Server&#34;&gt;Apache2&lt;/a&gt; ist aber aufwendig genug, so dass ich sie hier mal im Detail beschreiben möchte:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;0. Unter &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;Systemeinstellungen/Freigabe&lt;/span&gt; die &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;Webfreigabe&lt;/span&gt; deaktivieren um den von Apple in Mac OS X mitgelieferten Apache2 Server zu deaktivieren.&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;1. Installation von mod_wsgi mit MacPorts:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&gt; sudo port install mod_wsgi&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Falls noch nicht vorhanden, wird Apache2 dabei mit installiert. &lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;2. Starten und Testen von Apache:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&gt; sudo /opt/local/apache2/bin/apachectl -k star&lt;/span&gt;t&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Nach dem Start von Apache kann man &lt;a href=&#34;http://localhost/&#34;&gt;http://localhost&lt;/a&gt; mit dem Browser öffnen. Es sollte &#34;It works!&#34; angezeigt werden. &lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;3. Apache beim Systemstart automatisch starten:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&gt; sudo launchctl load -w /Library/LaunchDaemons/org.macports.apache2.plist&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;4. Aktivierung der Benutzerverzeichnisse, so dass Webseiten die unter &lt;a href=&#34;http://localhost/&#34;&gt;http://localhost/~username/Sites&lt;/a&gt; liegen, angezeigt werden:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Dazu muss die Zeile  &lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;Include conf/extra/httpd-userdir.conf&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;in der Datei&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;/opt/local/apache2/conf/httpd.conf&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;einkommentiert werden. Dann in der Datei&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;/opt/local/apache2/conf/extra/httpd-userdir.conf&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;die Zeilen&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;#&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;# Include user configurations&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;#&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;Include /private/etc/apache2/users/*.conf&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;hinzufügen. Danach muss Apache2 neugestartet werden: &lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&gt; sudo /opt/local/apache2/bin/apachectl -k restart&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;(Mehr dazu bei &lt;a href=&#34;https://trac.macports.org/wiki/howto/MAMP&#34;&gt;How to get a Apache, PHP, MySQL (MAMP) setup&lt;/a&gt;.)&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;5.  Aktivierung des mod_wsgi Moduls für Apache2:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Dazu muss die Zeile&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;LoadModule wsgi_module modules/mod_wsgi.so&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;zu der Datei&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;/opt/local/apache2/conf/httpd.conf&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;hinzugefügt werden. Danach wieder Apache neustarten.&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;6. Anlegen einer &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;wsgi&lt;/span&gt;-Applikationen:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Zum Testen kann man erstmal folgende einfache &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;wsgi&lt;/span&gt;-Applikation anlegen:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&gt; pico hello.wsgi&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;import sys&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;def application(environ, start_response):&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;status = &#39;200 OK&#39;&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;output = &#39;Hello World!\n&#39;&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;output+= str(sys.path)&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;response_headers = [(&#39;Content-type&#39;, &#39;text/plain&#39;),&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;(&#39;Content-Length&#39;, str(len(output)))]&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;start_response(status, response_headers)&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;return [output]&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Sie gibt &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&#34;Hello World!&#34; &lt;/span&gt;zurück und zusätzlich die System-Pfade unter denen das wsgi-Modul nach Python-Modulen sucht (Siehe auch &lt;a href=&#34;http://code.google.com/p/modwsgi/wiki/QuickConfigurationGuide&#34;&gt;mod_wsgi - Quick Configuration Guide&lt;/a&gt;).&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;7. Einrichten eines &lt;a href=&#34;http://httpd.apache.org/docs/2.2/vhosts/&#34;&gt;Virtual Hosts&lt;/a&gt; für &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;wsgi&lt;/span&gt;-Applikationen:&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;Dazu muss die Zeile&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;Include conf/extra/httpd-vhosts.conf&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;in der Datei&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;/opt/local/apache2/conf/httpd.conf&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;einkommentiert werden. In der Datei &lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;times new roman&#39;;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:Georgia,serif;&#34;&gt;die Zeilen  &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&amp;lt;VirtualHost *:80&amp;gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;ServerName www.mydomain.org&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;ServerAlias mydomain.org&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;ServerAlias my.dyndns.org&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;ServerAdmin webmaster@mydomain.org&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;WSGIScriptAlias / /Users/username/Sites/webapp/hello.wsgi&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;WSGIScriptReloading On&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;&amp;lt;Directory /Users/username/Sites/webapp&amp;gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt;  &lt;/span&gt;Order deny,allow&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt;  &lt;/span&gt;Allow from all&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&lt;span class=&#34;Apple-tab-span&#34; style=&#34;white-space: pre;&#34;&gt; &lt;/span&gt;&amp;lt;/Directory&amp;gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;&amp;lt;/VirtualHost&amp;gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: left;&#34;&gt;einfügen. Dabei steht &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;mydomain.org&lt;/span&gt; für den gewünschten Domainnamen, &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;my.dyndns.org&lt;/span&gt; für einen eventuell vorhandenen &lt;a href=&#34;http://de.wikipedia.org/wiki/DynDNS&#34;&gt;dynamischen DNS - Eintrag&lt;/a&gt;. (Wie man Virtual Hosts noch besser mit DynDNS verwenden kann steht bei &lt;a href=&#34;http://www.hackthenet.de/weblog/144/virtual-hosts-und-dyndns-zusammen-einsetzen&#34;&gt;Virtual-Hosts und DynDNS zusammen einsetzen&lt;/a&gt;. Das dort angesprochene Wildcard-Feature kostet jedoch 15 $ im Jahr). &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;WSGIScriptAlias&lt;/span&gt; gibt an, dass die Root-Adresse &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&#34;/&#34;&lt;/span&gt; des virtuellen Servers die &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;wsgi&lt;/span&gt;-Applikation &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;hello.wsgi&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;im Verzeichnis &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;/Users/username/Sites/webapp&lt;/span&gt; aufruft. Während der Entwicklung macht es auch Sinn &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;WSGIScriptReloading&lt;/span&gt; zu aktivieren, damit man nicht bei jeder Änderung an der &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;wsgi&lt;/span&gt;-Applikation den Apache-Server neustarten muss. Mehr dazu im &lt;a href=&#34;http://code.google.com/p/modwsgi/wiki/QuickConfigurationGuide&#34;&gt;mod_wsgi - Quick Configuration Guide&lt;/a&gt;. Nach dem Konfigurieren des Virtualhosts muss der Apache-Server wieder neugestartet werden. Jedoch funktionieren die angegeben Domainnamen noch nicht. Dazu müssen erst noch in der Datei &lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;/private/etc/hosts&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;die Zeilen&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;127.0.0.1       mydomain.org&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;127.0.0.1       www.mydomain.org&lt;/span&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;hinzugefügt werden (Siehe &lt;a href=&#34;http://foundationphp.com/tutorials/vhosts_leopard.php&#34;&gt;Creating a virtual host in Mac OS X 10.5&lt;/a&gt; ).&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;8. Aufruf von &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;http://mydomain.org&lt;/span&gt; bzw. &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;http://www.mydomain.org&lt;/span&gt; mit dem Browser:&lt;/div&gt;&lt;div style=&#34;text-align: justify;&#34;&gt;Wenn alles geklappt hat sollte man jetzt &lt;span class=&#34;Apple-style-span&#34;  style=&#34;font-family:&#39;courier new&#39;;&#34;&gt;&#34;Hello World!&#34;&lt;/span&gt; im Browser sehen und darunter die Python-Systempfade.&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>InstantShift</title>
+      <link>/post/2010-04-10-instantshift/</link>
+      <pubDate>Sat, 10 Apr 2010 22:10:00 +0000</pubDate>
+      <guid>/post/2010-04-10-instantshift/</guid>
+      <description>
+&lt;div&gt;Vielleicht die interessanteste Seite für Webdesigner und solche die es mal werden wollen:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.instantshift.com/&#34;&gt;InstantShift | Web Designers and Developers Daily Resource.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Alleine schon die Artikel unter&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.instantshift.com/category/tools/&#34;&gt;InstantShift | Tools&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;sind wirklich bemerkenswert, z.B.&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.instantshift.com/2009/12/17/50-useful-mac-applications-for-freelancers-and-professional-designers/&#34;&gt;50+ Useful Mac Applications for Freelancers and Professional Designers&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;aber auch alle anderen Artikel auf dieser Seite sind wahre Schätze für Kenner.&lt;/div&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Editoren</title>
+      <link>/post/editoren/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/editoren/</guid>
+      <description>&lt;h6&gt;Welchen Editor verwenden ?&lt;/h6&gt;
+&lt;p&gt; Statt sich unter Linux mit &lt;tt&gt;emacs&lt;/tt&gt; oder &lt;tt&gt;vi&lt;/tt&gt; rumzuquaelen sollte man lieber mal folgende
+ausprobieren:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kate.kde.org/&#34;&gt;Kate&lt;/a&gt; : Kann alles, braucht aber KDE. Trotzdem mein Favorit!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.indiana.edu/~ucspubs/b103/&#34;&gt;Pico&lt;/a&gt; : Superschnell, winzig und läuft im Terminalfenster.
+Mein Favorit zum schnellen Editieren kleinerer Konfigurationsdateien. Ist außerdem viel intuitiver als vi zu bedienen.
+(Alternativen sind &lt;a href=&#34;http://de.wikipedia.org/wiki/Nano_(Texteditor)&#34;&gt;nano&lt;/a&gt; bzw. 
+&lt;a href=&#34;http://linux.die.net/man/1/jpico&#34;&gt;jpico&lt;/a&gt; ein Alias fuer den 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Joe%27s_Own_Editor&#34;&gt;Joe-Editor&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nedit.org/&#34;&gt;Nedit&lt;/a&gt; : Übersichtlich, gut zu bedienen, leider keine Faltung von Quellcode.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fte.sourceforge.net/&#34;&gt;FTE&lt;/a&gt; : Beherrscht falten (folding),
+was Nedit leider noch nicht kann. Hat allerdings eine altertümliche Oberfläche.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Um Latex zu editieren empfehle ich &lt;a href=&#34;http://kile.sourceforge.net/&#34;&gt;Kile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;P.S.:Die Ergebnisse einer Umfrage zur Beliebtheit von Editoren unter Linux gibts
+&lt;a href=&#34;http://www.linuxquestions.org/questions/showthread.php?s=&amp;amp;threadid=272122&#34;&gt;hier.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.P.S.: Unter Windows ist &lt;a href=&#34;http://www.textpad.com/&#34;&gt;Textpad&lt;/a&gt; mein Favorit!&lt;/p&gt;
+&lt;h6&gt;Tipps zum Nedit&lt;/h6&gt;
+&lt;p&gt;Man kann Nedit beibringen eigene Shell-Kommandos per Menü zu starten.
+Dazu muß man den Dialog unter&lt;/p&gt;
+&lt;pre&gt;Preferences/Default Settings/Customize Menus/Shell Menu&lt;/pre&gt;
+&lt;p&gt;aufrufen. Um z.B. Latex direkt über Nedit zu steuern könnte man
+Befehle für den Aufruf von &lt;tt&gt;latex, bibtex, dvips, kdvi, kghostview &lt;/tt&gt;
+folgendermaßen generieren:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;latex :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;latex %&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;li&gt;Save file before executing command&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;bibtex :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; bibtex $n:r.aux &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;li&gt;Save file before executing command&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dvips :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; dvips -o $n:r.ps $n:r.dvi &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : dialog&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;kdvi :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; kdvi $n:r.dvi &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : new window&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;kghostview :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;set n=%; kghostview $n:r.ps &amp;amp;&lt;/tt&gt;&lt;/li&gt;
+	&lt;li&gt;Command output : new window&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;latex complete :&lt;/em&gt;
+	&lt;ul&gt;
+	&lt;li&gt;Shell command : &lt;tt&gt;latex %; set n=%; bibtex $n:r.aux; latex %; latex %;&lt;/tt&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	Hierbei ist zu beachten, dass diesmal beim Aufruf des &lt;tt&gt;bibtex&lt;/tt&gt;-Befehls kein
+	&lt;tt&gt;&amp;amp;&lt;/tt&gt;-Zeichen verwendet werden kann.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;Tipps zu Emacs&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Emacs&#34;&gt;Emacs&lt;/a&gt; ist eine eierlegende Wollmilchsau. Leider ist die Bedienung bescheiden. 
+Für fast alle Aktionen 
+(selbst für das Beenden!!) ist es nötig zwei Tastaturkürzel hintereinander einzugeben. Trotzdem muß man
+ihn manchmal benutzen, weil man gerade nix anderes hat:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emacs ohne X-Window starten: &lt;tt&gt;&gt; emacs -nw&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Emacs beenden: &lt;tt&gt;Ctrl-x Ctrl-c&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei öffnen: &lt;tt&gt;Ctrl-x Ctrl-f&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei/Buffer schließen : &lt;tt&gt;Ctrl-x k&lt;/tt&gt; &lt;/li&gt;
+&lt;li&gt;Datei speichern unter: &lt;tt&gt;Ctrl-x Ctrl-w&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Datei speichern: &lt;tt&gt;Ctrl-x Ctrl-s&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Suchen: &lt;tt&gt;Ctrl-s&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Befehl abbrechen: &lt;tt&gt;Ctrl-g&lt;/tt&gt; (z.B. kann man, wenn man &lt;tt&gt;Ctrl-x Ctrl-f&lt;/tt&gt; zum Datei öffnen eingegeben hat 
+den Dialog mit &lt;tt&gt;Ctrl-g&lt;/tt&gt; abbrechen)&lt;/li&gt;
+&lt;li&gt;Hilfe: &lt;tt&gt;ESC-x help&lt;/tt&gt; (ja, man muß tatsächlich &lt;tt&gt;help&lt;/tt&gt; eingeben, kann es aber mit &lt;tt&gt;he TAB&lt;/tt&gt;
+abkürzen. Einen kürzeren Weg zur Hilfe kann man sich nun wirklich nicht vorstellen!)&lt;/li&gt;
+&lt;li&gt;Split-Screen der Hilfe schließen: &lt;tt&gt;q&lt;/tt&gt; (Tatsächlich nur ein Tastendruck. Wahnsinn!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Mehr Tastenkürzel gibt es bei &lt;a href=&#34;http://www.engr.uvic.ca/~dastone/emacs-keys.html&#34;&gt;Emacs keyboard shortcuts&lt;/a&gt;.
+Und wer immer noch nicht glaubt, dass Emacs wirklich umständlich und veraltet ist, der lese im folgenden
+die Kritik eines Emacs-Expertens:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://xahlee.org/emacs/emacs_kb_shortcuts_pain.html&#34;&gt;Why Emacs&#39;s Keyboard Shortcuts Are Painful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xahlee.org/emacs/modernization.html&#34;&gt;The Modernization of Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;Eclipse&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Eclipse_(IDE)&#34;&gt;Eclipse&lt;/a&gt; als Editor zu bezeichen ist etwas untertrieben. Passender wäre vielleicht
+die Bezeichnung &#34;Emacs des 21. Jahrhunderts&#34;, denn Eclipse ist wie Emacs eine eierlegende Wollmilchsau, mit der man von ADA bis 
+XML alles programmieren kann. Im Grundzustand ist Eclipse zwar nach wie vor erstmal eine Java-Entwicklungsumgebung
+(und in diesem Bereich sicherlich der(!) Standard), aber inzwischen gibt es mehr als 1200 Plugins für Eclipse auf 
+&lt;a href=&#34;http://www.eclipseplugincentral.com/&#34;&gt;www.eclipseplugincentral.com&lt;/a&gt;, ein paar nützlichere davon sind hier aufgelistet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/cdt/&#34;&gt;CDT (C/C++ Development Tools) Project&lt;/a&gt; : eine C/C++ Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Debugger, Makefile Generator u.a. )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/photran/&#34;&gt;Photran&lt;/a&gt; : eine FORTRAN Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Interface to GDB... )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pydev.sourceforge.net/&#34;&gt;Pydev&lt;/a&gt; : eine Python Entwicklungsumgebung für Eclipse 
+(Editor mit Syntax-Highlighting, Code-Completion, Refactoring, Debugger, Interaktiver Pythonkonsole... )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://subclipse.tigris.org/&#34;&gt;Subclipse&lt;/a&gt; : Ein grafischer Subversion Client; erlaubt die Verwaltung von Eclipse Projekten
+mit Subversion und bietet direkten Zugriff auf SVN Repositories aus Eclipse heraus. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://directory.apache.org/studio/&#34;&gt;Apache Directory Studio&lt;/a&gt; : Ein grafischer LDAP Browser; erlaubt die Verwaltung 
+(Suchen, Editieren usw.) von Einträgen auf einem LDAP Server aus Eclipse heraus.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eclipse.org/dsdp/tm/&#34;&gt;Remote System Explorer (Target Management)&lt;/a&gt; : Erlaubt das Editieren von Dateien über 
+SSH/SFTP-Verbindungen. Laut &lt;a href=&#34;http://www.freshblurbs.com/best-sftp-plugin-eclipse&#34;&gt;freshblurbs&lt;/a&gt; kann man damit auch lokal Dateien
+editieren ohne(!) das man damit ein Projekt anlegen muss.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aptana.org/&#34;&gt;Aptana&lt;/a&gt; : Eine professionelle Webentwicklungsumgebung für HTML, CSS, Javascript. Arbeitet auch
+mit Firebug zusammen (siehe &lt;a href=&#34;http://www.syger.it/Topics/FirebugAndAptanaStudio.html&#34;&gt;FirebugAndAptanaStudio&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die Bedienung von Eclipse ist, wie es sich für ein Profi-Tool gehört, unübersichtlich und nicht 
+immer intuitiv (aber immer noch um Welten besser und moderner als die von Emacs oder vi). Daher wäre meine Beschreibung 
+von Eclipse nicht komplett ohne ein paar hilfreiche Tastaturkürzel und Einstellungen (sie beziehen sich auf die 
+Java-Entwicklungsumgebung) zu nennen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-1&lt;/tt&gt; : Quick Fix, gibt Vorschläge wie der Quellcode geschrieben oder korrigiert werden kann um fehlerfrei zu sein. Sehr cool!!&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Space&lt;/tt&gt; : Code Completion, z.B. Eingabe von &lt;tt&gt;syso ctrl-Space&lt;/tt&gt; gibt &lt;tt&gt;System.out.println()&lt;/tt&gt;.
+Man probiere auch &lt;tt&gt;for ctrl-space&lt;/tt&gt;, &lt;tt&gt;while ctrl-space&lt;/tt&gt; oder &lt;tt&gt;if ctrl-space&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;F3&lt;/tt&gt; : Springt zur Deklaration einer Klasse/Funktion/Variable.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-f&lt;/tt&gt; : Pretty Formating von selektiertem Quellcode&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-j&lt;/tt&gt; : Inkrementelle Suche wie in Firefox. Drückt man die Tastenkombination passiert zuerst nichts, aber sobald man die erste
+Taste drückt, springt der Cursor zum ersten Treffer. Vorwärts durch die Treffer springt man durch weiteres Drücken von &lt;tt&gt;Ctrl-j&lt;/tt&gt;,
+rückwärts durch &lt;tt&gt;Ctrl-Shift-j&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-f&lt;/tt&gt; : Suche, die Treffer werden dabei auch in der rechten Spalte neben deb Quellcodefenster farblich markiert. 
+Zum nächsten Treffer springt man bei geöffnetem Suchfenster mit &lt;tt&gt;Alt-n&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-o&lt;/tt&gt; : Ergänzt nötige bzw. löscht überflüssige Import-Statements.&lt;/li&gt;
+&lt;li&gt;&lt;tt&gt;Ctrl-Shift-l&lt;/tt&gt; : Zeigt alle Tastaturkürzel an (Über das Menü zu finden unter &lt;tt&gt;Windows-&gt;Preferences-&gt;General-&gt;Keys&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;Kontextmenü &lt;tt&gt;Source-&gt;Generate Getters/Setters&lt;/tt&gt; oder &lt;tt&gt;Source-&gt;Generate Hashcode and equals()...&lt;/tt&gt; sind sehr nützlich
+um die entsprechenden Funktionen zu einer Klasse automatisch zu erzeugen.&lt;/li&gt;
+&lt;li&gt;Kontextmenü &lt;tt&gt;Refactor-&gt;Rename&lt;/tt&gt; erlaubt es eine Variable/Klasse umzubenennen und dabei jeden Aufruf derselben im gesamten
+Projekt (also über Dateigrenzen hinweg) gleichzeitig anzupassen. Sehr cool!!&lt;/li&gt;
+&lt;li&gt;Menüpunkt &lt;tt&gt;Windows-&gt;Show View-&gt;Javadoc&lt;/tt&gt; öffnet ein Fenster in dem Javadoc Beschreibungen zu jedem Element erscheinen,
+welches im Quellcode markiert und doppelt angeklickt wird (Alternative: Ein Element markieren und dann &lt;tt&gt;Shift-Alt-q j&lt;/tt&gt;
+drücken).&lt;/li&gt;
+&lt;li&gt;Um zu verhindern, dass die sog. &#34;Hovers&#34; (Erscheinen z.B. beim Überfahren eingeklappter Quellcodeteile mit der Maus)
+zu lange gezeigt werden (ein sehr nerviges Feature von Eclipse, leider nicht abschaltbar), sollte man im Menü 
+&lt;tt&gt;Windows-&gt;Preferences&lt;/tt&gt; unter &lt;tt&gt;General-&gt;Editors-&gt;TextEditors: When mouse moved into hover: Close hover&lt;/tt&gt; auswählen.
+Dann werden die &#34;Hovers&#34; praktisch immers sofort wieder geschlossen und stören nicht. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mehr nützliche Tastaturkürzel gibt es u.a. bei 
+&lt;a href=&#34;http://eclipse.dzone.com/news/effective-eclipse-shortcut-key&#34;&gt;Effective Eclipse: Shortcut keys&lt;/a&gt;. Interessant ist auch das
+&lt;a href=&#34;http://www.mousefeed.com/&#34;&gt;Mousefeed Plugin&lt;/a&gt;, dass innerhalb von Eclipse zu jeder Aktion mit der Maus ein 
+äquivalentes Tastaturkürzel anzeigt, so dass man die Tastaturkürzel schneller lernen kann.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>/post/html/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/post/html/</guid>
+      <description>&lt;p&gt;Es gibt soviele Seiten im Internet, auf denen man veraltete Informationen
+zur HTML-Programmierung bekommt. Hier ein paar von den besseren Quellen, falls
+man lieber modernes (X)HTML programmiert:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://selfaktuell.teamone.de/&#34;&gt;Selfhtml.de&lt;/a&gt; : Die beste
+Anleitung im Netz zu allen HTML-Befehlen. Wer anfangen will HTML zu
+programmieren &lt;em&gt;muss&lt;/em&gt; sie lesen. Aber auch zu fortschrittlichen Dingen
+steht hier alles. Ausserdem frei downloadbar, so dass man es sich sparen kann
+andere HTML-Bücher zu kaufen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/TR/xhtml11/conformance.html&#34;&gt;
+XHTML 1.1 - Conformance Definition&lt;/a&gt; : W3C-Vorschlag für das Grundgerüst
+einer gültigen XHTML 1.1 - Datei.&lt;/li&gt;
+&lt;li&gt;Der einzige Browser, der mit dem obigen Vorschlag nix anfangen
+kann ist natürlich der IE6 von Microsoft . Dieser enthält einen ganz üblen Bug,
+den sogenannten &#34;xml-Declaration-Bug&#34; (Opera &#34;emuliert&#34; diesen Bug allerdings
+auch bis zur Version 7.1), siehe dazu:
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#34;http://www.heise.de/ix/artikel/2004/03/136/&#34;&gt;
+		iX-Artikel von März 2004&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://www.positioniseverything.net/articles/doctypes.html&#34;&gt;
+		Rendering Mode and Doctype Switching&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+Am besten also statt der xml-Declaration zur Festlegung des Schriftsatzes lieber
+einen META-TAG z.B.:
+&lt;pre&gt;&amp;lt;meta http-equiv=&amp;quot;Content-Type&amp;quot; content=&amp;quot;text/html; charset=UTF-8&amp;quot; /&amp;gt;&lt;/pre&gt;
+nach der DOCTYPE-Definition verwenden. Ist auch standardkonform.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/StyleSheets/Core/&#34;&gt;W3C Core Styles&lt;/a&gt; : Wer
+zunächst keinen Bock oder Angst davor hat sein eigenes CSS-File zu schreiben,
+kann ja erstmal eines von den Standard-Layouts des World Wide Web Consortiums
+verwenden. Die müssen funktionieren, schliesslich haben die CSS erfunden.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.moronicbajebus.com/playground/cssplay/image-replacement/&#34;&gt;
+Image-Replacement&lt;/a&gt; : Sehr nützlicher CSS-Trick. Verwende ich auch auf dieser Seite,
+allerdings wende ich ihn auf &#34;&amp;lt;span&amp;gt;&#34;-Elemente an. Eine verbesserte Version des
+sogenannten &lt;a href=&#34;http://www.digital-web.com/features/feature_2003-08.shtml&#34;&gt;
+Fahrner Image Replacement&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sovavsiti.cz/css/corners.html&#34;&gt;Round Corners&lt;/a&gt; : Für
+alle die sich fragen (so wie ich), wie man mit CSS Boxen mit Schatten und abgerundeten
+Ecken hinbekommt ohne Tabellen zu benutzen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://css.maxdesign.com.au/listamatic/horizontal34.htm&#34;&gt;
+Menü im MacOS X Dock Style&lt;/a&gt; : Für alle, die wissen wollen, wo ich mir mein
+schickes Submenü auf diesen Seiten hier her habe.&lt;/li&gt;
+&lt;li&gt;Die einzige immer funktionierende Möglichkeit (bis jetzt) mit CSS allgemeine
+Elemente zu zentrieren, ohne diesen explizit eine Breite vorzugeben, ist diese
+in eine Tabelle mit einer Zeile und Spalte einzuschliessen. Eine andere Möglichkeit,
+nämlich &#34;display:table;&#34; zu benutzen funktioniert leider mal wieder nicht im IE6.
+Andere Möglichkeiten und deren Probleme werden z.B. auf folgenden Seiten behandelt:
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#34;http://theodorakis.net/tablecentertest.html&#34;&gt;Table Centering Test&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://www.allmyfaqs.com/faq.pl?Center_with_CSS&#34;&gt;Center with CSS&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Viele nützliche CSS-Tricks und interessante Links zusammengefasst findet man auch im
+&lt;a href=&#34;documents/Praktikumsbericht.ppt&#34;&gt;Praktikumsbericht.ppt&lt;/a&gt; von Olga Syasina.
+Vielen lieben Dank Dir dafür! ;-)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Weitere interessante und eventuell nützliche Seiten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.csszengarden.com/&#34;&gt;css Zen Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://css.fractatulum.net/&#34;&gt;CSS fractatulum.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://academ.hvcc.edu/~kantopet/index.php&#34;&gt;Web Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.complexspiral.com/publications/rounding-tabs/&#34;&gt;
+Rounding Tab Corners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.edginet.org/techie/website/cssimg.html&#34;&gt;
+CSS and Images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alistapart.com/articles/slidingdoors/&#34;&gt;
+Sliding Doors of CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alistapart.com/articles/slidingdoors2/&#34;&gt;
+Sliding Doors of CSS, Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alistapart.com/articles/alternate/&#34;&gt;
+Working with alternative Style Sheets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://alistapart.com/articles/phpswitch/&#34;&gt;
+Build a PHP Switcher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;HTML include&lt;/h5&gt;
+&lt;p&gt;Wenn man mehrere HTML-Seiten mit ein und derselben Navigationsleiste hat und keine Frames 
+benutzen will, muß man bei Änderungen an der Navigationsleiste gewöhnlich sämtliche Dateien
+editieren. Dies ist sehr mühsam. Wäre es nicht besser, einfach die Navigationsleiste nur
+einmal editieren zu müssen und die Änderungen werden dann automatisch in alle anderen
+HTML-Seiten übernommen? Genau dazu gibt es das sehr nützliche Java-Tool 
+&lt;a href=&#34;http://www.tetzl.de/jhtmlincl.html&#34;&gt;HTML include&lt;/a&gt; von Andreas Tetzl.
+Statt alle Dateien zu editieren, genügt es eine Vorlage (Template) mit der Navigationleiste
+zu erstellen. Aus dem Template und den Webseiten ohne Navigationsleiste (Quelldateien) erzeugt 
+HTML include dann die kompletten Webseiten mit Navigationsleiste. Dabei ist es sogar möglich,
+abhängig vom Dateinamen der Quelldatei unterschiedliche Navigationsleisten einzufügen, so dass
+man die gerade aktuelle Seite in der Navigationsleiste z.B. farblich kennzeichnen kann.&lt;/p&gt;
+&lt;p&gt;Es gibt natürlich Alternativen zu diesem Tool:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Server_Side_Includes&#34;&gt;Server Side Includes (SSI)&lt;/a&gt;, 
+PHP und Co.: Der Vorteil dieser Lösung besteht in der wesentlich höheren Flexibilität gegenüber
+HTML include und für aufwendige dynamische Seiten kommt man nicht daran vorbei. Natürlich um den
+Preis einer sehr hohen Einarbeitungszeit. Der große Nachteil 
+von SSI jedoch ist, dass man die Seiten auf dem lokalen Rechner nur betrachten kann, wenn man einen 
+Webserver wie Apache installiert hat, oder einen sogennannten SHTML-Viewer verwendet. Auch benötigt 
+ein Server zum Anzeigen von mittels SSI oder PHP erzeugter dynamischen Webseiten natürlich mehr 
+Rechenzeit als beim bloßen Anzeigen statischer Seiten. Die mit HTML include generierten Seiten 
+hingegen kann man einfach auf eine CD brennen und mit jedem Browser betrachten.&lt;/li&gt;
+&lt;li&gt;Einsatz spezieller HTML-Entwicklungsumgebungen wie z.B. 
+der HTML-Editor 
+&lt;a href=&#34;http://de.wikipedia.org/wiki/Ulli_Meybohms_HTML_Editor&#34;&gt;phase5&lt;/a&gt;. 
+Der Nachteil ist, dass es diesen Editor nur für Windows gibt und man sich damit auch
+auf einen Editor festlegt. Andere Entwicklungsumgebungen sind meist ebenfalls nur
+für ein Betriebssystem erhältlich und zudem nicht kostenlos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;HTML include dagegen ist kostenlos, quelloffen und da es es in Java programmiert ist, 
+sogar plattformübergreifend zu verwenden.
+Daher ist meiner Meinung HTML include für eine einfache Homepage die perfekte Lösung.&lt;/p&gt;
+&lt;h5&gt;Bildergalerie mit (X)HTML und CSS&lt;/h5&gt;
+&lt;p&gt;Die meisten Bildergalerien im Netz benutzen Tabellen
+mit einer festen Anzahl an Spalten um die &#34;Thumbnails&#34; anzuordnen
+und werden zudem auch meist mit uraltem HTML generiert.
+Mit XHTML und CSS ist es jedoch heutzutage möglich, auf Tabellen
+als Layoutelelement zu verzichten, und somit Bildergalerien
+mit einer flexiblen Anzahl an Spalten zu erzeugen. Jedoch findet man im Netz praktisch
+keine Bildergalerie, die dies auch umsetzt. Daher soll hier einmal kurz skizziert
+werden, wie dies mittel XHTML und CSS erreicht werden kann und man
+Bildergalerien erzeugen kann, wie sie auf meiner Seite unter
+&lt;a href=&#34;privat.html&#34;&gt;Privat&lt;/a&gt; sehen kann.&lt;/p&gt;
+&lt;p&gt;Das grundsätzliche Layout mittels XHTML und CSS ist auf
+&lt;a href=&#34;http://www.brandnewbox.co.uk/logbook/web/css/gallery.html?seemore=y&#34;&gt;&#34;brandnewbox&#34;&lt;/a&gt;
+beschrieben. Um jedoch nicht jede Seite per Hand schreiben zu müssen,
+benötigt man einen flexiblen Generator.
+Dazu bietet sich Photoshop (ab Version 7) an, denn in Photoshop kann jeder seine
+eigenen Vorlagen erzeugen, was z.B.
+&lt;a href=&#34;http://homepage.ntlworld.com/christopher.owens2/WebGallery.htm&#34;&gt;hier&lt;/a&gt;
+oder auch
+&lt;a href=&#34;http://www.digitalweddingforum.com/ubbthreads/showflat.php?Cat=&amp;amp;Number=104623&amp;amp;page=0&amp;amp;view=collapsed&amp;amp;sb=5&amp;amp;o=&amp;amp;fpart=1&#34;&gt;
+hier&lt;/a&gt; beschrieben wird. Eine Vorlage, welche das unter
+&lt;a href=&#34;http://www.brandnewbox.co.uk/logbook/web/css/gallery.html?seemore=y&#34;&gt;&#34;brandnewbox&#34;&lt;/a&gt;
+beschriebene Layout umsetzt, habe ich für Photoshop entworfen und diese
+kann jeder hier ( &lt;a href=&#34;documents/css.zip&#34;&gt;css.zip&lt;/a&gt; ) von meinen Seiten herunterladen.
+Um damit erfolgreich eine Bildergalerie zu erzeugen sind folgende Schritte notwendig:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Die heruntergeladene Datei &#34;css.zip&#34; in das Photoshop-Vorlagen-Verzeichnis entpacken,
+welches typischerweise unter
+&lt;pre&gt;\Program Files\Adobe\Photoshop\Presets\WebContactSheet&lt;/pre&gt;
+zu finden ist. &lt;/li&gt;
+&lt;li&gt;Nach Aufruf von Photoshop sollte jetzt im Menü unter &#34;Automate/Web Photo Gallery&#34;
+unter Styles &#34;CSS&#34; aufrufbar sein. Diese auswählen, die gewünschten
+Optionen einstellen, wobei als Thumbnailsize &#34;Medium&#34;, 75 Pixels gewählt werden sollte,
+und die Bildergalerie in einem Verzeichnis erstellen lassen.
+Das Ergebnis wird jedoch zunächst enttäuschend sein, denn es fehlen noch ein paar Dinge,
+die man leider per Hand nacharbeiten muß:
+&lt;ol&gt;&lt;li&gt;Man muß das Verzeichnis &#34;design&#34;, welches unter &#34;Photoshop\Presets\WebContactSheet\CSS&#34;
+liegt, per Hand in das Verzeichnis, in dem man die Galerie erstellt hat, kopieren.
+Photoshop macht dies leider nicht automatisch und so kann der Browser die benötigte
+CSS-Datei zunächst nicht finden und zeigt nur das reine XHTML an, so dass obige
+Kopieraktion nötig ist.&lt;/li&gt;
+&lt;li&gt;In der Datei &#34;index.html&#34; müssen zusätzlich mithilfe eines Editors jedes Auftauchen
+von &lt;tt&gt;(&#34;&lt;/tt&gt; durch &lt;tt&gt;(&lt;/tt&gt; bzw. jedes Auftauchen von &lt;tt&gt;&#34;)&lt;/tt&gt; durch &lt;tt&gt;)&lt;/tt&gt;
+ersetzt werden. Die meisten Editoren verfügen über eine Suchen/Ersetzen-Funktion,
+so dass dies nicht weiter dramatisch sein sollte. Grund ist, dass Photoshop in den
+Vorlagendateien jeden Dateinamen grundsätzlich in Anführungszeichen übergibt.
+Da die Thumbnail jedoch mittels
+&lt;pre&gt;background-image: url(%THUMBNAILSRC%)&lt;/pre&gt;
+eingefügt werden, sind Anführungszeichen hier im Pfad anstelle von
+&lt;tt&gt;%THUMBNAILSRC%&lt;/tt&gt; überflüssig bzw. sogar falsch. Daher müssen die Anführungszeichen,
+welche innerhalb der Klammern bei &lt;tt&gt;url(...)&lt;/tt&gt; stehen, nachträglich entfernt
+werden, ansonsten findet der Browser die Thumbnails nicht.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Nach Durchführung dieser Schritte sollte man jetzt eine Bildergalerie wie
+&lt;a href=&#34;gallerytest/index.html&#34;&gt;hier&lt;/a&gt; sehen.
+&lt;br /&gt;
+P.S.: Die an das Layout meine Homepage angepasste Vorlage für Photoshop,
+mit der ich die Bildergalerien unter Privates erzeugt habe, gibts hier
+( &lt;a href=&#34;documents/aqua.zip&#34;&gt;aqua.zip&lt;/a&gt; ). Die Pfade für die CSS-Dateien sind jedoch nicht angepasst,
+so dass man die Dateien unter &#34;design&#34; in das zweifach-übergeordnete Verzeichnis
+kopieren muß.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

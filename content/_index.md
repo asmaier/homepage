@@ -8,7 +8,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Aktuelle Posts
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -29,7 +29,7 @@ sections:
 
       archive:
         enable: true
-        link: stream/
+        link: post/
 
     design:
       # Choose a layout view
@@ -40,7 +40,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Posts
+      title: Empfohlene Posts
       filters:
         folders:
           - post
@@ -48,7 +48,7 @@ sections:
 
       archive:
         enable: true
-        link: stream/    
+        link: post/    
     design:
       columns: '1'
       view: card

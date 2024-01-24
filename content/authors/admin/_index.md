@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Alchemist
+role: Astrophysiker, Datenwissenschaftler
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,20 +29,22 @@ bio: My interests include machine learning, software development, physics and ma
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Software Development
-- Physics, Mathematics
+- Maschinelles Lernen
+- Softwareentwicklung
+- Physik
+- Mathematik
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Astrophysics
-    institution: Würzburg University, Germany    
+  - course: Dr. rer. nat. in Astrophysik
+    institution: JMU Würzburg, Deutschland    
     year: 2008
-  - course: Dipl.Phys. in Physics
-    institution: Würzburg University, Germany
+  - course: Diplom-Physiker
+    institution: JMU Würzburg, Deutschland
     year: 2005
-  - course: MSc in Physics
+  - course: Master of Science (Physics)
     institution: Rutgers University, New Jersey, USA
     year: 2002
 
@@ -94,6 +96,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:andimai_add_web_dot_de
+- icon: medium
+  icon_pack: fab
+  link: https://astromaier.medium.com
 - icon: github
   icon_pack: fab
   link: https://github.com/asmaier
@@ -108,5 +113,5 @@ social:
 highlight_name: false
 ---
 
-Mostly harmless.
+Größtenteils harmlos.
 {style="text-align: justify;"}

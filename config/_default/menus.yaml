@@ -6,21 +6,21 @@
 main:
 
   - name: Posts
-    url: '/stream'
+    url: '/post'
     weight: 20
-  - name: Archive
-    url: '/lake'
+  - name: Archiv
+    url: '/archive'
     weight: 30
-  - name: Projects
+  - name: Projekte
     url: '/projects'
     weight: 40
-  - name: Publications
+  - name: Publicationen
     url: '/publications'
     weight: 50
   - name: Links
     url: '/links'
     weight: 60
-  - name: About
+  - name: Über
     url: '/about'
     weight: 70  
 

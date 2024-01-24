@@ -10,7 +10,7 @@ baseURL: '' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

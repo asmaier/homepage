@@ -53,11 +53,12 @@ footer:
       allow_commercial: false
 
 # Localization
+# see https://docs.hugoblox.com/getting-started/customize/#localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '02 Jan 2006'
+  time_format: '15:04 MST'
+  address_format: de-DE
 
 # Site features
 

@@ -16,7 +16,7 @@ sections:
       font_size_max: 2.0
   - block: tag_cloud
     content:
-      title: "Jahren"
+      title: "Jahre"
       taxonomy: year
       # Choose how many tags you would like to display (0 = all tags)
       count: 60

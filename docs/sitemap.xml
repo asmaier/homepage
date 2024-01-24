@@ -34,10 +34,6 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-12-04T12:30:33+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/year/2023/</loc>
     <lastmod>2023-12-04T12:30:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -71,6 +67,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/politik/</loc>
+    <lastmod>2023-12-04T12:30:33+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/</loc>
     <lastmod>2023-12-04T12:30:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -11848,6 +11848,10 @@
   </url><url>
     <loc>/tag/space-exploration/</loc>
     <lastmod>2018-06-28T13:46:34+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/post/2018-06-26-dieser-satz-macht-den-artikel/</loc>
@@ -27489,7 +27493,7 @@
     <loc>/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/lake/</loc>
+    <loc>/archive/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/links/</loc>
@@ -27514,9 +27518,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/ol-/gas-und-kohleforderung/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/stream/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/s/mime/</loc>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Das Blog</title>
+    <title>Astromaier</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Das Blog</description>
+    <description>Astromaier</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de-DE</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Das Blog</title>
+      <title>Astromaier</title>
       <link>/</link>
     </image>
     
@@ -55023,14 +55023,6 @@ Immer wieder treff ich Leute, die irgendwelche Filme und Beweise gesehen haben w
     
     <item>
       <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/archive/</guid>
@@ -55039,9 +55031,9 @@ Immer wieder treff ich Leute, die irgendwelche Filme und Beweise gesehen haben w
     
     <item>
       <title></title>
-      <link>/links/</link>
+      <link>/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/links/</guid>
+      <guid>/author/</guid>
       <description></description>
     </item>
     
@@ -55059,6 +55051,34 @@ Immer wieder treff ich Leute, die irgendwelche Filme und Beweise gesehen haben w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publications/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Über diesen Blog</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;Seit 2004 (also seit 20 Jahren) bin ich nun online. Dieser Blog hier ist in gewisser Weise
+die (immer weiter wachsende) Sammlung aller meiner Online-Beiträge. Ich habe keine Kosten
+und Mühen gescheut, diese von den verschiedensten Plattformen (Facebook, Blogger, Wikidot, &amp;hellip;)
+und aus den verschiedensten Formaten zu &amp;ldquo;befreien&amp;rdquo;, alle nach Markdown zu konvertieren und
+jetzt hier mit Hilfe von &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; als Blog zu präsentieren.&lt;/p&gt;
+&lt;p&gt;Zusätzlich habe ich auf Basis neuester großer Sprachmodelle alle Blogartikel automatisiert
+nach Themen (und Sprache) getaggt, so dass ihr euch bequem auf der &lt;a href=&#34;/archive&#34;&gt;Archiv&lt;/a&gt;-Seite
+durch die über 1500 Artikel durchklicken könnt. Ihr könnt aber natürlich auch direkt
+über die Suche (Lupe-Button rechts oben) nach Posts suchen.&lt;/p&gt;
+&lt;p&gt;Irgendwann werde ich auch sicher mal dazu kommen die technischen Details dazu zu beschreiben.&lt;/p&gt;
+&lt;p&gt;Jetzt aber erst einmal viel Spaß beim Lesen und Schmökern,&lt;/p&gt;
+&lt;p&gt;Euer &lt;a href=&#34;/author&#34;&gt;Astromaier&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

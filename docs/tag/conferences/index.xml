@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conferences | Das Blog</title>
+    <title>conferences | Astromaier</title>
     <link>/tag/conferences/</link>
       <atom:link href="/tag/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>conferences</description>

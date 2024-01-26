@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>memory | Das Blog</title>
+    <title>memory | Astromaier</title>
     <link>/tag/memory/</link>
       <atom:link href="/tag/memory/index.xml" rel="self" type="application/rss+xml" />
     <description>memory</description>

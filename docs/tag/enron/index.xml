@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>enron | Das Blog</title>
+    <title>enron | Astromaier</title>
     <link>/tag/enron/</link>
       <atom:link href="/tag/enron/index.xml" rel="self" type="application/rss+xml" />
     <description>enron</description>

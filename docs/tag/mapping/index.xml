@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mapping | Das Blog</title>
+    <title>mapping | Astromaier</title>
     <link>/tag/mapping/</link>
       <atom:link href="/tag/mapping/index.xml" rel="self" type="application/rss+xml" />
     <description>mapping</description>

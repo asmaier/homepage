@@ -4,10 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# try cyberpunk
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  mode: 'system'
+  theme_day: 'minimal'
+  theme_night: 'minimal'
   font: 'rose'
   font_size: L
 

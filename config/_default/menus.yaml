@@ -13,16 +13,13 @@ main:
     weight: 30
   - name: Projekte
     url: '/projects'
-    weight: 40
-  - name: Publicationen
-    url: '/publications'
     weight: 50
-  - name: Links
-    url: '/links'
+  - name: Werke
+    url: '/works'
     weight: 60
   - name: Über
     url: '/about'
-    weight: 70  
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

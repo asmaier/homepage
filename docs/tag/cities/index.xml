@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cities | Das Blog</title>
+    <title>cities | Astromaier</title>
     <link>/tag/cities/</link>
       <atom:link href="/tag/cities/index.xml" rel="self" type="application/rss+xml" />
     <description>cities</description>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Languages | Das Blog</title>
+    <title>Languages | Astromaier</title>
     <link>/languages/</link>
       <atom:link href="/languages/index.xml" rel="self" type="application/rss+xml" />
     <description>Languages</description>

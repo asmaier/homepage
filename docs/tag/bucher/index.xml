@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bücher | Das Blog</title>
+    <title>bücher | Astromaier</title>
     <link>/tag/bucher/</link>
       <atom:link href="/tag/bucher/index.xml" rel="self" type="application/rss+xml" />
     <description>bücher</description>

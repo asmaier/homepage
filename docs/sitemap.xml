@@ -27490,19 +27490,19 @@
     <lastmod>2004-02-01T17:41:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/about/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/archive/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/links/</loc>
+    <loc>/author/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/projects/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publications/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/works/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/andreas-muller-astrophysiker/in-ausbildung-und-beruf/</loc>
@@ -27527,6 +27527,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/think/do-tank/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/web/text-mining/</loc>

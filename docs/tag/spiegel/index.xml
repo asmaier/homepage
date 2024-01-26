@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spiegel | Das Blog</title>
+    <title>spiegel | Astromaier</title>
     <link>/tag/spiegel/</link>
       <atom:link href="/tag/spiegel/index.xml" rel="self" type="application/rss+xml" />
     <description>spiegel</description>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>command-line | Das Blog</title>
+    <title>command-line | Astromaier</title>
     <link>/tag/command-line/</link>
       <atom:link href="/tag/command-line/index.xml" rel="self" type="application/rss+xml" />
     <description>command-line</description>

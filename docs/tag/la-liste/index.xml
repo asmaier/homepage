@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>la liste | Das Blog</title>
+    <title>la liste | Astromaier</title>
     <link>/tag/la-liste/</link>
       <atom:link href="/tag/la-liste/index.xml" rel="self" type="application/rss+xml" />
     <description>la liste</description>

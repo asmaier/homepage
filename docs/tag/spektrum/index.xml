@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spektrum | Das Blog</title>
+    <title>spektrum | Astromaier</title>
     <link>/tag/spektrum/</link>
       <atom:link href="/tag/spektrum/index.xml" rel="self" type="application/rss+xml" />
     <description>spektrum</description>

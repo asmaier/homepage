@@ -35,4 +35,10 @@ Das Gewicht aller Menschen ist immer noch vergleichbar mit dem aller Ameisen. Un
 
 Am meisten Angst haben müssen wir eher vor denen, die so ähnlich sind wie wir selbst, mit denen wir daher Zielkonflikte haben, also vor unserer eigenen Art.
 """
-> http://www.wiwo.de/unternehmen/mittelstand/hannovermesse/kuenstliche-intelligenz-roboter-muessen-steuern-zahlen/12896382.html
+> [![](https://www.wiwo.de/images/roboter-kuenstliche-intelligenz-spiele-get/12897756/6-formatOriginal.png)](http://www.wiwo.de/unternehmen/mittelstand/hannovermesse/kuenstliche-intelligenz-roboter-muessen-steuern-zahlen/12896382.html)
+> wiwo.de
+> ## [Künstliche Intelligenz: ](http://www.wiwo.de/unternehmen/mittelstand/hannovermesse/kuenstliche-intelligenz-roboter-muessen-steuern-zahlen/12896382.html)
+>
+>Computer besiegen den Menschen nun auch beim Strategiespiel Go. Der Informatiker Jürgen Schmidhuber erklärt, wann die Maschinen uns überholen.
+
+

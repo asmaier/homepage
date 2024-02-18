@@ -1,0 +1,44 @@
+---
+title: Erinnert sich noch jemand an ...
+subtitle: ''
+summary: ''
+authors:
+- admin
+date: 2024-01-23
+lastmod: 2024-01-23 21:29:25+01:00
+categories:
+- facebook
+tags:
+- streetview
+- apple maps
+- google street view
+- datenschutz
+- straßenfotodienste
+featured: false
+image:
+  placement: 1
+  caption: ''
+  focal_point: Smart
+  preview_only: true
+slug: ''
+year: 2024
+languages:
+- deutsch
+---
+
+Erinnert sich noch jemand an den Aufschrei und die Proteste als Google Streetview eingeführt hat (so ca. 2010) ? Das führte ja damals dazu, dass Google ganze Straßenzüge in Deutschland verpixeln musste und Google seitdem Streetview nicht mehr geupdatet hat, weswegen es in letzter Zeit kaum noch relevant war.
+
+Nun, Überraschung: Seit 2022 bietet Apple das Gleiche an, nur in neu, mit besserer Auflösung und keiner hat es gemerkt. https://www.heise.de/news/Mega-Update-von-Apples-Streetview-Dienst-Umsehen-jetzt-in-fast-ganz-Deutschland-7189987.html
+
+Da es keiner gemerkt hat, sind dort auch keine Häuser verpixelt. Komisch, oder? Warum darf Apple auf einmal, was Google damals nicht durfte? 
+
+Vielleicht liegt es daran, dass Apple Maps nicht frei im Browser zur Verfügung steht, sondern nur als App unter iPhone und Mac läuft? (es gibt eine Browserversion über DuckDuckGo, z.B. https://duckduckgo.com/?hps=1&q=brandenburger+tor&ia=web&iaxm=places , die enthält aber nicht die Streetview-Ansicht und auch nicht die 3D-Ansicht)
+
+Wie auch immer, wahrscheinlich als Reaktion auf Apple hat Google jetzt ebenfalls wieder die Streetview-Bilder erneuert ( https://blog.google/intl/de-de/produkte/suchen-entdecken/google-street-view-aktualisierung-deutschland ). Allerdings zeigt sich in meinen Tests, dass das neue Google Steetview erheblich mehr Lücken aufweist und außerdem viel mehr ganz verpixelte Grundstücke und Häuser enthält wie Apple Streetview. 
+
+Also wer gerne ungestört von Datenschutz virtuell durch die Straßen spazieren gehen möchte, dem empfehle ich Apple Streetview.
+> [![](https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/8/1/9/1/2/Bildschirmfoto_2022-07-26_um_10.09.57-69060db5f5605054.png)](https://www.heise.de/news/Mega-Update-von-Apples-Streetview-Dienst-Umsehen-jetzt-in-fast-ganz-Deutschland-7189987.html)
+> heise.de
+> ## [Straßenfoto-Dienst von Apple deckt jetzt fast ganz Deutschland ab](https://www.heise.de/news/Mega-Update-von-Apples-Streetview-Dienst-Umsehen-jetzt-in-fast-ganz-Deutschland-7189987.html)
+>
+>Apple hat seinen Straßenfoto-Dienst Look Around (Umsehen) in Deutschland drastisch erweitert. Unzählige Städte und sogar kleine Dörfer sind neu hinzugekommen.

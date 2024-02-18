@@ -134,6 +134,8 @@ if __name__ == "__main__":
     # see https://stackoverflow.com/questions/761824/python-how-to-convert-markdown-formatted-text-to-text/76934168#76934168
     markdown_parser = MarkdownIt(renderer_cls=RendererPlain)
 
+    sorted_file_paths = sorted(file_paths, key=lambda x: x.parent)
+
     docs = []
     keywords = []
     for i, path in enumerate(file_paths[:]):

@@ -136,9 +136,11 @@ if __name__ == "__main__":
 
     sorted_file_paths = sorted(file_paths, key=lambda x: x.parent)
 
+    print(f"Found {len(sorted_file_paths)} files.")
+
     docs = []
     keywords = []
-    for i, path in enumerate(file_paths[:]):
+    for i, path in enumerate(sorted_file_paths[:]):
         with path.open("rb") as src_file:
             # create backup files path
             backup_path = path.with_suffix(".bak")
